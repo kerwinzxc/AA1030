@@ -1,0 +1,41 @@
+
+effect_zhuanshushenqi_heitiepanguanbi.png
+size: 1190,275
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fg
+  rotate: false
+  xy: 414, 2
+  size: 295, 271
+  orig: 304, 284
+  offset: 5, 9
+  index: -1
+gy
+  rotate: false
+  xy: 2, 87
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+lantiao
+  rotate: false
+  xy: 2, 113
+  size: 410, 160
+  orig: 448, 184
+  offset: 18, 13
+  index: -1
+tu
+  rotate: false
+  xy: 711, 20
+  size: 281, 253
+  orig: 281, 253
+  offset: 0, 0
+  index: -1
+zz
+  rotate: false
+  xy: 994, 71
+  size: 194, 202
+  orig: 281, 253
+  offset: 60, 49
+  index: -1

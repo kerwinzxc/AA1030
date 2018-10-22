@@ -1,0 +1,118 @@
+
+effect_zhangmenling_tulongdao.png
+size: 1565,402
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dao_0001
+  rotate: false
+  xy: 2, 202
+  size: 194, 198
+  orig: 221, 278
+  offset: 7, 42
+  index: -1
+dao_0003
+  rotate: false
+  xy: 198, 3
+  size: 197, 197
+  orig: 221, 278
+  offset: 5, 42
+  index: -1
+dao_0005
+  rotate: false
+  xy: 589, 203
+  size: 190, 197
+  orig: 221, 278
+  offset: 6, 42
+  index: -1
+dao_0007
+  rotate: false
+  xy: 781, 203
+  size: 192, 197
+  orig: 221, 278
+  offset: 5, 42
+  index: -1
+dao_0009
+  rotate: false
+  xy: 1371, 205
+  size: 192, 195
+  orig: 221, 278
+  offset: 5, 42
+  index: -1
+dao_0011
+  rotate: false
+  xy: 792, 5
+  size: 195, 196
+  orig: 221, 278
+  offset: 4, 42
+  index: -1
+dao_0013
+  rotate: false
+  xy: 975, 203
+  size: 196, 197
+  orig: 221, 278
+  offset: 3, 42
+  index: -1
+dao_0015
+  rotate: false
+  xy: 989, 5
+  size: 196, 196
+  orig: 221, 278
+  offset: 4, 43
+  index: -1
+dao_0017
+  rotate: true
+  xy: 1187, 5
+  size: 196, 195
+  orig: 221, 278
+  offset: 4, 44
+  index: -1
+dao_0019
+  rotate: false
+  xy: 1173, 203
+  size: 196, 197
+  orig: 221, 278
+  offset: 4, 43
+  index: -1
+dao_0021
+  rotate: false
+  xy: 397, 3
+  size: 195, 197
+  orig: 221, 278
+  offset: 5, 43
+  index: -1
+dao_0023
+  rotate: false
+  xy: 594, 4
+  size: 196, 197
+  orig: 221, 278
+  offset: 5, 43
+  index: -1
+dao_0025
+  rotate: false
+  xy: 2, 2
+  size: 194, 198
+  orig: 221, 278
+  offset: 7, 42
+  index: -1
+dao_0027
+  rotate: false
+  xy: 198, 202
+  size: 193, 198
+  orig: 221, 278
+  offset: 8, 42
+  index: -1
+dao_0029
+  rotate: false
+  xy: 393, 202
+  size: 194, 198
+  orig: 221, 278
+  offset: 8, 42
+  index: -1
+tulongdao
+  rotate: false
+  xy: 1384, 29
+  size: 172, 174
+  orig: 221, 278
+  offset: 20, 54
+  index: -1

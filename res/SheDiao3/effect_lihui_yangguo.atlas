@@ -1,0 +1,292 @@
+
+effect_lihui_yangguo.png
+size: 2021,2032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lvyan_00000
+  rotate: false
+  xy: 1546, 382
+  size: 384, 406
+  orig: 384, 436
+  offset: 0, 21
+  index: -1
+lvyan_00002
+  rotate: false
+  xy: 1546, 790
+  size: 384, 407
+  orig: 384, 436
+  offset: 0, 20
+  index: -1
+lvyan_00004
+  rotate: false
+  xy: 774, 784
+  size: 384, 409
+  orig: 384, 436
+  offset: 0, 20
+  index: -1
+lvyan_00006
+  rotate: false
+  xy: 774, 373
+  size: 384, 409
+  orig: 384, 436
+  offset: 0, 20
+  index: -1
+lvyan_00008
+  rotate: false
+  xy: 1160, 787
+  size: 384, 409
+  orig: 384, 436
+  offset: 0, 20
+  index: -1
+lvyan_00010
+  rotate: false
+  xy: 1160, 376
+  size: 384, 409
+  orig: 384, 436
+  offset: 0, 20
+  index: -1
+lvyan_00012
+  rotate: false
+  xy: 388, 366
+  size: 384, 412
+  orig: 384, 436
+  offset: 0, 19
+  index: -1
+lvyan_00014
+  rotate: false
+  xy: 863, 1198
+  size: 384, 413
+  orig: 384, 436
+  offset: 0, 19
+  index: -1
+lvyan_00016
+  rotate: false
+  xy: 1249, 1199
+  size: 384, 413
+  orig: 384, 436
+  offset: 0, 19
+  index: -1
+lvyan_00018
+  rotate: false
+  xy: 1635, 1199
+  size: 384, 413
+  orig: 384, 436
+  offset: 0, 19
+  index: -1
+lvyan_00020
+  rotate: false
+  xy: 388, 780
+  size: 384, 413
+  orig: 384, 436
+  offset: 0, 19
+  index: -1
+lvyan_00022
+  rotate: false
+  xy: 477, 1195
+  size: 384, 415
+  orig: 384, 436
+  offset: 0, 19
+  index: -1
+lvyan_00024
+  rotate: false
+  xy: 1249, 1614
+  size: 384, 416
+  orig: 384, 436
+  offset: 0, 18
+  index: -1
+lvyan_00026
+  rotate: false
+  xy: 1635, 1614
+  size: 384, 416
+  orig: 384, 436
+  offset: 0, 18
+  index: -1
+lvyan_00028
+  rotate: false
+  xy: 2, 579
+  size: 384, 417
+  orig: 384, 436
+  offset: 0, 18
+  index: -1
+lvyan_00030
+  rotate: false
+  xy: 2, 998
+  size: 384, 418
+  orig: 384, 436
+  offset: 0, 18
+  index: -1
+lvyan_00032
+  rotate: false
+  xy: 477, 1612
+  size: 384, 418
+  orig: 384, 436
+  offset: 0, 18
+  index: -1
+lvyan_00034
+  rotate: false
+  xy: 863, 1613
+  size: 384, 417
+  orig: 384, 436
+  offset: 0, 19
+  index: -1
+lvyan_00036
+  rotate: false
+  xy: 2, 160
+  size: 384, 417
+  orig: 384, 436
+  offset: 0, 19
+  index: -1
+lvyan_00038
+  rotate: false
+  xy: 388, 2
+  size: 384, 362
+  orig: 384, 436
+  offset: 0, 38
+  index: -1
+tt0032
+  rotate: false
+  xy: 774, 10
+  size: 374, 361
+  orig: 480, 480
+  offset: 52, 70
+  index: -1
+y0015
+  rotate: false
+  xy: 1386, 136
+  size: 224, 238
+  orig: 331, 310
+  offset: 45, 41
+  index: -1
+y0019
+  rotate: false
+  xy: 1612, 158
+  size: 236, 222
+  orig: 331, 310
+  offset: 39, 66
+  index: -1
+y0027
+  rotate: true
+  xy: 1150, 131
+  size: 240, 234
+  orig: 331, 310
+  offset: 29, 65
+  index: -1
+yy
+  rotate: false
+  xy: 2, 1418
+  size: 473, 612
+  orig: 490, 640
+  offset: 15, 10
+  index: -1
+
+effect_lihui_yangguo2.png
+size: 1081,638
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+y0001
+  rotate: false
+  xy: 882, 30
+  size: 184, 190
+  orig: 331, 310
+  offset: 57, 70
+  index: -1
+y0003
+  rotate: true
+  xy: 226, 6
+  size: 186, 194
+  orig: 331, 310
+  offset: 55, 66
+  index: -1
+y0005
+  rotate: false
+  xy: 423, 2
+  size: 188, 201
+  orig: 331, 310
+  offset: 58, 59
+  index: -1
+y0007
+  rotate: true
+  xy: 674, 25
+  size: 195, 206
+  orig: 331, 310
+  offset: 57, 59
+  index: -1
+y0009
+  rotate: true
+  xy: 682, 222
+  size: 206, 211
+  orig: 331, 310
+  offset: 51, 54
+  index: -1
+y0011
+  rotate: true
+  xy: 451, 205
+  size: 212, 221
+  orig: 331, 310
+  offset: 47, 49
+  index: -1
+y0013
+  rotate: false
+  xy: 232, 407
+  size: 217, 229
+  orig: 331, 310
+  offset: 46, 44
+  index: -1
+y0017
+  rotate: false
+  xy: 2, 402
+  size: 228, 234
+  orig: 331, 310
+  offset: 46, 49
+  index: -1
+y0021
+  rotate: false
+  xy: 682, 430
+  size: 228, 206
+  orig: 331, 310
+  offset: 34, 82
+  index: -1
+y0023
+  rotate: false
+  xy: 451, 419
+  size: 229, 217
+  orig: 331, 310
+  offset: 29, 76
+  index: -1
+y0025
+  rotate: true
+  xy: 2, 167
+  size: 233, 222
+  orig: 331, 310
+  offset: 30, 70
+  index: -1
+y0029
+  rotate: true
+  xy: 226, 194
+  size: 206, 195
+  orig: 331, 310
+  offset: 68, 109
+  index: -1
+y0031
+  rotate: false
+  xy: 895, 236
+  size: 178, 192
+  orig: 331, 310
+  offset: 69, 106
+  index: -1
+y0033
+  rotate: false
+  xy: 912, 467
+  size: 167, 169
+  orig: 331, 310
+  offset: 79, 124
+  index: -1
+y0035
+  rotate: true
+  xy: 2, 69
+  size: 96, 167
+  orig: 331, 310
+  offset: 74, 131
+  index: -1

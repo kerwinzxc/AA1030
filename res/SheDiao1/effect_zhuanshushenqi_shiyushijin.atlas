@@ -1,0 +1,20 @@
+
+effect_zhuanshushenqi_shiyushijin.png
+size: 634,186
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lantiao
+  rotate: false
+  xy: 2, 2
+  size: 321, 182
+  orig: 332, 189
+  offset: 5, 1
+  index: -1
+tu
+  rotate: false
+  xy: 325, 4
+  size: 307, 180
+  orig: 307, 180
+  offset: 0, 0
+  index: -1

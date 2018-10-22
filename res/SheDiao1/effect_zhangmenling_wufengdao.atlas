@@ -1,0 +1,27 @@
+
+effect_zhangmenling_wufengdao.png
+size: 839,243
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lantiao
+  rotate: false
+  xy: 2, 81
+  size: 410, 160
+  orig: 448, 184
+  offset: 18, 13
+  index: -1
+tu
+  rotate: false
+  xy: 414, 2
+  size: 244, 239
+  orig: 307, 307
+  offset: 62, 53
+  index: -1
+wufengdao
+  rotate: true
+  xy: 660, 53
+  size: 188, 177
+  orig: 307, 307
+  offset: 118, 114
+  index: -1

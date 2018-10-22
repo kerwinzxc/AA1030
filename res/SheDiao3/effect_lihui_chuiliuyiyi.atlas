@@ -1,0 +1,139 @@
+
+effect_lihui_chuiliuyiyi.png
+size: 1884,906
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lizi
+  rotate: true
+  xy: 542, 353
+  size: 231, 209
+  orig: 240, 211
+  offset: 0, 2
+  index: -1
+lvye
+  rotate: true
+  xy: 1755, 55
+  size: 216, 127
+  orig: 216, 135
+  offset: 0, 2
+  index: -1
+lvye2
+  rotate: false
+  xy: 1755, 12
+  size: 76, 41
+  orig: 76, 43
+  offset: 0, 0
+  index: -1
+ren
+  rotate: true
+  xy: 2, 337
+  size: 567, 538
+  orig: 567, 538
+  offset: 0, 0
+  index: -1
+si_0001
+  rotate: true
+  xy: 801, 267
+  size: 317, 262
+  orig: 328, 276
+  offset: 5, 7
+  index: -1
+si_0002
+  rotate: true
+  xy: 1065, 269
+  size: 316, 262
+  orig: 328, 276
+  offset: 5, 8
+  index: -1
+si_0003
+  rotate: true
+  xy: 1329, 271
+  size: 315, 263
+  orig: 328, 276
+  offset: 6, 7
+  index: -1
+si_0004
+  rotate: false
+  xy: 1438, 5
+  size: 315, 264
+  orig: 328, 276
+  offset: 6, 7
+  index: -1
+si_0005
+  rotate: true
+  xy: 1594, 273
+  size: 314, 264
+  orig: 328, 276
+  offset: 7, 7
+  index: -1
+si_0006
+  rotate: true
+  xy: 1605, 590
+  size: 314, 264
+  orig: 328, 276
+  offset: 7, 7
+  index: -1
+si_0007
+  rotate: true
+  xy: 1338, 589
+  size: 315, 265
+  orig: 328, 276
+  offset: 7, 6
+  index: -1
+si_0008
+  rotate: false
+  xy: 1120, 2
+  size: 316, 265
+  orig: 328, 276
+  offset: 6, 6
+  index: -1
+si_0009
+  rotate: true
+  xy: 1071, 588
+  size: 316, 265
+  orig: 328, 276
+  offset: 6, 6
+  index: -1
+si_0010
+  rotate: true
+  xy: 2, 17
+  size: 318, 266
+  orig: 328, 276
+  offset: 5, 5
+  index: -1
+si_0011
+  rotate: true
+  xy: 270, 17
+  size: 318, 264
+  orig: 328, 276
+  offset: 5, 6
+  index: -1
+si_0012
+  rotate: true
+  xy: 536, 17
+  size: 318, 263
+  orig: 328, 276
+  offset: 5, 6
+  index: -1
+si_0013
+  rotate: true
+  xy: 542, 586
+  size: 318, 263
+  orig: 328, 276
+  offset: 5, 6
+  index: -1
+si_0014
+  rotate: false
+  xy: 801, 3
+  size: 317, 262
+  orig: 328, 276
+  offset: 5, 7
+  index: -1
+si_0015
+  rotate: true
+  xy: 807, 587
+  size: 317, 262
+  orig: 328, 276
+  offset: 5, 7
+  index: -1

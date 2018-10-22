@@ -1,0 +1,174 @@
+
+effect_zhangwuji_pugong.png
+size: 615,529
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gongyong_bao_add_0001
+  rotate: false
+  xy: 2, 276
+  size: 160, 117
+  orig: 160, 160
+  offset: 0, 20
+  index: -1
+gongyong_bao_add_0003
+  rotate: false
+  xy: 164, 260
+  size: 160, 127
+  orig: 160, 160
+  offset: 0, 13
+  index: -1
+gongyong_bao_add_0005
+  rotate: false
+  xy: 326, 251
+  size: 160, 118
+  orig: 160, 160
+  offset: 0, 29
+  index: -1
+gongyong_bao_add_0007
+  rotate: true
+  xy: 488, 209
+  size: 160, 125
+  orig: 160, 160
+  offset: 0, 26
+  index: -1
+gongyong_bao_add_0009
+  rotate: true
+  xy: 2, 2
+  size: 94, 136
+  orig: 160, 160
+  offset: 13, 22
+  index: -1
+gongyong_bao_add_0011
+  rotate: true
+  xy: 311, 149
+  size: 100, 142
+  orig: 160, 160
+  offset: 8, 18
+  index: -1
+gongyong_bao_alpha_0001
+  rotate: true
+  xy: 143, 13
+  size: 94, 137
+  orig: 160, 160
+  offset: 36, 7
+  index: -1
+gongyong_bao_alpha_0003
+  rotate: true
+  xy: 455, 108
+  size: 99, 142
+  orig: 160, 160
+  offset: 33, 3
+  index: -1
+gongyong_bao_alpha_0005
+  rotate: true
+  xy: 162, 155
+  size: 103, 147
+  orig: 160, 160
+  offset: 31, 0
+  index: -1
+gongyong_bao_alpha_0007
+  rotate: true
+  xy: 2, 98
+  size: 106, 139
+  orig: 160, 160
+  offset: 30, 7
+  index: -1
+gongyong_bao_alpha_0009
+  rotate: true
+  xy: 143, 109
+  size: 44, 138
+  orig: 160, 160
+  offset: 90, 7
+  index: -1
+gongyong_bao_alpha_0011
+  rotate: true
+  xy: 423, 65
+  size: 41, 137
+  orig: 160, 160
+  offset: 93, 7
+  index: -1
+pugong_qi
+  rotate: true
+  xy: 531, 372
+  size: 155, 63
+  orig: 160, 80
+  offset: 5, 8
+  index: -1
+pugong_quan
+  rotate: false
+  xy: 414, 3
+  size: 106, 60
+  orig: 160, 80
+  offset: 54, 10
+  index: -1
+pugong_xian_0001
+  rotate: false
+  xy: 170, 389
+  size: 165, 66
+  orig: 180, 100
+  offset: 15, 12
+  index: -1
+pugong_xian_0002
+  rotate: false
+  xy: 2, 462
+  size: 178, 65
+  orig: 180, 100
+  offset: 0, 12
+  index: -1
+pugong_xian_0003
+  rotate: false
+  xy: 2, 395
+  size: 166, 65
+  orig: 180, 100
+  offset: 0, 12
+  index: -1
+pugong_xian_0004
+  rotate: false
+  xy: 357, 441
+  size: 172, 86
+  orig: 180, 100
+  offset: 1, 8
+  index: -1
+pugong_xian_0005
+  rotate: false
+  xy: 182, 457
+  size: 173, 70
+  orig: 180, 100
+  offset: 0, 23
+  index: -1
+pugong_xian_0006
+  rotate: false
+  xy: 2, 206
+  size: 158, 68
+  orig: 180, 100
+  offset: 3, 26
+  index: -1
+pugong_xian_0007
+  rotate: false
+  xy: 337, 371
+  size: 165, 68
+  orig: 180, 100
+  offset: 0, 26
+  index: -1
+pugong_xian_0008
+  rotate: false
+  xy: 283, 81
+  size: 138, 66
+  orig: 180, 100
+  offset: 3, 27
+  index: -1
+pugong_xian_0009
+  rotate: false
+  xy: 282, 27
+  size: 130, 52
+  orig: 180, 100
+  offset: 1, 28
+  index: -1
+pugong_xian_0010
+  rotate: false
+  xy: 522, 29
+  size: 86, 34
+  orig: 180, 100
+  offset: 9, 45
+  index: -1

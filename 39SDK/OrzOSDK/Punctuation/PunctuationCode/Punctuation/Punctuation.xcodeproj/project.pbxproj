@@ -1,0 +1,354 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		FAB80DB821607693006889A4 /* TwoPunctuation.m in Sources */ = {isa = PBXBuildFile; fileRef = FAB80D9F21607692006889A4 /* TwoPunctuation.m */; };
+		FAB80DB921607693006889A4 /* PunctuationReachability.m in Sources */ = {isa = PBXBuildFile; fileRef = FAB80DA021607692006889A4 /* PunctuationReachability.m */; };
+		FAB80DBA21607693006889A4 /* PunctuationNoticeView.m in Sources */ = {isa = PBXBuildFile; fileRef = FAB80DA521607692006889A4 /* PunctuationNoticeView.m */; };
+		FAB80DBB21607693006889A4 /* startPunctuationIapProcess.m in Sources */ = {isa = PBXBuildFile; fileRef = FAB80DA621607692006889A4 /* startPunctuationIapProcess.m */; };
+		FAB80DBC21607693006889A4 /* PunctuationBranch.mm in Sources */ = {isa = PBXBuildFile; fileRef = FAB80DA721607692006889A4 /* PunctuationBranch.mm */; };
+		FAB80DBD21607693006889A4 /* Punctuation.m in Sources */ = {isa = PBXBuildFile; fileRef = FAB80DAA21607693006889A4 /* Punctuation.m */; };
+		FAB80DBE21607693006889A4 /* TreePunctuation.m in Sources */ = {isa = PBXBuildFile; fileRef = FAB80DAD21607693006889A4 /* TreePunctuation.m */; };
+		FAB80DBF21607693006889A4 /* PunctuationProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = FAB80DAE21607693006889A4 /* PunctuationProgressHUD.m */; };
+		FAB80DC021607693006889A4 /* PunctuationUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = FAB80DAF21607693006889A4 /* PunctuationUtils.m */; };
+		FAB80DC121607693006889A4 /* OnePunctuation.m in Sources */ = {isa = PBXBuildFile; fileRef = FAB80DB121607693006889A4 /* OnePunctuation.m */; };
+		FAB80DC221607693006889A4 /* FourPunctuation.m in Sources */ = {isa = PBXBuildFile; fileRef = FAB80DB521607693006889A4 /* FourPunctuation.m */; };
+		FAB80DC321607693006889A4 /* FivePunctuation.m in Sources */ = {isa = PBXBuildFile; fileRef = FAB80DB621607693006889A4 /* FivePunctuation.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		852CB0F51FE0E58A00F25062 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "include/$(PRODUCT_NAME)";
+			dstSubfolderSpec = 16;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		852CB0F71FE0E58A00F25062 /* libPunctuation.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPunctuation.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		FAB80D9F21607692006889A4 /* TwoPunctuation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TwoPunctuation.m; sourceTree = "<group>"; };
+		FAB80DA021607692006889A4 /* PunctuationReachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PunctuationReachability.m; sourceTree = "<group>"; };
+		FAB80DA121607692006889A4 /* TwoPunctuation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TwoPunctuation.h; sourceTree = "<group>"; };
+		FAB80DA221607692006889A4 /* PunctuationBranch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PunctuationBranch.h; sourceTree = "<group>"; };
+		FAB80DA321607692006889A4 /* PunctuationBranchDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PunctuationBranchDelegate.h; sourceTree = "<group>"; };
+		FAB80DA421607692006889A4 /* OnePunctuation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OnePunctuation.h; sourceTree = "<group>"; };
+		FAB80DA521607692006889A4 /* PunctuationNoticeView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PunctuationNoticeView.m; sourceTree = "<group>"; };
+		FAB80DA621607692006889A4 /* startPunctuationIapProcess.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = startPunctuationIapProcess.m; sourceTree = "<group>"; };
+		FAB80DA721607692006889A4 /* PunctuationBranch.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = PunctuationBranch.mm; sourceTree = "<group>"; };
+		FAB80DA821607692006889A4 /* startPunctuationIapProcess.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = startPunctuationIapProcess.h; sourceTree = "<group>"; };
+		FAB80DA921607692006889A4 /* PunctuationUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PunctuationUtils.h; sourceTree = "<group>"; };
+		FAB80DAA21607693006889A4 /* Punctuation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Punctuation.m; sourceTree = "<group>"; };
+		FAB80DAB21607693006889A4 /* Punctuation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Punctuation.h; sourceTree = "<group>"; };
+		FAB80DAC21607693006889A4 /* PunctuationNoticeView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PunctuationNoticeView.h; sourceTree = "<group>"; };
+		FAB80DAD21607693006889A4 /* TreePunctuation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TreePunctuation.m; sourceTree = "<group>"; };
+		FAB80DAE21607693006889A4 /* PunctuationProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PunctuationProgressHUD.m; sourceTree = "<group>"; };
+		FAB80DAF21607693006889A4 /* PunctuationUtils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PunctuationUtils.m; sourceTree = "<group>"; };
+		FAB80DB021607693006889A4 /* TreePunctuation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TreePunctuation.h; sourceTree = "<group>"; };
+		FAB80DB121607693006889A4 /* OnePunctuation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OnePunctuation.m; sourceTree = "<group>"; };
+		FAB80DB221607693006889A4 /* PunctuationProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PunctuationProgressHUD.h; sourceTree = "<group>"; };
+		FAB80DB321607693006889A4 /* FivePunctuation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FivePunctuation.h; sourceTree = "<group>"; };
+		FAB80DB421607693006889A4 /* PunctuationReachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PunctuationReachability.h; sourceTree = "<group>"; };
+		FAB80DB521607693006889A4 /* FourPunctuation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FourPunctuation.m; sourceTree = "<group>"; };
+		FAB80DB621607693006889A4 /* FivePunctuation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FivePunctuation.m; sourceTree = "<group>"; };
+		FAB80DB721607693006889A4 /* FourPunctuation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FourPunctuation.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		852CB0F41FE0E58A00F25062 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		852CB0EE1FE0E58A00F25062 = {
+			isa = PBXGroup;
+			children = (
+				852CB0F91FE0E58A00F25062 /* Punctuation */,
+				852CB0F81FE0E58A00F25062 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		852CB0F81FE0E58A00F25062 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				852CB0F71FE0E58A00F25062 /* libPunctuation.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		852CB0F91FE0E58A00F25062 /* Punctuation */ = {
+			isa = PBXGroup;
+			children = (
+				FAB80DB321607693006889A4 /* FivePunctuation.h */,
+				FAB80DB621607693006889A4 /* FivePunctuation.m */,
+				FAB80DB721607693006889A4 /* FourPunctuation.h */,
+				FAB80DB521607693006889A4 /* FourPunctuation.m */,
+				FAB80DA421607692006889A4 /* OnePunctuation.h */,
+				FAB80DB121607693006889A4 /* OnePunctuation.m */,
+				FAB80DAB21607693006889A4 /* Punctuation.h */,
+				FAB80DAA21607693006889A4 /* Punctuation.m */,
+				FAB80DA221607692006889A4 /* PunctuationBranch.h */,
+				FAB80DA721607692006889A4 /* PunctuationBranch.mm */,
+				FAB80DA321607692006889A4 /* PunctuationBranchDelegate.h */,
+				FAB80DAC21607693006889A4 /* PunctuationNoticeView.h */,
+				FAB80DA521607692006889A4 /* PunctuationNoticeView.m */,
+				FAB80DB221607693006889A4 /* PunctuationProgressHUD.h */,
+				FAB80DAE21607693006889A4 /* PunctuationProgressHUD.m */,
+				FAB80DB421607693006889A4 /* PunctuationReachability.h */,
+				FAB80DA021607692006889A4 /* PunctuationReachability.m */,
+				FAB80DA921607692006889A4 /* PunctuationUtils.h */,
+				FAB80DAF21607693006889A4 /* PunctuationUtils.m */,
+				FAB80DA821607692006889A4 /* startPunctuationIapProcess.h */,
+				FAB80DA621607692006889A4 /* startPunctuationIapProcess.m */,
+				FAB80DB021607693006889A4 /* TreePunctuation.h */,
+				FAB80DAD21607693006889A4 /* TreePunctuation.m */,
+				FAB80DA121607692006889A4 /* TwoPunctuation.h */,
+				FAB80D9F21607692006889A4 /* TwoPunctuation.m */,
+			);
+			path = Punctuation;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		852CB0F61FE0E58A00F25062 /* Punctuation */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 852CB1001FE0E58A00F25062 /* Build configuration list for PBXNativeTarget "Punctuation" */;
+			buildPhases = (
+				852CB0F31FE0E58A00F25062 /* Sources */,
+				852CB0F41FE0E58A00F25062 /* Frameworks */,
+				852CB0F51FE0E58A00F25062 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Punctuation;
+			productName = AppleSdk;
+			productReference = 852CB0F71FE0E58A00F25062 /* libPunctuation.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		852CB0EF1FE0E58A00F25062 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0910;
+				ORGANIZATIONNAME = xd;
+				TargetAttributes = {
+					852CB0F61FE0E58A00F25062 = {
+						CreatedOnToolsVersion = 9.1;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 852CB0F21FE0E58A00F25062 /* Build configuration list for PBXProject "Punctuation" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 852CB0EE1FE0E58A00F25062;
+			productRefGroup = 852CB0F81FE0E58A00F25062 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				852CB0F61FE0E58A00F25062 /* Punctuation */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		852CB0F31FE0E58A00F25062 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FAB80DBC21607693006889A4 /* PunctuationBranch.mm in Sources */,
+				FAB80DC221607693006889A4 /* FourPunctuation.m in Sources */,
+				FAB80DC321607693006889A4 /* FivePunctuation.m in Sources */,
+				FAB80DBF21607693006889A4 /* PunctuationProgressHUD.m in Sources */,
+				FAB80DB821607693006889A4 /* TwoPunctuation.m in Sources */,
+				FAB80DBE21607693006889A4 /* TreePunctuation.m in Sources */,
+				FAB80DBD21607693006889A4 /* Punctuation.m in Sources */,
+				FAB80DB921607693006889A4 /* PunctuationReachability.m in Sources */,
+				FAB80DBB21607693006889A4 /* startPunctuationIapProcess.m in Sources */,
+				FAB80DC121607693006889A4 /* OnePunctuation.m in Sources */,
+				FAB80DC021607693006889A4 /* PunctuationUtils.m in Sources */,
+				FAB80DBA21607693006889A4 /* PunctuationNoticeView.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		852CB0FE1FE0E58A00F25062 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		852CB0FF1FE0E58A00F25062 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		852CB1011FE0E58A00F25062 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				GCC_VERSION = com.apple.compilers.llvm.kenshin.5_0;
+				ONLY_ACTIVE_ARCH = NO;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=75";
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = Punctuation;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		852CB1021FE0E58A00F25062 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				GCC_VERSION = com.apple.compilers.llvm.kenshin.5_0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=75";
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = Punctuation;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		852CB0F21FE0E58A00F25062 /* Build configuration list for PBXProject "Punctuation" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				852CB0FE1FE0E58A00F25062 /* Debug */,
+				852CB0FF1FE0E58A00F25062 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		852CB1001FE0E58A00F25062 /* Build configuration list for PBXNativeTarget "Punctuation" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				852CB1011FE0E58A00F25062 /* Debug */,
+				852CB1021FE0E58A00F25062 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 852CB0EF1FE0E58A00F25062 /* Project object */;
+}

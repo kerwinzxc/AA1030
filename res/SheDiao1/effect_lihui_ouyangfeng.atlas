@@ -1,0 +1,27 @@
+
+effect_lihui_ouyangfeng.png
+size: 1677,650
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+欧阳峰立绘_ren
+  rotate: false
+  xy: 1198, 19
+  size: 477, 629
+  orig: 600, 682
+  offset: 56, 37
+  index: -1
+欧阳峰立绘_te
+  rotate: false
+  xy: 686, 2
+  size: 510, 646
+  orig: 600, 682
+  offset: 41, 17
+  index: -1
+欧阳峰立绘_te_2
+  rotate: true
+  xy: 2, 124
+  size: 524, 682
+  orig: 600, 682
+  offset: 76, 0
+  index: -1

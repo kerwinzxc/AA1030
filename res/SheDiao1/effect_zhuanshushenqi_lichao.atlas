@@ -1,0 +1,34 @@
+
+effect_zhuanshushenqi_lichao.png
+size: 1318,315
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gy
+  rotate: true
+  xy: 414, 2
+  size: 311, 318
+  orig: 322, 324
+  offset: 5, 2
+  index: -1
+lantiao
+  rotate: false
+  xy: 2, 153
+  size: 410, 160
+  orig: 448, 184
+  offset: 18, 13
+  index: -1
+tu
+  rotate: false
+  xy: 734, 16
+  size: 290, 297
+  orig: 296, 307
+  offset: 0, 0
+  index: -1
+zz
+  rotate: false
+  xy: 1026, 16
+  size: 290, 297
+  orig: 296, 307
+  offset: 0, 0
+  index: -1

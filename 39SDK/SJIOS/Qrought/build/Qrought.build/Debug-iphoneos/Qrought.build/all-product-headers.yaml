@@ -1,0 +1,52 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/macbook/Desktop/39SDK/SJIOS/SJIOS_Code/build/Debug-iphoneos/SJIOS.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "ASJIOS.h",
+          'external-contents': "/Users/macbook/Desktop/39SDK/SJIOS/SJIOS_Code/Code/ASJIOS.h"
+        },
+        {
+          'type': 'file',
+          'name': "BSJIOS.h",
+          'external-contents': "/Users/macbook/Desktop/39SDK/SJIOS/SJIOS_Code/Code/BSJIOS.h"
+        },
+        {
+          'type': 'file',
+          'name': "CSJIOS.h",
+          'external-contents': "/Users/macbook/Desktop/39SDK/SJIOS/SJIOS_Code/Code/CSJIOS.h"
+        },
+        {
+          'type': 'file',
+          'name': "SJIOSSdk.h",
+          'external-contents': "/Users/macbook/Desktop/39SDK/SJIOS/SJIOS_Code/SJIOSFramework/SJIOSSdk.h"
+        },
+        {
+          'type': 'file',
+          'name': "SJIOSSdkCommonDefine.h",
+          'external-contents': "/Users/macbook/Desktop/39SDK/SJIOS/SJIOS_Code/SJIOSFramework/SJIOSSdkCommonDefine.h"
+        },
+        {
+          'type': 'file',
+          'name': "SJIOSSdkMd5.h",
+          'external-contents': "/Users/macbook/Desktop/39SDK/SJIOS/SJIOS_Code/SJIOSFramework/imp/util/SJIOSSdkMd5.h"
+        },
+        {
+          'type': 'file',
+          'name': "SJIOSWebApi.h",
+          'external-contents': "/Users/macbook/Desktop/39SDK/SJIOS/SJIOS_Code/SJIOSFramework/SJIOS_WebApi/SJIOSWebApi.h"
+        },
+        {
+          'type': 'file',
+          'name': "SJIOSWebInterface.h",
+          'external-contents': "/Users/macbook/Desktop/39SDK/SJIOS/SJIOS_Code/SJIOSFramework/SJIOS_WebApi/SJIOSWebInterface.h"
+        }
+      ]
+    }
+  ]
+}

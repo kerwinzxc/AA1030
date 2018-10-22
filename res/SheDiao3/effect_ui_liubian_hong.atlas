@@ -1,0 +1,286 @@
+
+effect_ui_liubian_hong.png
+size: 309,541
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hong0001
+  rotate: false
+  xy: 174, 80
+  size: 58, 61
+  orig: 72, 72
+  offset: 7, 8
+  index: -1
+hong0002
+  rotate: false
+  xy: 248, 214
+  size: 59, 60
+  orig: 72, 72
+  offset: 6, 9
+  index: -1
+hong0003
+  rotate: true
+  xy: 176, 18
+  size: 60, 58
+  orig: 72, 72
+  offset: 5, 11
+  index: -1
+hong0004
+  rotate: false
+  xy: 236, 29
+  size: 57, 59
+  orig: 72, 72
+  offset: 5, 10
+  index: -1
+hong0005
+  rotate: false
+  xy: 220, 152
+  size: 58, 60
+  orig: 72, 72
+  offset: 5, 9
+  index: -1
+hong0006
+  rotate: false
+  xy: 234, 90
+  size: 59, 60
+  orig: 72, 72
+  offset: 4, 9
+  index: -1
+hong0007
+  rotate: false
+  xy: 248, 474
+  size: 59, 65
+  orig: 72, 72
+  offset: 4, 4
+  index: -1
+hong0008
+  rotate: false
+  xy: 53, 3
+  size: 59, 64
+  orig: 72, 72
+  offset: 4, 4
+  index: -1
+hong0009
+  rotate: false
+  xy: 248, 407
+  size: 59, 65
+  orig: 72, 72
+  offset: 4, 3
+  index: -1
+hong0010
+  rotate: false
+  xy: 2, 473
+  size: 59, 66
+  orig: 72, 72
+  offset: 4, 2
+  index: -1
+hong0011
+  rotate: false
+  xy: 2, 270
+  size: 59, 65
+  orig: 72, 72
+  offset: 4, 2
+  index: -1
+hong0012
+  rotate: false
+  xy: 63, 473
+  size: 60, 66
+  orig: 72, 72
+  offset: 3, 1
+  index: -1
+hong0013
+  rotate: false
+  xy: 2, 405
+  size: 60, 66
+  orig: 72, 72
+  offset: 3, 1
+  index: -1
+hong0014
+  rotate: false
+  xy: 125, 473
+  size: 60, 66
+  orig: 72, 72
+  offset: 3, 0
+  index: -1
+hong0015
+  rotate: false
+  xy: 2, 337
+  size: 60, 66
+  orig: 72, 72
+  offset: 3, 0
+  index: -1
+hong0016
+  rotate: false
+  xy: 64, 338
+  size: 60, 65
+  orig: 72, 72
+  offset: 3, 0
+  index: -1
+hong0017
+  rotate: false
+  xy: 64, 405
+  size: 60, 66
+  orig: 72, 72
+  offset: 3, 0
+  index: -1
+hong0018
+  rotate: false
+  xy: 187, 473
+  size: 59, 66
+  orig: 72, 72
+  offset: 4, 0
+  index: -1
+hong0019
+  rotate: false
+  xy: 188, 339
+  size: 58, 64
+  orig: 72, 72
+  offset: 5, 0
+  index: -1
+hong0020
+  rotate: false
+  xy: 248, 341
+  size: 58, 64
+  orig: 72, 72
+  offset: 5, 0
+  index: -1
+hong0021
+  rotate: false
+  xy: 63, 271
+  size: 57, 64
+  orig: 72, 72
+  offset: 6, 0
+  index: -1
+hong0022
+  rotate: false
+  xy: 248, 276
+  size: 59, 63
+  orig: 72, 72
+  offset: 6, 0
+  index: -1
+hong0023
+  rotate: false
+  xy: 122, 272
+  size: 61, 64
+  orig: 72, 72
+  offset: 6, 0
+  index: -1
+hong0024
+  rotate: false
+  xy: 185, 273
+  size: 61, 63
+  orig: 72, 72
+  offset: 6, 0
+  index: -1
+hong0025
+  rotate: false
+  xy: 111, 74
+  size: 61, 63
+  orig: 72, 72
+  offset: 6, 0
+  index: -1
+hong0026
+  rotate: false
+  xy: 114, 9
+  size: 60, 63
+  orig: 72, 72
+  offset: 6, 0
+  index: -1
+hong0027
+  rotate: false
+  xy: 126, 338
+  size: 60, 65
+  orig: 72, 72
+  offset: 6, 0
+  index: -1
+hong0028
+  rotate: false
+  xy: 2, 203
+  size: 60, 65
+  orig: 72, 72
+  offset: 6, 0
+  index: -1
+hong0029
+  rotate: false
+  xy: 126, 405
+  size: 61, 66
+  orig: 72, 72
+  offset: 6, 0
+  index: -1
+hong0030
+  rotate: false
+  xy: 2, 136
+  size: 60, 65
+  orig: 72, 72
+  offset: 7, 1
+  index: -1
+hong0031
+  rotate: false
+  xy: 189, 406
+  size: 54, 65
+  orig: 72, 72
+  offset: 13, 1
+  index: -1
+hong0032
+  rotate: false
+  xy: 2, 69
+  size: 52, 65
+  orig: 72, 72
+  offset: 14, 1
+  index: -1
+hong0033
+  rotate: false
+  xy: 64, 205
+  size: 49, 64
+  orig: 72, 72
+  offset: 18, 2
+  index: -1
+hong0034
+  rotate: false
+  xy: 64, 139
+  size: 46, 64
+  orig: 72, 72
+  offset: 21, 3
+  index: -1
+hong0035
+  rotate: false
+  xy: 115, 205
+  size: 43, 64
+  orig: 72, 72
+  offset: 24, 3
+  index: -1
+hong0036
+  rotate: false
+  xy: 112, 139
+  size: 48, 64
+  orig: 72, 72
+  offset: 19, 4
+  index: -1
+hong0037
+  rotate: false
+  xy: 2, 2
+  size: 49, 65
+  orig: 72, 72
+  offset: 18, 3
+  index: -1
+hong0038
+  rotate: false
+  xy: 56, 69
+  size: 53, 65
+  orig: 72, 72
+  offset: 12, 4
+  index: -1
+hong0039
+  rotate: false
+  xy: 160, 207
+  size: 56, 63
+  orig: 72, 72
+  offset: 10, 5
+  index: -1
+hong0040
+  rotate: false
+  xy: 162, 143
+  size: 56, 62
+  orig: 72, 72
+  offset: 9, 6
+  index: -1

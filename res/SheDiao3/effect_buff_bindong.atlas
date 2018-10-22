@@ -1,0 +1,160 @@
+
+effect_buff_bindong.png
+size: 209,1041
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_01
+  rotate: true
+  xy: 103, 50
+  size: 72, 89
+  orig: 182, 160
+  offset: 61, 39
+  index: -1
+b_02
+  rotate: true
+  xy: 2, 932
+  size: 107, 131
+  orig: 182, 160
+  offset: 48, 8
+  index: -1
+b_03
+  rotate: false
+  xy: 135, 946
+  size: 64, 93
+  orig: 182, 160
+  offset: 57, 37
+  index: -1
+b_04
+  rotate: true
+  xy: 2, 763
+  size: 78, 110
+  orig: 182, 160
+  offset: 49, 28
+  index: -1
+b_05
+  rotate: false
+  xy: 103, 9
+  size: 58, 39
+  orig: 182, 160
+  offset: 43, 36
+  index: -1
+b_06
+  rotate: true
+  xy: 135, 852
+  size: 92, 70
+  orig: 182, 160
+  offset: 25, 18
+  index: -1
+di_
+  rotate: false
+  xy: 2, 843
+  size: 131, 87
+  orig: 182, 160
+  offset: 27, 6
+  index: -1
+yan_0001
+  rotate: false
+  xy: 109, 412
+  size: 91, 104
+  orig: 182, 160
+  offset: 42, 34
+  index: -1
+yan_0003
+  rotate: false
+  xy: 110, 626
+  size: 93, 106
+  orig: 182, 160
+  offset: 41, 33
+  index: -1
+yan_0005
+  rotate: true
+  xy: 2, 581
+  size: 88, 106
+  orig: 182, 160
+  offset: 40, 32
+  index: -1
+yan_0007
+  rotate: false
+  xy: 110, 518
+  size: 89, 106
+  orig: 182, 160
+  offset: 39, 32
+  index: -1
+yan_0009
+  rotate: false
+  xy: 114, 734
+  size: 93, 107
+  orig: 182, 160
+  offset: 37, 31
+  index: -1
+yan_0011
+  rotate: true
+  xy: 2, 96
+  size: 95, 99
+  orig: 182, 160
+  offset: 36, 39
+  index: -1
+yan_0013
+  rotate: true
+  xy: 2, 193
+  size: 97, 100
+  orig: 182, 160
+  offset: 35, 38
+  index: -1
+yan_0015
+  rotate: false
+  xy: 104, 124
+  size: 100, 100
+  orig: 182, 160
+  offset: 34, 37
+  index: -1
+yan_0017
+  rotate: false
+  xy: 2, 388
+  size: 102, 101
+  orig: 182, 160
+  offset: 33, 36
+  index: -1
+yan_0019
+  rotate: true
+  xy: 106, 315
+  size: 95, 101
+  orig: 182, 160
+  offset: 41, 36
+  index: -1
+yan_0021
+  rotate: true
+  xy: 2, 292
+  size: 94, 101
+  orig: 182, 160
+  offset: 44, 35
+  index: -1
+yan_0023
+  rotate: true
+  xy: 2, 2
+  size: 92, 99
+  orig: 182, 160
+  offset: 46, 34
+  index: -1
+yan_0025
+  rotate: true
+  xy: 105, 226
+  size: 87, 101
+  orig: 182, 160
+  offset: 45, 33
+  index: -1
+yan_0027
+  rotate: true
+  xy: 2, 491
+  size: 88, 105
+  orig: 182, 160
+  offset: 44, 33
+  index: -1
+yan_0029
+  rotate: true
+  xy: 2, 671
+  size: 90, 106
+  orig: 182, 160
+  offset: 43, 32
+  index: -1

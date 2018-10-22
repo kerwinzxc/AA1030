@@ -1,0 +1,34 @@
+
+effect_zhuanshushenqi_liuyedao.png
+size: 902,261
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gy
+  rotate: false
+  xy: 2, 19
+  size: 64, 78
+  orig: 80, 92
+  offset: 5, 8
+  index: -1
+lantiao
+  rotate: false
+  xy: 2, 99
+  size: 410, 160
+  orig: 448, 184
+  offset: 18, 13
+  index: -1
+tu
+  rotate: false
+  xy: 414, 2
+  size: 282, 257
+  orig: 282, 257
+  offset: 0, 0
+  index: -1
+zz
+  rotate: true
+  xy: 698, 8
+  size: 251, 202
+  orig: 282, 257
+  offset: 0, 0
+  index: -1

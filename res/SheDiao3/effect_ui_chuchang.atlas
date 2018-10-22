@@ -1,0 +1,125 @@
+
+effect_ui_chuchang.png
+size: 1934,479
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+add_0001
+  rotate: false
+  xy: 1357, 229
+  size: 231, 248
+  orig: 330, 300
+  offset: 11, 22
+  index: -1
+add_0002
+  rotate: false
+  xy: 951, 219
+  size: 219, 258
+  orig: 330, 300
+  offset: 13, 19
+  index: -1
+add_0003
+  rotate: false
+  xy: 722, 210
+  size: 227, 267
+  orig: 330, 300
+  offset: 35, 16
+  index: -1
+add_0004
+  rotate: false
+  xy: 479, 204
+  size: 241, 273
+  orig: 330, 300
+  offset: 38, 14
+  index: -1
+add_0005
+  rotate: false
+  xy: 226, 201
+  size: 251, 276
+  orig: 330, 300
+  offset: 38, 13
+  index: -1
+add_0006
+  rotate: false
+  xy: 2, 198
+  size: 222, 279
+  orig: 330, 300
+  offset: 37, 12
+  index: -1
+add_0007
+  rotate: true
+  xy: 951, 4
+  size: 213, 250
+  orig: 330, 300
+  offset: 38, 16
+  index: -1
+add_0008
+  rotate: false
+  xy: 1172, 228
+  size: 183, 249
+  orig: 330, 300
+  offset: 40, 17
+  index: -1
+add_0009
+  rotate: true
+  xy: 2, 2
+  size: 194, 234
+  orig: 330, 300
+  offset: 38, 28
+  index: -1
+add_0010
+  rotate: true
+  xy: 1203, 24
+  size: 202, 233
+  orig: 330, 300
+  offset: 38, 29
+  index: -1
+add_0011
+  rotate: true
+  xy: 722, 3
+  size: 205, 208
+  orig: 330, 300
+  offset: 37, 43
+  index: -1
+add_0012
+  rotate: false
+  xy: 1438, 19
+  size: 202, 208
+  orig: 330, 300
+  offset: 38, 43
+  index: -1
+add_0013
+  rotate: true
+  xy: 238, 5
+  size: 194, 208
+  orig: 330, 300
+  offset: 38, 43
+  index: -1
+add_0014
+  rotate: true
+  xy: 448, 5
+  size: 194, 208
+  orig: 330, 300
+  offset: 38, 43
+  index: -1
+add_0015
+  rotate: false
+  xy: 1590, 269
+  size: 176, 208
+  orig: 330, 300
+  offset: 40, 43
+  index: -1
+add_0016
+  rotate: false
+  xy: 1768, 270
+  size: 164, 207
+  orig: 330, 300
+  offset: 41, 43
+  index: -1
+alpha
+  rotate: false
+  xy: 1642, 59
+  size: 195, 208
+  orig: 330, 300
+  offset: 37, 43
+  index: -1

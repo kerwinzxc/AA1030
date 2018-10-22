@@ -1,0 +1,286 @@
+
+effect_ui_xiakejinjie.png
+size: 474,305
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jinjie0001
+  rotate: true
+  xy: 120, 184
+  size: 58, 56
+  orig: 78, 72
+  offset: 10, 7
+  index: -1
+jinjie0002
+  rotate: true
+  xy: 60, 244
+  size: 59, 56
+  orig: 78, 72
+  offset: 9, 8
+  index: -1
+jinjie0003
+  rotate: true
+  xy: 2, 243
+  size: 60, 56
+  orig: 78, 72
+  offset: 9, 8
+  index: -1
+jinjie0004
+  rotate: true
+  xy: 2, 181
+  size: 60, 57
+  orig: 78, 72
+  offset: 9, 8
+  index: -1
+jinjie0005
+  rotate: true
+  xy: 2, 120
+  size: 59, 57
+  orig: 78, 72
+  offset: 9, 8
+  index: -1
+jinjie0006
+  rotate: true
+  xy: 2, 59
+  size: 59, 57
+  orig: 78, 72
+  offset: 9, 8
+  index: -1
+jinjie0007
+  rotate: true
+  xy: 61, 183
+  size: 59, 57
+  orig: 78, 72
+  offset: 9, 8
+  index: -1
+jinjie0008
+  rotate: true
+  xy: 177, 245
+  size: 58, 57
+  orig: 78, 72
+  offset: 8, 8
+  index: -1
+jinjie0009
+  rotate: false
+  xy: 298, 126
+  size: 57, 57
+  orig: 78, 72
+  offset: 8, 8
+  index: -1
+jinjie0010
+  rotate: false
+  xy: 120, 124
+  size: 57, 58
+  orig: 78, 72
+  offset: 8, 8
+  index: -1
+jinjie0011
+  rotate: false
+  xy: 356, 186
+  size: 57, 57
+  orig: 78, 72
+  offset: 8, 8
+  index: -1
+jinjie0012
+  rotate: true
+  xy: 178, 185
+  size: 58, 57
+  orig: 78, 72
+  offset: 7, 8
+  index: -1
+jinjie0013
+  rotate: true
+  xy: 412, 246
+  size: 57, 56
+  orig: 78, 72
+  offset: 7, 8
+  index: -1
+jinjie0014
+  rotate: true
+  xy: 298, 6
+  size: 57, 56
+  orig: 78, 72
+  offset: 7, 8
+  index: -1
+jinjie0015
+  rotate: false
+  xy: 353, 67
+  size: 57, 57
+  orig: 78, 72
+  offset: 7, 7
+  index: -1
+jinjie0016
+  rotate: false
+  xy: 236, 245
+  size: 57, 58
+  orig: 78, 72
+  offset: 7, 6
+  index: -1
+jinjie0017
+  rotate: false
+  xy: 118, 244
+  size: 57, 59
+  orig: 78, 72
+  offset: 7, 6
+  index: -1
+jinjie0018
+  rotate: false
+  xy: 120, 64
+  size: 57, 58
+  orig: 78, 72
+  offset: 7, 6
+  index: -1
+jinjie0019
+  rotate: false
+  xy: 122, 4
+  size: 57, 58
+  orig: 78, 72
+  offset: 7, 6
+  index: -1
+jinjie0020
+  rotate: false
+  xy: 179, 125
+  size: 57, 58
+  orig: 78, 72
+  offset: 7, 5
+  index: -1
+jinjie0021
+  rotate: false
+  xy: 237, 185
+  size: 57, 58
+  orig: 78, 72
+  offset: 7, 5
+  index: -1
+jinjie0022
+  rotate: false
+  xy: 295, 245
+  size: 56, 58
+  orig: 78, 72
+  offset: 8, 5
+  index: -1
+jinjie0023
+  rotate: false
+  xy: 179, 65
+  size: 57, 58
+  orig: 78, 72
+  offset: 7, 5
+  index: -1
+jinjie0024
+  rotate: false
+  xy: 357, 127
+  size: 56, 57
+  orig: 78, 72
+  offset: 8, 5
+  index: -1
+jinjie0025
+  rotate: true
+  xy: 61, 122
+  size: 59, 57
+  orig: 78, 72
+  offset: 7, 5
+  index: -1
+jinjie0026
+  rotate: true
+  xy: 61, 61
+  size: 59, 57
+  orig: 78, 72
+  offset: 7, 5
+  index: -1
+jinjie0027
+  rotate: false
+  xy: 61, 2
+  size: 59, 57
+  orig: 78, 72
+  offset: 7, 5
+  index: -1
+jinjie0028
+  rotate: true
+  xy: 181, 5
+  size: 58, 57
+  orig: 78, 72
+  offset: 8, 5
+  index: -1
+jinjie0029
+  rotate: false
+  xy: 238, 125
+  size: 58, 58
+  orig: 78, 72
+  offset: 9, 4
+  index: -1
+jinjie0030
+  rotate: false
+  xy: 356, 8
+  size: 57, 57
+  orig: 78, 72
+  offset: 10, 5
+  index: -1
+jinjie0031
+  rotate: false
+  xy: 296, 185
+  size: 58, 58
+  orig: 78, 72
+  offset: 10, 4
+  index: -1
+jinjie0032
+  rotate: true
+  xy: 353, 245
+  size: 58, 57
+  orig: 78, 72
+  offset: 10, 5
+  index: -1
+jinjie0033
+  rotate: true
+  xy: 238, 65
+  size: 58, 56
+  orig: 78, 72
+  offset: 10, 6
+  index: -1
+jinjie0034
+  rotate: false
+  xy: 412, 68
+  size: 57, 57
+  orig: 78, 72
+  offset: 10, 5
+  index: -1
+jinjie0035
+  rotate: true
+  xy: 240, 5
+  size: 58, 56
+  orig: 78, 72
+  offset: 10, 6
+  index: -1
+jinjie0036
+  rotate: true
+  xy: 296, 65
+  size: 58, 55
+  orig: 78, 72
+  offset: 10, 6
+  index: -1
+jinjie0037
+  rotate: false
+  xy: 2, 2
+  size: 57, 55
+  orig: 78, 72
+  offset: 11, 6
+  index: -1
+jinjie0038
+  rotate: false
+  xy: 415, 9
+  size: 57, 57
+  orig: 78, 72
+  offset: 11, 6
+  index: -1
+jinjie0039
+  rotate: false
+  xy: 415, 188
+  size: 57, 56
+  orig: 78, 72
+  offset: 11, 7
+  index: -1
+jinjie0040
+  rotate: false
+  xy: 415, 130
+  size: 37, 56
+  orig: 78, 72
+  offset: 32, 7
+  index: -1

@@ -1,0 +1,41 @@
+
+effect_zhangmenling_xinghuangqi.png
+size: 771,164
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fg
+  rotate: true
+  xy: 414, 52
+  size: 110, 184
+  orig: 120, 186
+  offset: 5, 0
+  index: -1
+gy
+  rotate: false
+  xy: 414, 12
+  size: 70, 38
+  orig: 77, 54
+  offset: 4, 9
+  index: -1
+lantiao
+  rotate: false
+  xy: 2, 2
+  size: 410, 160
+  orig: 448, 184
+  offset: 18, 13
+  index: -1
+tu
+  rotate: true
+  xy: 600, 67
+  size: 95, 169
+  orig: 133, 175
+  offset: 19, 2
+  index: -1
+zz
+  rotate: false
+  xy: 600, 7
+  size: 95, 58
+  orig: 133, 175
+  offset: 19, 113
+  index: -1

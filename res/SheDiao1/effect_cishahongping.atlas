@@ -1,0 +1,27 @@
+
+effect_cishahongping.png
+size: 392,231
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hong_01
+  rotate: false
+  xy: 2, 2
+  size: 128, 227
+  orig: 128, 227
+  offset: 0, 0
+  index: -1
+hong_02
+  rotate: false
+  xy: 132, 2
+  size: 128, 227
+  orig: 128, 227
+  offset: 0, 0
+  index: -1
+hong_03
+  rotate: false
+  xy: 262, 2
+  size: 128, 227
+  orig: 128, 227
+  offset: 0, 0
+  index: -1

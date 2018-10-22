@@ -1,0 +1,20 @@
+
+effect_zhuanshushenqi_zaoheding.png
+size: 264,192
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d
+  rotate: false
+  xy: 2, 2
+  size: 124, 188
+  orig: 222, 276
+  offset: 61, 45
+  index: -1
+l
+  rotate: false
+  xy: 128, 12
+  size: 134, 178
+  orig: 222, 276
+  offset: 58, 58
+  index: -1

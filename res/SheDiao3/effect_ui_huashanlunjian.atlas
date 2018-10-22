@@ -1,0 +1,118 @@
+
+effect_ui_huashanlunjian.png
+size: 442,230
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huo0001
+  rotate: false
+  xy: 2, 116
+  size: 53, 112
+  orig: 77, 130
+  offset: 7, 10
+  index: -1
+huo0002
+  rotate: false
+  xy: 2, 2
+  size: 53, 112
+  orig: 77, 130
+  offset: 7, 10
+  index: -1
+huo0003
+  rotate: false
+  xy: 57, 116
+  size: 53, 112
+  orig: 77, 130
+  offset: 7, 10
+  index: -1
+huo0004
+  rotate: false
+  xy: 387, 3
+  size: 53, 111
+  orig: 77, 130
+  offset: 7, 10
+  index: -1
+huo0005
+  rotate: false
+  xy: 57, 2
+  size: 53, 112
+  orig: 77, 130
+  offset: 7, 10
+  index: -1
+huo0006
+  rotate: false
+  xy: 112, 116
+  size: 53, 112
+  orig: 77, 130
+  offset: 7, 10
+  index: -1
+huo0007
+  rotate: false
+  xy: 112, 2
+  size: 53, 112
+  orig: 77, 130
+  offset: 7, 10
+  index: -1
+huo0008
+  rotate: false
+  xy: 167, 116
+  size: 53, 112
+  orig: 77, 130
+  offset: 7, 10
+  index: -1
+huo0009
+  rotate: false
+  xy: 167, 2
+  size: 53, 112
+  orig: 77, 130
+  offset: 7, 10
+  index: -1
+huo0010
+  rotate: false
+  xy: 222, 116
+  size: 53, 112
+  orig: 77, 130
+  offset: 7, 10
+  index: -1
+huo0011
+  rotate: false
+  xy: 222, 2
+  size: 53, 112
+  orig: 77, 130
+  offset: 7, 10
+  index: -1
+huo0012
+  rotate: false
+  xy: 277, 116
+  size: 53, 112
+  orig: 77, 130
+  offset: 7, 10
+  index: -1
+huo0013
+  rotate: false
+  xy: 277, 2
+  size: 53, 112
+  orig: 77, 130
+  offset: 7, 10
+  index: -1
+huo0014
+  rotate: false
+  xy: 332, 116
+  size: 53, 112
+  orig: 77, 130
+  offset: 7, 10
+  index: -1
+huo0015
+  rotate: false
+  xy: 387, 116
+  size: 53, 112
+  orig: 77, 130
+  offset: 7, 10
+  index: -1
+huo0016
+  rotate: false
+  xy: 332, 2
+  size: 53, 112
+  orig: 77, 130
+  offset: 7, 10
+  index: -1

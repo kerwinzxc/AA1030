@@ -1,0 +1,27 @@
+
+effect_ui_shenbingge.png
+size: 172,90
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 104, 22
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+gy
+  rotate: true
+  xy: 2, 2
+  size: 86, 100
+  orig: 86, 100
+  offset: 0, 0
+  index: -1
+lizi
+  rotate: false
+  xy: 104, 8
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+effect_zhuanshushenqi_tuniudao.png
+size: 1231,316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gy
+  rotate: false
+  xy: 414, 5
+  size: 289, 309
+  orig: 322, 324
+  offset: 1, 10
+  index: -1
+lantiao
+  rotate: false
+  xy: 2, 154
+  size: 410, 160
+  orig: 448, 184
+  offset: 18, 13
+  index: -1
+mh
+  rotate: true
+  xy: 2, 2
+  size: 150, 144
+  orig: 167, 164
+  offset: 10, 12
+  index: -1
+tu
+  rotate: false
+  xy: 705, 30
+  size: 261, 284
+  orig: 261, 284
+  offset: 0, 0
+  index: -1
+zz
+  rotate: false
+  xy: 968, 30
+  size: 261, 284
+  orig: 261, 284
+  offset: 0, 0
+  index: -1

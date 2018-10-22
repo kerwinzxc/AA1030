@@ -1,0 +1,27 @@
+
+effect_zhangmenling_moziling.png
+size: 954,172
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lantiao
+  rotate: false
+  xy: 2, 10
+  size: 410, 160
+  orig: 448, 184
+  offset: 18, 13
+  index: -1
+moziling
+  rotate: true
+  xy: 414, 2
+  size: 168, 268
+  orig: 290, 307
+  offset: 49, 17
+  index: -1
+tu
+  rotate: true
+  xy: 684, 2
+  size: 168, 268
+  orig: 290, 307
+  offset: 49, 17
+  index: -1

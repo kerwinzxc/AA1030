@@ -1,0 +1,243 @@
+
+hero_zhujiemianhongqigong.png
+size: 2039,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+all
+  rotate: false
+  xy: 2, 962
+  size: 878, 1084
+  orig: 878, 1084
+  offset: 0, 0
+  index: -1
+hip_02
+  rotate: true
+  xy: 2, 44
+  size: 111, 188
+  orig: 111, 188
+  offset: 0, 0
+  index: -1
+long
+  rotate: false
+  xy: 882, 962
+  size: 878, 1084
+  orig: 878, 1084
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 715, 188
+  size: 646, 772
+  orig: 646, 772
+  offset: 0, 0
+  index: -1
+texiao
+  rotate: false
+  xy: 2, 157
+  size: 711, 803
+  orig: 711, 805
+  offset: 0, 1
+  index: -1
+zhaomuliudong_00000
+  rotate: false
+  xy: 715, 2
+  size: 316, 184
+  orig: 347, 213
+  offset: 4, 6
+  index: -1
+zhaomuliudong_00001
+  rotate: true
+  xy: 1683, 327
+  size: 315, 169
+  orig: 347, 213
+  offset: 5, 22
+  index: -1
+zhaomuliudong_00002
+  rotate: false
+  xy: 1363, 270
+  size: 317, 173
+  orig: 347, 213
+  offset: 4, 19
+  index: -1
+zhaomuliudong_00003
+  rotate: true
+  xy: 1682, 11
+  size: 314, 176
+  orig: 347, 213
+  offset: 7, 18
+  index: -1
+zhaomuliudong_00004
+  rotate: false
+  xy: 1033, 10
+  size: 316, 176
+  orig: 347, 213
+  offset: 5, 19
+  index: -1
+zhaomuliudong_00005
+  rotate: true
+  xy: 1762, 1087
+  size: 317, 178
+  orig: 347, 213
+  offset: 3, 17
+  index: -1
+zhaomuliudong_00006
+  rotate: true
+  xy: 1762, 1726
+  size: 320, 175
+  orig: 347, 213
+  offset: 0, 18
+  index: -1
+zhaomuliudong_00007
+  rotate: false
+  xy: 1363, 789
+  size: 318, 171
+  orig: 347, 213
+  offset: 2, 18
+  index: -1
+zhaomuliudong_00008
+  rotate: true
+  xy: 1683, 644
+  size: 316, 175
+  orig: 347, 213
+  offset: 5, 16
+  index: -1
+zhaomuliudong_00009
+  rotate: true
+  xy: 1762, 1406
+  size: 318, 170
+  orig: 347, 213
+  offset: 3, 24
+  index: -1
+zhaomuliudong_00010
+  rotate: false
+  xy: 1363, 98
+  size: 317, 170
+  orig: 347, 213
+  offset: 4, 25
+  index: -1
+zhaomuliudong_00011
+  rotate: true
+  xy: 1854, 328
+  size: 314, 172
+  orig: 347, 213
+  offset: 6, 22
+  index: -1
+zhaomuliudong_00012
+  rotate: true
+  xy: 1860, 15
+  size: 311, 177
+  orig: 347, 213
+  offset: 6, 13
+  index: -1
+zhaomuliudong_00013
+  rotate: true
+  xy: 1860, 775
+  size: 310, 168
+  orig: 347, 213
+  offset: 7, 22
+  index: -1
+zhaomuliudong_00014
+  rotate: false
+  xy: 1363, 620
+  size: 318, 167
+  orig: 347, 213
+  offset: 0, 24
+  index: -1
+zhaomuliudong_00015
+  rotate: false
+  xy: 1363, 445
+  size: 318, 173
+  orig: 347, 213
+  offset: 0, 20
+  index: -1
+
+hero_zhujiemianhongqigong2.png
+size: 628,178
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hip_01
+  rotate: false
+  xy: 521, 94
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+hip_03
+  rotate: false
+  xy: 578, 24
+  size: 48, 68
+  orig: 48, 68
+  offset: 0, 0
+  index: -1
+hip_04
+  rotate: false
+  xy: 186, 22
+  size: 70, 154
+  orig: 70, 154
+  offset: 0, 0
+  index: -1
+hip_05
+  rotate: true
+  xy: 355, 43
+  size: 133, 37
+  orig: 133, 37
+  offset: 0, 0
+  index: -1
+hip_06
+  rotate: true
+  xy: 258, 33
+  size: 143, 95
+  orig: 143, 95
+  offset: 0, 0
+  index: -1
+hip_07
+  rotate: true
+  xy: 2, 7
+  size: 169, 182
+  orig: 169, 182
+  offset: 0, 0
+  index: -1
+hip_08
+  rotate: false
+  xy: 394, 51
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+huzi_01
+  rotate: true
+  xy: 394, 4
+  size: 45, 62
+  orig: 45, 62
+  offset: 0, 0
+  index: -1
+huzi_02
+  rotate: true
+  xy: 458, 19
+  size: 30, 52
+  orig: 30, 52
+  offset: 0, 0
+  index: -1
+huzi_03
+  rotate: false
+  xy: 521, 10
+  size: 55, 82
+  orig: 55, 82
+  offset: 0, 0
+  index: -1
+meimao_01
+  rotate: true
+  xy: 605, 116
+  size: 60, 20
+  orig: 60, 20
+  offset: 0, 0
+  index: -1
+meimao_02
+  rotate: true
+  xy: 355, 2
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1

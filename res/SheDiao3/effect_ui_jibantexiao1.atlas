@@ -1,0 +1,125 @@
+
+effect_ui_jibantexiao1.png
+size: 300,289
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangshu_0001
+  rotate: false
+  xy: 253, 11
+  size: 40, 37
+  orig: 45, 150
+  offset: 1, 1
+  index: -1
+guangshu_0002
+  rotate: false
+  xy: 196, 71
+  size: 43, 67
+  orig: 45, 150
+  offset: 1, 1
+  index: -1
+guangshu_0003
+  rotate: false
+  xy: 151, 40
+  size: 43, 98
+  orig: 45, 150
+  offset: 1, 1
+  index: -1
+guangshu_0004
+  rotate: true
+  xy: 2, 5
+  size: 43, 126
+  orig: 45, 150
+  offset: 1, 1
+  index: -1
+guangshu_0005
+  rotate: false
+  xy: 227, 143
+  size: 43, 144
+  orig: 45, 150
+  offset: 1, 1
+  index: -1
+guangshu_0006
+  rotate: false
+  xy: 2, 140
+  size: 43, 147
+  orig: 45, 150
+  offset: 1, 1
+  index: -1
+guangshu_0007
+  rotate: false
+  xy: 47, 140
+  size: 43, 147
+  orig: 45, 150
+  offset: 1, 1
+  index: -1
+guangshu_0008
+  rotate: false
+  xy: 92, 140
+  size: 43, 147
+  orig: 45, 150
+  offset: 1, 1
+  index: -1
+guangshu_0009
+  rotate: false
+  xy: 137, 140
+  size: 43, 147
+  orig: 45, 150
+  offset: 1, 1
+  index: -1
+guangshu_0010
+  rotate: true
+  xy: 2, 95
+  size: 43, 147
+  orig: 45, 150
+  offset: 1, 1
+  index: -1
+guangshu_0011
+  rotate: false
+  xy: 182, 140
+  size: 43, 147
+  orig: 45, 150
+  offset: 1, 1
+  index: -1
+guangshu_0012
+  rotate: true
+  xy: 2, 50
+  size: 43, 147
+  orig: 45, 150
+  offset: 1, 1
+  index: -1
+guangshu_0013
+  rotate: false
+  xy: 241, 84
+  size: 38, 57
+  orig: 45, 150
+  offset: 2, 2
+  index: -1
+guangshu_0014
+  rotate: true
+  xy: 194, 2
+  size: 36, 57
+  orig: 45, 150
+  offset: 3, 3
+  index: -1
+guangshu_0015
+  rotate: true
+  xy: 241, 50
+  size: 32, 57
+  orig: 45, 150
+  offset: 4, 4
+  index: -1
+guangshu_0016
+  rotate: false
+  xy: 272, 230
+  size: 16, 57
+  orig: 45, 150
+  offset: 20, 6
+  index: -1
+guangshu_0017
+  rotate: true
+  xy: 130, 2
+  size: 36, 62
+  orig: 45, 150
+  offset: 4, 1
+  index: -1

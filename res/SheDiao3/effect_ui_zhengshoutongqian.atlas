@@ -1,0 +1,118 @@
+
+effect_ui_zhengshoutongqian.png
+size: 435,287
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+j_0002
+  rotate: true
+  xy: 2, 3
+  size: 54, 69
+  orig: 143, 187
+  offset: 40, 61
+  index: -1
+j_0004
+  rotate: true
+  xy: 73, 4
+  size: 53, 57
+  orig: 143, 187
+  offset: 41, 86
+  index: -1
+j_0006
+  rotate: false
+  xy: 388, 158
+  size: 45, 43
+  orig: 143, 187
+  offset: 45, 112
+  index: -1
+j_0008
+  rotate: false
+  xy: 388, 114
+  size: 44, 42
+  orig: 143, 187
+  offset: 52, 124
+  index: -1
+j_0010
+  rotate: true
+  xy: 132, 2
+  size: 55, 45
+  orig: 143, 187
+  offset: 45, 126
+  index: -1
+j_0012
+  rotate: false
+  xy: 193, 3
+  size: 70, 56
+  orig: 143, 187
+  offset: 35, 120
+  index: -1
+j_0014
+  rotate: true
+  xy: 357, 203
+  size: 82, 66
+  orig: 143, 187
+  offset: 27, 113
+  index: -1
+j_0016
+  rotate: false
+  xy: 290, 5
+  size: 90, 81
+  orig: 143, 187
+  offset: 22, 98
+  index: -1
+j_0018
+  rotate: false
+  xy: 290, 88
+  size: 96, 92
+  orig: 143, 187
+  offset: 19, 83
+  index: -1
+j_0020
+  rotate: false
+  xy: 255, 182
+  size: 100, 103
+  orig: 143, 187
+  offset: 17, 67
+  index: -1
+j_0022
+  rotate: false
+  xy: 112, 174
+  size: 104, 111
+  orig: 143, 187
+  offset: 15, 52
+  index: -1
+j_0024
+  rotate: false
+  xy: 2, 173
+  size: 108, 112
+  orig: 143, 187
+  offset: 13, 37
+  index: -1
+j_0026
+  rotate: true
+  xy: 2, 59
+  size: 112, 92
+  orig: 143, 187
+  offset: 12, 43
+  index: -1
+j_0028
+  rotate: true
+  xy: 96, 59
+  size: 112, 95
+  orig: 143, 187
+  offset: 13, 26
+  index: -1
+j_0030
+  rotate: true
+  xy: 193, 61
+  size: 111, 95
+  orig: 143, 187
+  offset: 15, 13
+  index: -1
+j_0032
+  rotate: true
+  xy: 218, 176
+  size: 109, 35
+  orig: 143, 187
+  offset: 17, 64
+  index: -1

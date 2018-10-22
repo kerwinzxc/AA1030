@@ -1,0 +1,41 @@
+
+effect_zhuanshushenqi_fanghua.png
+size: 1247,290
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fg
+  rotate: true
+  xy: 414, 2
+  size: 286, 295
+  orig: 289, 297
+  offset: 2, 0
+  index: -1
+gy
+  rotate: false
+  xy: 2, 102
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+lantiao
+  rotate: false
+  xy: 2, 128
+  size: 410, 160
+  orig: 448, 184
+  offset: 18, 13
+  index: -1
+tu
+  rotate: false
+  xy: 711, 16
+  size: 266, 272
+  orig: 266, 272
+  offset: 0, 0
+  index: -1
+zz
+  rotate: false
+  xy: 979, 16
+  size: 266, 272
+  orig: 266, 272
+  offset: 0, 0
+  index: -1

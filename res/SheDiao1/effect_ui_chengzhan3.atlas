@@ -1,0 +1,20 @@
+
+effect_ui_chengzhan3.png
+size: 221,115
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tou
+  rotate: false
+  xy: 127, 21
+  size: 92, 92
+  orig: 123, 123
+  offset: 16, 15
+  index: -1
+yuan
+  rotate: true
+  xy: 2, 2
+  size: 111, 123
+  orig: 111, 125
+  offset: 0, 1
+  index: -1

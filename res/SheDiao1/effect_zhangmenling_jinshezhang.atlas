@@ -1,0 +1,20 @@
+
+effect_zhangmenling_jinshezhang.png
+size: 585,313
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gy
+  rotate: false
+  xy: 2, 2
+  size: 299, 309
+  orig: 322, 324
+  offset: 10, 8
+  index: -1
+tu
+  rotate: false
+  xy: 303, 26
+  size: 280, 285
+  orig: 281, 287
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,20 @@
+
+effect_ui_guang.png
+size: 478,306
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangyuan1
+  rotate: false
+  xy: 241, 5
+  size: 235, 299
+  orig: 235, 299
+  offset: 0, 0
+  index: -1
+guangyuan2
+  rotate: false
+  xy: 2, 2
+  size: 237, 302
+  orig: 237, 302
+  offset: 0, 0
+  index: -1

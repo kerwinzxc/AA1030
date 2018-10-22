@@ -1,0 +1,167 @@
+
+effect_lihui_damozushi.png
+size: 1573,1127
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: true
+  xy: 2, 435
+  size: 334, 211
+  orig: 420, 302
+  offset: 36, 87
+  index: -1
+damo
+  rotate: true
+  xy: 2, 771
+  size: 354, 350
+  orig: 600, 432
+  offset: 117, 64
+  index: -1
+qian0001
+  rotate: true
+  xy: 1197, 602
+  size: 260, 240
+  orig: 300, 300
+  offset: 24, 23
+  index: -1
+qian0002
+  rotate: true
+  xy: 1022, 76
+  size: 260, 238
+  orig: 300, 300
+  offset: 24, 23
+  index: -1
+qian0004
+  rotate: true
+  xy: 1335, 865
+  size: 260, 236
+  orig: 300, 300
+  offset: 24, 23
+  index: -1
+qian0005
+  rotate: true
+  xy: 842, 864
+  size: 261, 236
+  orig: 300, 300
+  offset: 24, 23
+  index: -1
+qian0006
+  rotate: true
+  xy: 517, 72
+  size: 261, 249
+  orig: 300, 300
+  offset: 24, 23
+  index: -1
+qian0008
+  rotate: true
+  xy: 741, 336
+  size: 261, 253
+  orig: 300, 300
+  offset: 24, 23
+  index: -1
+qian0010
+  rotate: true
+  xy: 942, 601
+  size: 261, 253
+  orig: 300, 300
+  offset: 24, 23
+  index: -1
+qian0011
+  rotate: true
+  xy: 1080, 864
+  size: 261, 253
+  orig: 300, 300
+  offset: 24, 23
+  index: -1
+qian0012
+  rotate: true
+  xy: 768, 73
+  size: 261, 252
+  orig: 300, 300
+  offset: 24, 23
+  index: -1
+qian0014
+  rotate: true
+  xy: 996, 338
+  size: 261, 249
+  orig: 300, 300
+  offset: 24, 23
+  index: -1
+qian0015
+  rotate: true
+  xy: 1247, 340
+  size: 260, 249
+  orig: 300, 300
+  offset: 25, 23
+  index: -1
+qian0016
+  rotate: false
+  xy: 1262, 91
+  size: 260, 247
+  orig: 300, 300
+  offset: 25, 24
+  index: -1
+qian0018
+  rotate: true
+  xy: 215, 507
+  size: 262, 246
+  orig: 300, 300
+  offset: 24, 24
+  index: -1
+qian0020
+  rotate: true
+  xy: 354, 863
+  size: 262, 246
+  orig: 300, 300
+  offset: 24, 24
+  index: -1
+qian0021
+  rotate: true
+  xy: 253, 243
+  size: 262, 246
+  orig: 300, 300
+  offset: 24, 24
+  index: -1
+qian0022
+  rotate: false
+  xy: 253, 2
+  size: 262, 239
+  orig: 300, 300
+  offset: 24, 24
+  index: -1
+qian0024
+  rotate: true
+  xy: 463, 599
+  size: 262, 239
+  orig: 300, 300
+  offset: 24, 24
+  index: -1
+qian0026
+  rotate: true
+  xy: 602, 863
+  size: 262, 238
+  orig: 300, 300
+  offset: 24, 23
+  index: -1
+qian0027
+  rotate: true
+  xy: 501, 335
+  size: 262, 238
+  orig: 300, 300
+  offset: 24, 23
+  index: -1
+qian0028
+  rotate: true
+  xy: 704, 599
+  size: 262, 236
+  orig: 300, 300
+  offset: 24, 23
+  index: -1
+qian0030
+  rotate: true
+  xy: 2, 170
+  size: 263, 249
+  orig: 300, 300
+  offset: 24, 23
+  index: -1

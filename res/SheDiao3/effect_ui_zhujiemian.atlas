@@ -1,0 +1,153 @@
+
+effect_ui_zhujiemian.png
+size: 1600,495
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bugao
+  rotate: true
+  xy: 1485, 2
+  size: 57, 73
+  orig: 57, 74
+  offset: 0, 1
+  index: -1
+chest
+  rotate: true
+  xy: 2, 23
+  size: 470, 689
+  orig: 470, 689
+  offset: 0, 0
+  index: -1
+hair_01
+  rotate: false
+  xy: 1549, 124
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+hair_02
+  rotate: false
+  xy: 942, 3
+  size: 40, 24
+  orig: 40, 24
+  offset: 0, 0
+  index: -1
+hair_03
+  rotate: false
+  xy: 1524, 176
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+hair_04
+  rotate: false
+  xy: 1549, 80
+  size: 27, 42
+  orig: 33, 42
+  offset: 6, 0
+  index: -1
+hand_01
+  rotate: false
+  xy: 1158, 18
+  size: 164, 151
+  orig: 167, 173
+  offset: 0, 22
+  index: -1
+hip_01
+  rotate: false
+  xy: 942, 29
+  size: 197, 130
+  orig: 197, 130
+  offset: 0, 0
+  index: -1
+hip_02
+  rotate: false
+  xy: 1395, 330
+  size: 201, 163
+  orig: 201, 163
+  offset: 0, 0
+  index: -1
+hip_03
+  rotate: true
+  xy: 1526, 227
+  size: 101, 72
+  orig: 101, 73
+  offset: 0, 0
+  index: -1
+hip_04
+  rotate: true
+  xy: 1349, 164
+  size: 80, 173
+  orig: 80, 173
+  offset: 0, 0
+  index: -1
+hip_05
+  rotate: false
+  xy: 945, 341
+  size: 240, 152
+  orig: 241, 152
+  offset: 1, 0
+  index: -1
+hip_06
+  rotate: true
+  xy: 1158, 171
+  size: 166, 189
+  orig: 166, 189
+  offset: 0, 0
+  index: -1
+hip_07
+  rotate: true
+  xy: 693, 26
+  size: 145, 247
+  orig: 150, 248
+  offset: 5, 1
+  index: -1
+hip_08
+  rotate: true
+  xy: 1349, 246
+  size: 82, 175
+  orig: 86, 179
+  offset: 4, 4
+  index: -1
+hip_09
+  rotate: false
+  xy: 1324, 11
+  size: 159, 151
+  orig: 159, 152
+  offset: 0, 1
+  index: -1
+hip_10
+  rotate: false
+  xy: 945, 161
+  size: 211, 178
+  orig: 211, 178
+  offset: 0, 0
+  index: -1
+hip_11
+  rotate: true
+  xy: 1485, 61
+  size: 101, 62
+  orig: 101, 62
+  offset: 0, 0
+  index: -1
+hip_12
+  rotate: true
+  xy: 1187, 339
+  size: 154, 206
+  orig: 154, 206
+  offset: 0, 0
+  index: -1
+qizi1
+  rotate: true
+  xy: 1349, 330
+  size: 7, 19
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+wuqi_01
+  rotate: false
+  xy: 693, 173
+  size: 250, 320
+  orig: 250, 320
+  offset: 0, 0
+  index: -1

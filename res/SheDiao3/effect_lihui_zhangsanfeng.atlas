@@ -1,0 +1,159 @@
+
+effect_lihui_zhangsanfeng.png
+size: 1964,1962
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qi_14
+  rotate: false
+  xy: 1355, 5
+  size: 448, 595
+  orig: 532, 682
+  offset: 51, 42
+  index: -1
+qi_16
+  rotate: false
+  xy: 904, 2
+  size: 449, 598
+  orig: 532, 682
+  offset: 51, 42
+  index: -1
+qi_18
+  rotate: true
+  xy: 1354, 602
+  size: 451, 601
+  orig: 532, 682
+  offset: 51, 41
+  index: -1
+qi_20
+  rotate: true
+  xy: 1359, 1055
+  size: 451, 602
+  orig: 532, 682
+  offset: 51, 42
+  index: -1
+qi_22
+  rotate: true
+  xy: 1359, 1508
+  size: 452, 603
+  orig: 532, 682
+  offset: 51, 43
+  index: -1
+qi_24
+  rotate: false
+  xy: 906, 1355
+  size: 451, 605
+  orig: 532, 682
+  offset: 51, 43
+  index: -1
+qi_26
+  rotate: false
+  xy: 454, 1354
+  size: 450, 606
+  orig: 532, 682
+  offset: 51, 43
+  index: -1
+qi_28
+  rotate: false
+  xy: 903, 746
+  size: 449, 606
+  orig: 532, 682
+  offset: 51, 44
+  index: -1
+qi_30
+  rotate: false
+  xy: 453, 741
+  size: 448, 607
+  orig: 532, 682
+  offset: 51, 43
+  index: -1
+qi_32
+  rotate: false
+  xy: 2, 129
+  size: 448, 608
+  orig: 532, 682
+  offset: 51, 43
+  index: -1
+qi_34
+  rotate: false
+  xy: 2, 739
+  size: 449, 609
+  orig: 532, 682
+  offset: 51, 42
+  index: -1
+qi_36
+  rotate: false
+  xy: 452, 129
+  size: 450, 608
+  orig: 532, 682
+  offset: 51, 42
+  index: -1
+qi_38
+  rotate: false
+  xy: 2, 1350
+  size: 450, 610
+  orig: 532, 682
+  offset: 51, 40
+  index: -1
+
+effect_lihui_zhangsanfeng2.png
+size: 1795,1184
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qi_00
+  rotate: false
+  xy: 449, 7
+  size: 449, 580
+  orig: 532, 682
+  offset: 52, 45
+  index: -1
+qi_02
+  rotate: false
+  xy: 1347, 10
+  size: 446, 584
+  orig: 532, 682
+  offset: 52, 45
+  index: -1
+qi_04
+  rotate: false
+  xy: 2, 2
+  size: 445, 585
+  orig: 532, 682
+  offset: 52, 45
+  index: -1
+qi_06
+  rotate: false
+  xy: 1347, 596
+  size: 445, 586
+  orig: 532, 682
+  offset: 51, 45
+  index: -1
+qi_08
+  rotate: false
+  xy: 899, 594
+  size: 446, 588
+  orig: 532, 682
+  offset: 51, 43
+  index: -1
+qi_10
+  rotate: false
+  xy: 451, 593
+  size: 446, 589
+  orig: 532, 682
+  offset: 51, 43
+  index: -1
+qi_12
+  rotate: false
+  xy: 2, 589
+  size: 447, 593
+  orig: 532, 682
+  offset: 51, 42
+  index: -1
+zhangsanfeng
+  rotate: false
+  xy: 900, 37
+  size: 431, 555
+  orig: 600, 682
+  offset: 84, 43
+  index: -1

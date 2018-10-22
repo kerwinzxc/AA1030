@@ -1,0 +1,27 @@
+
+effect_zhangmenling_yuenvjian.png
+size: 930,261
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+faguang
+  rotate: false
+  xy: 414, 5
+  size: 275, 254
+  orig: 284, 263
+  offset: 2, 5
+  index: -1
+lantiao
+  rotate: false
+  xy: 2, 99
+  size: 410, 160
+  orig: 448, 184
+  offset: 18, 13
+  index: -1
+tu
+  rotate: true
+  xy: 691, 2
+  size: 257, 237
+  orig: 257, 237
+  offset: 0, 0
+  index: -1

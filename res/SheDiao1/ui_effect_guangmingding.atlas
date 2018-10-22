@@ -1,0 +1,62 @@
+
+ui_effect_guangmingding.png
+size: 1964,746
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+changjing
+  rotate: true
+  xy: 1140, 374
+  size: 370, 618
+  orig: 370, 618
+  offset: 0, 0
+  index: -1
+fangzi
+  rotate: true
+  xy: 1760, 412
+  size: 332, 194
+  orig: 337, 231
+  offset: 0, 14
+  index: -1
+qiangjiao
+  rotate: true
+  xy: 2, 10
+  size: 92, 145
+  orig: 112, 165
+  offset: 0, 0
+  index: -1
+shan
+  rotate: true
+  xy: 1760, 86
+  size: 324, 202
+  orig: 370, 204
+  offset: 22, 2
+  index: -1
+xiyang
+  rotate: true
+  xy: 1140, 2
+  size: 370, 618
+  orig: 370, 618
+  offset: 0, 0
+  index: -1
+youshu
+  rotate: false
+  xy: 276, 9
+  size: 103, 93
+  orig: 103, 95
+  offset: 0, 2
+  index: -1
+zhenxing3b
+  rotate: true
+  xy: 2, 104
+  size: 640, 1136
+  orig: 640, 1136
+  offset: 0, 0
+  index: -1
+zuoshu
+  rotate: false
+  xy: 149, 34
+  size: 125, 68
+  orig: 125, 80
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,279 @@
+
+effect_zhangmenling_yitianjian.png
+size: 1969,316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bowen_0001
+  rotate: true
+  xy: 643, 6
+  size: 111, 126
+  orig: 282, 282
+  offset: 86, 76
+  index: -1
+bowen_0002
+  rotate: true
+  xy: 1004, 5
+  size: 123, 131
+  orig: 282, 282
+  offset: 80, 73
+  index: -1
+bowen_0003
+  rotate: false
+  xy: 1611, 13
+  size: 124, 141
+  orig: 282, 282
+  offset: 79, 68
+  index: -1
+bowen_0004
+  rotate: true
+  xy: 1289, 7
+  size: 126, 146
+  orig: 282, 282
+  offset: 77, 67
+  index: -1
+bowen_0005
+  rotate: true
+  xy: 1137, 3
+  size: 130, 150
+  orig: 282, 282
+  offset: 75, 65
+  index: -1
+bowen_0006
+  rotate: false
+  xy: 1591, 156
+  size: 134, 158
+  orig: 282, 282
+  offset: 75, 61
+  index: -1
+bowen_0007
+  rotate: true
+  xy: 1442, 4
+  size: 138, 167
+  orig: 282, 282
+  offset: 73, 56
+  index: -1
+bowen_0008
+  rotate: false
+  xy: 1442, 144
+  size: 147, 170
+  orig: 282, 282
+  offset: 68, 55
+  index: -1
+bowen_0009
+  rotate: false
+  xy: 1291, 140
+  size: 149, 174
+  orig: 282, 282
+  offset: 68, 53
+  index: -1
+bowen_0010
+  rotate: false
+  xy: 1137, 135
+  size: 152, 179
+  orig: 282, 282
+  offset: 65, 51
+  index: -1
+bowen_0011
+  rotate: false
+  xy: 979, 130
+  size: 156, 184
+  orig: 282, 282
+  offset: 64, 49
+  index: -1
+bowen_0012
+  rotate: false
+  xy: 812, 121
+  size: 165, 193
+  orig: 282, 282
+  offset: 61, 45
+  index: -1
+bowen_0013
+  rotate: false
+  xy: 640, 119
+  size: 170, 195
+  orig: 282, 282
+  offset: 56, 45
+  index: -1
+bowen_0014
+  rotate: false
+  xy: 468, 115
+  size: 170, 199
+  orig: 282, 282
+  offset: 56, 45
+  index: -1
+bowen_0015
+  rotate: false
+  xy: 296, 112
+  size: 170, 202
+  orig: 282, 282
+  offset: 56, 45
+  index: -1
+lizi_0002
+  rotate: true
+  xy: 532, 17
+  size: 76, 93
+  orig: 149, 150
+  offset: 34, 29
+  index: -1
+lizi_0004
+  rotate: false
+  xy: 1822, 57
+  size: 72, 82
+  orig: 149, 150
+  offset: 34, 41
+  index: -1
+lizi_0006
+  rotate: true
+  xy: 1737, 14
+  size: 75, 81
+  orig: 149, 150
+  offset: 33, 42
+  index: -1
+lizi_0008
+  rotate: false
+  xy: 1895, 227
+  size: 72, 87
+  orig: 149, 150
+  offset: 34, 36
+  index: -1
+lizi_0010
+  rotate: false
+  xy: 927, 8
+  size: 73, 89
+  orig: 149, 150
+  offset: 35, 34
+  index: -1
+lizi_0012
+  rotate: true
+  xy: 1737, 91
+  size: 71, 83
+  orig: 149, 150
+  offset: 38, 32
+  index: -1
+lizi_0014
+  rotate: false
+  xy: 1896, 64
+  size: 71, 75
+  orig: 149, 150
+  offset: 38, 32
+  index: -1
+lizi_0016
+  rotate: false
+  xy: 1893, 141
+  size: 72, 84
+  orig: 149, 150
+  offset: 38, 31
+  index: -1
+lizi_0018
+  rotate: true
+  xy: 1805, 164
+  size: 73, 86
+  orig: 149, 150
+  offset: 38, 30
+  index: -1
+lizi_0020
+  rotate: true
+  xy: 1805, 239
+  size: 75, 88
+  orig: 149, 150
+  offset: 37, 30
+  index: -1
+lizi_0022
+  rotate: false
+  xy: 1727, 224
+  size: 76, 90
+  orig: 149, 150
+  offset: 36, 29
+  index: -1
+lizi_0024
+  rotate: false
+  xy: 850, 6
+  size: 75, 91
+  orig: 149, 150
+  offset: 37, 28
+  index: -1
+lizi_0026
+  rotate: false
+  xy: 771, 5
+  size: 77, 92
+  orig: 149, 150
+  offset: 36, 28
+  index: -1
+lizi_0028
+  rotate: true
+  xy: 296, 11
+  size: 78, 93
+  orig: 149, 150
+  offset: 35, 27
+  index: -1
+lizi_0030
+  rotate: true
+  xy: 436, 15
+  size: 78, 94
+  orig: 149, 150
+  offset: 34, 28
+  index: -1
+weaponn
+  rotate: true
+  xy: 2, 11
+  size: 303, 292
+  orig: 307, 307
+  offset: 3, 6
+  index: -1
+xian_0001
+  rotate: false
+  xy: 979, 121
+  size: 12, 7
+  orig: 295, 25
+  offset: 3, 10
+  index: -1
+xian_0002
+  rotate: false
+  xy: 588, 3
+  size: 37, 12
+  orig: 295, 25
+  offset: 7, 3
+  index: -1
+xian_0003
+  rotate: true
+  xy: 627, 4
+  size: 89, 14
+  orig: 295, 25
+  offset: 14, 1
+  index: -1
+xian_0004
+  rotate: false
+  xy: 296, 91
+  size: 138, 19
+  orig: 295, 25
+  offset: 31, 1
+  index: -1
+xian_0005
+  rotate: false
+  xy: 812, 99
+  size: 190, 20
+  orig: 295, 25
+  offset: 37, 2
+  index: -1
+xian_0006
+  rotate: false
+  xy: 468, 95
+  size: 173, 18
+  orig: 295, 25
+  offset: 87, 6
+  index: -1
+xian_0007
+  rotate: false
+  xy: 532, 2
+  size: 54, 13
+  orig: 295, 25
+  offset: 236, 8
+  index: -1
+xian_0008
+  rotate: false
+  xy: 1591, 146
+  size: 12, 8
+  orig: 295, 25
+  offset: 277, 7
+  index: -1

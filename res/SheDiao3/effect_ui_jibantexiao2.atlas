@@ -1,0 +1,83 @@
+
+effect_ui_jibantexiao2.png
+size: 549,80
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+an
+  rotate: false
+  xy: 402, 2
+  size: 37, 38
+  orig: 48, 48
+  offset: 6, 5
+  index: -1
+guangxian
+  rotate: false
+  xy: 2, 6
+  size: 240, 72
+  orig: 240, 72
+  offset: 0, 0
+  index: -1
+zi_guang
+  rotate: false
+  xy: 244, 24
+  size: 114, 54
+  orig: 114, 54
+  offset: 0, 0
+  index: -1
+zi_ji_0001
+  rotate: false
+  xy: 360, 46
+  size: 48, 32
+  orig: 48, 48
+  offset: 0, 9
+  index: -1
+zi_ji_0002
+  rotate: false
+  xy: 460, 46
+  size: 44, 32
+  orig: 48, 48
+  offset: 2, 9
+  index: -1
+zi_ji_0003
+  rotate: false
+  xy: 360, 12
+  size: 40, 32
+  orig: 48, 48
+  offset: 4, 9
+  index: -1
+zi_ji_0004
+  rotate: true
+  xy: 441, 2
+  size: 38, 32
+  orig: 48, 48
+  offset: 5, 9
+  index: -1
+zi_shen_0001
+  rotate: false
+  xy: 410, 42
+  size: 48, 36
+  orig: 48, 48
+  offset: 0, 6
+  index: -1
+zi_shen_0002
+  rotate: false
+  xy: 506, 42
+  size: 41, 36
+  orig: 48, 48
+  offset: 3, 6
+  index: -1
+zi_shen_0003
+  rotate: false
+  xy: 475, 4
+  size: 36, 36
+  orig: 48, 48
+  offset: 6, 6
+  index: -1
+zi_shen_0004
+  rotate: false
+  xy: 513, 4
+  size: 34, 36
+  orig: 48, 48
+  offset: 7, 6
+  index: -1

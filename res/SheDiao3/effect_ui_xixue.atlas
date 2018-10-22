@@ -1,0 +1,146 @@
+
+effect_ui_xixue.png
+size: 1615,287
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xixue0003
+  rotate: false
+  xy: 847, 12
+  size: 146, 125
+  orig: 159, 176
+  offset: 12, 0
+  index: -1
+xixue0004
+  rotate: true
+  xy: 1321, 143
+  size: 142, 146
+  orig: 159, 176
+  offset: 14, 0
+  index: -1
+xixue0005
+  rotate: true
+  xy: 530, 15
+  size: 136, 163
+  orig: 159, 176
+  offset: 17, 2
+  index: -1
+xixue0006
+  rotate: true
+  xy: 700, 150
+  size: 135, 166
+  orig: 159, 176
+  offset: 16, 3
+  index: -1
+xixue0007
+  rotate: true
+  xy: 530, 153
+  size: 132, 168
+  orig: 159, 176
+  offset: 16, 5
+  index: -1
+xixue0008
+  rotate: true
+  xy: 355, 150
+  size: 135, 173
+  orig: 159, 176
+  offset: 16, 3
+  index: -1
+xixue0009
+  rotate: true
+  xy: 179, 147
+  size: 138, 174
+  orig: 159, 176
+  offset: 15, 2
+  index: -1
+xixue0010
+  rotate: true
+  xy: 2, 145
+  size: 140, 175
+  orig: 159, 176
+  offset: 15, 1
+  index: -1
+xixue0011
+  rotate: false
+  xy: 1170, 2
+  size: 146, 141
+  orig: 159, 176
+  offset: 12, 0
+  index: -1
+xixue0012
+  rotate: true
+  xy: 1469, 139
+  size: 146, 144
+  orig: 159, 176
+  offset: 12, 0
+  index: -1
+xixue0013
+  rotate: true
+  xy: 1021, 2
+  size: 142, 147
+  orig: 159, 176
+  offset: 14, 0
+  index: -1
+xixue0014
+  rotate: true
+  xy: 1021, 146
+  size: 139, 148
+  orig: 159, 176
+  offset: 14, 2
+  index: -1
+xixue0015
+  rotate: true
+  xy: 695, 10
+  size: 138, 150
+  orig: 159, 176
+  offset: 13, 3
+  index: -1
+xixue0016
+  rotate: true
+  xy: 1318, 5
+  size: 136, 146
+  orig: 159, 176
+  offset: 13, 5
+  index: -1
+xixue0017
+  rotate: true
+  xy: 2, 5
+  size: 138, 150
+  orig: 159, 176
+  offset: 13, 3
+  index: -1
+xixue0018
+  rotate: true
+  xy: 1171, 145
+  size: 140, 148
+  orig: 159, 176
+  offset: 13, 2
+  index: -1
+xixue0020
+  rotate: true
+  xy: 868, 139
+  size: 146, 151
+  orig: 159, 176
+  offset: 12, 0
+  index: -1
+xixue0022
+  rotate: true
+  xy: 355, 3
+  size: 145, 154
+  orig: 159, 176
+  offset: 12, 0
+  index: -1
+xixue0024
+  rotate: true
+  xy: 179, 3
+  size: 142, 152
+  orig: 159, 176
+  offset: 12, 2
+  index: -1
+xixue0026
+  rotate: false
+  xy: 1466, 12
+  size: 135, 125
+  orig: 159, 176
+  offset: 16, 3
+  index: -1

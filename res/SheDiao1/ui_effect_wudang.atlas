@@ -1,0 +1,55 @@
+
+ui_effect_wudang.png
+size: 1669,1531
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lantian
+  rotate: false
+  xy: 2, 293
+  size: 740, 1236
+  orig: 740, 1236
+  offset: 0, 0
+  index: -1
+qianjing_shu
+  rotate: true
+  xy: 1258, 2
+  size: 333, 330
+  orig: 342, 343
+  offset: 9, 0
+  index: -1
+qianjing_wapian
+  rotate: true
+  xy: 1486, 789
+  size: 740, 181
+  orig: 740, 276
+  offset: 0, 0
+  index: -1
+xueshan
+  rotate: true
+  xy: 1486, 337
+  size: 450, 128
+  orig: 543, 241
+  offset: 51, 66
+  index: -1
+yuanjing
+  rotate: false
+  xy: 735, 60
+  size: 521, 231
+  orig: 740, 379
+  offset: 111, 67
+  index: -1
+yun
+  rotate: false
+  xy: 2, 27
+  size: 731, 264
+  orig: 740, 264
+  offset: 0, 0
+  index: -1
+zhongjing
+  rotate: false
+  xy: 744, 343
+  size: 740, 1186
+  orig: 740, 1236
+  offset: 0, 50
+  index: -1

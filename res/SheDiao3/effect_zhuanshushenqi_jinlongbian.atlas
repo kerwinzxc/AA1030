@@ -1,0 +1,188 @@
+
+effect_zhuanshushenqi_jinlongbian.png
+size: 677,536
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian1_0001
+  rotate: false
+  xy: 432, 359
+  size: 67, 175
+  orig: 104, 192
+  offset: 10, 0
+  index: -1
+dian1_0002
+  rotate: true
+  xy: 573, 77
+  size: 54, 47
+  orig: 104, 192
+  offset: 35, 138
+  index: -1
+dian1_0003
+  rotate: false
+  xy: 251, 347
+  size: 104, 187
+  orig: 104, 192
+  offset: 0, 0
+  index: -1
+dian1_0004
+  rotate: false
+  xy: 357, 358
+  size: 73, 176
+  orig: 104, 192
+  offset: 1, 0
+  index: -1
+dian1_0005
+  rotate: true
+  xy: 488, 133
+  size: 69, 119
+  orig: 104, 192
+  offset: 10, 45
+  index: -1
+dian1_0006
+  rotate: false
+  xy: 2, 143
+  size: 81, 192
+  orig: 104, 192
+  offset: 0, 0
+  index: -1
+dian1_0007
+  rotate: false
+  xy: 171, 343
+  size: 78, 191
+  orig: 104, 192
+  offset: 0, 1
+  index: -1
+dian1_0008
+  rotate: false
+  xy: 85, 153
+  size: 64, 182
+  orig: 104, 192
+  offset: 0, 8
+  index: -1
+dian2_0001
+  rotate: true
+  xy: 377, 18
+  size: 90, 102
+  orig: 123, 175
+  offset: 25, 7
+  index: -1
+dian2_0002
+  rotate: false
+  xy: 151, 163
+  size: 106, 172
+  orig: 123, 175
+  offset: 17, 0
+  index: -1
+dian2_0003
+  rotate: true
+  xy: 501, 412
+  size: 122, 174
+  orig: 123, 175
+  offset: 0, 1
+  index: -1
+dian2_0004
+  rotate: false
+  xy: 259, 174
+  size: 121, 171
+  orig: 123, 175
+  offset: 0, 4
+  index: -1
+dian2_0005
+  rotate: true
+  xy: 2, 22
+  size: 119, 167
+  orig: 123, 175
+  offset: 0, 4
+  index: -1
+dian2_0006
+  rotate: false
+  xy: 171, 2
+  size: 99, 159
+  orig: 123, 175
+  offset: 17, 10
+  index: -1
+dian2_0007
+  rotate: false
+  xy: 382, 195
+  size: 104, 161
+  orig: 123, 175
+  offset: 11, 12
+  index: -1
+dian2_0008
+  rotate: false
+  xy: 272, 18
+  size: 103, 154
+  orig: 123, 175
+  offset: 9, 17
+  index: -1
+dian2_0009
+  rotate: true
+  xy: 488, 204
+  size: 95, 142
+  orig: 123, 175
+  offset: 11, 24
+  index: -1
+dian2_0010
+  rotate: true
+  xy: 382, 110
+  size: 83, 104
+  orig: 123, 175
+  offset: 16, 47
+  index: -1
+dian3_0001
+  rotate: false
+  xy: 622, 80
+  size: 31, 31
+  orig: 96, 60
+  offset: 45, 23
+  index: -1
+dian3_0002
+  rotate: false
+  xy: 632, 247
+  size: 42, 52
+  orig: 96, 60
+  offset: 43, 1
+  index: -1
+dian3_0003
+  rotate: false
+  xy: 609, 148
+  size: 53, 54
+  orig: 96, 60
+  offset: 36, 0
+  index: -1
+dian3_0004
+  rotate: false
+  xy: 481, 21
+  size: 67, 52
+  orig: 96, 60
+  offset: 23, 1
+  index: -1
+dian3_0005
+  rotate: false
+  xy: 488, 75
+  size: 83, 56
+  orig: 96, 60
+  offset: 4, 4
+  index: -1
+dian3_0006
+  rotate: false
+  xy: 622, 113
+  size: 53, 33
+  orig: 96, 60
+  offset: 1, 26
+  index: -1
+guangyun
+  rotate: false
+  xy: 501, 301
+  size: 174, 109
+  orig: 180, 120
+  offset: 1, 4
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 337
+  size: 167, 197
+  orig: 167, 197
+  offset: 0, 0
+  index: -1

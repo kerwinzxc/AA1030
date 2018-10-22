@@ -1,0 +1,76 @@
+
+effect_ui_guiyuanding_shengji.png
+size: 829,348
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+474
+  rotate: false
+  xy: 711, 107
+  size: 106, 106
+  orig: 120, 120
+  offset: 7, 7
+  index: -1
+c_0001
+  rotate: false
+  xy: 711, 215
+  size: 116, 131
+  orig: 335, 335
+  offset: 100, 103
+  index: -1
+c_0002
+  rotate: true
+  xy: 178, 2
+  size: 152, 171
+  orig: 335, 335
+  offset: 82, 82
+  index: -1
+c_0003
+  rotate: false
+  xy: 2, 149
+  size: 174, 197
+  orig: 335, 335
+  offset: 71, 69
+  index: -1
+c_0005
+  rotate: false
+  xy: 539, 170
+  size: 170, 176
+  orig: 335, 335
+  offset: 73, 88
+  index: -1
+c_0007
+  rotate: false
+  xy: 362, 162
+  size: 175, 184
+  orig: 335, 335
+  offset: 71, 84
+  index: -1
+c_0009
+  rotate: false
+  xy: 178, 156
+  size: 182, 190
+  orig: 335, 335
+  offset: 68, 81
+  index: -1
+c_0011
+  rotate: false
+  xy: 362, 33
+  size: 161, 127
+  orig: 335, 335
+  offset: 85, 131
+  index: -1
+c_0013
+  rotate: false
+  xy: 539, 40
+  size: 162, 128
+  orig: 335, 335
+  offset: 83, 131
+  index: -1
+c_0015
+  rotate: false
+  xy: 2, 19
+  size: 164, 128
+  orig: 335, 335
+  offset: 82, 131
+  index: -1

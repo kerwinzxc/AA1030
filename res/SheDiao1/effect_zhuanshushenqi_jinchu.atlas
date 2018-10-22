@@ -1,0 +1,27 @@
+
+effect_zhuanshushenqi_jinchu.png
+size: 987,289
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lantiao
+  rotate: false
+  xy: 2, 127
+  size: 410, 160
+  orig: 448, 184
+  offset: 18, 13
+  index: -1
+tu
+  rotate: false
+  xy: 414, 2
+  size: 285, 285
+  orig: 307, 307
+  offset: 13, 9
+  index: -1
+zz
+  rotate: false
+  xy: 701, 3
+  size: 284, 284
+  orig: 284, 284
+  offset: 0, 0
+  index: -1

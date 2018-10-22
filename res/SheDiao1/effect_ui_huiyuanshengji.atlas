@@ -1,0 +1,41 @@
+
+effect_ui_huiyuanshengji.png
+size: 750,320
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banquan
+  rotate: false
+  xy: 2, 138
+  size: 281, 111
+  orig: 296, 125
+  offset: 6, 10
+  index: -1
+shan
+  rotate: false
+  xy: 285, 201
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+tt
+  rotate: false
+  xy: 2, 28
+  size: 265, 108
+  orig: 277, 116
+  offset: 7, 6
+  index: -1
+tuowei
+  rotate: false
+  xy: 2, 251
+  size: 378, 67
+  orig: 381, 154
+  offset: 3, 45
+  index: -1
+zhezhao
+  rotate: false
+  xy: 382, 2
+  size: 366, 316
+  orig: 366, 316
+  offset: 0, 0
+  index: -1

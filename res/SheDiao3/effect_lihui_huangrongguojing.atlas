@@ -1,0 +1,223 @@
+
+effect_lihui_huangrongguojing.png
+size: 1999,1245
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B GAI03_00000
+  rotate: false
+  xy: 833, 383
+  size: 197, 176
+  orig: 206, 176
+  offset: 2, 0
+  index: -1
+B GAI03_00004
+  rotate: true
+  xy: 678, 2
+  size: 196, 176
+  orig: 206, 176
+  offset: 3, 0
+  index: -1
+B GAI03_00008
+  rotate: true
+  xy: 856, 2
+  size: 196, 176
+  orig: 206, 176
+  offset: 3, 0
+  index: -1
+B GAI03_00012
+  rotate: false
+  xy: 1032, 378
+  size: 197, 176
+  orig: 206, 176
+  offset: 2, 0
+  index: -1
+B GAI03_00016
+  rotate: false
+  xy: 1231, 359
+  size: 197, 176
+  orig: 206, 176
+  offset: 2, 0
+  index: -1
+B GAI03_00020
+  rotate: false
+  xy: 1430, 359
+  size: 197, 176
+  orig: 206, 176
+  offset: 2, 0
+  index: -1
+B GAI03_00024
+  rotate: true
+  xy: 1034, 2
+  size: 196, 176
+  orig: 206, 176
+  offset: 3, 0
+  index: -1
+B GAI03_00028
+  rotate: true
+  xy: 1629, 338
+  size: 197, 176
+  orig: 206, 176
+  offset: 2, 0
+  index: -1
+B GAI03_00032
+  rotate: false
+  xy: 1212, 181
+  size: 196, 176
+  orig: 206, 176
+  offset: 3, 0
+  index: -1
+B GAI03_00036
+  rotate: false
+  xy: 1410, 181
+  size: 196, 176
+  orig: 206, 176
+  offset: 3, 0
+  index: -1
+B GAI03_00040
+  rotate: false
+  xy: 1212, 3
+  size: 196, 176
+  orig: 206, 176
+  offset: 3, 0
+  index: -1
+B GAI03_00044
+  rotate: true
+  xy: 1807, 294
+  size: 197, 176
+  orig: 206, 176
+  offset: 2, 0
+  index: -1
+B GAI03_00048
+  rotate: true
+  xy: 629, 237
+  size: 197, 176
+  orig: 206, 176
+  offset: 2, 0
+  index: -1
+B GAI03_00052
+  rotate: false
+  xy: 807, 205
+  size: 197, 176
+  orig: 206, 176
+  offset: 2, 0
+  index: -1
+B GAI03_00056
+  rotate: false
+  xy: 1006, 200
+  size: 197, 176
+  orig: 206, 176
+  offset: 2, 0
+  index: -1
+GJHR
+  rotate: false
+  xy: 388, 666
+  size: 527, 577
+  orig: 600, 682
+  offset: 42, 30
+  index: -1
+guojing
+  rotate: true
+  xy: 1460, 716
+  size: 527, 534
+  orig: 600, 682
+  offset: 42, 73
+  index: -1
+huangrong
+  rotate: false
+  xy: 74, 62
+  size: 375, 497
+  orig: 600, 682
+  offset: 189, 30
+  index: -1
+nuji_wu_0001
+  rotate: true
+  xy: 917, 561
+  size: 187, 224
+  orig: 193, 228
+  offset: 4, 0
+  index: -1
+nuji_wu_0003
+  rotate: true
+  xy: 451, 15
+  size: 191, 225
+  orig: 193, 228
+  offset: 0, 0
+  index: -1
+nuji_wu_0005
+  rotate: true
+  xy: 1143, 556
+  size: 192, 224
+  orig: 193, 228
+  offset: 0, 0
+  index: -1
+nuji_wu_0007
+  rotate: false
+  xy: 451, 436
+  size: 192, 228
+  orig: 193, 228
+  offset: 0, 0
+  index: -1
+nuji_wu_0009
+  rotate: true
+  xy: 1369, 537
+  size: 177, 224
+  orig: 193, 228
+  offset: 9, 0
+  index: -1
+nuji_wu_0010
+  rotate: false
+  xy: 451, 208
+  size: 176, 226
+  orig: 193, 228
+  offset: 9, 0
+  index: -1
+nuji_wu_0012
+  rotate: true
+  xy: 1595, 537
+  size: 177, 224
+  orig: 193, 228
+  offset: 9, 0
+  index: -1
+nuji_wu_0014
+  rotate: false
+  xy: 1821, 493
+  size: 176, 221
+  orig: 193, 228
+  offset: 10, 2
+  index: -1
+nuji_wu_0016
+  rotate: false
+  xy: 645, 438
+  size: 186, 226
+  orig: 193, 228
+  offset: 0, 2
+  index: -1
+shuye
+  rotate: true
+  xy: 1608, 157
+  size: 179, 196
+  orig: 190, 198
+  offset: 11, 2
+  index: -1
+shuyedi
+  rotate: false
+  xy: 917, 750
+  size: 541, 493
+  orig: 568, 630
+  offset: 0, 69
+  index: -1
+tuo
+  rotate: true
+  xy: 2, 37
+  size: 522, 70
+  orig: 568, 112
+  offset: 16, 26
+  index: -1
+射雕阵型a
+  rotate: false
+  xy: 2, 561
+  size: 384, 682
+  orig: 384, 682
+  offset: 0, 0
+  index: -1

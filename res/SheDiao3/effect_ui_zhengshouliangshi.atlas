@@ -1,0 +1,118 @@
+
+effect_ui_zhengshouliangshi.png
+size: 233,540
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+l_0002
+  rotate: true
+  xy: 95, 97
+  size: 55, 69
+  orig: 143, 187
+  offset: 40, 61
+  index: -1
+l_0004
+  rotate: true
+  xy: 166, 98
+  size: 54, 57
+  orig: 143, 187
+  offset: 41, 86
+  index: -1
+l_0006
+  rotate: false
+  xy: 131, 3
+  size: 46, 44
+  orig: 143, 187
+  offset: 45, 111
+  index: -1
+l_0008
+  rotate: true
+  xy: 179, 2
+  size: 45, 42
+  orig: 143, 187
+  offset: 52, 124
+  index: -1
+l_0010
+  rotate: false
+  xy: 166, 49
+  size: 56, 47
+  orig: 143, 187
+  offset: 45, 125
+  index: -1
+l_0012
+  rotate: true
+  xy: 72, 20
+  size: 73, 57
+  orig: 143, 187
+  offset: 34, 119
+  index: -1
+l_0014
+  rotate: true
+  xy: 2, 10
+  size: 83, 68
+  orig: 143, 187
+  offset: 27, 112
+  index: -1
+l_0016
+  rotate: false
+  xy: 2, 95
+  size: 91, 82
+  orig: 143, 187
+  offset: 22, 97
+  index: -1
+l_0018
+  rotate: false
+  xy: 107, 154
+  size: 97, 94
+  orig: 143, 187
+  offset: 19, 82
+  index: -1
+l_0020
+  rotate: true
+  xy: 2, 179
+  size: 102, 103
+  orig: 143, 187
+  offset: 16, 67
+  index: -1
+l_0022
+  rotate: true
+  xy: 2, 321
+  size: 106, 112
+  orig: 143, 187
+  offset: 14, 52
+  index: -1
+l_0024
+  rotate: true
+  xy: 2, 429
+  size: 109, 114
+  orig: 143, 187
+  offset: 13, 36
+  index: -1
+l_0026
+  rotate: false
+  xy: 118, 446
+  size: 113, 92
+  orig: 143, 187
+  offset: 12, 43
+  index: -1
+l_0028
+  rotate: false
+  xy: 118, 348
+  size: 113, 96
+  orig: 143, 187
+  offset: 13, 26
+  index: -1
+l_0030
+  rotate: false
+  xy: 116, 250
+  size: 112, 96
+  orig: 143, 187
+  offset: 15, 12
+  index: -1
+l_0032
+  rotate: false
+  xy: 2, 283
+  size: 111, 36
+  orig: 143, 187
+  offset: 16, 64
+  index: -1

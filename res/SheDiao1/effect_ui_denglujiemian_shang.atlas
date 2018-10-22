@@ -1,0 +1,20 @@
+
+effect_ui_denglujiemian_shang.png
+size: 431,334
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qian
+  rotate: false
+  xy: 2, 2
+  size: 384, 330
+  orig: 384, 330
+  offset: 0, 0
+  index: -1
+shuye
+  rotate: false
+  xy: 388, 300
+  size: 41, 32
+  orig: 46, 33
+  offset: 2, 1
+  index: -1

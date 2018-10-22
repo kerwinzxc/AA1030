@@ -1,0 +1,354 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		FAB80DB821607693006889A4 /* TwoOrzOSDK.m in Sources */ = {isa = PBXBuildFile; fileRef = FAB80D9F21607692006889A4 /* TwoOrzOSDK.m */; };
+		FAB80DB921607693006889A4 /* OrzOSDKReachability.m in Sources */ = {isa = PBXBuildFile; fileRef = FAB80DA021607692006889A4 /* OrzOSDKReachability.m */; };
+		FAB80DBA21607693006889A4 /* OrzOSDKNoticeView.m in Sources */ = {isa = PBXBuildFile; fileRef = FAB80DA521607692006889A4 /* OrzOSDKNoticeView.m */; };
+		FAB80DBB21607693006889A4 /* startOrzOSDKIapProcess.m in Sources */ = {isa = PBXBuildFile; fileRef = FAB80DA621607692006889A4 /* startOrzOSDKIapProcess.m */; };
+		FAB80DBC21607693006889A4 /* OrzOSDKBranch.mm in Sources */ = {isa = PBXBuildFile; fileRef = FAB80DA721607692006889A4 /* OrzOSDKBranch.mm */; };
+		FAB80DBD21607693006889A4 /* OrzOSDK.m in Sources */ = {isa = PBXBuildFile; fileRef = FAB80DAA21607693006889A4 /* OrzOSDK.m */; };
+		FAB80DBE21607693006889A4 /* TreeOrzOSDK.m in Sources */ = {isa = PBXBuildFile; fileRef = FAB80DAD21607693006889A4 /* TreeOrzOSDK.m */; };
+		FAB80DBF21607693006889A4 /* OrzOSDKProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = FAB80DAE21607693006889A4 /* OrzOSDKProgressHUD.m */; };
+		FAB80DC021607693006889A4 /* OrzOSDKUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = FAB80DAF21607693006889A4 /* OrzOSDKUtils.m */; };
+		FAB80DC121607693006889A4 /* OneOrzOSDK.m in Sources */ = {isa = PBXBuildFile; fileRef = FAB80DB121607693006889A4 /* OneOrzOSDK.m */; };
+		FAB80DC221607693006889A4 /* FourOrzOSDK.m in Sources */ = {isa = PBXBuildFile; fileRef = FAB80DB521607693006889A4 /* FourOrzOSDK.m */; };
+		FAB80DC321607693006889A4 /* FiveOrzOSDK.m in Sources */ = {isa = PBXBuildFile; fileRef = FAB80DB621607693006889A4 /* FiveOrzOSDK.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		852CB0F51FE0E58A00F25062 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "include/$(PRODUCT_NAME)";
+			dstSubfolderSpec = 16;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		852CB0F71FE0E58A00F25062 /* libOrzOSDK.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libOrzOSDK.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		FAB80D9F21607692006889A4 /* TwoOrzOSDK.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TwoOrzOSDK.m; sourceTree = "<group>"; };
+		FAB80DA021607692006889A4 /* OrzOSDKReachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OrzOSDKReachability.m; sourceTree = "<group>"; };
+		FAB80DA121607692006889A4 /* TwoOrzOSDK.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TwoOrzOSDK.h; sourceTree = "<group>"; };
+		FAB80DA221607692006889A4 /* OrzOSDKBranch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OrzOSDKBranch.h; sourceTree = "<group>"; };
+		FAB80DA321607692006889A4 /* OrzOSDKBranchDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OrzOSDKBranchDelegate.h; sourceTree = "<group>"; };
+		FAB80DA421607692006889A4 /* OneOrzOSDK.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OneOrzOSDK.h; sourceTree = "<group>"; };
+		FAB80DA521607692006889A4 /* OrzOSDKNoticeView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OrzOSDKNoticeView.m; sourceTree = "<group>"; };
+		FAB80DA621607692006889A4 /* startOrzOSDKIapProcess.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = startOrzOSDKIapProcess.m; sourceTree = "<group>"; };
+		FAB80DA721607692006889A4 /* OrzOSDKBranch.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = OrzOSDKBranch.mm; sourceTree = "<group>"; };
+		FAB80DA821607692006889A4 /* startOrzOSDKIapProcess.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = startOrzOSDKIapProcess.h; sourceTree = "<group>"; };
+		FAB80DA921607692006889A4 /* OrzOSDKUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OrzOSDKUtils.h; sourceTree = "<group>"; };
+		FAB80DAA21607693006889A4 /* OrzOSDK.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OrzOSDK.m; sourceTree = "<group>"; };
+		FAB80DAB21607693006889A4 /* OrzOSDK.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OrzOSDK.h; sourceTree = "<group>"; };
+		FAB80DAC21607693006889A4 /* OrzOSDKNoticeView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OrzOSDKNoticeView.h; sourceTree = "<group>"; };
+		FAB80DAD21607693006889A4 /* TreeOrzOSDK.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TreeOrzOSDK.m; sourceTree = "<group>"; };
+		FAB80DAE21607693006889A4 /* OrzOSDKProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OrzOSDKProgressHUD.m; sourceTree = "<group>"; };
+		FAB80DAF21607693006889A4 /* OrzOSDKUtils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OrzOSDKUtils.m; sourceTree = "<group>"; };
+		FAB80DB021607693006889A4 /* TreeOrzOSDK.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TreeOrzOSDK.h; sourceTree = "<group>"; };
+		FAB80DB121607693006889A4 /* OneOrzOSDK.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OneOrzOSDK.m; sourceTree = "<group>"; };
+		FAB80DB221607693006889A4 /* OrzOSDKProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OrzOSDKProgressHUD.h; sourceTree = "<group>"; };
+		FAB80DB321607693006889A4 /* FiveOrzOSDK.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FiveOrzOSDK.h; sourceTree = "<group>"; };
+		FAB80DB421607693006889A4 /* OrzOSDKReachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OrzOSDKReachability.h; sourceTree = "<group>"; };
+		FAB80DB521607693006889A4 /* FourOrzOSDK.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FourOrzOSDK.m; sourceTree = "<group>"; };
+		FAB80DB621607693006889A4 /* FiveOrzOSDK.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FiveOrzOSDK.m; sourceTree = "<group>"; };
+		FAB80DB721607693006889A4 /* FourOrzOSDK.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FourOrzOSDK.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		852CB0F41FE0E58A00F25062 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		852CB0EE1FE0E58A00F25062 = {
+			isa = PBXGroup;
+			children = (
+				852CB0F91FE0E58A00F25062 /* OrzOSDK */,
+				852CB0F81FE0E58A00F25062 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		852CB0F81FE0E58A00F25062 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				852CB0F71FE0E58A00F25062 /* libOrzOSDK.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		852CB0F91FE0E58A00F25062 /* OrzOSDK */ = {
+			isa = PBXGroup;
+			children = (
+				FAB80DB321607693006889A4 /* FiveOrzOSDK.h */,
+				FAB80DB621607693006889A4 /* FiveOrzOSDK.m */,
+				FAB80DB721607693006889A4 /* FourOrzOSDK.h */,
+				FAB80DB521607693006889A4 /* FourOrzOSDK.m */,
+				FAB80DA421607692006889A4 /* OneOrzOSDK.h */,
+				FAB80DB121607693006889A4 /* OneOrzOSDK.m */,
+				FAB80DAB21607693006889A4 /* OrzOSDK.h */,
+				FAB80DAA21607693006889A4 /* OrzOSDK.m */,
+				FAB80DA221607692006889A4 /* OrzOSDKBranch.h */,
+				FAB80DA721607692006889A4 /* OrzOSDKBranch.mm */,
+				FAB80DA321607692006889A4 /* OrzOSDKBranchDelegate.h */,
+				FAB80DAC21607693006889A4 /* OrzOSDKNoticeView.h */,
+				FAB80DA521607692006889A4 /* OrzOSDKNoticeView.m */,
+				FAB80DB221607693006889A4 /* OrzOSDKProgressHUD.h */,
+				FAB80DAE21607693006889A4 /* OrzOSDKProgressHUD.m */,
+				FAB80DB421607693006889A4 /* OrzOSDKReachability.h */,
+				FAB80DA021607692006889A4 /* OrzOSDKReachability.m */,
+				FAB80DA921607692006889A4 /* OrzOSDKUtils.h */,
+				FAB80DAF21607693006889A4 /* OrzOSDKUtils.m */,
+				FAB80DA821607692006889A4 /* startOrzOSDKIapProcess.h */,
+				FAB80DA621607692006889A4 /* startOrzOSDKIapProcess.m */,
+				FAB80DB021607693006889A4 /* TreeOrzOSDK.h */,
+				FAB80DAD21607693006889A4 /* TreeOrzOSDK.m */,
+				FAB80DA121607692006889A4 /* TwoOrzOSDK.h */,
+				FAB80D9F21607692006889A4 /* TwoOrzOSDK.m */,
+			);
+			path = OrzOSDK;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		852CB0F61FE0E58A00F25062 /* OrzOSDK */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 852CB1001FE0E58A00F25062 /* Build configuration list for PBXNativeTarget "OrzOSDK" */;
+			buildPhases = (
+				852CB0F31FE0E58A00F25062 /* Sources */,
+				852CB0F41FE0E58A00F25062 /* Frameworks */,
+				852CB0F51FE0E58A00F25062 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = OrzOSDK;
+			productName = AppleSdk;
+			productReference = 852CB0F71FE0E58A00F25062 /* libOrzOSDK.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		852CB0EF1FE0E58A00F25062 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0910;
+				ORGANIZATIONNAME = xd;
+				TargetAttributes = {
+					852CB0F61FE0E58A00F25062 = {
+						CreatedOnToolsVersion = 9.1;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 852CB0F21FE0E58A00F25062 /* Build configuration list for PBXProject "OrzOSDK" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 852CB0EE1FE0E58A00F25062;
+			productRefGroup = 852CB0F81FE0E58A00F25062 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				852CB0F61FE0E58A00F25062 /* OrzOSDK */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		852CB0F31FE0E58A00F25062 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FAB80DBC21607693006889A4 /* OrzOSDKBranch.mm in Sources */,
+				FAB80DC221607693006889A4 /* FourOrzOSDK.m in Sources */,
+				FAB80DC321607693006889A4 /* FiveOrzOSDK.m in Sources */,
+				FAB80DBF21607693006889A4 /* OrzOSDKProgressHUD.m in Sources */,
+				FAB80DB821607693006889A4 /* TwoOrzOSDK.m in Sources */,
+				FAB80DBE21607693006889A4 /* TreeOrzOSDK.m in Sources */,
+				FAB80DBD21607693006889A4 /* OrzOSDK.m in Sources */,
+				FAB80DB921607693006889A4 /* OrzOSDKReachability.m in Sources */,
+				FAB80DBB21607693006889A4 /* startOrzOSDKIapProcess.m in Sources */,
+				FAB80DC121607693006889A4 /* OneOrzOSDK.m in Sources */,
+				FAB80DC021607693006889A4 /* OrzOSDKUtils.m in Sources */,
+				FAB80DBA21607693006889A4 /* OrzOSDKNoticeView.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		852CB0FE1FE0E58A00F25062 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		852CB0FF1FE0E58A00F25062 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		852CB1011FE0E58A00F25062 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				GCC_VERSION = "";
+				ONLY_ACTIVE_ARCH = NO;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=75";
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = OrzOSDK;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		852CB1021FE0E58A00F25062 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				GCC_VERSION = "";
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=75";
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = OrzOSDK;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		852CB0F21FE0E58A00F25062 /* Build configuration list for PBXProject "OrzOSDK" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				852CB0FE1FE0E58A00F25062 /* Debug */,
+				852CB0FF1FE0E58A00F25062 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		852CB1001FE0E58A00F25062 /* Build configuration list for PBXNativeTarget "OrzOSDK" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				852CB1011FE0E58A00F25062 /* Debug */,
+				852CB1021FE0E58A00F25062 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 852CB0EF1FE0E58A00F25062 /* Project object */;
+}

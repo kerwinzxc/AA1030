@@ -1,0 +1,27 @@
+
+effect_zhuanshushenqi_minghongduandao.png
+size: 956,196
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tu
+  rotate: true
+  xy: 414, 2
+  size: 192, 269
+  orig: 307, 307
+  offset: 46, 22
+  index: -1
+z
+  rotate: true
+  xy: 685, 2
+  size: 192, 269
+  orig: 307, 307
+  offset: 46, 22
+  index: -1
+zitiao
+  rotate: false
+  xy: 2, 34
+  size: 410, 160
+  orig: 448, 184
+  offset: 18, 13
+  index: -1

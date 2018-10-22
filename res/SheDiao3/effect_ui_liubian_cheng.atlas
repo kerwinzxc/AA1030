@@ -1,0 +1,286 @@
+
+effect_ui_liubian_cheng.png
+size: 309,541
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cheng0001
+  rotate: true
+  xy: 187, 282
+  size: 58, 60
+  orig: 72, 72
+  offset: 10, 10
+  index: -1
+cheng0002
+  rotate: true
+  xy: 178, 147
+  size: 60, 59
+  orig: 72, 72
+  offset: 8, 11
+  index: -1
+cheng0003
+  rotate: true
+  xy: 249, 280
+  size: 61, 58
+  orig: 72, 72
+  offset: 7, 12
+  index: -1
+cheng0004
+  rotate: false
+  xy: 239, 157
+  size: 58, 59
+  orig: 72, 72
+  offset: 7, 11
+  index: -1
+cheng0005
+  rotate: false
+  xy: 239, 96
+  size: 58, 59
+  orig: 72, 72
+  offset: 7, 11
+  index: -1
+cheng0006
+  rotate: false
+  xy: 234, 218
+  size: 58, 60
+  orig: 72, 72
+  offset: 7, 10
+  index: -1
+cheng0007
+  rotate: false
+  xy: 64, 70
+  size: 58, 64
+  orig: 72, 72
+  offset: 7, 6
+  index: -1
+cheng0008
+  rotate: false
+  xy: 64, 4
+  size: 58, 64
+  orig: 72, 72
+  offset: 7, 6
+  index: -1
+cheng0009
+  rotate: false
+  xy: 184, 474
+  size: 58, 65
+  orig: 72, 72
+  offset: 7, 5
+  index: -1
+cheng0010
+  rotate: false
+  xy: 2, 473
+  size: 58, 66
+  orig: 72, 72
+  offset: 7, 4
+  index: -1
+cheng0011
+  rotate: false
+  xy: 2, 270
+  size: 59, 65
+  orig: 72, 72
+  offset: 6, 4
+  index: -1
+cheng0012
+  rotate: false
+  xy: 62, 473
+  size: 59, 66
+  orig: 72, 72
+  offset: 6, 3
+  index: -1
+cheng0013
+  rotate: false
+  xy: 2, 405
+  size: 59, 66
+  orig: 72, 72
+  offset: 6, 3
+  index: -1
+cheng0014
+  rotate: false
+  xy: 123, 473
+  size: 59, 66
+  orig: 72, 72
+  offset: 6, 2
+  index: -1
+cheng0015
+  rotate: false
+  xy: 2, 337
+  size: 59, 66
+  orig: 72, 72
+  offset: 6, 2
+  index: -1
+cheng0016
+  rotate: false
+  xy: 63, 338
+  size: 59, 65
+  orig: 72, 72
+  offset: 6, 2
+  index: -1
+cheng0017
+  rotate: false
+  xy: 244, 474
+  size: 59, 65
+  orig: 72, 72
+  offset: 6, 2
+  index: -1
+cheng0018
+  rotate: false
+  xy: 2, 203
+  size: 58, 65
+  orig: 72, 72
+  offset: 7, 2
+  index: -1
+cheng0019
+  rotate: false
+  xy: 63, 271
+  size: 58, 65
+  orig: 72, 72
+  offset: 7, 1
+  index: -1
+cheng0020
+  rotate: false
+  xy: 116, 205
+  size: 58, 64
+  orig: 72, 72
+  offset: 7, 2
+  index: -1
+cheng0021
+  rotate: false
+  xy: 181, 407
+  size: 58, 64
+  orig: 72, 72
+  offset: 8, 2
+  index: -1
+cheng0022
+  rotate: false
+  xy: 241, 408
+  size: 59, 64
+  orig: 72, 72
+  offset: 8, 1
+  index: -1
+cheng0023
+  rotate: false
+  xy: 115, 137
+  size: 61, 64
+  orig: 72, 72
+  offset: 8, 2
+  index: -1
+cheng0024
+  rotate: false
+  xy: 124, 340
+  size: 61, 63
+  orig: 72, 72
+  offset: 8, 2
+  index: -1
+cheng0025
+  rotate: false
+  xy: 187, 342
+  size: 60, 63
+  orig: 72, 72
+  offset: 8, 2
+  index: -1
+cheng0026
+  rotate: false
+  xy: 123, 273
+  size: 61, 63
+  orig: 72, 72
+  offset: 8, 2
+  index: -1
+cheng0027
+  rotate: false
+  xy: 2, 136
+  size: 60, 65
+  orig: 72, 72
+  offset: 9, 2
+  index: -1
+cheng0028
+  rotate: false
+  xy: 2, 69
+  size: 60, 65
+  orig: 72, 72
+  offset: 9, 2
+  index: -1
+cheng0029
+  rotate: false
+  xy: 63, 405
+  size: 60, 66
+  orig: 72, 72
+  offset: 9, 2
+  index: -1
+cheng0030
+  rotate: false
+  xy: 2, 2
+  size: 60, 65
+  orig: 72, 72
+  offset: 9, 3
+  index: -1
+cheng0031
+  rotate: false
+  xy: 125, 406
+  size: 54, 65
+  orig: 72, 72
+  offset: 15, 3
+  index: -1
+cheng0032
+  rotate: false
+  xy: 62, 203
+  size: 52, 65
+  orig: 72, 72
+  offset: 17, 3
+  index: -1
+cheng0033
+  rotate: false
+  xy: 124, 71
+  size: 49, 64
+  orig: 72, 72
+  offset: 20, 4
+  index: -1
+cheng0034
+  rotate: false
+  xy: 124, 5
+  size: 45, 64
+  orig: 72, 72
+  offset: 24, 5
+  index: -1
+cheng0035
+  rotate: false
+  xy: 171, 5
+  size: 43, 64
+  orig: 72, 72
+  offset: 26, 5
+  index: -1
+cheng0036
+  rotate: false
+  xy: 249, 343
+  size: 47, 63
+  orig: 72, 72
+  offset: 22, 6
+  index: -1
+cheng0037
+  rotate: false
+  xy: 64, 136
+  size: 49, 65
+  orig: 72, 72
+  offset: 20, 5
+  index: -1
+cheng0038
+  rotate: false
+  xy: 175, 71
+  size: 54, 64
+  orig: 72, 72
+  offset: 15, 6
+  index: -1
+cheng0039
+  rotate: false
+  xy: 216, 5
+  size: 55, 64
+  orig: 72, 72
+  offset: 13, 6
+  index: -1
+cheng0040
+  rotate: false
+  xy: 176, 209
+  size: 56, 62
+  orig: 72, 72
+  offset: 12, 8
+  index: -1

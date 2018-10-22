@@ -1,0 +1,230 @@
+
+effect_zhuanshushenqi_dabeizhang.png
+size: 2005,308
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fg
+  rotate: false
+  xy: 2, 83
+  size: 170, 223
+  orig: 179, 226
+  offset: 8, 3
+  index: -1
+gy_01
+  rotate: false
+  xy: 1418, 56
+  size: 97, 97
+  orig: 105, 105
+  offset: 4, 4
+  index: -1
+gy_02
+  rotate: false
+  xy: 1498, 209
+  size: 97, 97
+  orig: 105, 105
+  offset: 4, 4
+  index: -1
+gy_03
+  rotate: false
+  xy: 1517, 110
+  size: 97, 97
+  orig: 105, 105
+  offset: 4, 4
+  index: -1
+gy_04
+  rotate: false
+  xy: 1597, 209
+  size: 97, 97
+  orig: 105, 105
+  offset: 4, 4
+  index: -1
+gy_05
+  rotate: false
+  xy: 1517, 11
+  size: 97, 97
+  orig: 105, 105
+  offset: 4, 4
+  index: -1
+gy_06
+  rotate: false
+  xy: 1616, 110
+  size: 97, 97
+  orig: 105, 105
+  offset: 4, 4
+  index: -1
+gy_07
+  rotate: false
+  xy: 1696, 209
+  size: 97, 97
+  orig: 105, 105
+  offset: 4, 4
+  index: -1
+gy_08
+  rotate: false
+  xy: 1616, 11
+  size: 97, 97
+  orig: 105, 105
+  offset: 4, 4
+  index: -1
+gy_09
+  rotate: false
+  xy: 1715, 110
+  size: 97, 97
+  orig: 105, 105
+  offset: 4, 4
+  index: -1
+gy_10
+  rotate: true
+  xy: 1795, 209
+  size: 97, 94
+  orig: 105, 105
+  offset: 4, 4
+  index: -1
+gy_11
+  rotate: true
+  xy: 1715, 11
+  size: 97, 94
+  orig: 105, 105
+  offset: 4, 4
+  index: -1
+gy_12
+  rotate: true
+  xy: 1811, 11
+  size: 97, 94
+  orig: 105, 105
+  offset: 4, 4
+  index: -1
+gy_13
+  rotate: false
+  xy: 1814, 110
+  size: 97, 97
+  orig: 105, 105
+  offset: 4, 4
+  index: -1
+gy_14
+  rotate: true
+  xy: 1907, 11
+  size: 97, 96
+  orig: 105, 105
+  offset: 4, 4
+  index: -1
+gy_15
+  rotate: false
+  xy: 1891, 209
+  size: 97, 97
+  orig: 105, 105
+  offset: 4, 4
+  index: -1
+tiao_01
+  rotate: false
+  xy: 483, 152
+  size: 144, 154
+  orig: 166, 179
+  offset: 14, 20
+  index: -1
+tiao_02
+  rotate: false
+  xy: 338, 151
+  size: 143, 155
+  orig: 166, 179
+  offset: 14, 19
+  index: -1
+tiao_03
+  rotate: true
+  xy: 338, 7
+  size: 142, 155
+  orig: 166, 179
+  offset: 15, 19
+  index: -1
+tiao_04
+  rotate: true
+  xy: 495, 9
+  size: 141, 154
+  orig: 166, 179
+  offset: 15, 19
+  index: -1
+tiao_05
+  rotate: false
+  xy: 629, 152
+  size: 140, 154
+  orig: 166, 179
+  offset: 15, 19
+  index: -1
+tiao_06
+  rotate: true
+  xy: 651, 9
+  size: 141, 154
+  orig: 166, 179
+  offset: 14, 19
+  index: -1
+tiao_07
+  rotate: false
+  xy: 771, 152
+  size: 140, 154
+  orig: 166, 179
+  offset: 14, 19
+  index: -1
+tiao_08
+  rotate: false
+  xy: 913, 153
+  size: 142, 153
+  orig: 166, 179
+  offset: 13, 20
+  index: -1
+tiao_09
+  rotate: true
+  xy: 963, 8
+  size: 143, 152
+  orig: 166, 179
+  offset: 12, 21
+  index: -1
+tiao_10
+  rotate: false
+  xy: 1057, 154
+  size: 144, 152
+  orig: 166, 179
+  offset: 12, 21
+  index: -1
+tiao_11
+  rotate: false
+  xy: 1203, 155
+  size: 145, 151
+  orig: 166, 179
+  offset: 12, 22
+  index: -1
+tiao_12
+  rotate: false
+  xy: 1271, 2
+  size: 145, 151
+  orig: 166, 179
+  offset: 12, 22
+  index: -1
+tiao_13
+  rotate: false
+  xy: 1350, 155
+  size: 146, 151
+  orig: 166, 179
+  offset: 12, 22
+  index: -1
+tiao_14
+  rotate: true
+  xy: 1117, 6
+  size: 146, 152
+  orig: 166, 179
+  offset: 12, 21
+  index: -1
+tiao_15
+  rotate: true
+  xy: 807, 5
+  size: 145, 154
+  orig: 166, 179
+  offset: 13, 20
+  index: -1
+weapon
+  rotate: false
+  xy: 174, 92
+  size: 162, 214
+  orig: 179, 226
+  offset: 12, 8
+  index: -1

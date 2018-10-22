@@ -1,0 +1,27 @@
+
+effect_zhuanshushenqi_emaoshan.png
+size: 760,186
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baiyushan
+  rotate: false
+  xy: 719, 2
+  size: 39, 182
+  orig: 307, 307
+  offset: 140, 31
+  index: -1
+lantiao
+  rotate: false
+  xy: 2, 24
+  size: 410, 160
+  orig: 448, 184
+  offset: 18, 13
+  index: -1
+tu
+  rotate: true
+  xy: 414, 5
+  size: 179, 303
+  orig: 307, 307
+  offset: 84, 4
+  index: -1

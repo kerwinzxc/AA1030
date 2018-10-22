@@ -1,0 +1,13 @@
+
+effect_ui_dianjilingqu.png
+size: 58,58
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+k
+  rotate: false
+  xy: 2, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1

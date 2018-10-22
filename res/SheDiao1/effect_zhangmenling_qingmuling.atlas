@@ -1,0 +1,27 @@
+
+effect_zhangmenling_qingmuling.png
+size: 930,179
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lutiao
+  rotate: false
+  xy: 2, 17
+  size: 410, 160
+  orig: 448, 184
+  offset: 18, 13
+  index: -1
+青木令
+  rotate: true
+  xy: 414, 2
+  size: 175, 256
+  orig: 290, 307
+  offset: 44, 19
+  index: -1
+青木令_zz
+  rotate: true
+  xy: 672, 2
+  size: 175, 256
+  orig: 290, 307
+  offset: 44, 19
+  index: -1

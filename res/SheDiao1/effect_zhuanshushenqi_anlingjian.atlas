@@ -1,0 +1,27 @@
+
+effect_zhuanshushenqi_anlingjian.png
+size: 538,392
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lantiao
+  rotate: false
+  xy: 2, 230
+  size: 410, 160
+  orig: 448, 184
+  offset: 18, 13
+  index: -1
+tu
+  rotate: true
+  xy: 2, 2
+  size: 226, 266
+  orig: 226, 266
+  offset: 0, 0
+  index: -1
+zz
+  rotate: true
+  xy: 270, 2
+  size: 226, 266
+  orig: 226, 266
+  offset: 0, 0
+  index: -1

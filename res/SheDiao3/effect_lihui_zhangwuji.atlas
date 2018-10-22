@@ -1,0 +1,195 @@
+
+effect_lihui_zhangwuji.png
+size: 1982,604
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qi_0001
+  rotate: false
+  xy: 595, 398
+  size: 140, 204
+  orig: 180, 210
+  offset: 20, 2
+  index: -1
+qi_0003
+  rotate: false
+  xy: 595, 192
+  size: 145, 204
+  orig: 180, 210
+  offset: 10, 2
+  index: -1
+qi_0005
+  rotate: false
+  xy: 737, 398
+  size: 134, 204
+  orig: 180, 210
+  offset: 21, 2
+  index: -1
+qi_0007
+  rotate: true
+  xy: 595, 54
+  size: 136, 204
+  orig: 180, 210
+  offset: 20, 2
+  index: -1
+qi_0009
+  rotate: false
+  xy: 742, 192
+  size: 135, 204
+  orig: 180, 210
+  offset: 21, 2
+  index: -1
+qi_0011
+  rotate: true
+  xy: 801, 56
+  size: 134, 204
+  orig: 180, 210
+  offset: 21, 2
+  index: -1
+qi_0013
+  rotate: false
+  xy: 873, 398
+  size: 133, 204
+  orig: 180, 210
+  offset: 22, 2
+  index: -1
+qi_0015
+  rotate: false
+  xy: 879, 192
+  size: 133, 204
+  orig: 180, 210
+  offset: 22, 2
+  index: -1
+qi_0017
+  rotate: true
+  xy: 1007, 56
+  size: 134, 204
+  orig: 180, 210
+  offset: 24, 2
+  index: -1
+qi_0019
+  rotate: false
+  xy: 1008, 398
+  size: 136, 204
+  orig: 180, 210
+  offset: 24, 2
+  index: -1
+qi_0021
+  rotate: false
+  xy: 1014, 192
+  size: 131, 204
+  orig: 180, 210
+  offset: 25, 2
+  index: -1
+qi_0023
+  rotate: false
+  xy: 1146, 398
+  size: 148, 204
+  orig: 180, 210
+  offset: 10, 2
+  index: -1
+qi_0025
+  rotate: false
+  xy: 1147, 192
+  size: 139, 204
+  orig: 180, 210
+  offset: 22, 2
+  index: -1
+qiu_0001
+  rotate: false
+  xy: 1213, 14
+  size: 192, 176
+  orig: 210, 210
+  offset: 10, 14
+  index: -1
+qiu_0003
+  rotate: true
+  xy: 1642, 431
+  size: 171, 168
+  orig: 210, 210
+  offset: 22, 22
+  index: -1
+qiu_0005
+  rotate: true
+  xy: 1468, 426
+  size: 176, 172
+  orig: 210, 210
+  offset: 17, 22
+  index: -1
+qiu_0007
+  rotate: false
+  xy: 1765, 73
+  size: 175, 173
+  orig: 210, 210
+  offset: 18, 25
+  index: -1
+qiu_0009
+  rotate: false
+  xy: 1296, 418
+  size: 170, 184
+  orig: 210, 210
+  offset: 17, 22
+  index: -1
+qiu_0011
+  rotate: false
+  xy: 1288, 208
+  size: 177, 188
+  orig: 210, 210
+  offset: 17, 18
+  index: -1
+qiu_0013
+  rotate: false
+  xy: 1586, 50
+  size: 177, 180
+  orig: 210, 210
+  offset: 17, 18
+  index: -1
+qiu_0025
+  rotate: false
+  xy: 1586, 50
+  size: 177, 180
+  orig: 210, 210
+  offset: 17, 18
+  index: -1
+qiu_0015
+  rotate: true
+  xy: 1639, 248
+  size: 176, 164
+  orig: 210, 210
+  offset: 17, 30
+  index: -1
+qiu_0017
+  rotate: true
+  xy: 1805, 258
+  size: 171, 168
+  orig: 210, 210
+  offset: 22, 22
+  index: -1
+qiu_0019
+  rotate: true
+  xy: 1812, 431
+  size: 171, 168
+  orig: 210, 210
+  offset: 18, 26
+  index: -1
+qiu_0021
+  rotate: false
+  xy: 1467, 232
+  size: 170, 184
+  orig: 210, 210
+  offset: 17, 22
+  index: -1
+qiu_0023
+  rotate: false
+  xy: 1407, 18
+  size: 177, 188
+  orig: 210, 210
+  offset: 17, 18
+  index: -1
+zhangwuji0001
+  rotate: true
+  xy: 2, 2
+  size: 600, 591
+  orig: 600, 682
+  offset: 0, 51
+  index: -1

@@ -1,0 +1,111 @@
+
+effect_ui_chengzhangjijin.png
+size: 376,94
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jj_0001
+  rotate: false
+  xy: 101, 8
+  size: 46, 32
+  orig: 67, 68
+  offset: 9, 10
+  index: -1
+jj_0003
+  rotate: false
+  xy: 149, 9
+  size: 45, 32
+  orig: 67, 68
+  offset: 9, 11
+  index: -1
+jj_0005
+  rotate: false
+  xy: 196, 9
+  size: 45, 32
+  orig: 67, 68
+  offset: 9, 12
+  index: -1
+jj_0007
+  rotate: false
+  xy: 243, 8
+  size: 45, 33
+  orig: 67, 68
+  offset: 8, 11
+  index: -1
+jj_0009
+  rotate: false
+  xy: 290, 2
+  size: 45, 41
+  orig: 67, 68
+  offset: 8, 12
+  index: -1
+jj_0011
+  rotate: false
+  xy: 328, 48
+  size: 46, 44
+  orig: 67, 68
+  offset: 7, 12
+  index: -1
+jj_0013
+  rotate: true
+  xy: 282, 45
+  size: 47, 44
+  orig: 67, 68
+  offset: 7, 12
+  index: -1
+jj_0015
+  rotate: true
+  xy: 143, 43
+  size: 49, 44
+  orig: 67, 68
+  offset: 6, 12
+  index: -1
+jj_0017
+  rotate: true
+  xy: 189, 43
+  size: 49, 44
+  orig: 67, 68
+  offset: 6, 12
+  index: -1
+jj_0019
+  rotate: true
+  xy: 49, 42
+  size: 50, 45
+  orig: 67, 68
+  offset: 6, 11
+  index: -1
+jj_0021
+  rotate: true
+  xy: 96, 42
+  size: 50, 45
+  orig: 67, 68
+  offset: 6, 11
+  index: -1
+jj_0023
+  rotate: true
+  xy: 235, 43
+  size: 49, 45
+  orig: 67, 68
+  offset: 8, 11
+  index: -1
+jj_0025
+  rotate: true
+  xy: 2, 41
+  size: 51, 45
+  orig: 67, 68
+  offset: 6, 11
+  index: -1
+jj_0027
+  rotate: false
+  xy: 2, 7
+  size: 48, 32
+  orig: 67, 68
+  offset: 8, 10
+  index: -1
+jj_0029
+  rotate: false
+  xy: 52, 10
+  size: 47, 30
+  orig: 67, 68
+  offset: 10, 11
+  index: -1

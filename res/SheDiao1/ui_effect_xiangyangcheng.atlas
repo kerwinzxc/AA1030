@@ -1,0 +1,48 @@
+
+ui_effect_xiangyangcheng.png
+size: 2014,744
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+changjing
+  rotate: true
+  xy: 2, 2
+  size: 740, 1236
+  orig: 740, 1236
+  offset: 0, 0
+  index: -1
+dashu
+  rotate: true
+  xy: 1657, 378
+  size: 364, 330
+  orig: 364, 330
+  offset: 0, 0
+  index: -1
+fangwu
+  rotate: true
+  xy: 1240, 59
+  size: 683, 415
+  orig: 683, 415
+  offset: 0, 0
+  index: -1
+youshu
+  rotate: false
+  xy: 1657, 87
+  size: 235, 152
+  orig: 235, 152
+  offset: 0, 0
+  index: -1
+yun
+  rotate: false
+  xy: 1240, 3
+  size: 648, 54
+  orig: 648, 54
+  offset: 0, 0
+  index: -1
+zuoshu
+  rotate: false
+  xy: 1657, 241
+  size: 355, 135
+  orig: 355, 135
+  offset: 0, 0
+  index: -1

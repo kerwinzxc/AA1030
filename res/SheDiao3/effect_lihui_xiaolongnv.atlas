@@ -1,0 +1,125 @@
+
+effect_lihui_xiaolongnv.png
+size: 1958,959
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 835, 86
+  size: 304, 218
+  orig: 600, 682
+  offset: 7, 289
+  index: -1
+2
+  rotate: true
+  xy: 954, 393
+  size: 564, 461
+  orig: 600, 682
+  offset: 35, 110
+  index: -1
+3
+  rotate: false
+  xy: 2, 152
+  size: 542, 219
+  orig: 600, 682
+  offset: 47, 205
+  index: -1
+bobo
+  rotate: true
+  xy: 546, 82
+  size: 308, 287
+  orig: 313, 314
+  offset: 4, 23
+  index: -1
+jian
+  rotate: false
+  xy: 399, 392
+  size: 553, 565
+  orig: 600, 682
+  offset: 47, 115
+  index: -1
+ren
+  rotate: true
+  xy: 1417, 452
+  size: 505, 539
+  orig: 532, 682
+  offset: 7, 37
+  index: -1
+sasa0001
+  rotate: false
+  xy: 1754, 11
+  size: 163, 171
+  orig: 330, 240
+  offset: 123, 22
+  index: -1
+sasa0002
+  rotate: false
+  xy: 1584, 7
+  size: 168, 175
+  orig: 330, 240
+  offset: 122, 23
+  index: -1
+sasa0003
+  rotate: false
+  xy: 1440, 2
+  size: 142, 180
+  orig: 330, 240
+  offset: 124, 22
+  index: -1
+sasa0004
+  rotate: true
+  xy: 1254, 14
+  size: 168, 184
+  orig: 330, 240
+  offset: 71, 23
+  index: -1
+sasa0005
+  rotate: true
+  xy: 1201, 226
+  size: 165, 162
+  orig: 330, 240
+  offset: 69, 42
+  index: -1
+sasa0006
+  rotate: true
+  xy: 1055, 200
+  size: 191, 144
+  orig: 330, 240
+  offset: 67, 65
+  index: -1
+sasa0007
+  rotate: false
+  xy: 1055, 52
+  size: 197, 130
+  orig: 330, 240
+  offset: 64, 65
+  index: -1
+sasa0008
+  rotate: false
+  xy: 218, 36
+  size: 211, 114
+  orig: 330, 240
+  offset: 61, 65
+  index: -1
+sasa0009
+  rotate: false
+  xy: 2, 38
+  size: 214, 112
+  orig: 330, 240
+  offset: 61, 62
+  index: -1
+xuanzhuan
+  rotate: false
+  xy: 1417, 184
+  size: 475, 266
+  orig: 600, 682
+  offset: 81, 44
+  index: -1
+xuanzhuanshang
+  rotate: true
+  xy: 2, 373
+  size: 584, 395
+  orig: 600, 682
+  offset: 0, 287
+  index: -1

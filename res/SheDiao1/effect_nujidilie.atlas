@@ -1,0 +1,13 @@
+
+effect_nujidilie.png
+size: 196,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dilie
+  rotate: false
+  xy: 2, 2
+  size: 192, 60
+  orig: 209, 96
+  offset: 7, 17
+  index: -1

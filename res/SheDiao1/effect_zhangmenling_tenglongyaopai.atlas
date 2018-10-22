@@ -1,0 +1,27 @@
+
+effect_zhangmenling_tenglongyaopai.png
+size: 260,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g2
+  rotate: false
+  xy: 205, 101
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+gy
+  rotate: false
+  xy: 205, 75
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+腾龙腰牌-绿
+  rotate: true
+  xy: 2, 2
+  size: 152, 201
+  orig: 290, 307
+  offset: 102, 61
+  index: -1

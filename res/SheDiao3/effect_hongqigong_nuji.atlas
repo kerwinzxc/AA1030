@@ -1,0 +1,265 @@
+
+effect_hongqigong_nuji.png
+size: 1931,289
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LONG
+  rotate: false
+  xy: 2, 157
+  size: 543, 130
+  orig: 560, 140
+  offset: 4, 4
+  index: -1
+an
+  rotate: true
+  xy: 939, 25
+  size: 109, 149
+  orig: 160, 160
+  offset: 21, 2
+  index: -1
+bao_0001
+  rotate: false
+  xy: 1073, 137
+  size: 143, 150
+  orig: 160, 160
+  offset: 0, 2
+  index: -1
+bao_0002
+  rotate: false
+  xy: 928, 136
+  size: 143, 151
+  orig: 160, 160
+  offset: 0, 2
+  index: -1
+bao_0003
+  rotate: false
+  xy: 783, 133
+  size: 143, 154
+  orig: 160, 160
+  offset: 0, 1
+  index: -1
+bao_0004
+  rotate: false
+  xy: 639, 2
+  size: 142, 155
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+bao_0005
+  rotate: true
+  xy: 2, 10
+  size: 145, 158
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+bao_0006
+  rotate: true
+  xy: 481, 10
+  size: 145, 156
+  orig: 160, 160
+  offset: 0, 2
+  index: -1
+bao_0007
+  rotate: true
+  xy: 162, 25
+  size: 130, 158
+  orig: 160, 160
+  offset: 20, 2
+  index: -1
+bao_0008
+  rotate: true
+  xy: 322, 26
+  size: 129, 157
+  orig: 160, 160
+  offset: 21, 3
+  index: -1
+bao_0009
+  rotate: true
+  xy: 547, 159
+  size: 128, 156
+  orig: 160, 160
+  offset: 22, 4
+  index: -1
+bao_0010
+  rotate: true
+  xy: 783, 5
+  size: 126, 154
+  orig: 160, 160
+  offset: 24, 6
+  index: -1
+bao_0011
+  rotate: false
+  xy: 1090, 2
+  size: 123, 133
+  orig: 160, 160
+  offset: 28, 12
+  index: -1
+bao_0012
+  rotate: false
+  xy: 1215, 16
+  size: 118, 119
+  orig: 160, 160
+  offset: 33, 26
+  index: -1
+bao_0013
+  rotate: false
+  xy: 1727, 203
+  size: 79, 84
+  orig: 160, 160
+  offset: 32, 25
+  index: -1
+bao_0014
+  rotate: true
+  xy: 1808, 205
+  size: 82, 78
+  orig: 160, 160
+  offset: 31, 24
+  index: -1
+bao_0015
+  rotate: true
+  xy: 1684, 29
+  size: 84, 79
+  orig: 160, 160
+  offset: 30, 24
+  index: -1
+bao_0016
+  rotate: true
+  xy: 1595, 113
+  size: 85, 81
+  orig: 160, 160
+  offset: 29, 23
+  index: -1
+bao_0017
+  rotate: true
+  xy: 1764, 117
+  size: 84, 81
+  orig: 160, 160
+  offset: 28, 25
+  index: -1
+bao_0018
+  rotate: true
+  xy: 1642, 202
+  size: 85, 83
+  orig: 160, 160
+  offset: 28, 24
+  index: -1
+bao_0019
+  rotate: false
+  xy: 1597, 26
+  size: 85, 85
+  orig: 160, 160
+  offset: 29, 23
+  index: -1
+bao_0020
+  rotate: false
+  xy: 1678, 115
+  size: 84, 85
+  orig: 160, 160
+  offset: 30, 24
+  index: -1
+bao_0021
+  rotate: false
+  xy: 1509, 17
+  size: 86, 86
+  orig: 160, 160
+  offset: 29, 24
+  index: -1
+bao_0022
+  rotate: true
+  xy: 1554, 200
+  size: 87, 86
+  orig: 160, 160
+  offset: 29, 25
+  index: -1
+bao_0023
+  rotate: true
+  xy: 1505, 105
+  size: 89, 88
+  orig: 160, 160
+  offset: 28, 24
+  index: -1
+bao_0024
+  rotate: true
+  xy: 1414, 102
+  size: 91, 89
+  orig: 160, 160
+  offset: 27, 24
+  index: -1
+bao_0025
+  rotate: true
+  xy: 1462, 196
+  size: 91, 90
+  orig: 160, 160
+  offset: 28, 24
+  index: -1
+bao_0026
+  rotate: true
+  xy: 1335, 2
+  size: 93, 92
+  orig: 160, 160
+  offset: 27, 23
+  index: -1
+bao_0027
+  rotate: true
+  xy: 1218, 192
+  size: 95, 79
+  orig: 160, 160
+  offset: 28, 22
+  index: -1
+bao_0028
+  rotate: true
+  xy: 1299, 193
+  size: 94, 80
+  orig: 160, 160
+  offset: 30, 21
+  index: -1
+bao_0029
+  rotate: true
+  xy: 1335, 97
+  size: 94, 77
+  orig: 160, 160
+  offset: 31, 25
+  index: -1
+bao_0030
+  rotate: true
+  xy: 1381, 195
+  size: 92, 79
+  orig: 160, 160
+  offset: 31, 24
+  index: -1
+bao_0031
+  rotate: true
+  xy: 1429, 10
+  size: 90, 78
+  orig: 160, 160
+  offset: 33, 24
+  index: -1
+bao_0032
+  rotate: false
+  xy: 1847, 124
+  size: 82, 79
+  orig: 160, 160
+  offset: 41, 23
+  index: -1
+bao_0033
+  rotate: true
+  xy: 1847, 43
+  size: 79, 81
+  orig: 160, 160
+  offset: 44, 22
+  index: -1
+bao_0034
+  rotate: false
+  xy: 1765, 34
+  size: 78, 81
+  orig: 160, 160
+  offset: 46, 22
+  index: -1
+bao_0035
+  rotate: true
+  xy: 705, 218
+  size: 69, 72
+  orig: 160, 160
+  offset: 45, 32
+  index: -1

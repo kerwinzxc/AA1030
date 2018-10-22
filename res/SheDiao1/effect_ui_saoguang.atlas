@@ -1,0 +1,13 @@
+
+effect_ui_saoguang.png
+size: 344,16
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+soasao
+  rotate: false
+  xy: 2, 2
+  size: 340, 4
+  orig: 352, 7
+  offset: 5, 2
+  index: -1

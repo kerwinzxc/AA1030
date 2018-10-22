@@ -1,0 +1,20 @@
+
+effect_zhuanshushenqi_tongba.png
+size: 463,278
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tu
+  rotate: true
+  xy: 311, 75
+  size: 201, 150
+  orig: 307, 307
+  offset: 46, 79
+  index: -1
+x
+  rotate: false
+  xy: 2, 2
+  size: 307, 274
+  orig: 307, 307
+  offset: 0, 23
+  index: -1

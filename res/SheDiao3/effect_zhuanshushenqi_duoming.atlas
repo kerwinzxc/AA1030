@@ -1,0 +1,300 @@
+
+effect_zhuanshushenqi_duoming.png
+size: 1510,333
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+duoming
+  rotate: false
+  xy: 269, 68
+  size: 224, 263
+  orig: 307, 307
+  offset: 11, 22
+  index: -1
+g
+  rotate: false
+  xy: 2, 2
+  size: 265, 329
+  orig: 270, 332
+  offset: 2, 3
+  index: -1
+yan0001
+  rotate: false
+  xy: 1264, 140
+  size: 73, 94
+  orig: 94, 115
+  offset: 8, 12
+  index: -1
+yan0002
+  rotate: false
+  xy: 797, 231
+  size: 75, 100
+  orig: 94, 115
+  offset: 6, 7
+  index: -1
+yan0003
+  rotate: false
+  xy: 495, 224
+  size: 73, 107
+  orig: 94, 115
+  offset: 10, 1
+  index: -1
+yan0004
+  rotate: false
+  xy: 1033, 134
+  size: 74, 97
+  orig: 94, 115
+  offset: 8, 12
+  index: -1
+yan0005
+  rotate: false
+  xy: 726, 18
+  size: 74, 102
+  orig: 94, 115
+  offset: 10, 8
+  index: -1
+yan0006
+  rotate: false
+  xy: 802, 23
+  size: 77, 100
+  orig: 94, 115
+  offset: 9, 9
+  index: -1
+yan0007
+  rotate: true
+  xy: 1413, 98
+  size: 79, 93
+  orig: 94, 115
+  offset: 9, 17
+  index: -1
+yan0008
+  rotate: false
+  xy: 1031, 233
+  size: 75, 98
+  orig: 94, 115
+  offset: 8, 13
+  index: -1
+yan0009
+  rotate: false
+  xy: 571, 12
+  size: 75, 103
+  orig: 94, 115
+  offset: 8, 8
+  index: -1
+yan0010
+  rotate: false
+  xy: 647, 227
+  size: 73, 104
+  orig: 94, 115
+  offset: 8, 4
+  index: -1
+yan0011
+  rotate: false
+  xy: 1186, 138
+  size: 76, 95
+  orig: 94, 115
+  offset: 7, 13
+  index: -1
+yan0012
+  rotate: false
+  xy: 1106, 36
+  size: 77, 96
+  orig: 94, 115
+  offset: 7, 12
+  index: -1
+yan0013
+  rotate: false
+  xy: 806, 129
+  size: 74, 100
+  orig: 94, 115
+  offset: 6, 7
+  index: -1
+yan0014
+  rotate: false
+  xy: 495, 115
+  size: 71, 107
+  orig: 94, 115
+  offset: 10, 1
+  index: -1
+yan0015
+  rotate: false
+  xy: 1108, 234
+  size: 72, 97
+  orig: 94, 115
+  offset: 8, 12
+  index: -1
+yan0016
+  rotate: false
+  xy: 1109, 136
+  size: 75, 96
+  orig: 94, 115
+  offset: 6, 14
+  index: -1
+yan0017
+  rotate: false
+  xy: 874, 231
+  size: 74, 100
+  orig: 94, 115
+  offset: 9, 9
+  index: -1
+yan0018
+  rotate: false
+  xy: 957, 130
+  size: 74, 99
+  orig: 94, 115
+  offset: 8, 12
+  index: -1
+yan0019
+  rotate: false
+  xy: 648, 12
+  size: 76, 103
+  orig: 94, 115
+  offset: 8, 8
+  index: -1
+yan0020
+  rotate: false
+  xy: 650, 122
+  size: 78, 103
+  orig: 94, 115
+  offset: 8, 8
+  index: -1
+yan0021
+  rotate: false
+  xy: 568, 117
+  size: 80, 105
+  orig: 94, 115
+  offset: 8, 3
+  index: -1
+yan0022
+  rotate: false
+  xy: 1338, 5
+  size: 75, 91
+  orig: 94, 115
+  offset: 7, 17
+  index: -1
+yan0023
+  rotate: false
+  xy: 1337, 237
+  size: 75, 94
+  orig: 94, 115
+  offset: 7, 14
+  index: -1
+yan0024
+  rotate: false
+  xy: 1260, 236
+  size: 75, 95
+  orig: 94, 115
+  offset: 6, 12
+  index: -1
+yan0025
+  rotate: false
+  xy: 881, 27
+  size: 73, 100
+  orig: 94, 115
+  offset: 10, 7
+  index: -1
+yan0026
+  rotate: true
+  xy: 1414, 255
+  size: 76, 94
+  orig: 94, 115
+  offset: 8, 12
+  index: -1
+yan0027
+  rotate: false
+  xy: 1261, 41
+  size: 75, 95
+  orig: 94, 115
+  offset: 6, 12
+  index: -1
+yan0028
+  rotate: false
+  xy: 882, 129
+  size: 73, 100
+  orig: 94, 115
+  offset: 10, 7
+  index: -1
+yan0029
+  rotate: false
+  xy: 495, 6
+  size: 74, 107
+  orig: 94, 115
+  offset: 8, 1
+  index: -1
+yan0030
+  rotate: false
+  xy: 730, 125
+  size: 74, 101
+  orig: 94, 115
+  offset: 10, 8
+  index: -1
+yan0031
+  rotate: false
+  xy: 1182, 235
+  size: 76, 96
+  orig: 94, 115
+  offset: 10, 14
+  index: -1
+yan0032
+  rotate: false
+  xy: 950, 231
+  size: 79, 100
+  orig: 94, 115
+  offset: 9, 9
+  index: -1
+yan0033
+  rotate: true
+  xy: 1414, 179
+  size: 74, 94
+  orig: 94, 115
+  offset: 9, 17
+  index: -1
+yan0034
+  rotate: false
+  xy: 1029, 30
+  size: 75, 98
+  orig: 94, 115
+  offset: 8, 13
+  index: -1
+yan0035
+  rotate: false
+  xy: 722, 228
+  size: 73, 103
+  orig: 94, 115
+  offset: 8, 8
+  index: -1
+yan0036
+  rotate: false
+  xy: 570, 226
+  size: 75, 105
+  orig: 94, 115
+  offset: 8, 3
+  index: -1
+yan0037
+  rotate: false
+  xy: 1415, 5
+  size: 77, 91
+  orig: 94, 115
+  offset: 7, 17
+  index: -1
+yan0038
+  rotate: false
+  xy: 1339, 141
+  size: 72, 94
+  orig: 94, 115
+  offset: 7, 14
+  index: -1
+yan0039
+  rotate: false
+  xy: 1185, 38
+  size: 74, 96
+  orig: 94, 115
+  offset: 6, 11
+  index: -1
+yan0040
+  rotate: false
+  xy: 956, 27
+  size: 71, 100
+  orig: 94, 115
+  offset: 10, 7
+  index: -1

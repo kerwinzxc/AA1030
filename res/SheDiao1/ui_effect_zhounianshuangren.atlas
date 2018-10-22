@@ -1,0 +1,188 @@
+
+ui_effect_zhounianshuangren.png
+size: 613,208
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jian
+  rotate: true
+  xy: 2, 3
+  size: 53, 150
+  orig: 53, 150
+  offset: 0, 0
+  index: -1
+nan_chest
+  rotate: false
+  xy: 351, 47
+  size: 37, 61
+  orig: 37, 61
+  offset: 0, 0
+  index: -1
+nan_hair
+  rotate: false
+  xy: 453, 2
+  size: 60, 58
+  orig: 60, 58
+  offset: 0, 0
+  index: -1
+nan_hair_01
+  rotate: true
+  xy: 351, 37
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+nan_head
+  rotate: false
+  xy: 412, 12
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+nan_hip_01
+  rotate: true
+  xy: 396, 94
+  size: 82, 84
+  orig: 82, 84
+  offset: 0, 0
+  index: -1
+nan_hip_02
+  rotate: false
+  xy: 575, 21
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+nan_l_hand
+  rotate: true
+  xy: 515, 2
+  size: 49, 58
+  orig: 49, 58
+  offset: 0, 0
+  index: -1
+nan_l_leg
+  rotate: true
+  xy: 298, 174
+  size: 32, 96
+  orig: 32, 96
+  offset: 0, 0
+  index: -1
+nan_r_hand
+  rotate: false
+  xy: 564, 53
+  size: 47, 74
+  orig: 47, 74
+  offset: 0, 0
+  index: -1
+nan_r_leg
+  rotate: true
+  xy: 396, 178
+  size: 28, 91
+  orig: 34, 91
+  offset: 6, 0
+  index: -1
+nv_chest
+  rotate: true
+  xy: 351, 7
+  size: 28, 59
+  orig: 28, 59
+  offset: 0, 0
+  index: -1
+nv_hair
+  rotate: true
+  xy: 167, 10
+  size: 58, 79
+  orig: 58, 79
+  offset: 0, 0
+  index: -1
+nv_head
+  rotate: false
+  xy: 453, 63
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+nv_hip_01
+  rotate: false
+  xy: 2, 58
+  size: 163, 148
+  orig: 163, 149
+  offset: 0, 0
+  index: -1
+nv_hip_02
+  rotate: false
+  xy: 285, 65
+  size: 64, 43
+  orig: 64, 43
+  offset: 0, 0
+  index: -1
+nv_hip_03
+  rotate: true
+  xy: 482, 62
+  size: 65, 80
+  orig: 65, 80
+  offset: 0, 0
+  index: -1
+nv_hip_04
+  rotate: false
+  xy: 582, 133
+  size: 29, 73
+  orig: 29, 73
+  offset: 0, 0
+  index: -1
+nv_hip_05
+  rotate: true
+  xy: 489, 129
+  size: 77, 91
+  orig: 77, 91
+  offset: 0, 0
+  index: -1
+nv_hip_06
+  rotate: true
+  xy: 390, 37
+  size: 55, 61
+  orig: 55, 61
+  offset: 0, 0
+  index: -1
+nv_hip_07
+  rotate: false
+  xy: 167, 120
+  size: 129, 86
+  orig: 129, 86
+  offset: 0, 0
+  index: -1
+nv_hip_08
+  rotate: true
+  xy: 298, 110
+  size: 62, 95
+  orig: 62, 95
+  offset: 0, 0
+  index: -1
+nv_l_hand
+  rotate: false
+  xy: 248, 3
+  size: 35, 65
+  orig: 35, 65
+  offset: 0, 0
+  index: -1
+nv_l_leg
+  rotate: true
+  xy: 167, 93
+  size: 25, 100
+  orig: 25, 100
+  offset: 0, 0
+  index: -1
+nv_r_hand
+  rotate: true
+  xy: 285, 11
+  size: 52, 64
+  orig: 52, 64
+  offset: 0, 0
+  index: -1
+nv_r_leg
+  rotate: true
+  xy: 167, 70
+  size: 21, 92
+  orig: 21, 92
+  offset: 0, 0
+  index: -1

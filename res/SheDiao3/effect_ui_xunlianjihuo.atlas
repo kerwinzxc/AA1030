@@ -1,0 +1,153 @@
+
+effect_ui_xunlianjihuo.png
+size: 1511,624
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao0001
+  rotate: true
+  xy: 1290, 2
+  size: 204, 209
+  orig: 252, 256
+  offset: 15, 26
+  index: -1
+bao0002
+  rotate: true
+  xy: 428, 208
+  size: 204, 210
+  orig: 252, 256
+  offset: 15, 26
+  index: -1
+bao0003
+  rotate: true
+  xy: 2, 10
+  size: 204, 210
+  orig: 252, 256
+  offset: 15, 26
+  index: -1
+bao0004
+  rotate: true
+  xy: 640, 7
+  size: 204, 210
+  orig: 252, 256
+  offset: 15, 26
+  index: -1
+bao0005
+  rotate: true
+  xy: 1078, 8
+  size: 203, 210
+  orig: 252, 256
+  offset: 16, 26
+  index: -1
+bao0006
+  rotate: true
+  xy: 852, 5
+  size: 203, 210
+  orig: 252, 256
+  offset: 16, 26
+  index: -1
+bao0007
+  rotate: true
+  xy: 214, 3
+  size: 203, 210
+  orig: 252, 256
+  offset: 16, 26
+  index: -1
+bao0008
+  rotate: true
+  xy: 426, 3
+  size: 203, 210
+  orig: 252, 256
+  offset: 16, 26
+  index: -1
+bao0009
+  rotate: true
+  xy: 215, 208
+  size: 204, 211
+  orig: 252, 256
+  offset: 16, 25
+  index: -1
+bao0010
+  rotate: true
+  xy: 1297, 417
+  size: 205, 212
+  orig: 252, 256
+  offset: 16, 24
+  index: -1
+bao0011
+  rotate: true
+  xy: 650, 213
+  size: 205, 212
+  orig: 252, 256
+  offset: 16, 23
+  index: -1
+bao0012
+  rotate: true
+  xy: 864, 210
+  size: 207, 212
+  orig: 252, 256
+  offset: 16, 23
+  index: -1
+bao0013
+  rotate: true
+  xy: 1082, 415
+  size: 207, 213
+  orig: 252, 256
+  offset: 16, 22
+  index: -1
+bao0014
+  rotate: true
+  xy: 2, 414
+  size: 208, 214
+  orig: 252, 256
+  offset: 16, 21
+  index: -1
+bao0015
+  rotate: true
+  xy: 218, 414
+  size: 208, 214
+  orig: 252, 256
+  offset: 17, 21
+  index: -1
+bao0016
+  rotate: true
+  xy: 1297, 208
+  size: 207, 212
+  orig: 252, 256
+  offset: 17, 22
+  index: -1
+bao0017
+  rotate: true
+  xy: 434, 414
+  size: 208, 214
+  orig: 252, 256
+  offset: 17, 21
+  index: -1
+bao0018
+  rotate: true
+  xy: 650, 420
+  size: 202, 214
+  orig: 252, 256
+  offset: 22, 21
+  index: -1
+bao0019
+  rotate: true
+  xy: 866, 419
+  size: 203, 214
+  orig: 252, 256
+  offset: 22, 21
+  index: -1
+bao0020
+  rotate: true
+  xy: 1078, 213
+  size: 200, 212
+  orig: 252, 256
+  offset: 24, 22
+  index: -1
+bao0021
+  rotate: true
+  xy: 2, 216
+  size: 196, 211
+  orig: 252, 256
+  offset: 26, 23
+  index: -1

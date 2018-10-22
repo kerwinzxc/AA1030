@@ -1,0 +1,34 @@
+
+effect_zhangmenling_gumuling.png
+size: 473,277
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gumuling
+  rotate: true
+  xy: 304, 21
+  size: 92, 167
+  orig: 307, 307
+  offset: 91, 97
+  index: -1
+gy
+  rotate: false
+  xy: 414, 251
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+lantiao
+  rotate: false
+  xy: 2, 115
+  size: 410, 160
+  orig: 448, 184
+  offset: 18, 13
+  index: -1
+tu
+  rotate: true
+  xy: 2, 2
+  size: 111, 300
+  orig: 307, 307
+  offset: 91, 6
+  index: -1

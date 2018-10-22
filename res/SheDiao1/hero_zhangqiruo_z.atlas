@@ -1,0 +1,48 @@
+
+hero_zhangqiruo_z.png
+size: 674,542
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye_01
+  rotate: false
+  xy: 2, 27
+  size: 121, 52
+  orig: 121, 52
+  offset: 0, 0
+  index: -1
+eye_02
+  rotate: false
+  xy: 125, 27
+  size: 121, 52
+  orig: 121, 52
+  offset: 0, 0
+  index: -1
+hair_01
+  rotate: false
+  xy: 509, 170
+  size: 163, 370
+  orig: 164, 370
+  offset: 1, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 81
+  size: 505, 459
+  orig: 505, 459
+  offset: 0, 0
+  index: -1
+jtbg
+  rotate: true
+  xy: 248, 28
+  size: 51, 91
+  orig: 51, 91
+  offset: 0, 0
+  index: -1
+mao
+  rotate: false
+  xy: 509, 2
+  size: 149, 166
+  orig: 149, 166
+  offset: 0, 0
+  index: -1

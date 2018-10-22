@@ -1,0 +1,153 @@
+
+effect_ui_jingmaibeijing.png
+size: 1915,420
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+add_0001
+  rotate: false
+  xy: 2, 13
+  size: 277, 124
+  orig: 384, 289
+  offset: 53, 15
+  index: -1
+add_0003
+  rotate: true
+  xy: 142, 141
+  size: 277, 125
+  orig: 384, 289
+  offset: 52, 17
+  index: -1
+add_0005
+  rotate: false
+  xy: 1640, 280
+  size: 273, 138
+  orig: 384, 289
+  offset: 53, 5
+  index: -1
+add_0007
+  rotate: false
+  xy: 1640, 144
+  size: 273, 134
+  orig: 384, 289
+  offset: 54, 11
+  index: -1
+add_0009
+  rotate: false
+  xy: 1395, 2
+  size: 274, 139
+  orig: 384, 289
+  offset: 53, 8
+  index: -1
+add_0011
+  rotate: false
+  xy: 1118, 3
+  size: 275, 137
+  orig: 384, 289
+  offset: 53, 10
+  index: -1
+add_0013
+  rotate: true
+  xy: 956, 142
+  size: 276, 133
+  orig: 384, 289
+  offset: 52, 13
+  index: -1
+add_0015
+  rotate: true
+  xy: 269, 141
+  size: 277, 138
+  orig: 384, 289
+  offset: 52, 10
+  index: -1
+add_0017
+  rotate: false
+  xy: 281, 3
+  size: 277, 136
+  orig: 384, 289
+  offset: 52, 14
+  index: -1
+add_0019
+  rotate: true
+  xy: 409, 141
+  size: 277, 133
+  orig: 384, 289
+  offset: 53, 16
+  index: -1
+add_0021
+  rotate: true
+  xy: 544, 141
+  size: 277, 127
+  orig: 384, 289
+  offset: 53, 19
+  index: -1
+add_0023
+  rotate: false
+  xy: 560, 16
+  size: 277, 123
+  orig: 384, 289
+  offset: 54, 20
+  index: -1
+add_0025
+  rotate: true
+  xy: 1228, 143
+  size: 275, 125
+  orig: 384, 289
+  offset: 55, 21
+  index: -1
+add_0027
+  rotate: true
+  xy: 1494, 144
+  size: 274, 144
+  orig: 384, 289
+  offset: 57, 3
+  index: -1
+add_0029
+  rotate: true
+  xy: 1355, 143
+  size: 275, 137
+  orig: 384, 289
+  offset: 56, 8
+  index: -1
+add_0031
+  rotate: true
+  xy: 1091, 142
+  size: 276, 135
+  orig: 384, 289
+  offset: 56, 11
+  index: -1
+add_0033
+  rotate: true
+  xy: 673, 141
+  size: 277, 140
+  orig: 384, 289
+  offset: 55, 8
+  index: -1
+add_0035
+  rotate: true
+  xy: 815, 141
+  size: 277, 139
+  orig: 384, 289
+  offset: 55, 11
+  index: -1
+add_0037
+  rotate: true
+  xy: 2, 139
+  size: 279, 138
+  orig: 384, 289
+  offset: 54, 9
+  index: -1
+add_0039
+  rotate: false
+  xy: 839, 6
+  size: 277, 133
+  orig: 384, 289
+  offset: 54, 13
+  index: -1
+guang_
+  rotate: false
+  xy: 1671, 14
+  size: 150, 128
+  orig: 192, 144
+  offset: 22, 7
+  index: -1

@@ -1,0 +1,265 @@
+
+effect_ui_fubentishi.png
+size: 1987,781
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+andi
+  rotate: true
+  xy: 2, 418
+  size: 361, 172
+  orig: 361, 172
+  offset: 0, 0
+  index: -1
+hanqi0001
+  rotate: true
+  xy: 1706, 44
+  size: 218, 131
+  orig: 353, 209
+  offset: 74, 35
+  index: -1
+hanqi0002
+  rotate: true
+  xy: 1565, 42
+  size: 233, 139
+  orig: 353, 209
+  offset: 64, 32
+  index: -1
+hanqi0003
+  rotate: false
+  xy: 1717, 384
+  size: 239, 146
+  orig: 353, 209
+  offset: 61, 29
+  index: -1
+hanqi0004
+  rotate: true
+  xy: 1475, 277
+  size: 249, 152
+  orig: 353, 209
+  offset: 55, 25
+  index: -1
+hanqi0005
+  rotate: false
+  xy: 1304, 75
+  size: 259, 157
+  orig: 353, 209
+  offset: 51, 22
+  index: -1
+hanqi0006
+  rotate: true
+  xy: 1182, 234
+  size: 267, 163
+  orig: 353, 209
+  offset: 49, 19
+  index: -1
+hanqi0007
+  rotate: true
+  xy: 1168, 503
+  size: 276, 161
+  orig: 353, 209
+  offset: 46, 16
+  index: -1
+hanqi0008
+  rotate: false
+  xy: 1015, 21
+  size: 287, 164
+  orig: 353, 209
+  offset: 41, 13
+  index: -1
+hanqi0009
+  rotate: true
+  xy: 855, 483
+  size: 296, 168
+  orig: 353, 209
+  offset: 37, 12
+  index: -1
+hanqi0010
+  rotate: true
+  xy: 717, 163
+  size: 303, 175
+  orig: 353, 209
+  offset: 32, 11
+  index: -1
+hanqi0011
+  rotate: true
+  xy: 677, 468
+  size: 311, 176
+  orig: 353, 209
+  offset: 28, 11
+  index: -1
+hanqi0012
+  rotate: true
+  xy: 531, 142
+  size: 317, 184
+  orig: 353, 209
+  offset: 26, 11
+  index: -1
+hanqi0013
+  rotate: true
+  xy: 346, 124
+  size: 325, 183
+  orig: 353, 209
+  offset: 20, 14
+  index: -1
+hanqi0014
+  rotate: true
+  xy: 176, 451
+  size: 328, 182
+  orig: 353, 209
+  offset: 17, 16
+  index: -1
+hanqi0015
+  rotate: true
+  xy: 176, 123
+  size: 326, 168
+  orig: 353, 209
+  offset: 16, 20
+  index: -1
+hanqi0016
+  rotate: true
+  xy: 360, 454
+  size: 325, 158
+  orig: 353, 209
+  offset: 15, 27
+  index: -1
+hanqi0017
+  rotate: true
+  xy: 520, 461
+  size: 318, 155
+  orig: 353, 209
+  offset: 17, 29
+  index: -1
+hanqi0018
+  rotate: false
+  xy: 717, 9
+  size: 296, 152
+  orig: 353, 209
+  offset: 26, 29
+  index: -1
+hanqi0019
+  rotate: true
+  xy: 894, 187
+  size: 294, 151
+  orig: 353, 209
+  offset: 31, 29
+  index: -1
+hanqi0020
+  rotate: true
+  xy: 1025, 486
+  size: 293, 141
+  orig: 353, 209
+  offset: 32, 31
+  index: -1
+hanqi0021
+  rotate: true
+  xy: 1047, 206
+  size: 278, 133
+  orig: 353, 209
+  offset: 44, 32
+  index: -1
+hanqi0022
+  rotate: true
+  xy: 1331, 512
+  size: 267, 129
+  orig: 353, 209
+  offset: 55, 35
+  index: -1
+hanqi0023
+  rotate: true
+  xy: 1347, 252
+  size: 258, 126
+  orig: 353, 209
+  offset: 63, 37
+  index: -1
+hanqi0024
+  rotate: true
+  xy: 1462, 528
+  size: 251, 126
+  orig: 353, 209
+  offset: 67, 36
+  index: -1
+hanqi0025
+  rotate: true
+  xy: 1590, 530
+  size: 249, 125
+  orig: 353, 209
+  offset: 67, 34
+  index: -1
+hanqi0026
+  rotate: false
+  xy: 1717, 656
+  size: 240, 123
+  orig: 353, 209
+  offset: 70, 34
+  index: -1
+hanqi0027
+  rotate: false
+  xy: 1717, 532
+  size: 240, 122
+  orig: 353, 209
+  offset: 70, 35
+  index: -1
+hanqi0028
+  rotate: false
+  xy: 414, 3
+  size: 232, 119
+  orig: 353, 209
+  offset: 79, 35
+  index: -1
+hanqi0029
+  rotate: false
+  xy: 176, 2
+  size: 236, 119
+  orig: 353, 209
+  offset: 77, 35
+  index: -1
+hanqi0030
+  rotate: false
+  xy: 1706, 264
+  size: 230, 118
+  orig: 353, 209
+  offset: 83, 35
+  index: -1
+hanqi0031
+  rotate: false
+  xy: 1706, 264
+  size: 230, 118
+  orig: 353, 209
+  offset: 83, 35
+  index: -1
+hanqi0032
+  rotate: false
+  xy: 1706, 264
+  size: 230, 118
+  orig: 353, 209
+  offset: 83, 35
+  index: -1
+hanqi0033
+  rotate: false
+  xy: 1706, 264
+  size: 230, 118
+  orig: 353, 209
+  offset: 83, 35
+  index: -1
+hanqi0034
+  rotate: false
+  xy: 1706, 264
+  size: 230, 118
+  orig: 353, 209
+  offset: 83, 35
+  index: -1
+ice
+  rotate: false
+  xy: 1839, 111
+  size: 146, 151
+  orig: 154, 154
+  offset: 4, 2
+  index: -1
+liangdi
+  rotate: true
+  xy: 2, 55
+  size: 361, 172
+  orig: 361, 172
+  offset: 0, 0
+  index: -1

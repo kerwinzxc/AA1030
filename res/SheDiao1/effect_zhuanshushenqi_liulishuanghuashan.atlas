@@ -1,0 +1,20 @@
+
+effect_zhuanshushenqi_liulishuanghuashan.png
+size: 618,184
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lantiao
+  rotate: false
+  xy: 2, 2
+  size: 313, 180
+  orig: 323, 189
+  offset: 5, 5
+  index: -1
+tu
+  rotate: false
+  xy: 317, 16
+  size: 299, 166
+  orig: 299, 166
+  offset: 0, 0
+  index: -1

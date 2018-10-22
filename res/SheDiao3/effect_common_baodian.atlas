@@ -1,0 +1,90 @@
+
+effect_common_baodian.png
+size: 363,559
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_bao_add_0001
+  rotate: true
+  xy: 2, 2
+  size: 48, 68
+  orig: 152, 160
+  offset: 54, 51
+  index: -1
+01_bao_add_0002
+  rotate: false
+  xy: 257, 131
+  size: 103, 123
+  orig: 152, 160
+  offset: 27, 22
+  index: -1
+01_bao_add_0003
+  rotate: true
+  xy: 116, 104
+  size: 123, 139
+  orig: 152, 160
+  offset: 16, 13
+  index: -1
+01_bao_add_0004
+  rotate: false
+  xy: 116, 229
+  size: 137, 151
+  orig: 152, 160
+  offset: 7, 4
+  index: -1
+01_bao_add_0005
+  rotate: false
+  xy: 213, 401
+  size: 145, 156
+  orig: 152, 160
+  offset: 5, 1
+  index: -1
+02_bao_add_0001
+  rotate: false
+  xy: 255, 256
+  size: 106, 143
+  orig: 128, 184
+  offset: 4, 14
+  index: -1
+02_bao_add_0002
+  rotate: false
+  xy: 2, 52
+  size: 111, 159
+  orig: 128, 184
+  offset: 4, 8
+  index: -1
+02_bao_add_0003
+  rotate: false
+  xy: 2, 213
+  size: 112, 167
+  orig: 128, 184
+  offset: 10, 6
+  index: -1
+02_bao_add_0004
+  rotate: false
+  xy: 2, 382
+  size: 115, 175
+  orig: 128, 184
+  offset: 11, 5
+  index: -1
+02_bao_add_0005
+  rotate: false
+  xy: 119, 397
+  size: 92, 160
+  orig: 128, 184
+  offset: 12, 22
+  index: -1
+02_bao_guang
+  rotate: false
+  xy: 115, 17
+  size: 120, 85
+  orig: 129, 96
+  offset: 4, 3
+  index: -1
+02_bao_guangyun
+  rotate: true
+  xy: 257, 43
+  size: 86, 90
+  orig: 100, 100
+  offset: 7, 5
+  index: -1

@@ -1,0 +1,899 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		423130AE1EB8731200BB1BE4 /* SJIOSGTMBase64.h in Headers */ = {isa = PBXBuildFile; fileRef = 423130A71EB8731200BB1BE4 /* SJIOSGTMBase64.h */; };
+		423130AF1EB8731200BB1BE4 /* SJIOSGTMBase64.m in Sources */ = {isa = PBXBuildFile; fileRef = 423130A81EB8731200BB1BE4 /* SJIOSGTMBase64.m */; };
+		423130B01EB8731200BB1BE4 /* SJIOSGTMDefines.h in Headers */ = {isa = PBXBuildFile; fileRef = 423130A91EB8731200BB1BE4 /* SJIOSGTMDefines.h */; };
+		423130B11EB8731200BB1BE4 /* NSData+AES.h in Headers */ = {isa = PBXBuildFile; fileRef = 423130AA1EB8731200BB1BE4 /* NSData+AES.h */; };
+		423130B21EB8731200BB1BE4 /* NSData+AES.m in Sources */ = {isa = PBXBuildFile; fileRef = 423130AB1EB8731200BB1BE4 /* NSData+AES.m */; };
+		4259F9D51EB42D1600658CB2 /* SJIOSSdkPy.h in Headers */ = {isa = PBXBuildFile; fileRef = 4259F9D11EB42D1600658CB2 /* SJIOSSdkPy.h */; };
+		4259F9D61EB42D1600658CB2 /* SJIOSSdkPy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4259F9D21EB42D1600658CB2 /* SJIOSSdkPy.m */; };
+		426E200C1D3E14BF003789AC /* libz.1.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 426E200B1D3E14BF003789AC /* libz.1.dylib */; };
+		426E200E1D3E14C9003789AC /* libc++.1.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 426E200D1D3E14C9003789AC /* libc++.1.dylib */; };
+		42718B561F1F021900D4AA49 /* SJIOSSecurityUtil.h in Headers */ = {isa = PBXBuildFile; fileRef = 42718B541F1F021900D4AA49 /* SJIOSSecurityUtil.h */; };
+		42718B571F1F021900D4AA49 /* SJIOSSecurityUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 42718B551F1F021900D4AA49 /* SJIOSSecurityUtil.m */; };
+		4297626B1EA70B7B00BEFD35 /* SJIOSKeyChainTool.h in Headers */ = {isa = PBXBuildFile; fileRef = 429762691EA70B7B00BEFD35 /* SJIOSKeyChainTool.h */; };
+		4297626C1EA70B7B00BEFD35 /* SJIOSKxdKeyChainTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 4297626A1EA70B7B00BEFD35 /* SJIOSKxdKeyChainTool.m */; };
+		4298E7CA1E7A63AD007B5A7E /* SJIOSAgreeView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4298E7C91E7A63AD007B5A7E /* SJIOSAgreeView.m */; };
+		42A310151E559B8700ECD02F /* SJIOSBindIdentifyViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 42A310131E559B8700ECD02F /* SJIOSBindIdentifyViewController.h */; };
+		42A310161E559B8700ECD02F /* SJIOSBindIdentifyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 42A310141E559B8700ECD02F /* SJIOSBindIdentifyViewController.m */; };
+		42F50E5F1C76DA7F00843545 /* CoreTelephony.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 42F50E5E1C76DA7F00843545 /* CoreTelephony.framework */; };
+		42F50E611C76DA8A00843545 /* CoreText.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 42F50E601C76DA8A00843545 /* CoreText.framework */; };
+		42F50E651C76DA9900843545 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 42F50E641C76DA9900843545 /* SystemConfiguration.framework */; };
+		42F50E671C76DAA000843545 /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 42F50E661C76DAA000843545 /* CFNetwork.framework */; };
+		42F50EC31C76FE0100843545 /* NSString+SJIOSSdk.h in Headers */ = {isa = PBXBuildFile; fileRef = 42F50EC11C76FE0100843545 /* NSString+SJIOSSdk.h */; };
+		42F50EC41C76FE0100843545 /* NSString+SJIOSSdk.m in Sources */ = {isa = PBXBuildFile; fileRef = 42F50EC21C76FE0100843545 /* NSString+SJIOSSdk.m */; };
+		439249971974D8620043457D /* SJIOSBindPhoneViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 439249831974D8620043457D /* SJIOSBindPhoneViewController.h */; };
+		439249981974D8620043457D /* SJIOSBindPhoneViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 439249841974D8620043457D /* SJIOSBindPhoneViewController.m */; };
+		439249991974D8620043457D /* SJIOSChangePasswordViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 439249851974D8620043457D /* SJIOSChangePasswordViewController.h */; };
+		4392499A1974D8620043457D /* SJIOSChangePasswordViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 439249861974D8620043457D /* SJIOSChangePasswordViewController.m */; };
+		4392499D1974D8620043457D /* SJIOSFloatViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 439249891974D8620043457D /* SJIOSFloatViewController.h */; };
+		4392499E1974D8620043457D /* SJIOSFloatViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4392498A1974D8620043457D /* SJIOSFloatViewController.m */; };
+		439249A01974D8620043457D /* SJIOSFloatWindow.h in Headers */ = {isa = PBXBuildFile; fileRef = 4392498C1974D8620043457D /* SJIOSFloatWindow.h */; };
+		439249A11974D8620043457D /* SJIOSFloatWindow.m in Sources */ = {isa = PBXBuildFile; fileRef = 4392498D1974D8620043457D /* SJIOSFloatWindow.m */; };
+		439249A21974D8620043457D /* SJIOSNavViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 4392498E1974D8620043457D /* SJIOSNavViewController.h */; };
+		439249A31974D8620043457D /* SJIOSNavViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4392498F1974D8620043457D /* SJIOSNavViewController.m */; };
+		439249A41974D8620043457D /* SJIOSSettingViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 439249901974D8620043457D /* SJIOSSettingViewController.h */; };
+		439249A51974D8620043457D /* SJIOSSettingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 439249911974D8620043457D /* SJIOSSettingViewController.m */; };
+		439249A61974D8620043457D /* SJIOSSwitchDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = 439249921974D8620043457D /* SJIOSSwitchDelegate.h */; };
+		439249A71974D8620043457D /* SJIOSServiceViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 439249931974D8620043457D /* SJIOSServiceViewController.h */; };
+		439249A81974D8620043457D /* SJIOSServiceViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 439249941974D8620043457D /* SJIOSServiceViewController.m */; };
+		43AC435218F7E4630004808D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 43AC435118F7E4630004808D /* UIKit.framework */; };
+		43AC435F18FB99C50004808D /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 43AC435E18FB99C50004808D /* QuartzCore.framework */; };
+		43C3855B198B694C0075B349 /* SJIOSOpenUDID.h in Headers */ = {isa = PBXBuildFile; fileRef = 43C38559198B694C0075B349 /* SJIOSOpenUDID.h */; };
+		43C3855C198B694C0075B349 /* SJIOSOpenUDID.m in Sources */ = {isa = PBXBuildFile; fileRef = 43C3855A198B694C0075B349 /* SJIOSOpenUDID.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		43D8606A1904E60D003DBDE4 /* UIColor+SJIOSSdk.m in Headers */ = {isa = PBXBuildFile; fileRef = 910F376D18C6B8D300C0DD7A /* UIColor+SJIOSSdk.m */; };
+		8458A86D1C4E1E56000DF303 /* SJIOSForgetEmailView.h in Headers */ = {isa = PBXBuildFile; fileRef = 8458A8671C4E1E56000DF303 /* SJIOSForgetEmailView.h */; };
+		8458A86E1C4E1E56000DF303 /* SJIOSForgetEmailView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8458A8681C4E1E56000DF303 /* SJIOSForgetEmailView.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		8458A86F1C4E1E56000DF303 /* SJIOSForgetView.h in Headers */ = {isa = PBXBuildFile; fileRef = 8458A8691C4E1E56000DF303 /* SJIOSForgetView.h */; };
+		8458A8701C4E1E56000DF303 /* SJIOSForgetView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8458A86A1C4E1E56000DF303 /* SJIOSForgetView.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		8458A8731C4F88ED000DF303 /* SJIOSBindEmailViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 8458A8711C4F88ED000DF303 /* SJIOSBindEmailViewController.h */; };
+		8458A8741C4F88ED000DF303 /* SJIOSBindEmailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8458A8721C4F88ED000DF303 /* SJIOSBindEmailViewController.m */; };
+		849FDD8819EFA07C00C36E8E /* SJIOSDataBase.h in Headers */ = {isa = PBXBuildFile; fileRef = 849FDD8619EFA07C00C36E8E /* SJIOSDataBase.h */; };
+		849FDD8919EFA07C00C36E8E /* SJIOSDataBase.m in Sources */ = {isa = PBXBuildFile; fileRef = 849FDD8719EFA07C00C36E8E /* SJIOSDataBase.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		84AB43251A3A9A58006FD2D0 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84AB43241A3A9A58006FD2D0 /* Security.framework */; };
+		84F625D71A4030F3009B7662 /* CoreAudio.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84F625D61A4030F3009B7662 /* CoreAudio.framework */; };
+		84F625D91A4030FD009B7662 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84F625D81A4030FD009B7662 /* AVFoundation.framework */; };
+		84F625DB1A403116009B7662 /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84F625DA1A403116009B7662 /* MediaPlayer.framework */; };
+		84F625DD1A40313E009B7662 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84F625DC1A40313E009B7662 /* CoreGraphics.framework */; };
+		84FAA4CE1A5CC9B5002139B4 /* SJIOSCheckUpdate.h in Headers */ = {isa = PBXBuildFile; fileRef = 84FAA4CC1A5CC9B5002139B4 /* SJIOSCheckUpdate.h */; };
+		84FAA4CF1A5CC9B5002139B4 /* SJIOSCheckUpdate.m in Sources */ = {isa = PBXBuildFile; fileRef = 84FAA4CD1A5CC9B5002139B4 /* SJIOSCheckUpdate.m */; };
+		850E1D61209422D5002BE3E9 /* SJIOSShiMingRenZhengView.m in Sources */ = {isa = PBXBuildFile; fileRef = 850E1D60209422D5002BE3E9 /* SJIOSShiMingRenZhengView.m */; };
+		85199A96207CED80008795FB /* UIControl+ZHW.m in Sources */ = {isa = PBXBuildFile; fileRef = 85199A94207CED7F008795FB /* UIControl+ZHW.m */; };
+		85199A97207CED80008795FB /* UIControl+ZHW.h in Headers */ = {isa = PBXBuildFile; fileRef = 85199A95207CED7F008795FB /* UIControl+ZHW.h */; };
+		85C4DA4320FB0A5A00D80781 /* SJIOSUserCenterView.m in Sources */ = {isa = PBXBuildFile; fileRef = 85C4DA4220FB0A5A00D80781 /* SJIOSUserCenterView.m */; };
+		910F326C18C6AF4700C0DD7A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 910F326B18C6AF4700C0DD7A /* Foundation.framework */; };
+		910F327618C6AF4800C0DD7A /* SJIOSFramework.m in Sources */ = {isa = PBXBuildFile; fileRef = 910F327518C6AF4800C0DD7A /* SJIOSFramework.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		910F37B618C6B8D300C0DD7A /* SJIOSReachability.h in Headers */ = {isa = PBXBuildFile; fileRef = 910F368418C6B8D300C0DD7A /* SJIOSReachability.h */; };
+		910F37B718C6B8D300C0DD7A /* SJIOSReachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 910F368518C6B8D300C0DD7A /* SJIOSReachability.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		910F37B818C6B8D300C0DD7A /* SJIOSSdkCommonDefine.h in Headers */ = {isa = PBXBuildFile; fileRef = 910F368618C6B8D300C0DD7A /* SJIOSSdkCommonDefine.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		910F37BA18C6B8D300C0DD7A /* SJIOSSdk.h in Headers */ = {isa = PBXBuildFile; fileRef = 910F368818C6B8D300C0DD7A /* SJIOSSdk.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		910F37BB18C6B8D300C0DD7A /* SJIOSSdk.m in Sources */ = {isa = PBXBuildFile; fileRef = 910F368918C6B8D300C0DD7A /* SJIOSSdk.m */; };
+		910F388518C6B8D400C0DD7A /* SJIOSSdkImp.h in Headers */ = {isa = PBXBuildFile; fileRef = 910F376318C6B8D300C0DD7A /* SJIOSSdkImp.h */; };
+		910F388618C6B8D400C0DD7A /* SJIOSSdkImp.m in Sources */ = {isa = PBXBuildFile; fileRef = 910F376418C6B8D300C0DD7A /* SJIOSSdkImp.m */; };
+		910F388718C6B8D400C0DD7A /* SJIOSButton.h in Headers */ = {isa = PBXBuildFile; fileRef = 910F376618C6B8D300C0DD7A /* SJIOSButton.h */; };
+		910F388818C6B8D400C0DD7A /* SJIOSButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 910F376718C6B8D300C0DD7A /* SJIOSButton.m */; };
+		910F388B18C6B8D400C0DD7A /* SJIOSSdkMd5.h in Headers */ = {isa = PBXBuildFile; fileRef = 910F376A18C6B8D300C0DD7A /* SJIOSSdkMd5.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		910F388C18C6B8D400C0DD7A /* SJIOSSdkMd5.m in Sources */ = {isa = PBXBuildFile; fileRef = 910F376B18C6B8D300C0DD7A /* SJIOSSdkMd5.m */; };
+		910F388D18C6B8D400C0DD7A /* UIColor+SJIOSSdk.h in Headers */ = {isa = PBXBuildFile; fileRef = 910F376C18C6B8D300C0DD7A /* UIColor+SJIOSSdk.h */; };
+		910F388E18C6B8D400C0DD7A /* UIColor+SJIOSSdk.m in Sources */ = {isa = PBXBuildFile; fileRef = 910F376D18C6B8D300C0DD7A /* UIColor+SJIOSSdk.m */; };
+		910F389118C6B8D400C0DD7A /* UIImage+SJIOSSdk.h in Headers */ = {isa = PBXBuildFile; fileRef = 910F377018C6B8D300C0DD7A /* UIImage+SJIOSSdk.h */; };
+		910F389218C6B8D400C0DD7A /* UIImage+SJIOSSdk.m in Sources */ = {isa = PBXBuildFile; fileRef = 910F377118C6B8D300C0DD7A /* UIImage+SJIOSSdk.m */; };
+		910F389B18C6B8D400C0DD7A /* SJIOSRegisterView.h in Headers */ = {isa = PBXBuildFile; fileRef = 910F377B18C6B8D300C0DD7A /* SJIOSRegisterView.h */; };
+		910F389C18C6B8D400C0DD7A /* SJIOSRegisterView.m in Sources */ = {isa = PBXBuildFile; fileRef = 910F377C18C6B8D300C0DD7A /* SJIOSRegisterView.m */; };
+		910F389D18C6B8D400C0DD7A /* SJIOSProgressHUD.h in Headers */ = {isa = PBXBuildFile; fileRef = 910F377E18C6B8D300C0DD7A /* SJIOSProgressHUD.h */; };
+		910F389E18C6B8D400C0DD7A /* SJIOSProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = 910F377F18C6B8D300C0DD7A /* SJIOSProgressHUD.m */; };
+		910F389F18C6B8D400C0DD7A /* SJIOSWebInterface.h in Headers */ = {isa = PBXBuildFile; fileRef = 910F378118C6B8D300C0DD7A /* SJIOSWebInterface.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		910F38A018C6B8D400C0DD7A /* SJIOSWebInterface.m in Sources */ = {isa = PBXBuildFile; fileRef = 910F378218C6B8D300C0DD7A /* SJIOSWebInterface.m */; };
+		910F38A118C6B8D400C0DD7A /* SJIOSWebApi.h in Headers */ = {isa = PBXBuildFile; fileRef = 910F378318C6B8D300C0DD7A /* SJIOSWebApi.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		910F38A218C6B8D400C0DD7A /* SJIOSWebApi.m in Sources */ = {isa = PBXBuildFile; fileRef = 910F378418C6B8D300C0DD7A /* SJIOSWebApi.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		A15CAC411F04D05500EDDD4F /* SJ_ValidateIdentity.h in Headers */ = {isa = PBXBuildFile; fileRef = A15CAC3F1F04D05500EDDD4F /* SJ_ValidateIdentity.h */; };
+		A15CAC421F04D05500EDDD4F /* SJ_ValidateIdentity.m in Sources */ = {isa = PBXBuildFile; fileRef = A15CAC401F04D05500EDDD4F /* SJ_ValidateIdentity.m */; };
+		A16916491ED9175A00AB104C /* SJIOSYMPhoneRegister.h in Headers */ = {isa = PBXBuildFile; fileRef = A16916471ED9175A00AB104C /* SJIOSYMPhoneRegister.h */; };
+		A169164A1ED9175A00AB104C /* SJIOSYMPhoneRegister.m in Sources */ = {isa = PBXBuildFile; fileRef = A16916481ED9175A00AB104C /* SJIOSYMPhoneRegister.m */; };
+		A17060EE1ED525D8009556FD /* SJIOSYMPhoneRegisterView.h in Headers */ = {isa = PBXBuildFile; fileRef = A17060EC1ED525D8009556FD /* SJIOSYMPhoneRegisterView.h */; };
+		A17060EF1ED525D8009556FD /* SJIOSYMPhoneRegisterView.m in Sources */ = {isa = PBXBuildFile; fileRef = A17060ED1ED525D8009556FD /* SJIOSYMPhoneRegisterView.m */; };
+		A1965D001EC6F772009DAAEC /* SJIOSYMLoginView.h in Headers */ = {isa = PBXBuildFile; fileRef = A1965CFE1EC6F772009DAAEC /* SJIOSYMLoginView.h */; };
+		A1965D011EC6F772009DAAEC /* SJIOSYMLoginView.m in Sources */ = {isa = PBXBuildFile; fileRef = A1965CFF1EC6F772009DAAEC /* SJIOSYMLoginView.m */; };
+		A1AF19161F07550F002B1C8E /* SJIOSAccountViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = A1AF19141F07550F002B1C8E /* SJIOSAccountViewController.h */; };
+		A1AF19171F07550F002B1C8E /* SJIOSAccountViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A1AF19151F07550F002B1C8E /* SJIOSAccountViewController.m */; };
+		A1AF8DE11F0B8A21009E3E06 /* SJIOSYMBindPhoneView.h in Headers */ = {isa = PBXBuildFile; fileRef = A1AF8DDF1F0B8A21009E3E06 /* SJIOSYMBindPhoneView.h */; };
+		A1AF8DE21F0B8A21009E3E06 /* SJIOSYMBindPhoneView.m in Sources */ = {isa = PBXBuildFile; fileRef = A1AF8DE01F0B8A21009E3E06 /* SJIOSYMBindPhoneView.m */; };
+		A1D536C21EC0520400370630 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A1D536C11EC0520400370630 /* MessageUI.framework */; };
+		A1D536C61EC0522B00370630 /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A1D536C51EC0522B00370630 /* AdSupport.framework */; };
+		A1D536C81EC0524100370630 /* AddressBook.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A1D536C71EC0524100370630 /* AddressBook.framework */; };
+		A1D536CA1EC0524800370630 /* AddressBookUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A1D536C91EC0524800370630 /* AddressBookUI.framework */; };
+		A1EDCB891EFA18D400EA871D /* SJIOSYMPhoneLogin.h in Headers */ = {isa = PBXBuildFile; fileRef = A1EDCB871EFA18D400EA871D /* SJIOSYMPhoneLogin.h */; };
+		A1EDCB8A1EFA18D400EA871D /* SJIOSYMPhoneLogin.m in Sources */ = {isa = PBXBuildFile; fileRef = A1EDCB881EFA18D400EA871D /* SJIOSYMPhoneLogin.m */; };
+		D00540B919A5E91E00C3E42E /* SJIOSPopwidowViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D00540B719A5E91E00C3E42E /* SJIOSPopwidowViewController.m */; };
+		D00540C319A5F32900C3E42E /* SJIOSPopwidowViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = D00540C219A5F2D600C3E42E /* SJIOSPopwidowViewController.h */; };
+		D04A137419D03D3600D5CDAF /* SJIOSBaseView.h in Headers */ = {isa = PBXBuildFile; fileRef = D04A137219D03D3600D5CDAF /* SJIOSBaseView.h */; };
+		D04A137519D03D3600D5CDAF /* SJIOSBaseView.m in Sources */ = {isa = PBXBuildFile; fileRef = D04A137319D03D3600D5CDAF /* SJIOSBaseView.m */; };
+		D08BE49619D424B600F42838 /* SJIOSBind.h in Headers */ = {isa = PBXBuildFile; fileRef = D08BE49419D424B600F42838 /* SJIOSBind.h */; };
+		D08BE49719D424B600F42838 /* SJIOSBind.m in Sources */ = {isa = PBXBuildFile; fileRef = D08BE49519D424B600F42838 /* SJIOSBind.m */; };
+		D08BE49A19D42E1F00F42838 /* SJIOSPopWindow.h in Headers */ = {isa = PBXBuildFile; fileRef = D08BE49819D42E1F00F42838 /* SJIOSPopWindow.h */; };
+		D08BE49B19D42E1F00F42838 /* SJIOSPopWindow.m in Sources */ = {isa = PBXBuildFile; fileRef = D08BE49919D42E1F00F42838 /* SJIOSPopWindow.m */; };
+		D0A3C17919C6DEFB00D059B6 /* SJIOSUserInfo.h in Headers */ = {isa = PBXBuildFile; fileRef = D0A3C17719C6DEFB00D059B6 /* SJIOSUserInfo.h */; };
+		D0A3C17A19C6DEFB00D059B6 /* SJIOSUserInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = D0A3C17819C6DEFB00D059B6 /* SJIOSUserInfo.m */; };
+		D0B0BDAF19B71930003A3783 /* SJIOSDefaultLogin.h in Headers */ = {isa = PBXBuildFile; fileRef = D0B0BDAD19B71930003A3783 /* SJIOSDefaultLogin.h */; };
+		D0B0BDB019B71930003A3783 /* SJIOSDefaultLogin.m in Sources */ = {isa = PBXBuildFile; fileRef = D0B0BDAE19B71930003A3783 /* SJIOSDefaultLogin.m */; };
+		D0B7903219A7559900426492 /* SJIOSWindowTouch.m in Sources */ = {isa = PBXBuildFile; fileRef = D0B7903019A7559900426492 /* SJIOSWindowTouch.m */; };
+		D0B7903619A769EA00426492 /* SJIOSWindowTouch.h in Headers */ = {isa = PBXBuildFile; fileRef = D0B7903319A7695F00426492 /* SJIOSWindowTouch.h */; };
+		D0E889F819B8728E007DA08E /* SJIOSQuickLogin.h in Headers */ = {isa = PBXBuildFile; fileRef = D0E889F619B8728E007DA08E /* SJIOSQuickLogin.h */; };
+		D0E889F919B8728E007DA08E /* SJIOSQuickLogin.m in Sources */ = {isa = PBXBuildFile; fileRef = D0E889F719B8728E007DA08E /* SJIOSQuickLogin.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		423130A71EB8731200BB1BE4 /* SJIOSGTMBase64.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJIOSGTMBase64.h; sourceTree = "<group>"; };
+		423130A81EB8731200BB1BE4 /* SJIOSGTMBase64.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJIOSGTMBase64.m; sourceTree = "<group>"; };
+		423130A91EB8731200BB1BE4 /* SJIOSGTMDefines.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJIOSGTMDefines.h; sourceTree = "<group>"; };
+		423130AA1EB8731200BB1BE4 /* NSData+AES.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSData+AES.h"; sourceTree = "<group>"; };
+		423130AB1EB8731200BB1BE4 /* NSData+AES.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSData+AES.m"; sourceTree = "<group>"; };
+		4259F9D11EB42D1600658CB2 /* SJIOSSdkPy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJIOSSdkPy.h; sourceTree = "<group>"; };
+		4259F9D21EB42D1600658CB2 /* SJIOSSdkPy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJIOSSdkPy.m; sourceTree = "<group>"; };
+		426E200B1D3E14BF003789AC /* libz.1.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.1.dylib; path = ../../../../../../../../usr/lib/libz.1.dylib; sourceTree = "<group>"; };
+		426E200D1D3E14C9003789AC /* libc++.1.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = "libc++.1.dylib"; path = "../../../../../../../../usr/lib/libc++.1.dylib"; sourceTree = "<group>"; };
+		42718B541F1F021900D4AA49 /* SJIOSSecurityUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJIOSSecurityUtil.h; sourceTree = "<group>"; };
+		42718B551F1F021900D4AA49 /* SJIOSSecurityUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJIOSSecurityUtil.m; sourceTree = "<group>"; };
+		429762691EA70B7B00BEFD35 /* SJIOSKeyChainTool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJIOSKeyChainTool.h; sourceTree = "<group>"; };
+		4297626A1EA70B7B00BEFD35 /* SJIOSKxdKeyChainTool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJIOSKxdKeyChainTool.m; sourceTree = "<group>"; };
+		4298E7C91E7A63AD007B5A7E /* SJIOSAgreeView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJIOSAgreeView.m; sourceTree = "<group>"; };
+		4298E7CB1E7A63D4007B5A7E /* SJIOSAgreeView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SJIOSAgreeView.h; sourceTree = "<group>"; };
+		42A310131E559B8700ECD02F /* SJIOSBindIdentifyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJIOSBindIdentifyViewController.h; sourceTree = "<group>"; };
+		42A310141E559B8700ECD02F /* SJIOSBindIdentifyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJIOSBindIdentifyViewController.m; sourceTree = "<group>"; };
+		42F50E5E1C76DA7F00843545 /* CoreTelephony.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreTelephony.framework; path = System/Library/Frameworks/CoreTelephony.framework; sourceTree = SDKROOT; };
+		42F50E601C76DA8A00843545 /* CoreText.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreText.framework; path = System/Library/Frameworks/CoreText.framework; sourceTree = SDKROOT; };
+		42F50E641C76DA9900843545 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		42F50E661C76DAA000843545 /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
+		42F50EC11C76FE0100843545 /* NSString+SJIOSSdk.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+SJIOSSdk.h"; sourceTree = "<group>"; };
+		42F50EC21C76FE0100843545 /* NSString+SJIOSSdk.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+SJIOSSdk.m"; sourceTree = "<group>"; };
+		439249831974D8620043457D /* SJIOSBindPhoneViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJIOSBindPhoneViewController.h; sourceTree = "<group>"; };
+		439249841974D8620043457D /* SJIOSBindPhoneViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJIOSBindPhoneViewController.m; sourceTree = "<group>"; };
+		439249851974D8620043457D /* SJIOSChangePasswordViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJIOSChangePasswordViewController.h; sourceTree = "<group>"; };
+		439249861974D8620043457D /* SJIOSChangePasswordViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJIOSChangePasswordViewController.m; sourceTree = "<group>"; };
+		439249891974D8620043457D /* SJIOSFloatViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJIOSFloatViewController.h; sourceTree = "<group>"; };
+		4392498A1974D8620043457D /* SJIOSFloatViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJIOSFloatViewController.m; sourceTree = "<group>"; };
+		4392498C1974D8620043457D /* SJIOSFloatWindow.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJIOSFloatWindow.h; sourceTree = "<group>"; };
+		4392498D1974D8620043457D /* SJIOSFloatWindow.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJIOSFloatWindow.m; sourceTree = "<group>"; };
+		4392498E1974D8620043457D /* SJIOSNavViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJIOSNavViewController.h; sourceTree = "<group>"; };
+		4392498F1974D8620043457D /* SJIOSNavViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJIOSNavViewController.m; sourceTree = "<group>"; };
+		439249901974D8620043457D /* SJIOSSettingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJIOSSettingViewController.h; sourceTree = "<group>"; };
+		439249911974D8620043457D /* SJIOSSettingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJIOSSettingViewController.m; sourceTree = "<group>"; };
+		439249921974D8620043457D /* SJIOSSwitchDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJIOSSwitchDelegate.h; sourceTree = "<group>"; };
+		439249931974D8620043457D /* SJIOSServiceViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJIOSServiceViewController.h; sourceTree = "<group>"; };
+		439249941974D8620043457D /* SJIOSServiceViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJIOSServiceViewController.m; sourceTree = "<group>"; };
+		43AC435118F7E4630004808D /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		43AC435E18FB99C50004808D /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		43C38559198B694C0075B349 /* SJIOSOpenUDID.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJIOSOpenUDID.h; sourceTree = "<group>"; };
+		43C3855A198B694C0075B349 /* SJIOSOpenUDID.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJIOSOpenUDID.m; sourceTree = "<group>"; };
+		8458A8671C4E1E56000DF303 /* SJIOSForgetEmailView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJIOSForgetEmailView.h; sourceTree = "<group>"; };
+		8458A8681C4E1E56000DF303 /* SJIOSForgetEmailView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJIOSForgetEmailView.m; sourceTree = "<group>"; };
+		8458A8691C4E1E56000DF303 /* SJIOSForgetView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJIOSForgetView.h; sourceTree = "<group>"; };
+		8458A86A1C4E1E56000DF303 /* SJIOSForgetView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJIOSForgetView.m; sourceTree = "<group>"; };
+		8458A8711C4F88ED000DF303 /* SJIOSBindEmailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJIOSBindEmailViewController.h; sourceTree = "<group>"; };
+		8458A8721C4F88ED000DF303 /* SJIOSBindEmailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJIOSBindEmailViewController.m; sourceTree = "<group>"; };
+		849FDD8619EFA07C00C36E8E /* SJIOSDataBase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJIOSDataBase.h; sourceTree = "<group>"; };
+		849FDD8719EFA07C00C36E8E /* SJIOSDataBase.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJIOSDataBase.m; sourceTree = "<group>"; };
+		84AB43241A3A9A58006FD2D0 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
+		84B932501BB2353F006257BD /* libsqlite3.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libsqlite3.tbd; path = usr/lib/libsqlite3.tbd; sourceTree = SDKROOT; };
+		84F625D61A4030F3009B7662 /* CoreAudio.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreAudio.framework; path = System/Library/Frameworks/CoreAudio.framework; sourceTree = SDKROOT; };
+		84F625D81A4030FD009B7662 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		84F625DA1A403116009B7662 /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = System/Library/Frameworks/MediaPlayer.framework; sourceTree = SDKROOT; };
+		84F625DC1A40313E009B7662 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		84FAA4CC1A5CC9B5002139B4 /* SJIOSCheckUpdate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJIOSCheckUpdate.h; sourceTree = "<group>"; };
+		84FAA4CD1A5CC9B5002139B4 /* SJIOSCheckUpdate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJIOSCheckUpdate.m; sourceTree = "<group>"; };
+		850E1D5F209422BD002BE3E9 /* SJIOSShiMingRenZhengView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SJIOSShiMingRenZhengView.h; sourceTree = "<group>"; };
+		850E1D60209422D5002BE3E9 /* SJIOSShiMingRenZhengView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SJIOSShiMingRenZhengView.m; sourceTree = "<group>"; };
+		85199A94207CED7F008795FB /* UIControl+ZHW.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIControl+ZHW.m"; sourceTree = "<group>"; };
+		85199A95207CED7F008795FB /* UIControl+ZHW.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIControl+ZHW.h"; sourceTree = "<group>"; };
+		85C4DA4220FB0A5A00D80781 /* SJIOSUserCenterView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SJIOSUserCenterView.m; sourceTree = "<group>"; };
+		85C4DA4420FB0A6C00D80781 /* SJIOSUserCenterView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SJIOSUserCenterView.h; sourceTree = "<group>"; };
+		910F326818C6AF4700C0DD7A /* SJIOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework.static; includeInIndex = 0; path = SJIOS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		910F326B18C6AF4700C0DD7A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		910F326F18C6AF4700C0DD7A /* SJIOS-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SJIOS-Info.plist"; sourceTree = "<group>"; };
+		910F327118C6AF4700C0DD7A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		910F327318C6AF4800C0DD7A /* SJIOS-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SJIOS-Prefix.pch"; sourceTree = "<group>"; };
+		910F327418C6AF4800C0DD7A /* SJIOSFramework.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SJIOSFramework.h; sourceTree = "<group>"; };
+		910F327518C6AF4800C0DD7A /* SJIOSFramework.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SJIOSFramework.m; sourceTree = "<group>"; };
+		910F368418C6B8D300C0DD7A /* SJIOSReachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJIOSReachability.h; sourceTree = "<group>"; };
+		910F368518C6B8D300C0DD7A /* SJIOSReachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJIOSReachability.m; sourceTree = "<group>"; };
+		910F368618C6B8D300C0DD7A /* SJIOSSdkCommonDefine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SJIOSSdkCommonDefine.h; path = SJIOSFramework/SJIOSSdkCommonDefine.h; sourceTree = SOURCE_ROOT; };
+		910F368818C6B8D300C0DD7A /* SJIOSSdk.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SJIOSSdk.h; path = SJIOSFramework/SJIOSSdk.h; sourceTree = "<group>"; };
+		910F368918C6B8D300C0DD7A /* SJIOSSdk.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SJIOSSdk.m; path = SJIOSFramework/SJIOSSdk.m; sourceTree = "<group>"; };
+		910F376318C6B8D300C0DD7A /* SJIOSSdkImp.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJIOSSdkImp.h; sourceTree = "<group>"; };
+		910F376418C6B8D300C0DD7A /* SJIOSSdkImp.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJIOSSdkImp.m; sourceTree = "<group>"; };
+		910F376618C6B8D300C0DD7A /* SJIOSButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJIOSButton.h; sourceTree = "<group>"; };
+		910F376718C6B8D300C0DD7A /* SJIOSButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJIOSButton.m; sourceTree = "<group>"; };
+		910F376A18C6B8D300C0DD7A /* SJIOSSdkMd5.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJIOSSdkMd5.h; sourceTree = "<group>"; };
+		910F376B18C6B8D300C0DD7A /* SJIOSSdkMd5.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJIOSSdkMd5.m; sourceTree = "<group>"; };
+		910F376C18C6B8D300C0DD7A /* UIColor+SJIOSSdk.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+SJIOSSdk.h"; sourceTree = "<group>"; };
+		910F376D18C6B8D300C0DD7A /* UIColor+SJIOSSdk.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+SJIOSSdk.m"; sourceTree = "<group>"; };
+		910F377018C6B8D300C0DD7A /* UIImage+SJIOSSdk.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+SJIOSSdk.h"; sourceTree = "<group>"; };
+		910F377118C6B8D300C0DD7A /* UIImage+SJIOSSdk.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+SJIOSSdk.m"; sourceTree = "<group>"; };
+		910F377B18C6B8D300C0DD7A /* SJIOSRegisterView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJIOSRegisterView.h; sourceTree = "<group>"; };
+		910F377C18C6B8D300C0DD7A /* SJIOSRegisterView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJIOSRegisterView.m; sourceTree = "<group>"; };
+		910F377E18C6B8D300C0DD7A /* SJIOSProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJIOSProgressHUD.h; sourceTree = "<group>"; };
+		910F377F18C6B8D300C0DD7A /* SJIOSProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJIOSProgressHUD.m; sourceTree = "<group>"; };
+		910F378118C6B8D300C0DD7A /* SJIOSWebInterface.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJIOSWebInterface.h; sourceTree = "<group>"; };
+		910F378218C6B8D300C0DD7A /* SJIOSWebInterface.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJIOSWebInterface.m; sourceTree = "<group>"; };
+		910F378318C6B8D300C0DD7A /* SJIOSWebApi.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJIOSWebApi.h; sourceTree = "<group>"; };
+		910F378418C6B8D300C0DD7A /* SJIOSWebApi.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJIOSWebApi.m; sourceTree = "<group>"; };
+		A15CAC3F1F04D05500EDDD4F /* SJ_ValidateIdentity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJ_ValidateIdentity.h; sourceTree = "<group>"; };
+		A15CAC401F04D05500EDDD4F /* SJ_ValidateIdentity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJ_ValidateIdentity.m; sourceTree = "<group>"; };
+		A16916471ED9175A00AB104C /* SJIOSYMPhoneRegister.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJIOSYMPhoneRegister.h; sourceTree = "<group>"; };
+		A16916481ED9175A00AB104C /* SJIOSYMPhoneRegister.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJIOSYMPhoneRegister.m; sourceTree = "<group>"; };
+		A17060EC1ED525D8009556FD /* SJIOSYMPhoneRegisterView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJIOSYMPhoneRegisterView.h; sourceTree = "<group>"; };
+		A17060ED1ED525D8009556FD /* SJIOSYMPhoneRegisterView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJIOSYMPhoneRegisterView.m; sourceTree = "<group>"; };
+		A1965CFE1EC6F772009DAAEC /* SJIOSYMLoginView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJIOSYMLoginView.h; sourceTree = "<group>"; };
+		A1965CFF1EC6F772009DAAEC /* SJIOSYMLoginView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJIOSYMLoginView.m; sourceTree = "<group>"; };
+		A1AF19141F07550F002B1C8E /* SJIOSAccountViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJIOSAccountViewController.h; sourceTree = "<group>"; };
+		A1AF19151F07550F002B1C8E /* SJIOSAccountViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJIOSAccountViewController.m; sourceTree = "<group>"; };
+		A1AF8DDF1F0B8A21009E3E06 /* SJIOSYMBindPhoneView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJIOSYMBindPhoneView.h; sourceTree = "<group>"; };
+		A1AF8DE01F0B8A21009E3E06 /* SJIOSYMBindPhoneView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJIOSYMBindPhoneView.m; sourceTree = "<group>"; };
+		A1D536C11EC0520400370630 /* MessageUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MessageUI.framework; path = System/Library/Frameworks/MessageUI.framework; sourceTree = SDKROOT; };
+		A1D536C51EC0522B00370630 /* AdSupport.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AdSupport.framework; path = System/Library/Frameworks/AdSupport.framework; sourceTree = SDKROOT; };
+		A1D536C71EC0524100370630 /* AddressBook.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AddressBook.framework; path = System/Library/Frameworks/AddressBook.framework; sourceTree = SDKROOT; };
+		A1D536C91EC0524800370630 /* AddressBookUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AddressBookUI.framework; path = System/Library/Frameworks/AddressBookUI.framework; sourceTree = SDKROOT; };
+		A1EDCB871EFA18D400EA871D /* SJIOSYMPhoneLogin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJIOSYMPhoneLogin.h; sourceTree = "<group>"; };
+		A1EDCB881EFA18D400EA871D /* SJIOSYMPhoneLogin.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJIOSYMPhoneLogin.m; sourceTree = "<group>"; };
+		D00540B719A5E91E00C3E42E /* SJIOSPopwidowViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJIOSPopwidowViewController.m; sourceTree = "<group>"; };
+		D00540C219A5F2D600C3E42E /* SJIOSPopwidowViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SJIOSPopwidowViewController.h; sourceTree = "<group>"; };
+		D04A137219D03D3600D5CDAF /* SJIOSBaseView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJIOSBaseView.h; sourceTree = "<group>"; };
+		D04A137319D03D3600D5CDAF /* SJIOSBaseView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJIOSBaseView.m; sourceTree = "<group>"; };
+		D08BE49419D424B600F42838 /* SJIOSBind.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJIOSBind.h; sourceTree = "<group>"; };
+		D08BE49519D424B600F42838 /* SJIOSBind.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJIOSBind.m; sourceTree = "<group>"; };
+		D08BE49819D42E1F00F42838 /* SJIOSPopWindow.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJIOSPopWindow.h; sourceTree = "<group>"; };
+		D08BE49919D42E1F00F42838 /* SJIOSPopWindow.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJIOSPopWindow.m; sourceTree = "<group>"; };
+		D0A3C17719C6DEFB00D059B6 /* SJIOSUserInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJIOSUserInfo.h; sourceTree = "<group>"; };
+		D0A3C17819C6DEFB00D059B6 /* SJIOSUserInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJIOSUserInfo.m; sourceTree = "<group>"; };
+		D0B0BDAD19B71930003A3783 /* SJIOSDefaultLogin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJIOSDefaultLogin.h; sourceTree = "<group>"; };
+		D0B0BDAE19B71930003A3783 /* SJIOSDefaultLogin.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJIOSDefaultLogin.m; sourceTree = "<group>"; };
+		D0B7903019A7559900426492 /* SJIOSWindowTouch.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJIOSWindowTouch.m; sourceTree = "<group>"; };
+		D0B7903319A7695F00426492 /* SJIOSWindowTouch.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SJIOSWindowTouch.h; sourceTree = "<group>"; };
+		D0E889F619B8728E007DA08E /* SJIOSQuickLogin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJIOSQuickLogin.h; sourceTree = "<group>"; };
+		D0E889F719B8728E007DA08E /* SJIOSQuickLogin.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJIOSQuickLogin.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		910F326318C6AF4700C0DD7A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A1D536CA1EC0524800370630 /* AddressBookUI.framework in Frameworks */,
+				A1D536C81EC0524100370630 /* AddressBook.framework in Frameworks */,
+				A1D536C61EC0522B00370630 /* AdSupport.framework in Frameworks */,
+				42F50E5F1C76DA7F00843545 /* CoreTelephony.framework in Frameworks */,
+				42F50E651C76DA9900843545 /* SystemConfiguration.framework in Frameworks */,
+				A1D536C21EC0520400370630 /* MessageUI.framework in Frameworks */,
+				426E200E1D3E14C9003789AC /* libc++.1.dylib in Frameworks */,
+				426E200C1D3E14BF003789AC /* libz.1.dylib in Frameworks */,
+				42F50E671C76DAA000843545 /* CFNetwork.framework in Frameworks */,
+				42F50E611C76DA8A00843545 /* CoreText.framework in Frameworks */,
+				84F625DD1A40313E009B7662 /* CoreGraphics.framework in Frameworks */,
+				84F625DB1A403116009B7662 /* MediaPlayer.framework in Frameworks */,
+				84F625D91A4030FD009B7662 /* AVFoundation.framework in Frameworks */,
+				84F625D71A4030F3009B7662 /* CoreAudio.framework in Frameworks */,
+				84AB43251A3A9A58006FD2D0 /* Security.framework in Frameworks */,
+				43AC435F18FB99C50004808D /* QuartzCore.framework in Frameworks */,
+				43AC435218F7E4630004808D /* UIKit.framework in Frameworks */,
+				910F326C18C6AF4700C0DD7A /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		423130A51EB8731200BB1BE4 /* Security */ = {
+			isa = PBXGroup;
+			children = (
+				423130A61EB8731200BB1BE4 /* GTMBase64 */,
+				423130AA1EB8731200BB1BE4 /* NSData+AES.h */,
+				423130AB1EB8731200BB1BE4 /* NSData+AES.m */,
+				42718B541F1F021900D4AA49 /* SJIOSSecurityUtil.h */,
+				42718B551F1F021900D4AA49 /* SJIOSSecurityUtil.m */,
+			);
+			path = Security;
+			sourceTree = "<group>";
+		};
+		423130A61EB8731200BB1BE4 /* GTMBase64 */ = {
+			isa = PBXGroup;
+			children = (
+				423130A71EB8731200BB1BE4 /* SJIOSGTMBase64.h */,
+				423130A81EB8731200BB1BE4 /* SJIOSGTMBase64.m */,
+				423130A91EB8731200BB1BE4 /* SJIOSGTMDefines.h */,
+			);
+			path = GTMBase64;
+			sourceTree = "<group>";
+		};
+		4259F9D01EB42D1600658CB2 /* SJIOSSdkapplepy */ = {
+			isa = PBXGroup;
+			children = (
+				4259F9D11EB42D1600658CB2 /* SJIOSSdkPy.h */,
+				4259F9D21EB42D1600658CB2 /* SJIOSSdkPy.m */,
+			);
+			path = SJIOSSdkapplepy;
+			sourceTree = "<group>";
+		};
+		439249801974D8130043457D /* popWindow */ = {
+			isa = PBXGroup;
+			children = (
+				A1AF19141F07550F002B1C8E /* SJIOSAccountViewController.h */,
+				A1AF19151F07550F002B1C8E /* SJIOSAccountViewController.m */,
+				8458A8711C4F88ED000DF303 /* SJIOSBindEmailViewController.h */,
+				8458A8721C4F88ED000DF303 /* SJIOSBindEmailViewController.m */,
+				42A310131E559B8700ECD02F /* SJIOSBindIdentifyViewController.h */,
+				42A310141E559B8700ECD02F /* SJIOSBindIdentifyViewController.m */,
+				439249831974D8620043457D /* SJIOSBindPhoneViewController.h */,
+				439249841974D8620043457D /* SJIOSBindPhoneViewController.m */,
+				439249851974D8620043457D /* SJIOSChangePasswordViewController.h */,
+				439249861974D8620043457D /* SJIOSChangePasswordViewController.m */,
+				439249891974D8620043457D /* SJIOSFloatViewController.h */,
+				4392498A1974D8620043457D /* SJIOSFloatViewController.m */,
+				4392498C1974D8620043457D /* SJIOSFloatWindow.h */,
+				4392498D1974D8620043457D /* SJIOSFloatWindow.m */,
+				4392498E1974D8620043457D /* SJIOSNavViewController.h */,
+				4392498F1974D8620043457D /* SJIOSNavViewController.m */,
+				439249901974D8620043457D /* SJIOSSettingViewController.h */,
+				439249911974D8620043457D /* SJIOSSettingViewController.m */,
+				439249921974D8620043457D /* SJIOSSwitchDelegate.h */,
+				D0B7903319A7695F00426492 /* SJIOSWindowTouch.h */,
+				D0B7903019A7559900426492 /* SJIOSWindowTouch.m */,
+				D00540C219A5F2D600C3E42E /* SJIOSPopwidowViewController.h */,
+				D00540B719A5E91E00C3E42E /* SJIOSPopwidowViewController.m */,
+				439249931974D8620043457D /* SJIOSServiceViewController.h */,
+				439249941974D8620043457D /* SJIOSServiceViewController.m */,
+			);
+			name = popWindow;
+			sourceTree = "<group>";
+		};
+		849FDD6C19EF78A700C36E8E /* SJIOS_DB */ = {
+			isa = PBXGroup;
+			children = (
+				849FDD8619EFA07C00C36E8E /* SJIOSDataBase.h */,
+				849FDD8719EFA07C00C36E8E /* SJIOSDataBase.m */,
+			);
+			name = SJIOS_DB;
+			path = SJIOSFramework/SJIOS_DB;
+			sourceTree = "<group>";
+		};
+		910F325D18C6AF4700C0DD7A = {
+			isa = PBXGroup;
+			children = (
+				849FDD6C19EF78A700C36E8E /* SJIOS_DB */,
+				910F366F18C6B8D300C0DD7A /* SJIOSHttpRequest */,
+				910F326A18C6AF4700C0DD7A /* Frameworks */,
+				910F326D18C6AF4700C0DD7A /* SJIOSFramework */,
+				910F368818C6B8D300C0DD7A /* SJIOSSdk.h */,
+				910F368918C6B8D300C0DD7A /* SJIOSSdk.m */,
+				910F376218C6B8D300C0DD7A /* imp */,
+				910F377D18C6B8D300C0DD7A /* MBProcessHUD */,
+				910F326918C6AF4700C0DD7A /* Products */,
+				910F378018C6B8D300C0DD7A /* SJIOS_WebApi */,
+			);
+			sourceTree = "<group>";
+		};
+		910F326918C6AF4700C0DD7A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				910F326818C6AF4700C0DD7A /* SJIOS.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		910F326A18C6AF4700C0DD7A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				A1D536C91EC0524800370630 /* AddressBookUI.framework */,
+				A1D536C71EC0524100370630 /* AddressBook.framework */,
+				A1D536C51EC0522B00370630 /* AdSupport.framework */,
+				A1D536C11EC0520400370630 /* MessageUI.framework */,
+				426E200D1D3E14C9003789AC /* libc++.1.dylib */,
+				426E200B1D3E14BF003789AC /* libz.1.dylib */,
+				42F50E661C76DAA000843545 /* CFNetwork.framework */,
+				42F50E641C76DA9900843545 /* SystemConfiguration.framework */,
+				42F50E601C76DA8A00843545 /* CoreText.framework */,
+				42F50E5E1C76DA7F00843545 /* CoreTelephony.framework */,
+				84B932501BB2353F006257BD /* libsqlite3.tbd */,
+				84F625DC1A40313E009B7662 /* CoreGraphics.framework */,
+				84F625DA1A403116009B7662 /* MediaPlayer.framework */,
+				84F625D81A4030FD009B7662 /* AVFoundation.framework */,
+				84F625D61A4030F3009B7662 /* CoreAudio.framework */,
+				84AB43241A3A9A58006FD2D0 /* Security.framework */,
+				43AC435E18FB99C50004808D /* QuartzCore.framework */,
+				43AC435118F7E4630004808D /* UIKit.framework */,
+				910F326B18C6AF4700C0DD7A /* Foundation.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		910F326D18C6AF4700C0DD7A /* SJIOSFramework */ = {
+			isa = PBXGroup;
+			children = (
+				910F368618C6B8D300C0DD7A /* SJIOSSdkCommonDefine.h */,
+				423130A51EB8731200BB1BE4 /* Security */,
+				4259F9D01EB42D1600658CB2 /* SJIOSSdkapplepy */,
+				910F327418C6AF4800C0DD7A /* SJIOSFramework.h */,
+				910F327518C6AF4800C0DD7A /* SJIOSFramework.m */,
+				910F326E18C6AF4700C0DD7A /* Supporting Files */,
+			);
+			path = SJIOSFramework;
+			sourceTree = "<group>";
+		};
+		910F326E18C6AF4700C0DD7A /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				910F326F18C6AF4700C0DD7A /* SJIOS-Info.plist */,
+				910F327018C6AF4700C0DD7A /* InfoPlist.strings */,
+				910F327318C6AF4800C0DD7A /* SJIOS-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		910F366F18C6B8D300C0DD7A /* SJIOSHttpRequest */ = {
+			isa = PBXGroup;
+			children = (
+				910F368418C6B8D300C0DD7A /* SJIOSReachability.h */,
+				910F368518C6B8D300C0DD7A /* SJIOSReachability.m */,
+			);
+			name = SJIOSHttpRequest;
+			path = SJIOSFramework/SJIOSHttpRequest;
+			sourceTree = "<group>";
+		};
+		910F376218C6B8D300C0DD7A /* imp */ = {
+			isa = PBXGroup;
+			children = (
+				910F376318C6B8D300C0DD7A /* SJIOSSdkImp.h */,
+				910F376418C6B8D300C0DD7A /* SJIOSSdkImp.m */,
+				43C38559198B694C0075B349 /* SJIOSOpenUDID.h */,
+				43C3855A198B694C0075B349 /* SJIOSOpenUDID.m */,
+				439249801974D8130043457D /* popWindow */,
+				910F376518C6B8D300C0DD7A /* util */,
+				910F377218C6B8D300C0DD7A /* view */,
+			);
+			name = imp;
+			path = SJIOSFramework/imp;
+			sourceTree = "<group>";
+		};
+		910F376518C6B8D300C0DD7A /* util */ = {
+			isa = PBXGroup;
+			children = (
+				85199A95207CED7F008795FB /* UIControl+ZHW.h */,
+				85199A94207CED7F008795FB /* UIControl+ZHW.m */,
+				429762691EA70B7B00BEFD35 /* SJIOSKeyChainTool.h */,
+				4297626A1EA70B7B00BEFD35 /* SJIOSKxdKeyChainTool.m */,
+				42F50EC11C76FE0100843545 /* NSString+SJIOSSdk.h */,
+				42F50EC21C76FE0100843545 /* NSString+SJIOSSdk.m */,
+				910F376618C6B8D300C0DD7A /* SJIOSButton.h */,
+				910F376718C6B8D300C0DD7A /* SJIOSButton.m */,
+				910F376A18C6B8D300C0DD7A /* SJIOSSdkMd5.h */,
+				910F376B18C6B8D300C0DD7A /* SJIOSSdkMd5.m */,
+				910F376C18C6B8D300C0DD7A /* UIColor+SJIOSSdk.h */,
+				910F376D18C6B8D300C0DD7A /* UIColor+SJIOSSdk.m */,
+				910F377018C6B8D300C0DD7A /* UIImage+SJIOSSdk.h */,
+				910F377118C6B8D300C0DD7A /* UIImage+SJIOSSdk.m */,
+				D0A3C17719C6DEFB00D059B6 /* SJIOSUserInfo.h */,
+				D0A3C17819C6DEFB00D059B6 /* SJIOSUserInfo.m */,
+			);
+			path = util;
+			sourceTree = "<group>";
+		};
+		910F377218C6B8D300C0DD7A /* view */ = {
+			isa = PBXGroup;
+			children = (
+				A1AF8DDF1F0B8A21009E3E06 /* SJIOSYMBindPhoneView.h */,
+				A1AF8DE01F0B8A21009E3E06 /* SJIOSYMBindPhoneView.m */,
+				A15CAC3F1F04D05500EDDD4F /* SJ_ValidateIdentity.h */,
+				A15CAC401F04D05500EDDD4F /* SJ_ValidateIdentity.m */,
+				A1EDCB871EFA18D400EA871D /* SJIOSYMPhoneLogin.h */,
+				A1EDCB881EFA18D400EA871D /* SJIOSYMPhoneLogin.m */,
+				A16916471ED9175A00AB104C /* SJIOSYMPhoneRegister.h */,
+				A16916481ED9175A00AB104C /* SJIOSYMPhoneRegister.m */,
+				A17060EC1ED525D8009556FD /* SJIOSYMPhoneRegisterView.h */,
+				A17060ED1ED525D8009556FD /* SJIOSYMPhoneRegisterView.m */,
+				8458A8671C4E1E56000DF303 /* SJIOSForgetEmailView.h */,
+				8458A8681C4E1E56000DF303 /* SJIOSForgetEmailView.m */,
+				8458A8691C4E1E56000DF303 /* SJIOSForgetView.h */,
+				8458A86A1C4E1E56000DF303 /* SJIOSForgetView.m */,
+				D04A137219D03D3600D5CDAF /* SJIOSBaseView.h */,
+				D04A137319D03D3600D5CDAF /* SJIOSBaseView.m */,
+				910F377B18C6B8D300C0DD7A /* SJIOSRegisterView.h */,
+				910F377C18C6B8D300C0DD7A /* SJIOSRegisterView.m */,
+				D0B0BDAD19B71930003A3783 /* SJIOSDefaultLogin.h */,
+				D0B0BDAE19B71930003A3783 /* SJIOSDefaultLogin.m */,
+				D0E889F619B8728E007DA08E /* SJIOSQuickLogin.h */,
+				D0E889F719B8728E007DA08E /* SJIOSQuickLogin.m */,
+				D08BE49419D424B600F42838 /* SJIOSBind.h */,
+				D08BE49519D424B600F42838 /* SJIOSBind.m */,
+				D08BE49819D42E1F00F42838 /* SJIOSPopWindow.h */,
+				D08BE49919D42E1F00F42838 /* SJIOSPopWindow.m */,
+				84FAA4CC1A5CC9B5002139B4 /* SJIOSCheckUpdate.h */,
+				84FAA4CD1A5CC9B5002139B4 /* SJIOSCheckUpdate.m */,
+				4298E7CB1E7A63D4007B5A7E /* SJIOSAgreeView.h */,
+				4298E7C91E7A63AD007B5A7E /* SJIOSAgreeView.m */,
+				A1965CFE1EC6F772009DAAEC /* SJIOSYMLoginView.h */,
+				A1965CFF1EC6F772009DAAEC /* SJIOSYMLoginView.m */,
+				850E1D5F209422BD002BE3E9 /* SJIOSShiMingRenZhengView.h */,
+				850E1D60209422D5002BE3E9 /* SJIOSShiMingRenZhengView.m */,
+				85C4DA4420FB0A6C00D80781 /* SJIOSUserCenterView.h */,
+				85C4DA4220FB0A5A00D80781 /* SJIOSUserCenterView.m */,
+			);
+			path = view;
+			sourceTree = "<group>";
+		};
+		910F377D18C6B8D300C0DD7A /* MBProcessHUD */ = {
+			isa = PBXGroup;
+			children = (
+				910F377E18C6B8D300C0DD7A /* SJIOSProgressHUD.h */,
+				910F377F18C6B8D300C0DD7A /* SJIOSProgressHUD.m */,
+			);
+			name = MBProcessHUD;
+			path = SJIOSFramework/MBProcessHUD;
+			sourceTree = "<group>";
+		};
+		910F378018C6B8D300C0DD7A /* SJIOS_WebApi */ = {
+			isa = PBXGroup;
+			children = (
+				910F378118C6B8D300C0DD7A /* SJIOSWebInterface.h */,
+				910F378218C6B8D300C0DD7A /* SJIOSWebInterface.m */,
+				910F378318C6B8D300C0DD7A /* SJIOSWebApi.h */,
+				910F378418C6B8D300C0DD7A /* SJIOSWebApi.m */,
+			);
+			name = SJIOS_WebApi;
+			path = SJIOSFramework/SJIOS_WebApi;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		910F326418C6AF4700C0DD7A /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				910F389F18C6B8D400C0DD7A /* SJIOSWebInterface.h in Headers */,
+				439249A21974D8620043457D /* SJIOSNavViewController.h in Headers */,
+				439249A61974D8620043457D /* SJIOSSwitchDelegate.h in Headers */,
+				8458A8731C4F88ED000DF303 /* SJIOSBindEmailViewController.h in Headers */,
+				D00540C319A5F32900C3E42E /* SJIOSPopwidowViewController.h in Headers */,
+				4297626B1EA70B7B00BEFD35 /* SJIOSKeyChainTool.h in Headers */,
+				A17060EE1ED525D8009556FD /* SJIOSYMPhoneRegisterView.h in Headers */,
+				849FDD8819EFA07C00C36E8E /* SJIOSDataBase.h in Headers */,
+				42718B561F1F021900D4AA49 /* SJIOSSecurityUtil.h in Headers */,
+				D0A3C17919C6DEFB00D059B6 /* SJIOSUserInfo.h in Headers */,
+				A1AF8DE11F0B8A21009E3E06 /* SJIOSYMBindPhoneView.h in Headers */,
+				D0B7903619A769EA00426492 /* SJIOSWindowTouch.h in Headers */,
+				910F38A118C6B8D400C0DD7A /* SJIOSWebApi.h in Headers */,
+				910F388B18C6B8D400C0DD7A /* SJIOSSdkMd5.h in Headers */,
+				910F37B818C6B8D300C0DD7A /* SJIOSSdkCommonDefine.h in Headers */,
+				42A310151E559B8700ECD02F /* SJIOSBindIdentifyViewController.h in Headers */,
+				910F37BA18C6B8D300C0DD7A /* SJIOSSdk.h in Headers */,
+				43D8606A1904E60D003DBDE4 /* UIColor+SJIOSSdk.m in Headers */,
+				D04A137419D03D3600D5CDAF /* SJIOSBaseView.h in Headers */,
+				D08BE49619D424B600F42838 /* SJIOSBind.h in Headers */,
+				84FAA4CE1A5CC9B5002139B4 /* SJIOSCheckUpdate.h in Headers */,
+				A15CAC411F04D05500EDDD4F /* SJ_ValidateIdentity.h in Headers */,
+				439249991974D8620043457D /* SJIOSChangePasswordViewController.h in Headers */,
+				439249A71974D8620043457D /* SJIOSServiceViewController.h in Headers */,
+				423130AE1EB8731200BB1BE4 /* SJIOSGTMBase64.h in Headers */,
+				910F37B618C6B8D300C0DD7A /* SJIOSReachability.h in Headers */,
+				439249A01974D8620043457D /* SJIOSFloatWindow.h in Headers */,
+				42F50EC31C76FE0100843545 /* NSString+SJIOSSdk.h in Headers */,
+				4392499D1974D8620043457D /* SJIOSFloatViewController.h in Headers */,
+				439249A41974D8620043457D /* SJIOSSettingViewController.h in Headers */,
+				439249971974D8620043457D /* SJIOSBindPhoneViewController.h in Headers */,
+				43C3855B198B694C0075B349 /* SJIOSOpenUDID.h in Headers */,
+				D08BE49A19D42E1F00F42838 /* SJIOSPopWindow.h in Headers */,
+				A16916491ED9175A00AB104C /* SJIOSYMPhoneRegister.h in Headers */,
+				423130B11EB8731200BB1BE4 /* NSData+AES.h in Headers */,
+				A1AF19161F07550F002B1C8E /* SJIOSAccountViewController.h in Headers */,
+				910F388518C6B8D400C0DD7A /* SJIOSSdkImp.h in Headers */,
+				910F388718C6B8D400C0DD7A /* SJIOSButton.h in Headers */,
+				A1965D001EC6F772009DAAEC /* SJIOSYMLoginView.h in Headers */,
+				910F388D18C6B8D400C0DD7A /* UIColor+SJIOSSdk.h in Headers */,
+				D0E889F819B8728E007DA08E /* SJIOSQuickLogin.h in Headers */,
+				910F389118C6B8D400C0DD7A /* UIImage+SJIOSSdk.h in Headers */,
+				85199A97207CED80008795FB /* UIControl+ZHW.h in Headers */,
+				4259F9D51EB42D1600658CB2 /* SJIOSSdkPy.h in Headers */,
+				910F389B18C6B8D400C0DD7A /* SJIOSRegisterView.h in Headers */,
+				910F389D18C6B8D400C0DD7A /* SJIOSProgressHUD.h in Headers */,
+				8458A86D1C4E1E56000DF303 /* SJIOSForgetEmailView.h in Headers */,
+				A1EDCB891EFA18D400EA871D /* SJIOSYMPhoneLogin.h in Headers */,
+				D0B0BDAF19B71930003A3783 /* SJIOSDefaultLogin.h in Headers */,
+				8458A86F1C4E1E56000DF303 /* SJIOSForgetView.h in Headers */,
+				423130B01EB8731200BB1BE4 /* SJIOSGTMDefines.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		910F326718C6AF4700C0DD7A /* SJIOS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 910F329218C6AF4800C0DD7A /* Build configuration list for PBXNativeTarget "SJIOS" */;
+			buildPhases = (
+				910F326218C6AF4700C0DD7A /* Sources */,
+				910F326318C6AF4700C0DD7A /* Frameworks */,
+				910F326518C6AF4700C0DD7A /* Resources */,
+				910F326418C6AF4700C0DD7A /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SJIOS;
+			productName = GGodFramework;
+			productReference = 910F326818C6AF4700C0DD7A /* SJIOS.framework */;
+			productType = "com.apple.product-type.framework.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		910F325E18C6AF4700C0DD7A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastTestingUpgradeCheck = 0710;
+				LastUpgradeCheck = 0460;
+				ORGANIZATIONNAME = "God Created";
+			};
+			buildConfigurationList = 910F326118C6AF4700C0DD7A /* Build configuration list for PBXProject "SJIOS" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 910F325D18C6AF4700C0DD7A;
+			productRefGroup = 910F326918C6AF4700C0DD7A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				910F326718C6AF4700C0DD7A /* SJIOS */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		910F326518C6AF4700C0DD7A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		910F326218C6AF4700C0DD7A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				850E1D61209422D5002BE3E9 /* SJIOSShiMingRenZhengView.m in Sources */,
+				910F327618C6AF4800C0DD7A /* SJIOSFramework.m in Sources */,
+				D0E889F919B8728E007DA08E /* SJIOSQuickLogin.m in Sources */,
+				A17060EF1ED525D8009556FD /* SJIOSYMPhoneRegisterView.m in Sources */,
+				4259F9D61EB42D1600658CB2 /* SJIOSSdkPy.m in Sources */,
+				439249981974D8620043457D /* SJIOSBindPhoneViewController.m in Sources */,
+				D00540B919A5E91E00C3E42E /* SJIOSPopwidowViewController.m in Sources */,
+				4297626C1EA70B7B00BEFD35 /* SJIOSKxdKeyChainTool.m in Sources */,
+				910F37B718C6B8D300C0DD7A /* SJIOSReachability.m in Sources */,
+				4392499E1974D8620043457D /* SJIOSFloatViewController.m in Sources */,
+				43C3855C198B694C0075B349 /* SJIOSOpenUDID.m in Sources */,
+				439249A31974D8620043457D /* SJIOSNavViewController.m in Sources */,
+				910F37BB18C6B8D300C0DD7A /* SJIOSSdk.m in Sources */,
+				D08BE49719D424B600F42838 /* SJIOSBind.m in Sources */,
+				D0B7903219A7559900426492 /* SJIOSWindowTouch.m in Sources */,
+				D0A3C17A19C6DEFB00D059B6 /* SJIOSUserInfo.m in Sources */,
+				910F388618C6B8D400C0DD7A /* SJIOSSdkImp.m in Sources */,
+				A1965D011EC6F772009DAAEC /* SJIOSYMLoginView.m in Sources */,
+				A169164A1ED9175A00AB104C /* SJIOSYMPhoneRegister.m in Sources */,
+				439249A51974D8620043457D /* SJIOSSettingViewController.m in Sources */,
+				910F388818C6B8D400C0DD7A /* SJIOSButton.m in Sources */,
+				910F388C18C6B8D400C0DD7A /* SJIOSSdkMd5.m in Sources */,
+				910F388E18C6B8D400C0DD7A /* UIColor+SJIOSSdk.m in Sources */,
+				910F389218C6B8D400C0DD7A /* UIImage+SJIOSSdk.m in Sources */,
+				4298E7CA1E7A63AD007B5A7E /* SJIOSAgreeView.m in Sources */,
+				D08BE49B19D42E1F00F42838 /* SJIOSPopWindow.m in Sources */,
+				A1AF19171F07550F002B1C8E /* SJIOSAccountViewController.m in Sources */,
+				42718B571F1F021900D4AA49 /* SJIOSSecurityUtil.m in Sources */,
+				A15CAC421F04D05500EDDD4F /* SJ_ValidateIdentity.m in Sources */,
+				D04A137519D03D3600D5CDAF /* SJIOSBaseView.m in Sources */,
+				439249A81974D8620043457D /* SJIOSServiceViewController.m in Sources */,
+				84FAA4CF1A5CC9B5002139B4 /* SJIOSCheckUpdate.m in Sources */,
+				910F389C18C6B8D400C0DD7A /* SJIOSRegisterView.m in Sources */,
+				423130AF1EB8731200BB1BE4 /* SJIOSGTMBase64.m in Sources */,
+				A1AF8DE21F0B8A21009E3E06 /* SJIOSYMBindPhoneView.m in Sources */,
+				910F389E18C6B8D400C0DD7A /* SJIOSProgressHUD.m in Sources */,
+				D0B0BDB019B71930003A3783 /* SJIOSDefaultLogin.m in Sources */,
+				42F50EC41C76FE0100843545 /* NSString+SJIOSSdk.m in Sources */,
+				4392499A1974D8620043457D /* SJIOSChangePasswordViewController.m in Sources */,
+				423130B21EB8731200BB1BE4 /* NSData+AES.m in Sources */,
+				85C4DA4320FB0A5A00D80781 /* SJIOSUserCenterView.m in Sources */,
+				910F38A018C6B8D400C0DD7A /* SJIOSWebInterface.m in Sources */,
+				42A310161E559B8700ECD02F /* SJIOSBindIdentifyViewController.m in Sources */,
+				A1EDCB8A1EFA18D400EA871D /* SJIOSYMPhoneLogin.m in Sources */,
+				910F38A218C6B8D400C0DD7A /* SJIOSWebApi.m in Sources */,
+				849FDD8919EFA07C00C36E8E /* SJIOSDataBase.m in Sources */,
+				8458A8701C4E1E56000DF303 /* SJIOSForgetView.m in Sources */,
+				439249A11974D8620043457D /* SJIOSFloatWindow.m in Sources */,
+				8458A8741C4F88ED000DF303 /* SJIOSBindEmailViewController.m in Sources */,
+				8458A86E1C4E1E56000DF303 /* SJIOSForgetEmailView.m in Sources */,
+				85199A96207CED80008795FB /* UIControl+ZHW.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		910F327018C6AF4700C0DD7A /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				910F327118C6AF4700C0DD7A /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		910F329018C6AF4800C0DD7A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		910F329118C6AF4800C0DD7A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		910F329318C6AF4800C0DD7A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD)";
+				CLANG_ENABLE_OBJC_ARC = NO;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)";
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				ENABLE_BITCODE = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+					"$(PROJECT_DIR)",
+				);
+				FRAMEWORK_VERSION = A;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SJIOSFramework/SJIOS-Prefix.pch";
+				HEADER_SEARCH_PATHS = "";
+				INFOPLIST_FILE = "SJIOSFramework/SJIOS-Info.plist";
+				INSTALL_PATH = ./libs;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/libs",
+					"$(PROJECT_DIR)/ry",
+					"$(PROJECT_DIR)/SJIOS_RY",
+				);
+				ONLY_ACTIVE_ARCH = NO;
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SYMROOT = build;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALID_ARCHS = "armv7 armv7s arm64 i386";
+				WRAPPER_EXTENSION = framework;
+			};
+			name = Debug;
+		};
+		910F329418C6AF4800C0DD7A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD)";
+				CLANG_ENABLE_OBJC_ARC = NO;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)";
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				ENABLE_BITCODE = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+					"$(PROJECT_DIR)",
+				);
+				FRAMEWORK_VERSION = A;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SJIOSFramework/SJIOS-Prefix.pch";
+				HEADER_SEARCH_PATHS = "";
+				INFOPLIST_FILE = "SJIOSFramework/SJIOS-Info.plist";
+				INSTALL_PATH = ./libs;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/libs",
+					"$(PROJECT_DIR)/ry",
+					"$(PROJECT_DIR)/SJIOS_RY",
+				);
+				ONLY_ACTIVE_ARCH = NO;
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SYMROOT = build;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALID_ARCHS = "armv7 armv7s arm64 i386";
+				WRAPPER_EXTENSION = framework;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		910F326118C6AF4700C0DD7A /* Build configuration list for PBXProject "SJIOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				910F329018C6AF4800C0DD7A /* Debug */,
+				910F329118C6AF4800C0DD7A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		910F329218C6AF4800C0DD7A /* Build configuration list for PBXNativeTarget "SJIOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				910F329318C6AF4800C0DD7A /* Debug */,
+				910F329418C6AF4800C0DD7A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 910F325E18C6AF4700C0DD7A /* Project object */;
+}

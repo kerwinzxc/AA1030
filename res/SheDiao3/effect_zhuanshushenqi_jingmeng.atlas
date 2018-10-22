@@ -1,0 +1,230 @@
+
+effect_zhuanshushenqi_jingmeng.png
+size: 1988,698
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+add
+  rotate: false
+  xy: 1816, 481
+  size: 157, 215
+  orig: 218, 275
+  offset: 28, 23
+  index: -1
+jian
+  rotate: false
+  xy: 368, 226
+  size: 172, 232
+  orig: 218, 275
+  offset: 21, 15
+  index: -1
+l_0001
+  rotate: false
+  xy: 1624, 21
+  size: 180, 221
+  orig: 218, 275
+  offset: 15, 19
+  index: -1
+l_0003
+  rotate: false
+  xy: 1807, 257
+  size: 179, 218
+  orig: 218, 275
+  offset: 17, 23
+  index: -1
+l_0005
+  rotate: false
+  xy: 1628, 252
+  size: 177, 220
+  orig: 218, 275
+  offset: 19, 22
+  index: -1
+l_0007
+  rotate: false
+  xy: 1639, 477
+  size: 175, 219
+  orig: 218, 275
+  offset: 22, 23
+  index: -1
+l_0009
+  rotate: false
+  xy: 1455, 474
+  size: 182, 222
+  orig: 218, 275
+  offset: 17, 22
+  index: -1
+l_0011
+  rotate: false
+  xy: 893, 3
+  size: 182, 229
+  orig: 218, 275
+  offset: 18, 18
+  index: -1
+l_0013
+  rotate: false
+  xy: 2, 455
+  size: 181, 241
+  orig: 218, 275
+  offset: 20, 13
+  index: -1
+l_0015
+  rotate: false
+  xy: 2, 212
+  size: 178, 241
+  orig: 218, 275
+  offset: 21, 14
+  index: -1
+l_0017
+  rotate: true
+  xy: 245, 34
+  size: 176, 239
+  orig: 218, 275
+  offset: 23, 14
+  index: -1
+l_0019
+  rotate: true
+  xy: 486, 45
+  size: 179, 231
+  orig: 218, 275
+  offset: 20, 16
+  index: -1
+l_0021
+  rotate: false
+  xy: 371, 466
+  size: 179, 230
+  orig: 218, 275
+  offset: 20, 19
+  index: -1
+l_0023
+  rotate: false
+  xy: 542, 234
+  size: 177, 230
+  orig: 218, 275
+  offset: 22, 19
+  index: -1
+l_0025
+  rotate: false
+  xy: 719, 2
+  size: 172, 230
+  orig: 218, 275
+  offset: 27, 19
+  index: -1
+l_0027
+  rotate: false
+  xy: 736, 467
+  size: 175, 229
+  orig: 218, 275
+  offset: 24, 20
+  index: -1
+l_0029
+  rotate: false
+  xy: 1263, 243
+  size: 178, 225
+  orig: 218, 275
+  offset: 18, 23
+  index: -1
+l_0031
+  rotate: false
+  xy: 1445, 20
+  size: 177, 222
+  orig: 218, 275
+  offset: 16, 22
+  index: -1
+l_0033
+  rotate: false
+  xy: 895, 236
+  size: 181, 229
+  orig: 218, 275
+  offset: 15, 18
+  index: -1
+l_0035
+  rotate: true
+  xy: 2, 25
+  size: 185, 241
+  orig: 218, 275
+  offset: 14, 13
+  index: -1
+l_0037
+  rotate: false
+  xy: 182, 212
+  size: 184, 241
+  orig: 218, 275
+  offset: 15, 14
+  index: -1
+l_0039
+  rotate: false
+  xy: 185, 460
+  size: 184, 236
+  orig: 218, 275
+  offset: 15, 17
+  index: -1
+l_0041
+  rotate: false
+  xy: 552, 466
+  size: 182, 230
+  orig: 218, 275
+  offset: 17, 17
+  index: -1
+l_0043
+  rotate: false
+  xy: 1077, 5
+  size: 180, 229
+  orig: 218, 275
+  offset: 19, 20
+  index: -1
+l_0045
+  rotate: false
+  xy: 1091, 470
+  size: 177, 226
+  orig: 218, 275
+  offset: 22, 23
+  index: -1
+l_0047
+  rotate: false
+  xy: 721, 234
+  size: 172, 230
+  orig: 218, 275
+  offset: 27, 19
+  index: -1
+l_0049
+  rotate: false
+  xy: 913, 467
+  size: 176, 229
+  orig: 218, 275
+  offset: 24, 20
+  index: -1
+l_0051
+  rotate: false
+  xy: 1078, 236
+  size: 183, 229
+  orig: 218, 275
+  offset: 18, 19
+  index: -1
+l_0053
+  rotate: false
+  xy: 1270, 471
+  size: 183, 225
+  orig: 218, 275
+  offset: 16, 19
+  index: -1
+l_0055
+  rotate: false
+  xy: 1259, 7
+  size: 184, 227
+  orig: 218, 275
+  offset: 15, 14
+  index: -1
+l_0057
+  rotate: false
+  xy: 1443, 244
+  size: 183, 225
+  orig: 218, 275
+  offset: 14, 16
+  index: -1
+l_0059
+  rotate: false
+  xy: 1806, 30
+  size: 180, 220
+  orig: 218, 275
+  offset: 15, 19
+  index: -1

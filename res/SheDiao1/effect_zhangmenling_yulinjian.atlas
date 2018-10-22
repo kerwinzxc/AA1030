@@ -1,0 +1,20 @@
+
+effect_zhangmenling_yulinjian.png
+size: 663,332
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gy
+  rotate: false
+  xy: 2, 2
+  size: 335, 328
+  orig: 343, 342
+  offset: 5, 8
+  index: -1
+tu
+  rotate: true
+  xy: 339, 2
+  size: 328, 322
+  orig: 328, 322
+  offset: 0, 0
+  index: -1

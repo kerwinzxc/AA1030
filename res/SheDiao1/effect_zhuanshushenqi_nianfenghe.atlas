@@ -1,0 +1,34 @@
+
+effect_zhuanshushenqi_nianfenghe.png
+size: 992,253
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gy
+  rotate: false
+  xy: 2, 65
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+lantiao
+  rotate: false
+  xy: 2, 91
+  size: 410, 160
+  orig: 448, 184
+  offset: 18, 13
+  index: -1
+tu
+  rotate: false
+  xy: 414, 2
+  size: 289, 249
+  orig: 289, 249
+  offset: 0, 0
+  index: -1
+zz
+  rotate: false
+  xy: 705, 2
+  size: 285, 249
+  orig: 289, 249
+  offset: 0, 0
+  index: -1

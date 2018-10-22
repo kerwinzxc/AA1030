@@ -1,0 +1,370 @@
+
+effect_zhangmenling_xiangmochu.png
+size: 583,599
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shanshan0001
+  rotate: false
+  xy: 208, 474
+  size: 72, 123
+  orig: 102, 150
+  offset: 14, 9
+  index: -1
+shanshan0051
+  rotate: false
+  xy: 208, 474
+  size: 72, 123
+  orig: 102, 150
+  offset: 14, 9
+  index: -1
+shanshan0003
+  rotate: false
+  xy: 282, 474
+  size: 64, 123
+  orig: 102, 150
+  offset: 21, 9
+  index: -1
+shanshan0053
+  rotate: false
+  xy: 282, 474
+  size: 64, 123
+  orig: 102, 150
+  offset: 21, 9
+  index: -1
+shanshan0005
+  rotate: false
+  xy: 348, 474
+  size: 64, 123
+  orig: 102, 150
+  offset: 21, 9
+  index: -1
+shanshan0055
+  rotate: false
+  xy: 348, 474
+  size: 64, 123
+  orig: 102, 150
+  offset: 21, 9
+  index: -1
+shanshan0007
+  rotate: false
+  xy: 414, 474
+  size: 65, 123
+  orig: 102, 150
+  offset: 20, 9
+  index: -1
+shanshan0057
+  rotate: false
+  xy: 414, 474
+  size: 65, 123
+  orig: 102, 150
+  offset: 20, 9
+  index: -1
+shanshan0009
+  rotate: false
+  xy: 481, 474
+  size: 67, 123
+  orig: 102, 150
+  offset: 18, 9
+  index: -1
+shanshan0059
+  rotate: false
+  xy: 481, 474
+  size: 67, 123
+  orig: 102, 150
+  offset: 18, 9
+  index: -1
+shanshan0011
+  rotate: true
+  xy: 2, 15
+  size: 70, 123
+  orig: 102, 150
+  offset: 13, 9
+  index: -1
+shanshan0061
+  rotate: true
+  xy: 2, 15
+  size: 70, 123
+  orig: 102, 150
+  offset: 13, 9
+  index: -1
+shanshan0013
+  rotate: false
+  xy: 94, 206
+  size: 70, 123
+  orig: 102, 150
+  offset: 13, 9
+  index: -1
+shanshan0063
+  rotate: false
+  xy: 94, 206
+  size: 70, 123
+  orig: 102, 150
+  offset: 13, 9
+  index: -1
+shanshan0015
+  rotate: false
+  xy: 166, 216
+  size: 73, 123
+  orig: 102, 150
+  offset: 11, 9
+  index: -1
+shanshan0065
+  rotate: false
+  xy: 166, 216
+  size: 73, 123
+  orig: 102, 150
+  offset: 11, 9
+  index: -1
+shanshan0017
+  rotate: true
+  xy: 94, 127
+  size: 77, 123
+  orig: 102, 150
+  offset: 10, 9
+  index: -1
+shanshan0067
+  rotate: true
+  xy: 94, 127
+  size: 77, 123
+  orig: 102, 150
+  offset: 10, 9
+  index: -1
+shanshan0019
+  rotate: false
+  xy: 122, 341
+  size: 81, 125
+  orig: 102, 150
+  offset: 8, 7
+  index: -1
+shanshan0069
+  rotate: false
+  xy: 122, 341
+  size: 81, 125
+  orig: 102, 150
+  offset: 8, 7
+  index: -1
+shanshan0021
+  rotate: false
+  xy: 122, 468
+  size: 84, 129
+  orig: 102, 150
+  offset: 6, 4
+  index: -1
+shanshan0071
+  rotate: false
+  xy: 122, 468
+  size: 84, 129
+  orig: 102, 150
+  offset: 6, 4
+  index: -1
+shanshan0023
+  rotate: false
+  xy: 127, 2
+  size: 72, 123
+  orig: 102, 150
+  offset: 14, 9
+  index: -1
+shanshan0073
+  rotate: false
+  xy: 127, 2
+  size: 72, 123
+  orig: 102, 150
+  offset: 14, 9
+  index: -1
+shanshan0025
+  rotate: false
+  xy: 201, 2
+  size: 72, 123
+  orig: 102, 150
+  offset: 14, 9
+  index: -1
+shanshan0075
+  rotate: false
+  xy: 201, 2
+  size: 72, 123
+  orig: 102, 150
+  offset: 14, 9
+  index: -1
+shanshan0027
+  rotate: true
+  xy: 208, 406
+  size: 66, 123
+  orig: 102, 150
+  offset: 19, 9
+  index: -1
+shanshan0077
+  rotate: true
+  xy: 208, 406
+  size: 66, 123
+  orig: 102, 150
+  offset: 19, 9
+  index: -1
+shanshan0029
+  rotate: true
+  xy: 333, 403
+  size: 69, 123
+  orig: 102, 150
+  offset: 16, 10
+  index: -1
+shanshan0079
+  rotate: true
+  xy: 333, 403
+  size: 69, 123
+  orig: 102, 150
+  offset: 16, 10
+  index: -1
+shanshan0031
+  rotate: true
+  xy: 458, 400
+  size: 72, 123
+  orig: 102, 150
+  offset: 13, 10
+  index: -1
+shanshan0081
+  rotate: true
+  xy: 458, 400
+  size: 72, 123
+  orig: 102, 150
+  offset: 13, 10
+  index: -1
+shanshan0033
+  rotate: true
+  xy: 458, 246
+  size: 78, 122
+  orig: 102, 150
+  offset: 9, 10
+  index: -1
+shanshan0083
+  rotate: true
+  xy: 458, 246
+  size: 78, 122
+  orig: 102, 150
+  offset: 9, 10
+  index: -1
+shanshan0035
+  rotate: false
+  xy: 241, 157
+  size: 84, 122
+  orig: 102, 150
+  offset: 6, 10
+  index: -1
+shanshan0085
+  rotate: false
+  xy: 241, 157
+  size: 84, 122
+  orig: 102, 150
+  offset: 6, 10
+  index: -1
+shanshan0037
+  rotate: true
+  xy: 327, 145
+  size: 90, 122
+  orig: 102, 150
+  offset: 3, 9
+  index: -1
+shanshan0087
+  rotate: true
+  xy: 327, 145
+  size: 90, 122
+  orig: 102, 150
+  offset: 3, 9
+  index: -1
+shanshan0039
+  rotate: false
+  xy: 275, 21
+  size: 97, 122
+  orig: 102, 150
+  offset: 0, 9
+  index: -1
+shanshan0089
+  rotate: false
+  xy: 275, 21
+  size: 97, 122
+  orig: 102, 150
+  offset: 0, 9
+  index: -1
+shanshan0041
+  rotate: false
+  xy: 374, 21
+  size: 100, 122
+  orig: 102, 150
+  offset: 0, 9
+  index: -1
+shanshan0043
+  rotate: false
+  xy: 241, 281
+  size: 90, 123
+  orig: 102, 150
+  offset: 12, 9
+  index: -1
+shanshan0045
+  rotate: true
+  xy: 333, 329
+  size: 72, 123
+  orig: 102, 150
+  offset: 13, 10
+  index: -1
+shanshan0095
+  rotate: true
+  xy: 333, 329
+  size: 72, 123
+  orig: 102, 150
+  offset: 13, 10
+  index: -1
+shanshan0047
+  rotate: true
+  xy: 458, 326
+  size: 72, 123
+  orig: 102, 150
+  offset: 14, 10
+  index: -1
+shanshan0097
+  rotate: true
+  xy: 458, 326
+  size: 72, 123
+  orig: 102, 150
+  offset: 14, 10
+  index: -1
+shanshan0049
+  rotate: true
+  xy: 458, 172
+  size: 72, 122
+  orig: 102, 150
+  offset: 14, 10
+  index: -1
+shanshan0099
+  rotate: true
+  xy: 458, 172
+  size: 72, 122
+  orig: 102, 150
+  offset: 14, 10
+  index: -1
+shanshan0091
+  rotate: false
+  xy: 476, 48
+  size: 100, 122
+  orig: 102, 150
+  offset: 0, 9
+  index: -1
+shanshan0093
+  rotate: true
+  xy: 333, 237
+  size: 90, 123
+  orig: 102, 150
+  offset: 12, 9
+  index: -1
+waiguang
+  rotate: false
+  xy: 2, 331
+  size: 118, 266
+  orig: 124, 276
+  offset: 2, 6
+  index: -1
+xiangmochu
+  rotate: false
+  xy: 2, 87
+  size: 90, 242
+  orig: 90, 242
+  offset: 0, 0
+  index: -1

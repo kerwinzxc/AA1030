@@ -1,0 +1,111 @@
+
+effect_ui_baoxiangtexiao.png
+size: 1424,107
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xh_0001
+  rotate: false
+  xy: 2, 2
+  size: 88, 103
+  orig: 99, 103
+  offset: 8, 0
+  index: -1
+xh_0003
+  rotate: false
+  xy: 92, 2
+  size: 91, 103
+  orig: 99, 103
+  offset: 6, 0
+  index: -1
+xh_0005
+  rotate: false
+  xy: 185, 3
+  size: 92, 102
+  orig: 99, 103
+  offset: 6, 1
+  index: -1
+xh_0007
+  rotate: false
+  xy: 279, 4
+  size: 92, 101
+  orig: 99, 103
+  offset: 6, 2
+  index: -1
+xh_0009
+  rotate: false
+  xy: 373, 7
+  size: 93, 98
+  orig: 99, 103
+  offset: 5, 5
+  index: -1
+xh_0011
+  rotate: false
+  xy: 563, 8
+  size: 92, 97
+  orig: 99, 103
+  offset: 5, 6
+  index: -1
+xh_0013
+  rotate: false
+  xy: 1142, 9
+  size: 91, 96
+  orig: 99, 103
+  offset: 4, 7
+  index: -1
+xh_0015
+  rotate: false
+  xy: 1235, 10
+  size: 91, 95
+  orig: 99, 103
+  offset: 3, 8
+  index: -1
+xh_0017
+  rotate: false
+  xy: 1328, 10
+  size: 94, 95
+  orig: 99, 103
+  offset: 1, 7
+  index: -1
+xh_0019
+  rotate: false
+  xy: 657, 8
+  size: 95, 97
+  orig: 99, 103
+  offset: 1, 6
+  index: -1
+xh_0021
+  rotate: false
+  xy: 754, 8
+  size: 95, 97
+  orig: 99, 103
+  offset: 1, 6
+  index: -1
+xh_0023
+  rotate: false
+  xy: 851, 8
+  size: 96, 97
+  orig: 99, 103
+  offset: 1, 6
+  index: -1
+xh_0025
+  rotate: false
+  xy: 949, 8
+  size: 95, 97
+  orig: 99, 103
+  offset: 1, 6
+  index: -1
+xh_0027
+  rotate: false
+  xy: 1046, 8
+  size: 94, 97
+  orig: 99, 103
+  offset: 2, 6
+  index: -1
+xh_0029
+  rotate: false
+  xy: 468, 7
+  size: 93, 98
+  orig: 99, 103
+  offset: 2, 5
+  index: -1

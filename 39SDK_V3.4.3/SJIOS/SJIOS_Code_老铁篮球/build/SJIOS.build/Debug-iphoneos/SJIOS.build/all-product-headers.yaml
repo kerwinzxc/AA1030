@@ -1,0 +1,37 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/macbook/Desktop/39SDK_V3.4.3/SJIOS/SJIOS_Code_老铁篮球/build/Debug-iphoneos/SJIOS.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SJIOSSdk.h",
+          'external-contents': "/Users/macbook/Desktop/39SDK_V3.4.3/SJIOS/SJIOS_Code_老铁篮球/SJIOSFramework/SJIOSSdk.h"
+        },
+        {
+          'type': 'file',
+          'name': "SJIOSSdkCommonDefine.h",
+          'external-contents': "/Users/macbook/Desktop/39SDK_V3.4.3/SJIOS/SJIOS_Code_老铁篮球/SJIOSFramework/SJIOSSdkCommonDefine.h"
+        },
+        {
+          'type': 'file',
+          'name': "SJIOSSdkMd5.h",
+          'external-contents': "/Users/macbook/Desktop/39SDK_V3.4.3/SJIOS/SJIOS_Code_老铁篮球/SJIOSFramework/imp/util/SJIOSSdkMd5.h"
+        },
+        {
+          'type': 'file',
+          'name': "SJIOSWebApi.h",
+          'external-contents': "/Users/macbook/Desktop/39SDK_V3.4.3/SJIOS/SJIOS_Code_老铁篮球/SJIOSFramework/SJIOS_WebApi/SJIOSWebApi.h"
+        },
+        {
+          'type': 'file',
+          'name': "SJIOSWebInterface.h",
+          'external-contents': "/Users/macbook/Desktop/39SDK_V3.4.3/SJIOS/SJIOS_Code_老铁篮球/SJIOSFramework/SJIOS_WebApi/SJIOSWebInterface.h"
+        }
+      ]
+    }
+  ]
+}

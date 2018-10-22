@@ -1,0 +1,41 @@
+
+effect_ui_xianhe.png
+size: 216,73
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest
+  rotate: true
+  xy: 170, 13
+  size: 58, 44
+  orig: 59, 44
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: false
+  xy: 2, 38
+  size: 99, 33
+  orig: 99, 35
+  offset: 0, 2
+  index: -1
+l_leg
+  rotate: false
+  xy: 2, 2
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: true
+  xy: 103, 8
+  size: 63, 65
+  orig: 63, 65
+  offset: 0, 0
+  index: -1
+r_leg
+  rotate: false
+  xy: 48, 2
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1

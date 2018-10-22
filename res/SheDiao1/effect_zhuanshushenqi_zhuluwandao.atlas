@@ -1,0 +1,41 @@
+
+effect_zhuanshushenqi_zhuluwandao.png
+size: 1247,293
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gy
+  rotate: false
+  xy: 414, 8
+  size: 311, 283
+  orig: 322, 324
+  offset: 7, 22
+  index: -1
+lantiao
+  rotate: false
+  xy: 2, 131
+  size: 410, 160
+  orig: 448, 184
+  offset: 18, 13
+  index: -1
+mh
+  rotate: true
+  xy: 2, 15
+  size: 114, 133
+  orig: 154, 155
+  offset: 26, 18
+  index: -1
+tu
+  rotate: true
+  xy: 727, 2
+  size: 289, 258
+  orig: 289, 258
+  offset: 0, 0
+  index: -1
+zz
+  rotate: true
+  xy: 987, 2
+  size: 289, 258
+  orig: 289, 258
+  offset: 0, 0
+  index: -1

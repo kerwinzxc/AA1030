@@ -1,0 +1,223 @@
+
+effect_zhuanshushenqi_zixiao.png
+size: 1975,746
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jian_0001
+  rotate: true
+  xy: 249, 2
+  size: 183, 242
+  orig: 221, 276
+  offset: 11, 18
+  index: -1
+jian_0003
+  rotate: true
+  xy: 762, 5
+  size: 182, 246
+  orig: 221, 276
+  offset: 12, 14
+  index: -1
+jian_0005
+  rotate: true
+  xy: 511, 186
+  size: 181, 249
+  orig: 221, 276
+  offset: 13, 11
+  index: -1
+jian_0007
+  rotate: true
+  xy: 765, 189
+  size: 182, 251
+  orig: 221, 276
+  offset: 12, 9
+  index: -1
+jian_0009
+  rotate: true
+  xy: 257, 373
+  size: 184, 252
+  orig: 221, 276
+  offset: 10, 8
+  index: -1
+jian_0011
+  rotate: true
+  xy: 2, 559
+  size: 185, 253
+  orig: 221, 276
+  offset: 9, 7
+  index: -1
+jian_0013
+  rotate: true
+  xy: 257, 559
+  size: 185, 253
+  orig: 221, 276
+  offset: 9, 7
+  index: -1
+jian_0015
+  rotate: true
+  xy: 512, 558
+  size: 186, 253
+  orig: 221, 276
+  offset: 8, 7
+  index: -1
+jian_0017
+  rotate: true
+  xy: 767, 558
+  size: 186, 253
+  orig: 221, 276
+  offset: 8, 7
+  index: -1
+jian_0019
+  rotate: true
+  xy: 1022, 371
+  size: 186, 252
+  orig: 221, 276
+  offset: 8, 8
+  index: -1
+jian_0021
+  rotate: true
+  xy: 511, 369
+  size: 187, 252
+  orig: 221, 276
+  offset: 7, 8
+  index: -1
+jian_0023
+  rotate: true
+  xy: 1524, 180
+  size: 187, 249
+  orig: 221, 276
+  offset: 7, 11
+  index: -1
+jian_0025
+  rotate: false
+  xy: 1775, 4
+  size: 177, 231
+  orig: 221, 276
+  offset: 17, 29
+  index: -1
+jian_0027
+  rotate: true
+  xy: 1250, 7
+  size: 176, 234
+  orig: 221, 276
+  offset: 17, 26
+  index: -1
+jian_0029
+  rotate: true
+  xy: 1010, 6
+  size: 178, 238
+  orig: 221, 276
+  offset: 15, 21
+  index: -1
+jian_0031
+  rotate: true
+  xy: 2, 5
+  size: 180, 245
+  orig: 221, 276
+  offset: 13, 14
+  index: -1
+jian_0033
+  rotate: true
+  xy: 2, 187
+  size: 181, 250
+  orig: 221, 276
+  offset: 12, 10
+  index: -1
+jian_0035
+  rotate: true
+  xy: 765, 373
+  size: 183, 252
+  orig: 221, 276
+  offset: 10, 8
+  index: -1
+jian_0037
+  rotate: true
+  xy: 1276, 371
+  size: 185, 252
+  orig: 221, 276
+  offset: 9, 8
+  index: -1
+jian_0039
+  rotate: true
+  xy: 1022, 559
+  size: 185, 253
+  orig: 221, 276
+  offset: 9, 7
+  index: -1
+jian_0041
+  rotate: true
+  xy: 1277, 558
+  size: 186, 253
+  orig: 221, 276
+  offset: 8, 7
+  index: -1
+jian_0043
+  rotate: true
+  xy: 1532, 558
+  size: 186, 253
+  orig: 221, 276
+  offset: 8, 7
+  index: -1
+jian_0045
+  rotate: false
+  xy: 1787, 491
+  size: 186, 253
+  orig: 221, 276
+  offset: 8, 7
+  index: -1
+jian_0047
+  rotate: true
+  xy: 2, 370
+  size: 187, 253
+  orig: 221, 276
+  offset: 7, 7
+  index: -1
+jian_0049
+  rotate: true
+  xy: 1530, 369
+  size: 187, 252
+  orig: 221, 276
+  offset: 7, 8
+  index: -1
+jian_0051
+  rotate: true
+  xy: 1018, 186
+  size: 183, 251
+  orig: 221, 276
+  offset: 11, 9
+  index: -1
+jian_0053
+  rotate: false
+  xy: 1784, 237
+  size: 184, 252
+  orig: 221, 276
+  offset: 10, 8
+  index: -1
+jian_0055
+  rotate: true
+  xy: 257, 187
+  size: 184, 252
+  orig: 221, 276
+  offset: 10, 8
+  index: -1
+jian_0057
+  rotate: true
+  xy: 1271, 185
+  size: 184, 251
+  orig: 221, 276
+  offset: 10, 9
+  index: -1
+jian_0059
+  rotate: true
+  xy: 493, 2
+  size: 182, 239
+  orig: 221, 276
+  offset: 12, 21
+  index: -1
+zixiaojian
+  rotate: true
+  xy: 1486, 16
+  size: 162, 224
+  orig: 221, 276
+  offset: 31, 35
+  index: -1

@@ -1,0 +1,27 @@
+
+effect_zhangmenling_yuanyangjinnang.png
+size: 656,241
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gy
+  rotate: true
+  xy: 250, 12
+  size: 227, 189
+  orig: 231, 236
+  offset: 2, 21
+  index: -1
+lantiao
+  rotate: true
+  xy: 2, 2
+  size: 237, 246
+  orig: 237, 246
+  offset: 0, 0
+  index: -1
+tu
+  rotate: false
+  xy: 441, 24
+  size: 213, 215
+  orig: 213, 218
+  offset: 0, 0
+  index: -1

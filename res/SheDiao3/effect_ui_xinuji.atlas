@@ -1,0 +1,153 @@
+
+effect_ui_xinuji.png
+size: 1486,333
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nuji0003
+  rotate: false
+  xy: 1006, 52
+  size: 145, 128
+  orig: 163, 210
+  offset: 16, 8
+  index: -1
+nuji0004
+  rotate: true
+  xy: 154, 6
+  size: 140, 148
+  orig: 163, 210
+  offset: 18, 9
+  index: -1
+nuji0005
+  rotate: false
+  xy: 689, 164
+  size: 136, 167
+  orig: 163, 210
+  offset: 20, 10
+  index: -1
+nuji0006
+  rotate: false
+  xy: 554, 162
+  size: 133, 169
+  orig: 163, 210
+  offset: 20, 12
+  index: -1
+nuji0007
+  rotate: false
+  xy: 420, 159
+  size: 132, 172
+  orig: 163, 210
+  offset: 19, 13
+  index: -1
+nuji0008
+  rotate: false
+  xy: 284, 154
+  size: 134, 177
+  orig: 163, 210
+  offset: 19, 12
+  index: -1
+nuji0009
+  rotate: false
+  xy: 144, 148
+  size: 138, 183
+  orig: 163, 210
+  offset: 18, 10
+  index: -1
+nuji0010
+  rotate: false
+  xy: 2, 145
+  size: 140, 186
+  orig: 163, 210
+  offset: 18, 9
+  index: -1
+nuji0011
+  rotate: false
+  xy: 1153, 39
+  size: 145, 141
+  orig: 163, 210
+  offset: 16, 8
+  index: -1
+nuji0012
+  rotate: false
+  xy: 1300, 36
+  size: 145, 144
+  orig: 163, 210
+  offset: 16, 8
+  index: -1
+nuji0013
+  rotate: false
+  xy: 725, 16
+  size: 141, 146
+  orig: 163, 210
+  offset: 17, 9
+  index: -1
+nuji0014
+  rotate: false
+  xy: 304, 4
+  size: 139, 148
+  orig: 163, 210
+  offset: 17, 10
+  index: -1
+nuji0015
+  rotate: false
+  xy: 975, 182
+  size: 137, 149
+  orig: 163, 210
+  offset: 16, 12
+  index: -1
+nuji0016
+  rotate: false
+  xy: 868, 31
+  size: 136, 146
+  orig: 163, 210
+  offset: 16, 13
+  index: -1
+nuji0017
+  rotate: false
+  xy: 1114, 182
+  size: 137, 149
+  orig: 163, 210
+  offset: 16, 12
+  index: -1
+nuji0018
+  rotate: false
+  xy: 445, 9
+  size: 140, 148
+  orig: 163, 210
+  offset: 16, 10
+  index: -1
+nuji0019
+  rotate: false
+  xy: 1253, 182
+  size: 142, 149
+  orig: 163, 210
+  offset: 16, 9
+  index: -1
+nuji0021
+  rotate: false
+  xy: 827, 179
+  size: 146, 152
+  orig: 163, 210
+  offset: 15, 8
+  index: -1
+nuji0023
+  rotate: true
+  xy: 2, 2
+  size: 141, 150
+  orig: 163, 210
+  offset: 16, 10
+  index: -1
+nuji0025
+  rotate: false
+  xy: 587, 13
+  size: 136, 147
+  orig: 163, 210
+  offset: 17, 12
+  index: -1
+nuji0027
+  rotate: true
+  xy: 1397, 200
+  size: 131, 87
+  orig: 163, 210
+  offset: 22, 12
+  index: -1

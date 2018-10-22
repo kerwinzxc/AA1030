@@ -1,0 +1,27 @@
+
+effect_zhangmenling_bianfubiao.png
+size: 940,322
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+faguang
+  rotate: false
+  xy: 2, 2
+  size: 319, 318
+  orig: 335, 334
+  offset: 1, 8
+  index: -1
+g
+  rotate: false
+  xy: 323, 4
+  size: 317, 316
+  orig: 335, 334
+  offset: 2, 9
+  index: -1
+tu
+  rotate: false
+  xy: 642, 23
+  size: 296, 297
+  orig: 307, 307
+  offset: 0, 4
+  index: -1

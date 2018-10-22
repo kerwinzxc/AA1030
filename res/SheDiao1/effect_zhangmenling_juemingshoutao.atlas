@@ -1,0 +1,27 @@
+
+effect_zhangmenling_juemingshoutao.png
+size: 414,362
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+juemingshoutao
+  rotate: false
+  xy: 254, 15
+  size: 155, 183
+  orig: 196, 250
+  offset: 41, 67
+  index: -1
+lantiao
+  rotate: false
+  xy: 2, 200
+  size: 410, 160
+  orig: 448, 184
+  offset: 18, 13
+  index: -1
+tu
+  rotate: true
+  xy: 2, 2
+  size: 196, 250
+  orig: 196, 250
+  offset: 0, 0
+  index: -1

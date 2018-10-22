@@ -1,0 +1,27 @@
+
+effect_zhuanshushenqi_tieji.png
+size: 972,248
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lantiao
+  rotate: false
+  xy: 2, 86
+  size: 410, 160
+  orig: 448, 184
+  offset: 18, 13
+  index: -1
+tu
+  rotate: false
+  xy: 414, 2
+  size: 277, 244
+  orig: 277, 244
+  offset: 0, 0
+  index: -1
+zz
+  rotate: false
+  xy: 693, 2
+  size: 277, 244
+  orig: 277, 244
+  offset: 0, 0
+  index: -1

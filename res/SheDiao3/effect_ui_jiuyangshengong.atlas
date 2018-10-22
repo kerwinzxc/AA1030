@@ -1,0 +1,111 @@
+
+effect_ui_jiuyangshengong.png
+size: 654,52
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoshi_0001
+  rotate: true
+  xy: 348, 5
+  size: 45, 41
+  orig: 67, 68
+  offset: 12, 14
+  index: -1
+baoshi_0003
+  rotate: true
+  xy: 391, 5
+  size: 45, 41
+  orig: 67, 68
+  offset: 13, 14
+  index: -1
+baoshi_0005
+  rotate: true
+  xy: 2, 2
+  size: 48, 40
+  orig: 67, 68
+  offset: 11, 15
+  index: -1
+baoshi_0007
+  rotate: true
+  xy: 263, 4
+  size: 46, 40
+  orig: 67, 68
+  offset: 13, 15
+  index: -1
+baoshi_0009
+  rotate: true
+  xy: 44, 2
+  size: 48, 41
+  orig: 67, 68
+  offset: 11, 15
+  index: -1
+baoshi_0011
+  rotate: true
+  xy: 305, 4
+  size: 46, 41
+  orig: 67, 68
+  offset: 13, 15
+  index: -1
+baoshi_0013
+  rotate: true
+  xy: 87, 3
+  size: 47, 42
+  orig: 67, 68
+  offset: 12, 14
+  index: -1
+baoshi_0015
+  rotate: true
+  xy: 131, 3
+  size: 47, 42
+  orig: 67, 68
+  offset: 12, 14
+  index: -1
+baoshi_0017
+  rotate: true
+  xy: 175, 3
+  size: 47, 42
+  orig: 67, 68
+  offset: 12, 14
+  index: -1
+baoshi_0019
+  rotate: true
+  xy: 219, 3
+  size: 47, 42
+  orig: 67, 68
+  offset: 12, 14
+  index: -1
+baoshi_0021
+  rotate: true
+  xy: 434, 5
+  size: 45, 42
+  orig: 67, 68
+  offset: 12, 14
+  index: -1
+baoshi_0023
+  rotate: false
+  xy: 609, 8
+  size: 43, 42
+  orig: 67, 68
+  offset: 12, 14
+  index: -1
+baoshi_0025
+  rotate: true
+  xy: 521, 6
+  size: 44, 42
+  orig: 67, 68
+  offset: 12, 14
+  index: -1
+baoshi_0027
+  rotate: true
+  xy: 565, 6
+  size: 44, 42
+  orig: 67, 68
+  offset: 12, 13
+  index: -1
+baoshi_0029
+  rotate: true
+  xy: 478, 6
+  size: 44, 41
+  orig: 67, 68
+  offset: 12, 14
+  index: -1

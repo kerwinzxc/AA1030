@@ -1,0 +1,13 @@
+
+effect_limouchou.png
+size: 136,235
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qf
+  rotate: false
+  xy: 2, 2
+  size: 132, 231
+  orig: 151, 249
+  offset: 7, 7
+  index: -1

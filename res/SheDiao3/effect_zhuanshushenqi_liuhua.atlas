@@ -1,0 +1,118 @@
+
+effect_zhuanshushenqi_liuhua.png
+size: 996,178
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d
+  rotate: true
+  xy: 2, 25
+  size: 151, 198
+  orig: 220, 275
+  offset: 42, 46
+  index: -1
+d_0001
+  rotate: true
+  xy: 202, 2
+  size: 84, 95
+  orig: 220, 275
+  offset: 28, 37
+  index: -1
+d_0003
+  rotate: true
+  xy: 703, 3
+  size: 84, 96
+  orig: 220, 275
+  offset: 28, 36
+  index: -1
+d_0005
+  rotate: true
+  xy: 505, 3
+  size: 85, 97
+  orig: 220, 275
+  offset: 27, 35
+  index: -1
+d_0007
+  rotate: true
+  xy: 604, 2
+  size: 85, 97
+  orig: 220, 275
+  offset: 27, 35
+  index: -1
+d_0009
+  rotate: true
+  xy: 505, 90
+  size: 86, 98
+  orig: 220, 275
+  offset: 26, 34
+  index: -1
+d_0011
+  rotate: true
+  xy: 605, 89
+  size: 87, 98
+  orig: 220, 275
+  offset: 25, 34
+  index: -1
+d_0013
+  rotate: true
+  xy: 705, 89
+  size: 87, 98
+  orig: 220, 275
+  offset: 25, 34
+  index: -1
+d_0015
+  rotate: true
+  xy: 805, 89
+  size: 87, 98
+  orig: 220, 275
+  offset: 25, 34
+  index: -1
+d_0017
+  rotate: true
+  xy: 202, 88
+  size: 88, 99
+  orig: 220, 275
+  offset: 24, 33
+  index: -1
+d_0019
+  rotate: true
+  xy: 303, 88
+  size: 88, 99
+  orig: 220, 275
+  offset: 24, 33
+  index: -1
+d_0021
+  rotate: true
+  xy: 404, 88
+  size: 88, 99
+  orig: 220, 275
+  offset: 24, 33
+  index: -1
+d_0023
+  rotate: false
+  xy: 905, 78
+  size: 89, 98
+  orig: 220, 275
+  offset: 23, 34
+  index: -1
+d_0025
+  rotate: true
+  xy: 801, 4
+  size: 83, 96
+  orig: 220, 275
+  offset: 29, 36
+  index: -1
+d_0027
+  rotate: true
+  xy: 394, 5
+  size: 81, 92
+  orig: 220, 275
+  offset: 31, 40
+  index: -1
+d_0029
+  rotate: true
+  xy: 299, 3
+  size: 83, 93
+  orig: 220, 275
+  offset: 29, 39
+  index: -1

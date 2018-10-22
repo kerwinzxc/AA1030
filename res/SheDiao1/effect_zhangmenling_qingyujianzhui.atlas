@@ -1,0 +1,27 @@
+
+effect_zhangmenling_qingyujianzhui.png
+size: 317,219
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gy
+  rotate: false
+  xy: 220, 98
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+gy2
+  rotate: false
+  xy: 220, 124
+  size: 95, 93
+  orig: 95, 98
+  offset: 0, 1
+  index: -1
+青羽剑坠
+  rotate: false
+  xy: 2, 2
+  size: 216, 215
+  orig: 216, 215
+  offset: 0, 0
+  index: -1

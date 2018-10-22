@@ -1,0 +1,48 @@
+
+effect_nujifenwei.png
+size: 248,568
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chi
+  rotate: false
+  xy: 2, 8
+  size: 151, 151
+  orig: 151, 151
+  offset: 0, 0
+  index: -1
+hongdi
+  rotate: false
+  xy: 155, 95
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+lie
+  rotate: false
+  xy: 131, 188
+  size: 96, 136
+  orig: 136, 136
+  offset: 9, 0
+  index: -1
+lieW
+  rotate: false
+  xy: 2, 161
+  size: 127, 163
+  orig: 127, 163
+  offset: 0, 0
+  index: -1
+liewen
+  rotate: false
+  xy: 2, 326
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+quan
+  rotate: false
+  xy: 155, 2
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1

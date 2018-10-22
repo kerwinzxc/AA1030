@@ -1,0 +1,153 @@
+
+effect_buff_fuhuo.png
+size: 1026,291
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+03_guangzhu
+  rotate: false
+  xy: 2, 42
+  size: 112, 247
+  orig: 120, 264
+  offset: 4, 2
+  index: -1
+fz
+  rotate: false
+  xy: 210, 30
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: false
+  xy: 816, 10
+  size: 84, 84
+  orig: 100, 100
+  offset: 8, 8
+  index: -1
+lizi_0001
+  rotate: false
+  xy: 358, 135
+  size: 152, 154
+  orig: 160, 160
+  offset: 5, 3
+  index: -1
+lizi_0002
+  rotate: false
+  xy: 686, 147
+  size: 142, 142
+  orig: 160, 160
+  offset: 10, 9
+  index: -1
+lizi_0003
+  rotate: false
+  xy: 830, 168
+  size: 135, 121
+  orig: 160, 160
+  offset: 13, 25
+  index: -1
+lizi_0004
+  rotate: true
+  xy: 358, 2
+  size: 131, 121
+  orig: 160, 160
+  offset: 12, 26
+  index: -1
+lizi_0005
+  rotate: true
+  xy: 481, 2
+  size: 131, 121
+  orig: 160, 160
+  offset: 12, 26
+  index: -1
+lizi_0006
+  rotate: false
+  xy: 687, 27
+  size: 127, 118
+  orig: 160, 160
+  offset: 16, 27
+  index: -1
+nuji_02_quan
+  rotate: false
+  xy: 204, 134
+  size: 152, 155
+  orig: 180, 180
+  offset: 14, 14
+  index: -1
+rao_add_0001
+  rotate: true
+  xy: 2, 2
+  size: 21, 39
+  orig: 112, 212
+  offset: 3, 0
+  index: -1
+rao_add_0002
+  rotate: false
+  xy: 902, 18
+  size: 48, 53
+  orig: 112, 212
+  offset: 4, 3
+  index: -1
+rao_add_0003
+  rotate: false
+  xy: 830, 96
+  size: 98, 70
+  orig: 112, 212
+  offset: 7, 8
+  index: -1
+rao_add_0004
+  rotate: false
+  xy: 930, 73
+  size: 94, 93
+  orig: 112, 212
+  offset: 10, 16
+  index: -1
+rao_add_0005
+  rotate: false
+  xy: 116, 18
+  size: 92, 107
+  orig: 112, 212
+  offset: 13, 24
+  index: -1
+rao_add_0006
+  rotate: false
+  xy: 599, 138
+  size: 85, 151
+  orig: 112, 212
+  offset: 20, 36
+  index: -1
+rao_add_0007
+  rotate: false
+  xy: 116, 127
+  size: 86, 162
+  orig: 112, 212
+  offset: 17, 44
+  index: -1
+rao_add_0008
+  rotate: false
+  xy: 512, 136
+  size: 85, 153
+  orig: 112, 212
+  offset: 17, 57
+  index: -1
+rao_add_0009
+  rotate: false
+  xy: 604, 8
+  size: 81, 128
+  orig: 112, 212
+  offset: 19, 82
+  index: -1
+rao_add_0010
+  rotate: false
+  xy: 967, 189
+  size: 39, 100
+  orig: 112, 212
+  offset: 20, 110
+  index: -1
+rao_add_0011
+  rotate: true
+  xy: 2, 25
+  size: 15, 60
+  orig: 112, 212
+  offset: 21, 150
+  index: -1

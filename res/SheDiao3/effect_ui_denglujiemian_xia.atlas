@@ -1,0 +1,76 @@
+
+effect_ui_denglujiemian_xia.png
+size: 36,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+niao_0001
+  rotate: true
+  xy: 2, 187
+  size: 35, 25
+  orig: 38, 35
+  offset: 3, 8
+  index: -1
+niao_0002
+  rotate: false
+  xy: 2, 78
+  size: 31, 31
+  orig: 38, 35
+  offset: 7, 4
+  index: -1
+niao_0003
+  rotate: false
+  xy: 2, 156
+  size: 32, 29
+  orig: 38, 35
+  offset: 6, 5
+  index: -1
+niao_0004
+  rotate: false
+  xy: 2, 130
+  size: 32, 24
+  orig: 38, 35
+  offset: 6, 7
+  index: -1
+niao_0005
+  rotate: false
+  xy: 2, 61
+  size: 23, 15
+  orig: 38, 35
+  offset: 10, 3
+  index: -1
+niao_0006
+  rotate: false
+  xy: 2, 21
+  size: 21, 18
+  orig: 38, 35
+  offset: 10, 0
+  index: -1
+niao_0007
+  rotate: false
+  xy: 2, 41
+  size: 22, 18
+  orig: 38, 35
+  offset: 9, 0
+  index: -1
+niao_0008
+  rotate: false
+  xy: 2, 2
+  size: 21, 17
+  orig: 38, 35
+  offset: 11, 2
+  index: -1
+niao_0009
+  rotate: false
+  xy: 2, 111
+  size: 32, 17
+  orig: 38, 35
+  offset: 3, 8
+  index: -1
+shuye
+  rotate: true
+  xy: 2, 224
+  size: 41, 32
+  orig: 46, 33
+  offset: 2, 1
+  index: -1

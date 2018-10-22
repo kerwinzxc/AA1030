@@ -1,0 +1,20 @@
+
+effect_zhuanshushenqi_yinsheshoutao.png
+size: 271,163
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d
+  rotate: true
+  xy: 178, 42
+  size: 119, 91
+  orig: 220, 275
+  offset: 47, 71
+  index: -1
+y_
+  rotate: true
+  xy: 2, 2
+  size: 159, 174
+  orig: 220, 275
+  offset: 41, 68
+  index: -1

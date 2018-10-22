@@ -1,0 +1,104 @@
+
+ui_effect_shaolinsi.png
+size: 1964,1549
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shaolingsi
+  rotate: false
+  xy: 2, 311
+  size: 740, 1236
+  orig: 740, 1236
+  offset: 0, 0
+  index: -1
+shui_kuosan0001
+  rotate: true
+  xy: 1821, 592
+  size: 303, 91
+  orig: 550, 204
+  offset: 118, 83
+  index: -1
+shui_kuosan0002
+  rotate: false
+  xy: 1486, 897
+  size: 458, 141
+  orig: 550, 204
+  offset: 52, 48
+  index: -1
+shui_kuosan0003
+  rotate: true
+  xy: 1802, 1062
+  size: 485, 147
+  orig: 550, 204
+  offset: 31, 42
+  index: -1
+shui_kuosan0004
+  rotate: false
+  xy: 1460, 5
+  size: 501, 155
+  orig: 550, 204
+  offset: 22, 32
+  index: -1
+shui_kuosan0005
+  rotate: true
+  xy: 1645, 1041
+  size: 506, 155
+  orig: 550, 204
+  offset: 17, 30
+  index: -1
+shui_kuosan0006
+  rotate: false
+  xy: 2, 2
+  size: 507, 158
+  orig: 550, 204
+  offset: 16, 27
+  index: -1
+shui_kuosan0007
+  rotate: true
+  xy: 1486, 1040
+  size: 507, 157
+  orig: 550, 204
+  offset: 16, 27
+  index: -1
+shui_kuosan0008
+  rotate: false
+  xy: 1460, 162
+  size: 502, 147
+  orig: 550, 204
+  offset: 19, 28
+  index: -1
+tiankong
+  rotate: false
+  xy: 2, 162
+  size: 740, 147
+  orig: 740, 1236
+  offset: 0, 1089
+  index: -1
+youhua
+  rotate: false
+  xy: 1486, 352
+  size: 314, 209
+  orig: 370, 285
+  offset: 56, 0
+  index: -1
+yuanjing
+  rotate: false
+  xy: 744, 19
+  size: 714, 290
+  orig: 740, 1236
+  offset: 0, 900
+  index: -1
+zhongjing
+  rotate: false
+  xy: 744, 311
+  size: 740, 1236
+  orig: 740, 1236
+  offset: 0, 0
+  index: -1
+zuohua
+  rotate: true
+  xy: 1486, 563
+  size: 332, 333
+  orig: 393, 354
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,139 @@
+
+effect_zhuanshushenqi_jinsiyuwang.png
+size: 1673,558
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fg
+  rotate: true
+  xy: 1361, 4
+  size: 179, 166
+  orig: 193, 184
+  offset: 8, 12
+  index: -1
+guang
+  rotate: true
+  xy: 1490, 196
+  size: 175, 163
+  orig: 175, 175
+  offset: 0, 7
+  index: -1
+hong
+  rotate: true
+  xy: 1529, 31
+  size: 163, 142
+  orig: 172, 172
+  offset: 7, 23
+  index: -1
+lizi_0001
+  rotate: true
+  xy: 612, 180
+  size: 186, 173
+  orig: 193, 184
+  offset: 2, 5
+  index: -1
+lizi_0002
+  rotate: true
+  xy: 966, 183
+  size: 185, 172
+  orig: 193, 184
+  offset: 2, 5
+  index: -1
+lizi_0003
+  rotate: true
+  xy: 1486, 373
+  size: 183, 173
+  orig: 193, 184
+  offset: 4, 4
+  index: -1
+lizi_0004
+  rotate: false
+  xy: 1175, 8
+  size: 184, 174
+  orig: 193, 184
+  offset: 3, 4
+  index: -1
+lizi_0005
+  rotate: true
+  xy: 1135, 371
+  size: 185, 175
+  orig: 193, 184
+  offset: 3, 4
+  index: -1
+lizi_0006
+  rotate: false
+  xy: 988, 7
+  size: 185, 174
+  orig: 193, 184
+  offset: 3, 4
+  index: -1
+lizi_0007
+  rotate: false
+  xy: 612, 2
+  size: 186, 176
+  orig: 193, 184
+  offset: 2, 3
+  index: -1
+lizi_0008
+  rotate: true
+  xy: 785, 370
+  size: 186, 176
+  orig: 193, 184
+  offset: 2, 3
+  index: -1
+lizi_0009
+  rotate: true
+  xy: 787, 182
+  size: 186, 177
+  orig: 193, 184
+  offset: 2, 3
+  index: -1
+lizi_0010
+  rotate: true
+  xy: 1311, 185
+  size: 184, 177
+  orig: 193, 184
+  offset: 3, 3
+  index: -1
+lizi_0011
+  rotate: true
+  xy: 1312, 372
+  size: 184, 172
+  orig: 193, 184
+  offset: 3, 8
+  index: -1
+lizi_0012
+  rotate: true
+  xy: 1140, 184
+  size: 185, 169
+  orig: 193, 184
+  offset: 3, 11
+  index: -1
+lizi_0013
+  rotate: true
+  xy: 963, 370
+  size: 186, 170
+  orig: 193, 184
+  offset: 2, 10
+  index: -1
+lizi_0014
+  rotate: false
+  xy: 800, 6
+  size: 186, 174
+  orig: 193, 184
+  offset: 2, 6
+  index: -1
+lizi_0015
+  rotate: true
+  xy: 612, 368
+  size: 188, 171
+  orig: 193, 184
+  offset: 1, 6
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 6
+  size: 608, 550
+  orig: 614, 614
+  offset: 4, 33
+  index: -1

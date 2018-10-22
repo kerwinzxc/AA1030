@@ -1,0 +1,27 @@
+
+effect_zhuanshushenqi_heitieshoutao.png
+size: 1000,243
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tu
+  rotate: true
+  xy: 414, 2
+  size: 239, 291
+  orig: 307, 307
+  offset: 31, 16
+  index: -1
+z
+  rotate: true
+  xy: 707, 2
+  size: 239, 291
+  orig: 307, 307
+  offset: 31, 16
+  index: -1
+zitiao
+  rotate: false
+  xy: 2, 81
+  size: 410, 160
+  orig: 448, 184
+  offset: 18, 13
+  index: -1

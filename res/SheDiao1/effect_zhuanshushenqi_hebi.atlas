@@ -1,0 +1,27 @@
+
+effect_zhuanshushenqi_hebi.png
+size: 387,181
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fg
+  rotate: true
+  xy: 2, 2
+  size: 177, 189
+  orig: 177, 209
+  offset: 0, 10
+  index: -1
+gy
+  rotate: false
+  xy: 361, 155
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+tu
+  rotate: false
+  xy: 193, 3
+  size: 166, 176
+  orig: 177, 209
+  offset: 6, 14
+  index: -1

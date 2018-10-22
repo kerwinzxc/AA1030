@@ -1,0 +1,209 @@
+
+effect_ui_baoshishengji.png
+size: 813,303
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuang_0001
+  rotate: true
+  xy: 232, 189
+  size: 112, 96
+  orig: 126, 126
+  offset: 7, 15
+  index: -1
+kuang_0002
+  rotate: true
+  xy: 238, 82
+  size: 105, 91
+  orig: 126, 126
+  offset: 11, 17
+  index: -1
+kuang_0003
+  rotate: true
+  xy: 330, 204
+  size: 97, 86
+  orig: 126, 126
+  offset: 15, 20
+  index: -1
+kuang_0004
+  rotate: true
+  xy: 418, 210
+  size: 91, 82
+  orig: 126, 126
+  offset: 18, 22
+  index: -1
+kuang_0005
+  rotate: true
+  xy: 431, 34
+  size: 85, 76
+  orig: 126, 126
+  offset: 21, 25
+  index: -1
+kuang_0006
+  rotate: true
+  xy: 656, 223
+  size: 78, 72
+  orig: 126, 126
+  offset: 24, 28
+  index: -1
+kuang_0007
+  rotate: true
+  xy: 660, 60
+  size: 77, 73
+  orig: 126, 126
+  offset: 23, 28
+  index: -1
+kuang_0008
+  rotate: true
+  xy: 510, 131
+  size: 82, 77
+  orig: 126, 126
+  offset: 20, 26
+  index: -1
+kuang_0009
+  rotate: true
+  xy: 502, 215
+  size: 86, 74
+  orig: 126, 126
+  offset: 18, 25
+  index: -1
+kuang_0010
+  rotate: false
+  xy: 730, 223
+  size: 78, 78
+  orig: 126, 126
+  offset: 27, 23
+  index: -1
+kuang_0011
+  rotate: false
+  xy: 578, 220
+  size: 76, 81
+  orig: 126, 126
+  offset: 26, 22
+  index: -1
+kuang_0012
+  rotate: false
+  xy: 589, 139
+  size: 79, 79
+  orig: 126, 126
+  offset: 25, 26
+  index: -1
+kuang_0013
+  rotate: false
+  xy: 509, 36
+  size: 82, 83
+  orig: 126, 126
+  offset: 23, 24
+  index: -1
+kuang_0014
+  rotate: false
+  xy: 423, 121
+  size: 85, 87
+  orig: 126, 126
+  offset: 22, 22
+  index: -1
+kuang_0015
+  rotate: false
+  xy: 341, 16
+  size: 88, 90
+  orig: 126, 126
+  offset: 21, 20
+  index: -1
+kuang_0016
+  rotate: false
+  xy: 331, 108
+  size: 90, 94
+  orig: 126, 126
+  offset: 20, 18
+  index: -1
+kuang_0017
+  rotate: false
+  xy: 735, 9
+  size: 75, 63
+  orig: 126, 126
+  offset: 36, 27
+  index: -1
+kuang_0018
+  rotate: true
+  xy: 670, 144
+  size: 77, 64
+  orig: 126, 126
+  offset: 36, 26
+  index: -1
+kuang_0019
+  rotate: true
+  xy: 593, 59
+  size: 78, 65
+  orig: 126, 126
+  offset: 36, 25
+  index: -1
+kuang_0020
+  rotate: true
+  xy: 124, 2
+  size: 55, 66
+  orig: 126, 126
+  offset: 36, 24
+  index: -1
+kuang_0021
+  rotate: false
+  xy: 736, 154
+  size: 55, 67
+  orig: 126, 126
+  offset: 36, 23
+  index: -1
+kuang_0022
+  rotate: true
+  xy: 660, 3
+  size: 55, 68
+  orig: 126, 126
+  offset: 36, 22
+  index: -1
+kuang_0023
+  rotate: false
+  xy: 593, 2
+  size: 55, 55
+  orig: 126, 126
+  offset: 36, 35
+  index: -1
+xian_0001
+  rotate: false
+  xy: 238, 11
+  size: 101, 69
+  orig: 126, 126
+  offset: 0, 38
+  index: -1
+xian_0003
+  rotate: false
+  xy: 2, 175
+  size: 107, 126
+  orig: 126, 126
+  offset: 4, 0
+  index: -1
+xian_0005
+  rotate: false
+  xy: 2, 47
+  size: 120, 126
+  orig: 126, 126
+  offset: 5, 0
+  index: -1
+xian_0007
+  rotate: false
+  xy: 111, 176
+  size: 119, 125
+  orig: 126, 126
+  offset: 6, 1
+  index: -1
+xian_0009
+  rotate: true
+  xy: 124, 59
+  size: 115, 112
+  orig: 126, 126
+  offset: 8, 2
+  index: -1
+xian_0011
+  rotate: true
+  xy: 735, 74
+  size: 68, 76
+  orig: 126, 126
+  offset: 47, 10
+  index: -1

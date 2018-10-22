@@ -1,0 +1,104 @@
+
+effect_buff_chenmo.png
+size: 1304,112
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangyun
+  rotate: false
+  xy: 895, 10
+  size: 97, 100
+  orig: 100, 100
+  offset: 2, 0
+  index: -1
+huan_0001
+  rotate: false
+  xy: 703, 8
+  size: 94, 102
+  orig: 120, 120
+  offset: 14, 8
+  index: -1
+huan_0002
+  rotate: false
+  xy: 799, 8
+  size: 94, 102
+  orig: 120, 120
+  offset: 14, 8
+  index: -1
+huan_0003
+  rotate: false
+  xy: 1178, 18
+  size: 90, 92
+  orig: 120, 120
+  offset: 25, 16
+  index: -1
+huan_0004
+  rotate: false
+  xy: 1086, 12
+  size: 90, 98
+  orig: 120, 120
+  offset: 26, 16
+  index: -1
+huan_0005
+  rotate: false
+  xy: 994, 10
+  size: 90, 100
+  orig: 120, 120
+  offset: 26, 16
+  index: -1
+huan_0006
+  rotate: true
+  xy: 525, 5
+  size: 105, 100
+  orig: 120, 120
+  offset: 11, 16
+  index: -1
+huan_0007
+  rotate: false
+  xy: 213, 3
+  size: 105, 107
+  orig: 120, 120
+  offset: 10, 8
+  index: -1
+huan_0008
+  rotate: false
+  xy: 2, 2
+  size: 104, 108
+  orig: 120, 120
+  offset: 10, 6
+  index: -1
+huan_0009
+  rotate: false
+  xy: 108, 2
+  size: 103, 108
+  orig: 120, 120
+  offset: 10, 6
+  index: -1
+huan_0010
+  rotate: false
+  xy: 320, 3
+  size: 101, 107
+  orig: 120, 120
+  offset: 11, 6
+  index: -1
+huan_0011
+  rotate: false
+  xy: 423, 4
+  size: 100, 106
+  orig: 120, 120
+  offset: 12, 7
+  index: -1
+huan_0012
+  rotate: false
+  xy: 627, 7
+  size: 74, 103
+  orig: 120, 120
+  offset: 14, 7
+  index: -1
+zi
+  rotate: false
+  xy: 1270, 72
+  size: 32, 38
+  orig: 50, 45
+  offset: 12, 3
+  index: -1

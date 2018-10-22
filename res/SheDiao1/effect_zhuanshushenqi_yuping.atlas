@@ -1,0 +1,20 @@
+
+effect_zhuanshushenqi_yuping.png
+size: 478,291
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lantiao
+  rotate: false
+  xy: 2, 2
+  size: 245, 287
+  orig: 257, 299
+  offset: 6, 7
+  index: -1
+tu
+  rotate: false
+  xy: 249, 21
+  size: 227, 268
+  orig: 227, 268
+  offset: 0, 0
+  index: -1

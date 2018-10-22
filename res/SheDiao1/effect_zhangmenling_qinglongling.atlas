@@ -1,0 +1,34 @@
+
+effect_zhangmenling_qinglongling.png
+size: 796,164
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gy
+  rotate: false
+  xy: 414, 14
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+lantiao
+  rotate: false
+  xy: 2, 2
+  size: 410, 160
+  orig: 448, 184
+  offset: 18, 13
+  index: -1
+tu
+  rotate: true
+  xy: 414, 40
+  size: 122, 299
+  orig: 122, 299
+  offset: 0, 0
+  index: -1
+zz
+  rotate: false
+  xy: 715, 5
+  size: 79, 157
+  orig: 122, 299
+  offset: 0, 92
+  index: -1

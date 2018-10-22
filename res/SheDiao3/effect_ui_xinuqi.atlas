@@ -1,0 +1,146 @@
+
+effect_ui_xinuqi.png
+size: 1434,321
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nuqi0003
+  rotate: false
+  xy: 425, 167
+  size: 145, 152
+  orig: 159, 176
+  offset: 11, 0
+  index: -1
+nuqi0004
+  rotate: false
+  xy: 719, 168
+  size: 141, 151
+  orig: 159, 176
+  offset: 13, 0
+  index: -1
+nuqi0005
+  rotate: false
+  xy: 296, 16
+  size: 137, 148
+  orig: 159, 176
+  offset: 15, 2
+  index: -1
+nuqi0006
+  rotate: false
+  xy: 1282, 170
+  size: 134, 149
+  orig: 159, 176
+  offset: 15, 3
+  index: -1
+nuqi0007
+  rotate: false
+  xy: 1007, 169
+  size: 133, 150
+  orig: 159, 176
+  offset: 14, 4
+  index: -1
+nuqi0008
+  rotate: false
+  xy: 145, 166
+  size: 134, 153
+  orig: 159, 176
+  offset: 14, 3
+  index: -1
+nuqi0009
+  rotate: false
+  xy: 2, 2
+  size: 137, 156
+  orig: 159, 176
+  offset: 12, 2
+  index: -1
+nuqi0010
+  rotate: false
+  xy: 2, 160
+  size: 141, 159
+  orig: 159, 176
+  offset: 9, 0
+  index: -1
+nuqi0011
+  rotate: true
+  xy: 1141, 22
+  size: 145, 144
+  orig: 159, 176
+  offset: 6, 0
+  index: -1
+nuqi0012
+  rotate: false
+  xy: 1287, 23
+  size: 145, 145
+  orig: 159, 176
+  offset: 11, 0
+  index: -1
+nuqi0013
+  rotate: false
+  xy: 859, 20
+  size: 142, 146
+  orig: 159, 176
+  offset: 12, 0
+  index: -1
+nuqi0014
+  rotate: false
+  xy: 435, 17
+  size: 140, 148
+  orig: 159, 176
+  offset: 12, 2
+  index: -1
+nuqi0015
+  rotate: true
+  xy: 145, 27
+  size: 137, 149
+  orig: 159, 176
+  offset: 12, 3
+  index: -1
+nuqi0016
+  rotate: false
+  xy: 1003, 20
+  size: 136, 146
+  orig: 159, 176
+  offset: 12, 4
+  index: -1
+nuqi0017
+  rotate: false
+  xy: 1142, 169
+  size: 138, 150
+  orig: 159, 176
+  offset: 11, 3
+  index: -1
+nuqi0018
+  rotate: false
+  xy: 716, 18
+  size: 141, 147
+  orig: 159, 176
+  offset: 11, 2
+  index: -1
+nuqi0019
+  rotate: false
+  xy: 862, 168
+  size: 143, 151
+  orig: 159, 176
+  offset: 11, 0
+  index: -1
+nuqi0021
+  rotate: false
+  xy: 572, 167
+  size: 145, 152
+  orig: 159, 176
+  offset: 11, 0
+  index: -1
+nuqi0023
+  rotate: false
+  xy: 281, 166
+  size: 142, 153
+  orig: 159, 176
+  offset: 11, 1
+  index: -1
+nuqi0025
+  rotate: false
+  xy: 577, 17
+  size: 137, 148
+  orig: 159, 176
+  offset: 12, 3
+  index: -1

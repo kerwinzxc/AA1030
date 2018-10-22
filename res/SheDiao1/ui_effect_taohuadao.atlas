@@ -1,0 +1,48 @@
+
+ui_effect_taohuadao.png
+size: 1883,1486
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Sparkle_001
+  rotate: true
+  xy: 1754, 687
+  size: 111, 121
+  orig: 128, 128
+  offset: 10, 2
+  index: -1
+ocean_EdgeFoam01
+  rotate: false
+  xy: 1240, 230
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+taohuadao_jinjing
+  rotate: true
+  xy: 1597, 800
+  size: 684, 284
+  orig: 691, 290
+  offset: 7, 0
+  index: -1
+taohuadao_tiankong
+  rotate: true
+  xy: 2, 744
+  size: 740, 1236
+  orig: 740, 1236
+  offset: 0, 0
+  index: -1
+taohuadao_yuanjing
+  rotate: true
+  xy: 1240, 744
+  size: 740, 355
+  orig: 740, 1236
+  offset: 0, 790
+  index: -1
+taohuadao_zhongjing
+  rotate: true
+  xy: 2, 2
+  size: 740, 1236
+  orig: 740, 1236
+  offset: 0, 0
+  index: -1

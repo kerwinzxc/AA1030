@@ -1,0 +1,97 @@
+
+effect_tongyichufa.png
+size: 1053,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GF_01
+  rotate: false
+  xy: 325, 91
+  size: 217, 212
+  orig: 250, 238
+  offset: 11, 12
+  index: -1
+GF_02
+  rotate: false
+  xy: 792, 306
+  size: 225, 212
+  orig: 250, 238
+  offset: 11, 12
+  index: -1
+GF_03
+  rotate: false
+  xy: 559, 306
+  size: 231, 212
+  orig: 250, 238
+  offset: 11, 12
+  index: -1
+GF_04
+  rotate: false
+  xy: 325, 305
+  size: 232, 213
+  orig: 250, 238
+  offset: 10, 11
+  index: -1
+TSquan
+  rotate: false
+  xy: 325, 17
+  size: 59, 72
+  orig: 64, 82
+  offset: 5, 0
+  index: -1
+fazhen_09
+  rotate: false
+  xy: 2, 198
+  size: 321, 320
+  orig: 322, 335
+  offset: 0, 7
+  index: -1
+guang_01
+  rotate: true
+  xy: 177, 12
+  size: 184, 146
+  orig: 184, 198
+  offset: 0, 26
+  index: -1
+guangxiao
+  rotate: false
+  xy: 756, 147
+  size: 161, 157
+  orig: 188, 180
+  offset: 14, 11
+  index: -1
+guangzhu
+  rotate: true
+  xy: 1019, 334
+  size: 184, 21
+  orig: 198, 34
+  offset: 6, 6
+  index: -1
+juguang
+  rotate: false
+  xy: 2, 8
+  size: 173, 188
+  orig: 195, 195
+  offset: 11, 0
+  index: -1
+quan
+  rotate: true
+  xy: 544, 91
+  size: 212, 210
+  orig: 212, 218
+  offset: 0, 5
+  index: -1
+wei
+  rotate: false
+  xy: 914, 2
+  size: 137, 143
+  orig: 137, 143
+  offset: 0, 0
+  index: -1
+zhanLIe
+  rotate: false
+  xy: 756, 3
+  size: 156, 142
+  orig: 160, 160
+  offset: 2, 9
+  index: -1

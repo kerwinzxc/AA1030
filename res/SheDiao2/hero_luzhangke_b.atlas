@@ -1,0 +1,202 @@
+
+hero_luzhangke_b.png
+size: 1049,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 912, 384
+  size: 115, 137
+  orig: 115, 137
+  offset: 0, 0
+  index: -1
+body2
+  rotate: true
+  xy: 133, 189
+  size: 332, 294
+  orig: 332, 294
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 901, 94
+  size: 69, 103
+  orig: 69, 103
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 873, 157
+  size: 26, 116
+  orig: 26, 116
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 437, 173
+  size: 62, 154
+  orig: 62, 154
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 807, 155
+  size: 64, 118
+  orig: 64, 118
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: true
+  xy: 986, 24
+  size: 59, 61
+  orig: 59, 61
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 807, 2
+  size: 78, 90
+  orig: 78, 90
+  offset: 0, 0
+  index: -1
+hip1
+  rotate: true
+  xy: 640, 275
+  size: 246, 270
+  orig: 246, 270
+  offset: 0, 0
+  index: -1
+hip1_1
+  rotate: true
+  xy: 133, 4
+  size: 183, 302
+  orig: 183, 302
+  offset: 0, 0
+  index: -1
+hip1_2
+  rotate: false
+  xy: 429, 237
+  size: 209, 284
+  orig: 209, 284
+  offset: 0, 0
+  index: -1
+hip2
+  rotate: false
+  xy: 640, 28
+  size: 165, 245
+  orig: 165, 245
+  offset: 0, 0
+  index: -1
+hip3
+  rotate: false
+  xy: 807, 102
+  size: 65, 51
+  orig: 67, 51
+  offset: 2, 0
+  index: -1
+l_foot_01
+  rotate: true
+  xy: 912, 318
+  size: 64, 134
+  orig: 64, 134
+  offset: 0, 0
+  index: -1
+l_foot_02
+  rotate: false
+  xy: 437, 24
+  size: 52, 147
+  orig: 52, 147
+  offset: 0, 0
+  index: -1
+l_foot_03
+  rotate: true
+  xy: 887, 8
+  size: 75, 48
+  orig: 75, 48
+  offset: 0, 0
+  index: -1
+l_hand_01
+  rotate: true
+  xy: 491, 16
+  size: 75, 119
+  orig: 75, 119
+  offset: 0, 0
+  index: -1
+l_hand_02
+  rotate: true
+  xy: 1006, 85
+  size: 78, 38
+  orig: 78, 38
+  offset: 0, 0
+  index: -1
+l_hand_03
+  rotate: false
+  xy: 593, 206
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+l_hand_04
+  rotate: true
+  xy: 901, 252
+  size: 21, 9
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+r_foot_01
+  rotate: true
+  xy: 912, 248
+  size: 68, 122
+  orig: 68, 122
+  offset: 0, 0
+  index: -1
+r_foot_02
+  rotate: true
+  xy: 491, 93
+  size: 78, 144
+  orig: 78, 144
+  offset: 0, 0
+  index: -1
+r_foot_03
+  rotate: false
+  xy: 2, 2
+  size: 53, 44
+  orig: 53, 44
+  offset: 0, 0
+  index: -1
+r_hand_01
+  rotate: true
+  xy: 901, 165
+  size: 81, 108
+  orig: 81, 108
+  offset: 0, 0
+  index: -1
+r_hand_02
+  rotate: true
+  xy: 937, 11
+  size: 72, 47
+  orig: 72, 47
+  offset: 0, 0
+  index: -1
+r_hand_03
+  rotate: false
+  xy: 57, 4
+  size: 52, 42
+  orig: 52, 42
+  offset: 0, 0
+  index: -1
+touying
+  rotate: false
+  xy: 2, 48
+  size: 129, 45
+  orig: 140, 64
+  offset: 7, 6
+  index: -1
+wuqi
+  rotate: false
+  xy: 2, 95
+  size: 129, 426
+  orig: 129, 426
+  offset: 0, 0
+  index: -1

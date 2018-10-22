@@ -1,0 +1,27 @@
+
+effect_zhuanshushenqi_bishuijian.png
+size: 1063,240
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huangtiao
+  rotate: false
+  xy: 2, 78
+  size: 410, 160
+  orig: 448, 184
+  offset: 18, 13
+  index: -1
+tu
+  rotate: true
+  xy: 739, 2
+  size: 236, 322
+  orig: 257, 339
+  offset: 10, 8
+  index: -1
+zhezhao
+  rotate: true
+  xy: 414, 2
+  size: 236, 323
+  orig: 257, 339
+  offset: 11, 7
+  index: -1

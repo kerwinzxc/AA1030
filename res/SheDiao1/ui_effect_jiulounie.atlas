@@ -1,0 +1,34 @@
+
+ui_effect_jiulounie.png
+size: 1421,744
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: true
+  xy: 2, 2
+  size: 740, 1236
+  orig: 740, 1236
+  offset: 0, 0
+  index: -1
+denglong
+  rotate: true
+  xy: 1240, 115
+  size: 208, 139
+  orig: 208, 139
+  offset: 0, 0
+  index: -1
+lianglong
+  rotate: true
+  xy: 1240, 2
+  size: 111, 145
+  orig: 132, 182
+  offset: 9, 26
+  index: -1
+pingfeng
+  rotate: true
+  xy: 1240, 325
+  size: 417, 179
+  orig: 417, 180
+  offset: 0, 0
+  index: -1

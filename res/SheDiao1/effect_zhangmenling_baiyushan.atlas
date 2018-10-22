@@ -1,0 +1,20 @@
+
+effect_zhangmenling_baiyushan.png
+size: 378,328
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+faguang
+  rotate: false
+  xy: 2, 2
+  size: 193, 324
+  orig: 326, 334
+  offset: 85, 8
+  index: -1
+tu
+  rotate: false
+  xy: 197, 23
+  size: 179, 303
+  orig: 307, 307
+  offset: 84, 4
+  index: -1

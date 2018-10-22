@@ -1,0 +1,118 @@
+
+hero_zhujiemianyg.png
+size: 474,1027
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest
+  rotate: false
+  xy: 2, 592
+  size: 153, 433
+  orig: 153, 433
+  offset: 0, 0
+  index: -1
+hair_01
+  rotate: false
+  xy: 365, 85
+  size: 45, 115
+  orig: 45, 115
+  offset: 0, 0
+  index: -1
+hair_02
+  rotate: true
+  xy: 365, 2
+  size: 81, 107
+  orig: 81, 107
+  offset: 0, 0
+  index: -1
+hair_03
+  rotate: false
+  xy: 187, 202
+  size: 243, 248
+  orig: 243, 249
+  offset: 0, 1
+  index: -1
+hip_01
+  rotate: true
+  xy: 187, 452
+  size: 263, 219
+  orig: 263, 221
+  offset: 0, 2
+  index: -1
+hip_02
+  rotate: false
+  xy: 338, 756
+  size: 118, 49
+  orig: 118, 49
+  offset: 0, 0
+  index: -1
+hip_03
+  rotate: true
+  xy: 164, 33
+  size: 167, 199
+  orig: 167, 199
+  offset: 0, 0
+  index: -1
+hip_04
+  rotate: true
+  xy: 408, 681
+  size: 73, 51
+  orig: 73, 51
+  offset: 0, 0
+  index: -1
+hip_05
+  rotate: true
+  xy: 2, 285
+  size: 305, 183
+  orig: 305, 183
+  offset: 0, 0
+  index: -1
+hip_06
+  rotate: true
+  xy: 338, 807
+  size: 218, 134
+  orig: 218, 180
+  offset: 0, 46
+  index: -1
+jian
+  rotate: false
+  xy: 2, 9
+  size: 160, 274
+  orig: 160, 274
+  offset: 0, 0
+  index: -1
+l_hand_01
+  rotate: false
+  xy: 412, 89
+  size: 59, 111
+  orig: 59, 111
+  offset: 0, 0
+  index: -1
+l_hand_02
+  rotate: false
+  xy: 157, 672
+  size: 27, 43
+  orig: 28, 43
+  offset: 0, 0
+  index: -1
+l_hand_04
+  rotate: true
+  xy: 338, 719
+  size: 35, 44
+  orig: 36, 44
+  offset: 1, 0
+  index: -1
+l_hand_06
+  rotate: false
+  xy: 164, 244
+  size: 13, 39
+  orig: 13, 39
+  offset: 0, 0
+  index: -1
+l_leg
+  rotate: false
+  xy: 157, 717
+  size: 179, 308
+  orig: 189, 308
+  offset: 10, 0
+  index: -1

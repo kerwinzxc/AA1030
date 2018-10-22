@@ -1,0 +1,111 @@
+
+effect_ui_zhandoukaishi.png
+size: 647,1048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_0001
+  rotate: false
+  xy: 2, 164
+  size: 333, 185
+  orig: 418, 211
+  offset: 79, 12
+  index: -1
+b_0003
+  rotate: true
+  xy: 337, 17
+  size: 332, 199
+  orig: 418, 211
+  offset: 78, 6
+  index: -1
+b_0005
+  rotate: false
+  xy: 2, 351
+  size: 368, 202
+  orig: 418, 211
+  offset: 22, 5
+  index: -1
+b_0007
+  rotate: false
+  xy: 2, 555
+  size: 372, 139
+  orig: 418, 211
+  offset: 4, 48
+  index: -1
+b_0009
+  rotate: false
+  xy: 2, 696
+  size: 377, 120
+  orig: 418, 211
+  offset: 2, 60
+  index: -1
+g_01
+  rotate: false
+  xy: 2, 818
+  size: 383, 96
+  orig: 396, 98
+  offset: 5, 1
+  index: -1
+g_02
+  rotate: false
+  xy: 2, 916
+  size: 473, 130
+  orig: 506, 155
+  offset: 17, 16
+  index: -1
+kaishi_add
+  rotate: true
+  xy: 538, 131
+  size: 170, 95
+  orig: 182, 101
+  offset: 6, 2
+  index: -1
+kaishi_p
+  rotate: true
+  xy: 387, 749
+  size: 165, 87
+  orig: 182, 101
+  offset: 11, 6
+  index: -1
+kang
+  rotate: false
+  xy: 2, 110
+  size: 322, 52
+  orig: 334, 64
+  offset: 6, 9
+  index: -1
+mo
+  rotate: true
+  xy: 477, 731
+  size: 315, 127
+  orig: 330, 136
+  offset: 0, 1
+  index: -1
+zhandou_add
+  rotate: true
+  xy: 486, 513
+  size: 216, 115
+  orig: 238, 130
+  offset: 11, 10
+  index: -1
+zhandou_p
+  rotate: true
+  xy: 538, 303
+  size: 208, 107
+  orig: 238, 130
+  offset: 14, 14
+  index: -1
+zizheng_mohu
+  rotate: false
+  xy: 2, 2
+  size: 318, 106
+  orig: 328, 116
+  offset: 4, 5
+  index: -1
+zizheng_qingxi
+  rotate: true
+  xy: 376, 379
+  size: 315, 108
+  orig: 328, 116
+  offset: 9, 4
+  index: -1

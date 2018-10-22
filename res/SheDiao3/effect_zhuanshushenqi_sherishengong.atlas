@@ -1,0 +1,118 @@
+
+effect_zhuanshushenqi_sherishengong.png
+size: 1750,439
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d_0001
+  rotate: false
+  xy: 911, 154
+  size: 148, 283
+  orig: 300, 300
+  offset: 60, 12
+  index: -1
+d_0003
+  rotate: false
+  xy: 450, 147
+  size: 157, 290
+  orig: 300, 300
+  offset: 51, 6
+  index: -1
+d_0005
+  rotate: false
+  xy: 1519, 157
+  size: 157, 280
+  orig: 300, 300
+  offset: 51, 10
+  index: -1
+d_0007
+  rotate: false
+  xy: 1208, 155
+  size: 155, 282
+  orig: 300, 300
+  offset: 52, 9
+  index: -1
+d_0009
+  rotate: false
+  xy: 1365, 156
+  size: 152, 281
+  orig: 300, 300
+  offset: 54, 10
+  index: -1
+d_0011
+  rotate: true
+  xy: 911, 2
+  size: 150, 281
+  orig: 300, 300
+  offset: 56, 9
+  index: -1
+d_0013
+  rotate: true
+  xy: 1194, 6
+  size: 146, 280
+  orig: 300, 300
+  offset: 58, 11
+  index: -1
+d_0015
+  rotate: true
+  xy: 584, 3
+  size: 142, 280
+  orig: 300, 300
+  offset: 61, 8
+  index: -1
+d_0017
+  rotate: true
+  xy: 299, 2
+  size: 142, 283
+  orig: 300, 300
+  offset: 62, 6
+  index: -1
+d_0019
+  rotate: false
+  xy: 1061, 154
+  size: 145, 283
+  orig: 300, 300
+  offset: 61, 6
+  index: -1
+d_0021
+  rotate: false
+  xy: 2, 139
+  size: 146, 298
+  orig: 300, 300
+  offset: 60, 2
+  index: -1
+d_0023
+  rotate: false
+  xy: 150, 142
+  size: 147, 295
+  orig: 300, 300
+  offset: 60, 5
+  index: -1
+d_0025
+  rotate: false
+  xy: 299, 146
+  size: 149, 291
+  orig: 300, 300
+  offset: 59, 5
+  index: -1
+d_0027
+  rotate: false
+  xy: 760, 148
+  size: 149, 289
+  orig: 300, 300
+  offset: 59, 5
+  index: -1
+d_0029
+  rotate: false
+  xy: 609, 147
+  size: 149, 290
+  orig: 300, 300
+  offset: 59, 5
+  index: -1
+gong
+  rotate: true
+  xy: 1476, 10
+  size: 144, 272
+  orig: 300, 300
+  offset: 70, 18
+  index: -1

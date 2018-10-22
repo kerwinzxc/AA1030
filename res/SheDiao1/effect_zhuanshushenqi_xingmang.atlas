@@ -1,0 +1,27 @@
+
+effect_zhuanshushenqi_xingmang.png
+size: 670,286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gy
+  rotate: false
+  xy: 466, 6
+  size: 202, 278
+  orig: 222, 280
+  offset: 20, 0
+  index: -1
+lantiao
+  rotate: false
+  xy: 2, 2
+  size: 238, 282
+  orig: 245, 282
+  offset: 3, 0
+  index: -1
+tu
+  rotate: false
+  xy: 242, 4
+  size: 222, 280
+  orig: 222, 280
+  offset: 0, 0
+  index: -1

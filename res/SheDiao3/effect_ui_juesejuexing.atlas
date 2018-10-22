@@ -1,0 +1,139 @@
+
+effect_ui_juesejuexing.png
+size: 718,1031
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 34
+  size: 120, 35
+  orig: 120, 35
+  offset: 0, 0
+  index: -1
+rao0003
+  rotate: true
+  xy: 463, 187
+  size: 186, 207
+  orig: 230, 340
+  offset: 22, 9
+  index: -1
+rao0004
+  rotate: false
+  xy: 518, 572
+  size: 192, 249
+  orig: 230, 340
+  offset: 21, 0
+  index: -1
+rao0005
+  rotate: true
+  xy: 2, 451
+  size: 193, 239
+  orig: 230, 340
+  offset: 21, 8
+  index: -1
+rao0006
+  rotate: true
+  xy: 243, 418
+  size: 193, 238
+  orig: 230, 340
+  offset: 21, 8
+  index: -1
+rao0007
+  rotate: true
+  xy: 483, 375
+  size: 195, 233
+  orig: 230, 340
+  offset: 19, 3
+  index: -1
+rao0008
+  rotate: true
+  xy: 2, 256
+  size: 193, 233
+  orig: 230, 340
+  offset: 21, 8
+  index: -1
+rao0009
+  rotate: true
+  xy: 237, 223
+  size: 193, 224
+  orig: 230, 340
+  offset: 21, 9
+  index: -1
+rao0010
+  rotate: true
+  xy: 374, 823
+  size: 206, 260
+  orig: 230, 340
+  offset: 8, 8
+  index: -1
+rao0011
+  rotate: true
+  xy: 2, 646
+  size: 212, 257
+  orig: 230, 340
+  offset: 2, 9
+  index: -1
+rao0012
+  rotate: true
+  xy: 261, 613
+  size: 208, 255
+  orig: 230, 340
+  offset: 6, 10
+  index: -1
+rao0013
+  rotate: true
+  xy: 203, 26
+  size: 195, 198
+  orig: 230, 340
+  offset: 11, 19
+  index: -1
+rao0014
+  rotate: true
+  xy: 403, 5
+  size: 180, 189
+  orig: 230, 340
+  offset: 32, 23
+  index: -1
+rao0015
+  rotate: true
+  xy: 2, 71
+  size: 183, 199
+  orig: 230, 340
+  offset: 32, 23
+  index: -1
+rao0016
+  rotate: true
+  xy: 594, 2
+  size: 183, 106
+  orig: 230, 340
+  offset: 33, 53
+  index: -1
+rao0017
+  rotate: true
+  xy: 636, 878
+  size: 151, 60
+  orig: 230, 340
+  offset: 39, 60
+  index: -1
+rao0018
+  rotate: true
+  xy: 672, 226
+  size: 147, 36
+  orig: 230, 340
+  offset: 45, 87
+  index: -1
+rao0019
+  rotate: false
+  xy: 698, 1017
+  size: 12, 12
+  orig: 230, 340
+  offset: 119, 108
+  index: -1
+zhu
+  rotate: true
+  xy: 2, 860
+  size: 169, 370
+  orig: 180, 396
+  offset: 6, 3
+  index: -1

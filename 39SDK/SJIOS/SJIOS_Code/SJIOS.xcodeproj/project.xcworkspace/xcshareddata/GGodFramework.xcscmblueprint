@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "a0a4e526-3f04-e944-8c11-5c29efe8818e",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "a0a4e526-3f04-e944-8c11-5c29efe8818e" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "a0a4e526-3f04-e944-8c11-5c29efe8818e" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2FF011B4-D4D7-4E1C-8F58-39044F94DAEC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "a0a4e526-3f04-e944-8c11-5c29efe8818e" : "sdk\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GGodFramework",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "IOSV0.4\/nopay\/GGodFrameworkLoginNO39\/GGodFramework.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/svn_nei.yeahgame.com.cn\/svn\/sdk",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "a0a4e526-3f04-e944-8c11-5c29efe8818e"
+    }
+  ]
+}

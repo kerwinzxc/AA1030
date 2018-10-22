@@ -1,0 +1,350 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		FAB80DB821607693006889A4 /* TwoGharge.m in Sources */ = {isa = PBXBuildFile; fileRef = FAB80D9F21607692006889A4 /* TwoGharge.m */; };
+		FAB80DB921607693006889A4 /* GhargeReachability.m in Sources */ = {isa = PBXBuildFile; fileRef = FAB80DA021607692006889A4 /* GhargeReachability.m */; };
+		FAB80DBA21607693006889A4 /* GhargeNoticeView.m in Sources */ = {isa = PBXBuildFile; fileRef = FAB80DA521607692006889A4 /* GhargeNoticeView.m */; };
+		FAB80DBB21607693006889A4 /* startGhargeIapProcess.m in Sources */ = {isa = PBXBuildFile; fileRef = FAB80DA621607692006889A4 /* startGhargeIapProcess.m */; };
+		FAB80DBC21607693006889A4 /* GhargeBranch.mm in Sources */ = {isa = PBXBuildFile; fileRef = FAB80DA721607692006889A4 /* GhargeBranch.mm */; };
+		FAB80DBD21607693006889A4 /* Gharge.m in Sources */ = {isa = PBXBuildFile; fileRef = FAB80DAA21607693006889A4 /* Gharge.m */; };
+		FAB80DBE21607693006889A4 /* TreeGharge.m in Sources */ = {isa = PBXBuildFile; fileRef = FAB80DAD21607693006889A4 /* TreeGharge.m */; };
+		FAB80DBF21607693006889A4 /* GhargeProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = FAB80DAE21607693006889A4 /* GhargeProgressHUD.m */; };
+		FAB80DC021607693006889A4 /* GhargeUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = FAB80DAF21607693006889A4 /* GhargeUtils.m */; };
+		FAB80DC121607693006889A4 /* OneGharge.m in Sources */ = {isa = PBXBuildFile; fileRef = FAB80DB121607693006889A4 /* OneGharge.m */; };
+		FAB80DC221607693006889A4 /* FourGharge.m in Sources */ = {isa = PBXBuildFile; fileRef = FAB80DB521607693006889A4 /* FourGharge.m */; };
+		FAB80DC321607693006889A4 /* FiveGharge.m in Sources */ = {isa = PBXBuildFile; fileRef = FAB80DB621607693006889A4 /* FiveGharge.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		852CB0F51FE0E58A00F25062 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "include/$(PRODUCT_NAME)";
+			dstSubfolderSpec = 16;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		852CB0F71FE0E58A00F25062 /* libGharge.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libGharge.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		FAB80D9F21607692006889A4 /* TwoGharge.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TwoGharge.m; sourceTree = "<group>"; };
+		FAB80DA021607692006889A4 /* GhargeReachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GhargeReachability.m; sourceTree = "<group>"; };
+		FAB80DA121607692006889A4 /* TwoGharge.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TwoGharge.h; sourceTree = "<group>"; };
+		FAB80DA221607692006889A4 /* GhargeBranch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GhargeBranch.h; sourceTree = "<group>"; };
+		FAB80DA321607692006889A4 /* GhargeBranchDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GhargeBranchDelegate.h; sourceTree = "<group>"; };
+		FAB80DA421607692006889A4 /* OneGharge.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OneGharge.h; sourceTree = "<group>"; };
+		FAB80DA521607692006889A4 /* GhargeNoticeView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GhargeNoticeView.m; sourceTree = "<group>"; };
+		FAB80DA621607692006889A4 /* startGhargeIapProcess.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = startGhargeIapProcess.m; sourceTree = "<group>"; };
+		FAB80DA721607692006889A4 /* GhargeBranch.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = GhargeBranch.mm; sourceTree = "<group>"; };
+		FAB80DA821607692006889A4 /* startGhargeIapProcess.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = startGhargeIapProcess.h; sourceTree = "<group>"; };
+		FAB80DA921607692006889A4 /* GhargeUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GhargeUtils.h; sourceTree = "<group>"; };
+		FAB80DAA21607693006889A4 /* Gharge.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Gharge.m; sourceTree = "<group>"; };
+		FAB80DAB21607693006889A4 /* Gharge.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Gharge.h; sourceTree = "<group>"; };
+		FAB80DAC21607693006889A4 /* GhargeNoticeView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GhargeNoticeView.h; sourceTree = "<group>"; };
+		FAB80DAD21607693006889A4 /* TreeGharge.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TreeGharge.m; sourceTree = "<group>"; };
+		FAB80DAE21607693006889A4 /* GhargeProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GhargeProgressHUD.m; sourceTree = "<group>"; };
+		FAB80DAF21607693006889A4 /* GhargeUtils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GhargeUtils.m; sourceTree = "<group>"; };
+		FAB80DB021607693006889A4 /* TreeGharge.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TreeGharge.h; sourceTree = "<group>"; };
+		FAB80DB121607693006889A4 /* OneGharge.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OneGharge.m; sourceTree = "<group>"; };
+		FAB80DB221607693006889A4 /* GhargeProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GhargeProgressHUD.h; sourceTree = "<group>"; };
+		FAB80DB321607693006889A4 /* FiveGharge.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FiveGharge.h; sourceTree = "<group>"; };
+		FAB80DB421607693006889A4 /* GhargeReachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GhargeReachability.h; sourceTree = "<group>"; };
+		FAB80DB521607693006889A4 /* FourGharge.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FourGharge.m; sourceTree = "<group>"; };
+		FAB80DB621607693006889A4 /* FiveGharge.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FiveGharge.m; sourceTree = "<group>"; };
+		FAB80DB721607693006889A4 /* FourGharge.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FourGharge.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		852CB0F41FE0E58A00F25062 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		852CB0EE1FE0E58A00F25062 = {
+			isa = PBXGroup;
+			children = (
+				852CB0F91FE0E58A00F25062 /* Gharge */,
+				852CB0F81FE0E58A00F25062 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		852CB0F81FE0E58A00F25062 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				852CB0F71FE0E58A00F25062 /* libGharge.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		852CB0F91FE0E58A00F25062 /* Gharge */ = {
+			isa = PBXGroup;
+			children = (
+				FAB80DB321607693006889A4 /* FiveGharge.h */,
+				FAB80DB621607693006889A4 /* FiveGharge.m */,
+				FAB80DB721607693006889A4 /* FourGharge.h */,
+				FAB80DB521607693006889A4 /* FourGharge.m */,
+				FAB80DA421607692006889A4 /* OneGharge.h */,
+				FAB80DB121607693006889A4 /* OneGharge.m */,
+				FAB80DAB21607693006889A4 /* Gharge.h */,
+				FAB80DAA21607693006889A4 /* Gharge.m */,
+				FAB80DA221607692006889A4 /* GhargeBranch.h */,
+				FAB80DA721607692006889A4 /* GhargeBranch.mm */,
+				FAB80DA321607692006889A4 /* GhargeBranchDelegate.h */,
+				FAB80DAC21607693006889A4 /* GhargeNoticeView.h */,
+				FAB80DA521607692006889A4 /* GhargeNoticeView.m */,
+				FAB80DB221607693006889A4 /* GhargeProgressHUD.h */,
+				FAB80DAE21607693006889A4 /* GhargeProgressHUD.m */,
+				FAB80DB421607693006889A4 /* GhargeReachability.h */,
+				FAB80DA021607692006889A4 /* GhargeReachability.m */,
+				FAB80DA921607692006889A4 /* GhargeUtils.h */,
+				FAB80DAF21607693006889A4 /* GhargeUtils.m */,
+				FAB80DA821607692006889A4 /* startGhargeIapProcess.h */,
+				FAB80DA621607692006889A4 /* startGhargeIapProcess.m */,
+				FAB80DB021607693006889A4 /* TreeGharge.h */,
+				FAB80DAD21607693006889A4 /* TreeGharge.m */,
+				FAB80DA121607692006889A4 /* TwoGharge.h */,
+				FAB80D9F21607692006889A4 /* TwoGharge.m */,
+			);
+			path = Gharge;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		852CB0F61FE0E58A00F25062 /* Gharge */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 852CB1001FE0E58A00F25062 /* Build configuration list for PBXNativeTarget "Gharge" */;
+			buildPhases = (
+				852CB0F31FE0E58A00F25062 /* Sources */,
+				852CB0F41FE0E58A00F25062 /* Frameworks */,
+				852CB0F51FE0E58A00F25062 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Gharge;
+			productName = AppleSdk;
+			productReference = 852CB0F71FE0E58A00F25062 /* libGharge.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		852CB0EF1FE0E58A00F25062 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0910;
+				ORGANIZATIONNAME = xd;
+				TargetAttributes = {
+					852CB0F61FE0E58A00F25062 = {
+						CreatedOnToolsVersion = 9.1;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 852CB0F21FE0E58A00F25062 /* Build configuration list for PBXProject "Gharge" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 852CB0EE1FE0E58A00F25062;
+			productRefGroup = 852CB0F81FE0E58A00F25062 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				852CB0F61FE0E58A00F25062 /* Gharge */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		852CB0F31FE0E58A00F25062 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FAB80DBC21607693006889A4 /* GhargeBranch.mm in Sources */,
+				FAB80DC221607693006889A4 /* FourGharge.m in Sources */,
+				FAB80DC321607693006889A4 /* FiveGharge.m in Sources */,
+				FAB80DBF21607693006889A4 /* GhargeProgressHUD.m in Sources */,
+				FAB80DB821607693006889A4 /* TwoGharge.m in Sources */,
+				FAB80DBE21607693006889A4 /* TreeGharge.m in Sources */,
+				FAB80DBD21607693006889A4 /* Gharge.m in Sources */,
+				FAB80DB921607693006889A4 /* GhargeReachability.m in Sources */,
+				FAB80DBB21607693006889A4 /* startGhargeIapProcess.m in Sources */,
+				FAB80DC121607693006889A4 /* OneGharge.m in Sources */,
+				FAB80DC021607693006889A4 /* GhargeUtils.m in Sources */,
+				FAB80DBA21607693006889A4 /* GhargeNoticeView.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		852CB0FE1FE0E58A00F25062 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		852CB0FF1FE0E58A00F25062 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		852CB1011FE0E58A00F25062 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				ONLY_ACTIVE_ARCH = NO;
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = Gharge;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		852CB1021FE0E58A00F25062 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = Gharge;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		852CB0F21FE0E58A00F25062 /* Build configuration list for PBXProject "Gharge" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				852CB0FE1FE0E58A00F25062 /* Debug */,
+				852CB0FF1FE0E58A00F25062 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		852CB1001FE0E58A00F25062 /* Build configuration list for PBXNativeTarget "Gharge" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				852CB1011FE0E58A00F25062 /* Debug */,
+				852CB1021FE0E58A00F25062 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 852CB0EF1FE0E58A00F25062 /* Project object */;
+}

@@ -1,0 +1,62 @@
+
+effect_yangguo_nuji.png
+size: 412,254
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zi
+  rotate: true
+  xy: 2, 188
+  size: 64, 204
+  orig: 64, 204
+  offset: 0, 0
+  index: -1
+zi_di_04
+  rotate: true
+  xy: 208, 192
+  size: 60, 202
+  orig: 61, 210
+  offset: 1, 0
+  index: -1
+zi_di_05
+  rotate: true
+  xy: 208, 130
+  size: 60, 202
+  orig: 61, 210
+  offset: 1, 0
+  index: -1
+zi_di_06
+  rotate: true
+  xy: 2, 126
+  size: 60, 202
+  orig: 61, 210
+  offset: 1, 0
+  index: -1
+zi_di_07
+  rotate: true
+  xy: 206, 68
+  size: 60, 202
+  orig: 61, 210
+  offset: 1, 0
+  index: -1
+zi_di_08
+  rotate: true
+  xy: 2, 64
+  size: 60, 202
+  orig: 61, 210
+  offset: 1, 0
+  index: -1
+zi_di_09
+  rotate: true
+  xy: 206, 6
+  size: 60, 202
+  orig: 61, 210
+  offset: 1, 0
+  index: -1
+zi_di_10
+  rotate: true
+  xy: 2, 2
+  size: 60, 202
+  orig: 61, 210
+  offset: 1, 0
+  index: -1

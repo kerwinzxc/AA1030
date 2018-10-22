@@ -1,0 +1,27 @@
+
+effect_zhangmenling_wushuanggong.png
+size: 912,170
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tu
+  rotate: true
+  xy: 414, 2
+  size: 166, 247
+  orig: 166, 247
+  offset: 0, 0
+  index: -1
+z
+  rotate: true
+  xy: 663, 2
+  size: 166, 247
+  orig: 166, 247
+  offset: 0, 0
+  index: -1
+zitiao
+  rotate: false
+  xy: 2, 8
+  size: 410, 160
+  orig: 448, 184
+  offset: 18, 13
+  index: -1

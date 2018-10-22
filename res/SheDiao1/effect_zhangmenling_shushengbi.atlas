@@ -1,0 +1,27 @@
+
+effect_zhangmenling_shushengbi.png
+size: 414,377
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lantiao
+  rotate: false
+  xy: 2, 215
+  size: 410, 160
+  orig: 448, 184
+  offset: 18, 13
+  index: -1
+shushengbi
+  rotate: false
+  xy: 206, 44
+  size: 149, 169
+  orig: 202, 211
+  offset: 53, 42
+  index: -1
+tu
+  rotate: false
+  xy: 2, 2
+  size: 202, 211
+  orig: 202, 211
+  offset: 0, 0
+  index: -1

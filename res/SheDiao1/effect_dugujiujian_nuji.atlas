@@ -1,0 +1,27 @@
+
+effect_dugujiujian_nuji.png
+size: 663,234
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di_1
+  rotate: false
+  xy: 348, 33
+  size: 313, 199
+  orig: 314, 199
+  offset: 0, 0
+  index: -1
+di_2
+  rotate: false
+  xy: 2, 2
+  size: 344, 230
+  orig: 354, 321
+  offset: 6, 46
+  index: -1
+di_xian
+  rotate: false
+  xy: 348, 7
+  size: 196, 24
+  orig: 196, 24
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+effect_lihui_hongqigong.png
+size: 2006,680
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hongqigong
+  rotate: false
+  xy: 2, 2
+  size: 600, 676
+  orig: 600, 682
+  offset: 0, 6
+  index: -1
+zhaomuliudong_00000
+  rotate: true
+  xy: 1297, 362
+  size: 316, 184
+  orig: 347, 213
+  offset: 4, 6
+  index: -1
+zhaomuliudong_00001
+  rotate: true
+  xy: 1483, 363
+  size: 315, 169
+  orig: 347, 213
+  offset: 5, 22
+  index: -1
+zhaomuliudong_00002
+  rotate: true
+  xy: 950, 361
+  size: 317, 173
+  orig: 347, 213
+  offset: 4, 19
+  index: -1
+zhaomuliudong_00003
+  rotate: true
+  xy: 1654, 364
+  size: 314, 176
+  orig: 347, 213
+  offset: 7, 18
+  index: -1
+zhaomuliudong_00004
+  rotate: true
+  xy: 1304, 44
+  size: 316, 176
+  orig: 347, 213
+  offset: 5, 19
+  index: -1
+zhaomuliudong_00005
+  rotate: true
+  xy: 1124, 42
+  size: 317, 178
+  orig: 347, 213
+  offset: 3, 17
+  index: -1
+zhaomuliudong_00006
+  rotate: true
+  xy: 604, 358
+  size: 320, 175
+  orig: 347, 213
+  offset: 0, 18
+  index: -1
+zhaomuliudong_00007
+  rotate: true
+  xy: 604, 38
+  size: 318, 171
+  orig: 347, 213
+  offset: 2, 18
+  index: -1
+zhaomuliudong_00008
+  rotate: true
+  xy: 1482, 44
+  size: 316, 175
+  orig: 347, 213
+  offset: 5, 16
+  index: -1
+zhaomuliudong_00009
+  rotate: true
+  xy: 777, 38
+  size: 318, 170
+  orig: 347, 213
+  offset: 3, 24
+  index: -1
+zhaomuliudong_00010
+  rotate: true
+  xy: 1125, 361
+  size: 317, 170
+  orig: 347, 213
+  offset: 4, 25
+  index: -1
+zhaomuliudong_00011
+  rotate: true
+  xy: 1832, 364
+  size: 314, 172
+  orig: 347, 213
+  offset: 6, 22
+  index: -1
+zhaomuliudong_00012
+  rotate: false
+  xy: 1659, 185
+  size: 311, 177
+  orig: 347, 213
+  offset: 6, 13
+  index: -1
+zhaomuliudong_00013
+  rotate: false
+  xy: 1659, 15
+  size: 310, 168
+  orig: 347, 213
+  offset: 7, 22
+  index: -1
+zhaomuliudong_00014
+  rotate: true
+  xy: 781, 360
+  size: 318, 167
+  orig: 347, 213
+  offset: 0, 24
+  index: -1
+zhaomuliudong_00015
+  rotate: true
+  xy: 949, 40
+  size: 318, 173
+  orig: 347, 213
+  offset: 0, 20
+  index: -1

@@ -1,0 +1,139 @@
+
+effect_ui_chuchangyanchen.png
+size: 438,280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pugong_yan_0001
+  rotate: true
+  xy: 90, 9
+  size: 30, 27
+  orig: 108, 80
+  offset: 72, 2
+  index: -1
+pugong_yan_0002
+  rotate: false
+  xy: 306, 146
+  size: 43, 52
+  orig: 108, 80
+  offset: 59, 2
+  index: -1
+pugong_yan_0003
+  rotate: true
+  xy: 362, 27
+  size: 52, 65
+  orig: 108, 80
+  offset: 50, 2
+  index: -1
+pugong_yan_0004
+  rotate: false
+  xy: 215, 128
+  size: 89, 70
+  orig: 108, 80
+  offset: 16, 1
+  index: -1
+pugong_yan_0005
+  rotate: false
+  xy: 121, 129
+  size: 92, 72
+  orig: 108, 80
+  offset: 11, 2
+  index: -1
+pugong_yan_0006
+  rotate: false
+  xy: 120, 52
+  size: 86, 75
+  orig: 108, 80
+  offset: 8, 2
+  index: -1
+pugong_yan_0007
+  rotate: true
+  xy: 362, 81
+  size: 83, 74
+  orig: 108, 80
+  offset: 3, 5
+  index: -1
+pugong_yan_0008
+  rotate: true
+  xy: 295, 42
+  size: 84, 65
+  orig: 108, 80
+  offset: 2, 14
+  index: -1
+pugong_yan_0009
+  rotate: false
+  xy: 208, 62
+  size: 85, 64
+  orig: 108, 80
+  offset: 1, 15
+  index: -1
+pugong_yan_0010
+  rotate: false
+  xy: 208, 2
+  size: 85, 58
+  orig: 108, 80
+  offset: 1, 21
+  index: -1
+pugong_yan_0011
+  rotate: false
+  xy: 295, 2
+  size: 50, 38
+  orig: 108, 80
+  offset: 1, 22
+  index: -1
+pugong_yan_0012
+  rotate: false
+  xy: 2, 9
+  size: 42, 30
+  orig: 108, 80
+  offset: 1, 30
+  index: -1
+pugong_yan_0013
+  rotate: false
+  xy: 46, 9
+  size: 42, 30
+  orig: 108, 80
+  offset: 1, 30
+  index: -1
+yan1_0001
+  rotate: false
+  xy: 121, 203
+  size: 115, 75
+  orig: 120, 84
+  offset: 4, 4
+  index: -1
+yan1_0002
+  rotate: false
+  xy: 2, 202
+  size: 117, 76
+  orig: 120, 84
+  offset: 3, 3
+  index: -1
+yan1_0003
+  rotate: true
+  xy: 354, 166
+  size: 112, 77
+  orig: 120, 84
+  offset: 4, 3
+  index: -1
+yan1_0004
+  rotate: false
+  xy: 238, 200
+  size: 114, 78
+  orig: 120, 84
+  offset: 3, 3
+  index: -1
+yan1_0005
+  rotate: false
+  xy: 2, 41
+  size: 115, 78
+  orig: 120, 84
+  offset: 2, 3
+  index: -1
+yan1_0006
+  rotate: false
+  xy: 2, 121
+  size: 116, 79
+  orig: 120, 84
+  offset: 2, 2
+  index: -1

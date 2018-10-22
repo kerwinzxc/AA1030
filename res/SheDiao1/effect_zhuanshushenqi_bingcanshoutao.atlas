@@ -1,0 +1,20 @@
+
+effect_zhuanshushenqi_bingcanshoutao.png
+size: 331,162
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liang
+  rotate: false
+  xy: 228, 39
+  size: 101, 121
+  orig: 220, 274
+  offset: 55, 87
+  index: -1
+shoutao
+  rotate: true
+  xy: 2, 2
+  size: 158, 224
+  orig: 220, 274
+  offset: 35, 20
+  index: -1

@@ -1,0 +1,76 @@
+
+effect_ui_xingxingchuxian.png
+size: 376,154
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangxian
+  rotate: false
+  xy: 2, 80
+  size: 240, 72
+  orig: 240, 72
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: false
+  xy: 344, 45
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+huoxinz0002
+  rotate: false
+  xy: 326, 115
+  size: 35, 37
+  orig: 119, 119
+  offset: 30, 23
+  index: -1
+huoxinz0003
+  rotate: true
+  xy: 291, 17
+  size: 53, 51
+  orig: 119, 119
+  offset: 26, 24
+  index: -1
+huoxinz0004
+  rotate: false
+  xy: 156, 11
+  size: 69, 67
+  orig: 119, 119
+  offset: 26, 22
+  index: -1
+huoxinz0005
+  rotate: false
+  xy: 81, 7
+  size: 73, 71
+  orig: 119, 119
+  offset: 25, 21
+  index: -1
+huoxinz0006
+  rotate: false
+  xy: 2, 2
+  size: 77, 76
+  orig: 119, 119
+  offset: 25, 19
+  index: -1
+huoxinz0007
+  rotate: false
+  xy: 244, 72
+  size: 80, 80
+  orig: 119, 119
+  offset: 24, 18
+  index: -1
+x_shan
+  rotate: false
+  xy: 227, 11
+  size: 62, 59
+  orig: 62, 59
+  offset: 0, 0
+  index: -1
+xing
+  rotate: true
+  xy: 326, 77
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1

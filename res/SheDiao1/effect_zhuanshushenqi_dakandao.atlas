@@ -1,0 +1,27 @@
+
+effect_zhuanshushenqi_dakandao.png
+size: 526,387
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lantiao
+  rotate: false
+  xy: 2, 225
+  size: 410, 160
+  orig: 448, 184
+  offset: 18, 13
+  index: -1
+tu
+  rotate: true
+  xy: 2, 2
+  size: 221, 260
+  orig: 222, 260
+  offset: 1, 0
+  index: -1
+zz
+  rotate: true
+  xy: 264, 2
+  size: 221, 260
+  orig: 222, 260
+  offset: 1, 0
+  index: -1

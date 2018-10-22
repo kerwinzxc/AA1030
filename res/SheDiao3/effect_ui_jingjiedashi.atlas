@@ -1,0 +1,181 @@
+
+effect_ui_jingjiedashi.png
+size: 680,1029
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GGG_0001
+  rotate: false
+  xy: 630, 537
+  size: 48, 48
+  orig: 240, 240
+  offset: 94, 92
+  index: -1
+GGG_0003
+  rotate: false
+  xy: 596, 431
+  size: 65, 66
+  orig: 240, 240
+  offset: 86, 82
+  index: -1
+GGG_0005
+  rotate: true
+  xy: 387, 116
+  size: 109, 120
+  orig: 240, 240
+  offset: 70, 53
+  index: -1
+GGG_0007
+  rotate: true
+  xy: 213, 50
+  size: 155, 169
+  orig: 240, 240
+  offset: 50, 30
+  index: -1
+GGG_0009
+  rotate: false
+  xy: 426, 399
+  size: 168, 186
+  orig: 240, 240
+  offset: 43, 22
+  index: -1
+GGG_0011
+  rotate: false
+  xy: 480, 812
+  size: 194, 215
+  orig: 240, 240
+  offset: 29, 9
+  index: -1
+GGG_0013
+  rotate: false
+  xy: 2, 118
+  size: 209, 235
+  orig: 240, 240
+  offset: 18, 3
+  index: -1
+GGG_0015
+  rotate: false
+  xy: 2, 594
+  size: 207, 238
+  orig: 240, 240
+  offset: 16, 0
+  index: -1
+GGG_0017
+  rotate: true
+  xy: 243, 810
+  size: 217, 235
+  orig: 240, 240
+  offset: 9, 0
+  index: -1
+GGG_0019
+  rotate: false
+  xy: 211, 597
+  size: 231, 211
+  orig: 240, 240
+  offset: 4, 2
+  index: -1
+GGG_0021
+  rotate: true
+  xy: 2, 355
+  size: 237, 205
+  orig: 240, 240
+  offset: 1, 3
+  index: -1
+GGG_0023
+  rotate: false
+  xy: 2, 834
+  size: 239, 193
+  orig: 240, 240
+  offset: 1, 25
+  index: -1
+GGG_0025
+  rotate: true
+  xy: 444, 587
+  size: 221, 208
+  orig: 240, 240
+  offset: 14, 17
+  index: -1
+GGG_0027
+  rotate: true
+  xy: 211, 392
+  size: 203, 213
+  orig: 240, 240
+  offset: 22, 14
+  index: -1
+GGG_0029
+  rotate: false
+  xy: 213, 207
+  size: 172, 183
+  orig: 240, 240
+  offset: 34, 10
+  index: -1
+GGG_0031
+  rotate: true
+  xy: 549, 273
+  size: 124, 110
+  orig: 240, 240
+  offset: 50, 81
+  index: -1
+GGG_0033
+  rotate: false
+  xy: 2, 2
+  size: 131, 114
+  orig: 240, 240
+  offset: 44, 85
+  index: -1
+GGG_0035
+  rotate: false
+  xy: 549, 162
+  size: 122, 109
+  orig: 240, 240
+  offset: 49, 86
+  index: -1
+GGG_0037
+  rotate: true
+  xy: 384, 11
+  size: 103, 106
+  orig: 240, 240
+  offset: 52, 94
+  index: -1
+GGG_0039
+  rotate: false
+  xy: 492, 14
+  size: 96, 100
+  orig: 240, 240
+  offset: 53, 100
+  index: -1
+GGG_0041
+  rotate: true
+  xy: 135, 23
+  size: 93, 32
+  orig: 240, 240
+  offset: 55, 110
+  index: -1
+GGG_0043
+  rotate: true
+  xy: 509, 144
+  size: 81, 30
+  orig: 240, 240
+  offset: 63, 120
+  index: -1
+GGG_0045
+  rotate: true
+  xy: 596, 499
+  size: 86, 32
+  orig: 240, 240
+  offset: 62, 122
+  index: -1
+GGG_0047
+  rotate: false
+  xy: 211, 821
+  size: 10, 11
+  orig: 240, 240
+  offset: 73, 122
+  index: -1
+guangyun
+  rotate: false
+  xy: 387, 227
+  size: 160, 163
+  orig: 240, 240
+  offset: 40, 43
+  index: -1

@@ -1,0 +1,118 @@
+
+effect_ui_hetiji.png
+size: 1542,100
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 1505, 61
+  size: 35, 37
+  orig: 42, 42
+  offset: 4, 2
+  index: -1
+xh_0001
+  rotate: true
+  xy: 2, 10
+  size: 88, 103
+  orig: 99, 103
+  offset: 8, 0
+  index: -1
+xh_0003
+  rotate: true
+  xy: 107, 7
+  size: 91, 103
+  orig: 99, 103
+  offset: 6, 0
+  index: -1
+xh_0005
+  rotate: true
+  xy: 212, 6
+  size: 92, 102
+  orig: 99, 103
+  offset: 6, 1
+  index: -1
+xh_0007
+  rotate: true
+  xy: 316, 6
+  size: 92, 101
+  orig: 99, 103
+  offset: 6, 2
+  index: -1
+xh_0009
+  rotate: true
+  xy: 419, 5
+  size: 93, 98
+  orig: 99, 103
+  offset: 5, 5
+  index: -1
+xh_0011
+  rotate: true
+  xy: 619, 6
+  size: 92, 97
+  orig: 99, 103
+  offset: 5, 6
+  index: -1
+xh_0013
+  rotate: true
+  xy: 1213, 7
+  size: 91, 96
+  orig: 99, 103
+  offset: 4, 7
+  index: -1
+xh_0015
+  rotate: true
+  xy: 1311, 7
+  size: 91, 95
+  orig: 99, 103
+  offset: 3, 8
+  index: -1
+xh_0017
+  rotate: true
+  xy: 1408, 4
+  size: 94, 95
+  orig: 99, 103
+  offset: 1, 7
+  index: -1
+xh_0019
+  rotate: true
+  xy: 718, 3
+  size: 95, 97
+  orig: 99, 103
+  offset: 1, 6
+  index: -1
+xh_0021
+  rotate: true
+  xy: 817, 3
+  size: 95, 97
+  orig: 99, 103
+  offset: 1, 6
+  index: -1
+xh_0023
+  rotate: true
+  xy: 916, 2
+  size: 96, 97
+  orig: 99, 103
+  offset: 1, 6
+  index: -1
+xh_0025
+  rotate: true
+  xy: 1015, 3
+  size: 95, 97
+  orig: 99, 103
+  offset: 1, 6
+  index: -1
+xh_0027
+  rotate: true
+  xy: 1114, 4
+  size: 94, 97
+  orig: 99, 103
+  offset: 2, 6
+  index: -1
+xh_0029
+  rotate: true
+  xy: 519, 5
+  size: 93, 98
+  orig: 99, 103
+  offset: 2, 5
+  index: -1

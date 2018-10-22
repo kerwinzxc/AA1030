@@ -1,0 +1,216 @@
+
+effect_ui_kaifuhuodong.png
+size: 607,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+saoguang0001
+  rotate: false
+  xy: 131, 3
+  size: 25, 25
+  orig: 60, 60
+  offset: 23, 5
+  index: -1
+saoguang0002
+  rotate: false
+  xy: 171, 6
+  size: 22, 22
+  orig: 60, 60
+  offset: 25, 7
+  index: -1
+saoguang0003
+  rotate: true
+  xy: 264, 42
+  size: 34, 43
+  orig: 60, 60
+  offset: 13, 8
+  index: -1
+saoguang0004
+  rotate: true
+  xy: 217, 2
+  size: 36, 44
+  orig: 60, 60
+  offset: 11, 10
+  index: -1
+saoguang0005
+  rotate: false
+  xy: 174, 31
+  size: 41, 45
+  orig: 60, 60
+  offset: 7, 12
+  index: -1
+saoguang0006
+  rotate: false
+  xy: 398, 2
+  size: 39, 31
+  orig: 60, 60
+  offset: 9, 25
+  index: -1
+saoguang0007
+  rotate: false
+  xy: 306, 3
+  size: 36, 28
+  orig: 60, 60
+  offset: 11, 26
+  index: -1
+saoguang0008
+  rotate: false
+  xy: 90, 29
+  size: 38, 47
+  orig: 60, 60
+  offset: 9, 6
+  index: -1
+saoguang0009
+  rotate: false
+  xy: 47, 28
+  size: 41, 48
+  orig: 60, 60
+  offset: 6, 3
+  index: -1
+saoguang0010
+  rotate: false
+  xy: 2, 27
+  size: 43, 49
+  orig: 60, 60
+  offset: 3, 0
+  index: -1
+saoguang0011
+  rotate: false
+  xy: 130, 30
+  size: 42, 46
+  orig: 60, 60
+  offset: 4, 1
+  index: -1
+saoguang0012
+  rotate: false
+  xy: 309, 33
+  size: 43, 43
+  orig: 60, 60
+  offset: 6, 3
+  index: -1
+saoguang0013
+  rotate: false
+  xy: 354, 35
+  size: 43, 41
+  orig: 60, 60
+  offset: 8, 4
+  index: -1
+saoguang0014
+  rotate: false
+  xy: 217, 40
+  size: 45, 36
+  orig: 60, 60
+  offset: 9, 6
+  index: -1
+saoguang0015
+  rotate: false
+  xy: 354, 2
+  size: 42, 31
+  orig: 60, 60
+  offset: 12, 8
+  index: -1
+saoguang0016
+  rotate: false
+  xy: 42, 2
+  size: 36, 23
+  orig: 60, 60
+  offset: 18, 13
+  index: -1
+saoguang0017
+  rotate: true
+  xy: 480, 2
+  size: 37, 22
+  orig: 60, 60
+  offset: 17, 12
+  index: -1
+saoguang0018
+  rotate: false
+  xy: 524, 43
+  size: 38, 33
+  orig: 60, 60
+  offset: 16, 10
+  index: -1
+saoguang0019
+  rotate: false
+  xy: 442, 41
+  size: 39, 35
+  orig: 60, 60
+  offset: 15, 10
+  index: -1
+saoguang0020
+  rotate: false
+  xy: 439, 2
+  size: 39, 37
+  orig: 60, 60
+  offset: 13, 10
+  index: -1
+saoguang0021
+  rotate: false
+  xy: 263, 2
+  size: 41, 36
+  orig: 60, 60
+  offset: 10, 10
+  index: -1
+saoguang0022
+  rotate: false
+  xy: 399, 41
+  size: 41, 35
+  orig: 60, 60
+  offset: 8, 10
+  index: -1
+saoguang0023
+  rotate: false
+  xy: 564, 41
+  size: 37, 35
+  orig: 60, 60
+  offset: 8, 10
+  index: -1
+saoguang0024
+  rotate: false
+  xy: 504, 8
+  size: 35, 33
+  orig: 60, 60
+  offset: 7, 10
+  index: -1
+saoguang0025
+  rotate: false
+  xy: 541, 8
+  size: 34, 31
+  orig: 60, 60
+  offset: 7, 10
+  index: -1
+saoguang0026
+  rotate: true
+  xy: 158, 5
+  size: 23, 11
+  orig: 60, 60
+  offset: 7, 10
+  index: -1
+saoguang0027
+  rotate: false
+  xy: 2, 5
+  size: 38, 20
+  orig: 60, 60
+  offset: 7, 8
+  index: -1
+saoguang0028
+  rotate: false
+  xy: 90, 2
+  size: 39, 25
+  orig: 60, 60
+  offset: 9, 5
+  index: -1
+saoguang0029
+  rotate: false
+  xy: 483, 46
+  size: 39, 30
+  orig: 60, 60
+  offset: 12, 3
+  index: -1
+saoguang0030
+  rotate: false
+  xy: 577, 11
+  size: 28, 28
+  orig: 60, 60
+  offset: 21, 4
+  index: -1

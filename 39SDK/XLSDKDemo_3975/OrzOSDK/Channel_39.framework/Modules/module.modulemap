@@ -1,0 +1,6 @@
+framework module Channel_39 {
+  umbrella header "Channel_39.h"
+
+  export *
+  module * { export * }
+}

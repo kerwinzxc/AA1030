@@ -1,0 +1,223 @@
+
+effect_zhuanshushenqi_shexingtiebian.png
+size: 1580,901
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bain
+  rotate: true
+  xy: 2, 2
+  size: 191, 231
+  orig: 219, 277
+  offset: 15, 26
+  index: -1
+bian_0001
+  rotate: true
+  xy: 1161, 29
+  size: 179, 227
+  orig: 219, 277
+  offset: 22, 33
+  index: -1
+bian_0003
+  rotate: false
+  xy: 1177, 673
+  size: 191, 226
+  orig: 219, 277
+  offset: 19, 33
+  index: -1
+bian_0005
+  rotate: false
+  xy: 1370, 679
+  size: 191, 220
+  orig: 219, 277
+  offset: 17, 31
+  index: -1
+bian_0007
+  rotate: false
+  xy: 196, 667
+  size: 190, 232
+  orig: 219, 277
+  offset: 15, 28
+  index: -1
+bian_0009
+  rotate: false
+  xy: 586, 670
+  size: 194, 229
+  orig: 219, 277
+  offset: 11, 33
+  index: -1
+bian_0011
+  rotate: false
+  xy: 580, 206
+  size: 195, 229
+  orig: 219, 277
+  offset: 10, 33
+  index: -1
+bian_0013
+  rotate: false
+  xy: 1373, 461
+  size: 195, 216
+  orig: 219, 277
+  offset: 7, 33
+  index: -1
+bian_0015
+  rotate: false
+  xy: 1173, 214
+  size: 185, 226
+  orig: 219, 277
+  offset: 22, 33
+  index: -1
+bian_0017
+  rotate: true
+  xy: 235, 7
+  size: 187, 230
+  orig: 219, 277
+  offset: 19, 33
+  index: -1
+bian_0019
+  rotate: false
+  xy: 198, 435
+  size: 193, 230
+  orig: 219, 277
+  offset: 14, 33
+  index: -1
+bian_0021
+  rotate: true
+  xy: 699, 15
+  size: 189, 229
+  orig: 219, 277
+  offset: 16, 33
+  index: -1
+bian_0023
+  rotate: false
+  xy: 388, 669
+  size: 196, 230
+  orig: 219, 277
+  offset: 10, 33
+  index: -1
+bian_0025
+  rotate: false
+  xy: 2, 665
+  size: 192, 234
+  orig: 219, 277
+  offset: 10, 33
+  index: -1
+bian_0027
+  rotate: false
+  xy: 592, 439
+  size: 198, 229
+  orig: 219, 277
+  offset: 9, 33
+  index: -1
+bian_0029
+  rotate: false
+  xy: 193, 196
+  size: 190, 231
+  orig: 219, 277
+  offset: 8, 33
+  index: -1
+bian_0031
+  rotate: false
+  xy: 978, 671
+  size: 197, 228
+  orig: 219, 277
+  offset: 13, 33
+  index: -1
+bian_0033
+  rotate: false
+  xy: 1185, 447
+  size: 186, 224
+  orig: 219, 277
+  offset: 22, 33
+  index: -1
+bian_0035
+  rotate: false
+  xy: 1390, 46
+  size: 186, 216
+  orig: 219, 277
+  offset: 19, 33
+  index: -1
+bian_0037
+  rotate: true
+  xy: 1360, 264
+  size: 181, 218
+  orig: 219, 277
+  offset: 17, 31
+  index: -1
+bian_0039
+  rotate: false
+  xy: 2, 195
+  size: 189, 232
+  orig: 219, 277
+  offset: 15, 28
+  index: -1
+bian_0041
+  rotate: false
+  xy: 782, 670
+  size: 194, 229
+  orig: 219, 277
+  offset: 11, 33
+  index: -1
+bian_0043
+  rotate: false
+  xy: 777, 208
+  size: 195, 229
+  orig: 219, 277
+  offset: 10, 33
+  index: -1
+bian_0045
+  rotate: false
+  xy: 988, 442
+  size: 195, 227
+  orig: 219, 277
+  offset: 7, 33
+  index: -1
+bian_0047
+  rotate: false
+  xy: 385, 203
+  size: 193, 230
+  orig: 219, 277
+  offset: 14, 33
+  index: -1
+bian_0049
+  rotate: true
+  xy: 467, 9
+  size: 192, 230
+  orig: 219, 277
+  offset: 14, 33
+  index: -1
+bian_0051
+  rotate: false
+  xy: 974, 210
+  size: 197, 228
+  orig: 219, 277
+  offset: 10, 33
+  index: -1
+bian_0053
+  rotate: true
+  xy: 930, 11
+  size: 195, 229
+  orig: 219, 277
+  offset: 10, 33
+  index: -1
+bian_0055
+  rotate: false
+  xy: 393, 437
+  size: 197, 230
+  orig: 219, 277
+  offset: 9, 33
+  index: -1
+bian_0057
+  rotate: false
+  xy: 2, 429
+  size: 194, 234
+  orig: 219, 277
+  offset: 8, 33
+  index: -1
+bian_0059
+  rotate: false
+  xy: 792, 440
+  size: 194, 228
+  orig: 219, 277
+  offset: 13, 33
+  index: -1

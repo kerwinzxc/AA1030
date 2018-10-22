@@ -1,0 +1,6 @@
+framework module XLSDK {
+  umbrella header "XLSDK.h"
+
+  export *
+  module * { export * }
+}

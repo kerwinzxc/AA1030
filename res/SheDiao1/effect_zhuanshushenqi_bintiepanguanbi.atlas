@@ -1,0 +1,27 @@
+
+effect_zhuanshushenqi_bintiepanguanbi.png
+size: 433,393
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lantiao
+  rotate: false
+  xy: 2, 231
+  size: 410, 160
+  orig: 448, 184
+  offset: 18, 13
+  index: -1
+tu
+  rotate: true
+  xy: 2, 2
+  size: 227, 244
+  orig: 227, 244
+  offset: 0, 0
+  index: -1
+zz
+  rotate: false
+  xy: 248, 38
+  size: 183, 191
+  orig: 227, 244
+  offset: 44, 53
+  index: -1

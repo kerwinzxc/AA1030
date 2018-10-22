@@ -1,0 +1,230 @@
+
+hero_hebiweng_b.png
+size: 1620,491
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L-finger01
+  rotate: true
+  xy: 1173, 2
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+L-finger02
+  rotate: false
+  xy: 1448, 8
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+L-finger03
+  rotate: true
+  xy: 1608, 455
+  size: 34, 10
+  orig: 34, 10
+  offset: 0, 0
+  index: -1
+L-finger04
+  rotate: true
+  xy: 1608, 427
+  size: 26, 10
+  orig: 26, 10
+  offset: 0, 0
+  index: -1
+L-finger05
+  rotate: false
+  xy: 1122, 2
+  size: 20, 13
+  orig: 22, 13
+  offset: 2, 0
+  index: -1
+L-finger06
+  rotate: false
+  xy: 1407, 116
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+L-foot-01
+  rotate: true
+  xy: 1122, 38
+  size: 76, 184
+  orig: 76, 184
+  offset: 0, 0
+  index: -1
+L-foot-02
+  rotate: false
+  xy: 1430, 163
+  size: 77, 155
+  orig: 77, 155
+  offset: 0, 0
+  index: -1
+L-foot-03
+  rotate: false
+  xy: 1586, 113
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+L-hand01
+  rotate: true
+  xy: 1308, 2
+  size: 112, 138
+  orig: 112, 138
+  offset: 0, 0
+  index: -1
+L-hand02
+  rotate: true
+  xy: 1556, 200
+  size: 66, 56
+  orig: 66, 56
+  offset: 0, 0
+  index: -1
+R-foot-01
+  rotate: false
+  xy: 1357, 312
+  size: 71, 177
+  orig: 71, 177
+  offset: 0, 0
+  index: -1
+R-foot-02
+  rotate: false
+  xy: 1542, 341
+  size: 64, 148
+  orig: 64, 148
+  offset: 0, 0
+  index: -1
+R-foot-03
+  rotate: false
+  xy: 1521, 28
+  size: 64, 41
+  orig: 64, 41
+  offset: 0, 0
+  index: -1
+R-hand01
+  rotate: false
+  xy: 1357, 146
+  size: 71, 164
+  orig: 71, 164
+  offset: 0, 0
+  index: -1
+R-hand02
+  rotate: true
+  xy: 1448, 24
+  size: 40, 71
+  orig: 40, 71
+  offset: 0, 0
+  index: -1
+R-hand03
+  rotate: false
+  xy: 1587, 154
+  size: 31, 44
+  orig: 31, 44
+  offset: 0, 0
+  index: -1
+all
+  rotate: true
+  xy: 2, 11
+  size: 478, 604
+  orig: 478, 604
+  offset: 0, 0
+  index: -1
+chest01
+  rotate: false
+  xy: 1122, 116
+  size: 233, 373
+  orig: 233, 373
+  offset: 0, 0
+  index: -1
+chest02
+  rotate: false
+  xy: 1430, 320
+  size: 110, 169
+  orig: 110, 169
+  offset: 0, 0
+  index: -1
+hair01
+  rotate: false
+  xy: 1516, 71
+  size: 67, 45
+  orig: 68, 45
+  offset: 0, 0
+  index: -1
+hair02
+  rotate: true
+  xy: 1516, 118
+  size: 69, 68
+  orig: 69, 68
+  offset: 0, 0
+  index: -1
+hair03
+  rotate: false
+  xy: 1448, 66
+  size: 66, 95
+  orig: 66, 95
+  offset: 0, 0
+  index: -1
+hair04
+  rotate: true
+  xy: 1122, 17
+  size: 19, 49
+  orig: 19, 49
+  offset: 0, 0
+  index: -1
+hair05
+  rotate: false
+  xy: 1556, 268
+  size: 40, 71
+  orig: 40, 71
+  offset: 0, 0
+  index: -1
+hair06
+  rotate: true
+  xy: 1521, 2
+  size: 24, 50
+  orig: 24, 50
+  offset: 0, 0
+  index: -1
+hair07
+  rotate: false
+  xy: 1357, 118
+  size: 48, 26
+  orig: 48, 26
+  offset: 0, 0
+  index: -1
+hair08
+  rotate: true
+  xy: 1198, 2
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+hair09
+  rotate: true
+  xy: 1585, 73
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+hair10
+  rotate: true
+  xy: 1573, 2
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+pifeng01
+  rotate: true
+  xy: 608, 11
+  size: 478, 512
+  orig: 478, 512
+  offset: 0, 0
+  index: -1
+touying
+  rotate: true
+  xy: 1509, 189
+  size: 129, 45
+  orig: 140, 64
+  offset: 7, 6
+  index: -1

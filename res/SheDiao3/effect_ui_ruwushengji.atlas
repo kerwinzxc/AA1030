@@ -1,0 +1,139 @@
+
+effect_ui_ruwushengji.png
+size: 805,1063
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di_01
+  rotate: true
+  xy: 715, 865
+  size: 196, 88
+  orig: 240, 330
+  offset: 21, 23
+  index: -1
+di_02
+  rotate: true
+  xy: 623, 821
+  size: 240, 90
+  orig: 240, 330
+  offset: 0, 7
+  index: -1
+xian_0005
+  rotate: false
+  xy: 2, 23
+  size: 182, 161
+  orig: 240, 330
+  offset: 24, 34
+  index: -1
+xian_0007
+  rotate: false
+  xy: 210, 2
+  size: 197, 192
+  orig: 240, 330
+  offset: 19, 34
+  index: -1
+xian_0009
+  rotate: false
+  xy: 415, 6
+  size: 203, 222
+  orig: 240, 330
+  offset: 18, 34
+  index: -1
+xian_0011
+  rotate: false
+  xy: 415, 230
+  size: 203, 253
+  orig: 240, 330
+  offset: 18, 34
+  index: -1
+xian_0013
+  rotate: false
+  xy: 418, 488
+  size: 206, 284
+  orig: 240, 330
+  offset: 15, 34
+  index: -1
+xian_0015
+  rotate: false
+  xy: 210, 774
+  size: 206, 287
+  orig: 240, 330
+  offset: 15, 34
+  index: -1
+xian_0017
+  rotate: false
+  xy: 2, 186
+  size: 206, 287
+  orig: 240, 330
+  offset: 15, 34
+  index: -1
+xian_0019
+  rotate: false
+  xy: 2, 766
+  size: 206, 295
+  orig: 240, 330
+  offset: 15, 26
+  index: -1
+xian_0021
+  rotate: false
+  xy: 2, 475
+  size: 206, 289
+  orig: 240, 330
+  offset: 15, 32
+  index: -1
+xian_0023
+  rotate: false
+  xy: 210, 485
+  size: 206, 287
+  orig: 240, 330
+  offset: 15, 34
+  index: -1
+xian_0025
+  rotate: false
+  xy: 418, 774
+  size: 203, 287
+  orig: 240, 330
+  offset: 18, 34
+  index: -1
+xian_0027
+  rotate: false
+  xy: 210, 196
+  size: 203, 287
+  orig: 240, 330
+  offset: 18, 34
+  index: -1
+xian_0029
+  rotate: true
+  xy: 626, 653
+  size: 166, 121
+  orig: 240, 330
+  offset: 30, 48
+  index: -1
+xian_0031
+  rotate: true
+  xy: 626, 486
+  size: 165, 121
+  orig: 240, 330
+  offset: 31, 50
+  index: -1
+xian_0033
+  rotate: true
+  xy: 620, 319
+  size: 165, 120
+  orig: 240, 330
+  offset: 31, 53
+  index: -1
+xian_0035
+  rotate: true
+  xy: 620, 155
+  size: 162, 119
+  orig: 240, 330
+  offset: 32, 56
+  index: -1
+xian_0037
+  rotate: false
+  xy: 620, 38
+  size: 158, 115
+  orig: 240, 330
+  offset: 34, 61
+  index: -1

@@ -1,0 +1,48 @@
+
+ui_effect_yewangchunluojiaoye.png
+size: 1603,653
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GF_458
+  rotate: false
+  xy: 961, 23
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Moon
+  rotate: false
+  xy: 961, 2
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+QianJing
+  rotate: true
+  xy: 2, 11
+  size: 640, 957
+  orig: 640, 957
+  offset: 0, 0
+  index: -1
+TianKong
+  rotate: false
+  xy: 961, 481
+  size: 640, 170
+  orig: 640, 170
+  offset: 0, 0
+  index: -1
+YuanJing
+  rotate: false
+  xy: 961, 245
+  size: 640, 234
+  orig: 640, 234
+  offset: 0, 0
+  index: -1
+Yun
+  rotate: false
+  xy: 961, 153
+  size: 628, 90
+  orig: 628, 100
+  offset: 0, 10
+  index: -1

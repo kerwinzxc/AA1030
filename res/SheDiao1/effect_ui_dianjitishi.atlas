@@ -1,0 +1,48 @@
+
+effect_ui_dianjitishi.png
+size: 120,147
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baidi
+  rotate: false
+  xy: 2, 2
+  size: 68, 70
+  orig: 84, 84
+  offset: 7, 8
+  index: -1
+daquan
+  rotate: false
+  xy: 2, 74
+  size: 70, 71
+  orig: 70, 72
+  offset: 0, 1
+  index: -1
+shouzhi1
+  rotate: true
+  xy: 74, 64
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+shouzhi2
+  rotate: false
+  xy: 72, 35
+  size: 33, 27
+  orig: 38, 39
+  offset: 2, 4
+  index: -1
+shouzhi3
+  rotate: false
+  xy: 72, 8
+  size: 32, 25
+  orig: 38, 39
+  offset: 1, 2
+  index: -1
+xiaoquanquan
+  rotate: false
+  xy: 74, 101
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1

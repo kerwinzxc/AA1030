@@ -1,0 +1,27 @@
+
+effect_zhuanshushenqi_qingtongshoutao.png
+size: 414,371
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tu
+  rotate: false
+  xy: 2, 2
+  size: 218, 205
+  orig: 218, 205
+  offset: 0, 0
+  index: -1
+z
+  rotate: false
+  xy: 222, 24
+  size: 147, 183
+  orig: 218, 205
+  offset: 0, 0
+  index: -1
+zitiao
+  rotate: false
+  xy: 2, 209
+  size: 410, 160
+  orig: 448, 184
+  offset: 18, 13
+  index: -1

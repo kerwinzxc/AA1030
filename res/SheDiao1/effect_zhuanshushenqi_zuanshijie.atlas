@@ -1,0 +1,27 @@
+
+effect_zhuanshushenqi_zuanshijie.png
+size: 773,174
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tu
+  rotate: true
+  xy: 414, 2
+  size: 170, 178
+  orig: 307, 307
+  offset: 62, 41
+  index: -1
+z
+  rotate: true
+  xy: 594, 2
+  size: 170, 177
+  orig: 307, 307
+  offset: 62, 41
+  index: -1
+zitiao
+  rotate: false
+  xy: 2, 12
+  size: 410, 160
+  orig: 448, 184
+  offset: 18, 13
+  index: -1

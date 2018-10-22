@@ -1,0 +1,27 @@
+
+effect_zhangmenling_huixuanbiao.png
+size: 469,626
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huixuanbiao
+  rotate: false
+  xy: 164, 313
+  size: 303, 311
+  orig: 304, 318
+  offset: 0, 7
+  index: -1
+lutiao
+  rotate: true
+  xy: 2, 214
+  size: 410, 160
+  orig: 448, 184
+  offset: 18, 13
+  index: -1
+zhezhao
+  rotate: false
+  xy: 164, 2
+  size: 302, 309
+  orig: 302, 309
+  offset: 0, 0
+  index: -1

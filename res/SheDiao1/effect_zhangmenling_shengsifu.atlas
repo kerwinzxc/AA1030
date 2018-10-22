@@ -1,0 +1,34 @@
+
+effect_zhangmenling_shengsifu.png
+size: 869,164
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gy
+  rotate: false
+  xy: 713, 8
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+lantiao
+  rotate: false
+  xy: 2, 2
+  size: 410, 160
+  orig: 448, 184
+  offset: 18, 13
+  index: -1
+shengsifu
+  rotate: true
+  xy: 713, 34
+  size: 128, 154
+  orig: 307, 307
+  offset: 76, 106
+  index: -1
+tu
+  rotate: true
+  xy: 414, 14
+  size: 148, 297
+  orig: 307, 307
+  offset: 76, 1
+  index: -1

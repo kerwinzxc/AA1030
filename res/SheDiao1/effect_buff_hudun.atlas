@@ -1,0 +1,69 @@
+
+effect_buff_hudun.png
+size: 1303,152
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 1187, 28
+  size: 114, 122
+  orig: 150, 144
+  offset: 21, 11
+  index: -1
+hudun_0001
+  rotate: true
+  xy: 756, 3
+  size: 147, 141
+  orig: 150, 144
+  offset: 3, 3
+  index: -1
+hudun_0003
+  rotate: false
+  xy: 154, 7
+  size: 150, 143
+  orig: 150, 144
+  offset: 0, 1
+  index: -1
+hudun_0005
+  rotate: false
+  xy: 1042, 6
+  size: 143, 144
+  orig: 150, 144
+  offset: 7, 0
+  index: -1
+hudun_0007
+  rotate: true
+  xy: 610, 2
+  size: 148, 144
+  orig: 150, 144
+  offset: 0, 0
+  index: -1
+hudun_0009
+  rotate: false
+  xy: 306, 6
+  size: 150, 144
+  orig: 150, 144
+  offset: 0, 0
+  index: -1
+hudun_0011
+  rotate: true
+  xy: 899, 4
+  size: 146, 141
+  orig: 150, 144
+  offset: 4, 3
+  index: -1
+hudun_0013
+  rotate: false
+  xy: 458, 6
+  size: 150, 144
+  orig: 150, 144
+  offset: 0, 0
+  index: -1
+hudun_0015
+  rotate: false
+  xy: 2, 6
+  size: 150, 144
+  orig: 150, 144
+  offset: 0, 0
+  index: -1

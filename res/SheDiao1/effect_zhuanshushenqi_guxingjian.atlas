@@ -1,0 +1,27 @@
+
+effect_zhuanshushenqi_guxingjian.png
+size: 440,384
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tu
+  rotate: false
+  xy: 221, 3
+  size: 217, 217
+  orig: 217, 218
+  offset: 0, 0
+  index: -1
+z
+  rotate: false
+  xy: 2, 2
+  size: 217, 218
+  orig: 217, 218
+  offset: 0, 0
+  index: -1
+zitiao
+  rotate: false
+  xy: 2, 222
+  size: 410, 160
+  orig: 448, 184
+  offset: 18, 13
+  index: -1

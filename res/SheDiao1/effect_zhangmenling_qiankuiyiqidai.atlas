@@ -1,0 +1,27 @@
+
+effect_zhangmenling_qiankuiyiqidai.png
+size: 388,228
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+faguang
+  rotate: true
+  xy: 237, 83
+  size: 143, 149
+  orig: 154, 154
+  offset: 7, 3
+  index: -1
+gy
+  rotate: false
+  xy: 237, 57
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+tu
+  rotate: true
+  xy: 2, 2
+  size: 224, 233
+  orig: 307, 307
+  offset: 55, 22
+  index: -1

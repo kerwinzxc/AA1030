@@ -1,0 +1,27 @@
+
+effect_zhangmenling_cuiyudiaozhui.png
+size: 707,273
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lutiao
+  rotate: false
+  xy: 2, 111
+  size: 410, 160
+  orig: 448, 184
+  offset: 18, 13
+  index: -1
+w
+  rotate: false
+  xy: 414, 8
+  size: 291, 263
+  orig: 291, 263
+  offset: 0, 0
+  index: -1
+zz
+  rotate: false
+  xy: 2, 2
+  size: 96, 107
+  orig: 291, 263
+  offset: 131, 100
+  index: -1

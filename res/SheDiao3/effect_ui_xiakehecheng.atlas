@@ -1,0 +1,146 @@
+
+effect_ui_xiakehecheng.png
+size: 1781,193
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+l_0001
+  rotate: true
+  xy: 1075, 6
+  size: 185, 86
+  orig: 202, 107
+  offset: 10, 12
+  index: -1
+l_0003
+  rotate: true
+  xy: 1163, 6
+  size: 185, 86
+  orig: 202, 107
+  offset: 10, 12
+  index: -1
+l_0005
+  rotate: true
+  xy: 546, 5
+  size: 186, 86
+  orig: 202, 107
+  offset: 10, 12
+  index: -1
+l_0007
+  rotate: true
+  xy: 634, 5
+  size: 186, 86
+  orig: 202, 107
+  offset: 10, 12
+  index: -1
+l_0009
+  rotate: true
+  xy: 722, 5
+  size: 186, 86
+  orig: 202, 107
+  offset: 10, 12
+  index: -1
+l_0011
+  rotate: true
+  xy: 810, 5
+  size: 186, 86
+  orig: 202, 107
+  offset: 10, 12
+  index: -1
+l_0013
+  rotate: true
+  xy: 898, 5
+  size: 186, 87
+  orig: 202, 107
+  offset: 9, 12
+  index: -1
+l_0015
+  rotate: true
+  xy: 194, 2
+  size: 189, 86
+  orig: 202, 107
+  offset: 7, 12
+  index: -1
+l_0017
+  rotate: false
+  xy: 2, 105
+  size: 190, 86
+  orig: 202, 107
+  offset: 6, 12
+  index: -1
+l_0019
+  rotate: true
+  xy: 282, 2
+  size: 189, 86
+  orig: 202, 107
+  offset: 6, 12
+  index: -1
+l_0021
+  rotate: true
+  xy: 370, 2
+  size: 189, 86
+  orig: 202, 107
+  offset: 6, 12
+  index: -1
+l_0023
+  rotate: true
+  xy: 458, 4
+  size: 187, 86
+  orig: 202, 107
+  offset: 9, 12
+  index: -1
+l_0025
+  rotate: true
+  xy: 1251, 6
+  size: 185, 86
+  orig: 202, 107
+  offset: 10, 12
+  index: -1
+l_0027
+  rotate: true
+  xy: 1339, 6
+  size: 185, 88
+  orig: 202, 107
+  offset: 10, 11
+  index: -1
+l_0029
+  rotate: true
+  xy: 1429, 6
+  size: 185, 86
+  orig: 202, 107
+  offset: 10, 12
+  index: -1
+l_0031
+  rotate: true
+  xy: 1517, 6
+  size: 185, 86
+  orig: 202, 107
+  offset: 10, 12
+  index: -1
+l_0033
+  rotate: true
+  xy: 1605, 6
+  size: 185, 86
+  orig: 202, 107
+  offset: 10, 12
+  index: -1
+l_0035
+  rotate: true
+  xy: 1693, 6
+  size: 185, 86
+  orig: 202, 107
+  offset: 10, 12
+  index: -1
+l_0037
+  rotate: false
+  xy: 2, 17
+  size: 185, 86
+  orig: 202, 107
+  offset: 10, 12
+  index: -1
+l_0039
+  rotate: true
+  xy: 987, 6
+  size: 185, 86
+  orig: 202, 107
+  offset: 10, 12
+  index: -1

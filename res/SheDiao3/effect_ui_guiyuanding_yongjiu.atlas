@@ -1,0 +1,97 @@
+
+effect_ui_guiyuanding_yongjiu.png
+size: 490,164
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+474
+  rotate: false
+  xy: 447, 121
+  size: 41, 41
+  orig: 60, 60
+  offset: 10, 9
+  index: -1
+x_0001
+  rotate: true
+  xy: 301, 88
+  size: 74, 71
+  orig: 126, 113
+  offset: 21, 22
+  index: -1
+x_0003
+  rotate: true
+  xy: 310, 12
+  size: 74, 71
+  orig: 126, 113
+  offset: 21, 21
+  index: -1
+x_0005
+  rotate: true
+  xy: 236, 7
+  size: 76, 72
+  orig: 126, 113
+  offset: 20, 21
+  index: -1
+x_0007
+  rotate: true
+  xy: 161, 5
+  size: 77, 73
+  orig: 126, 113
+  offset: 19, 20
+  index: -1
+x_0009
+  rotate: true
+  xy: 85, 2
+  size: 78, 74
+  orig: 126, 113
+  offset: 19, 20
+  index: -1
+x_0011
+  rotate: true
+  xy: 79, 82
+  size: 80, 74
+  orig: 126, 113
+  offset: 18, 20
+  index: -1
+x_0013
+  rotate: false
+  xy: 2, 4
+  size: 81, 74
+  orig: 126, 113
+  offset: 18, 21
+  index: -1
+x_0015
+  rotate: true
+  xy: 2, 80
+  size: 82, 75
+  orig: 126, 113
+  offset: 17, 21
+  index: -1
+x_0017
+  rotate: true
+  xy: 383, 14
+  size: 72, 71
+  orig: 126, 113
+  offset: 28, 25
+  index: -1
+x_0019
+  rotate: true
+  xy: 227, 85
+  size: 77, 72
+  orig: 126, 113
+  offset: 24, 24
+  index: -1
+x_0021
+  rotate: true
+  xy: 155, 84
+  size: 78, 70
+  orig: 126, 113
+  offset: 23, 23
+  index: -1
+x_0023
+  rotate: true
+  xy: 374, 88
+  size: 74, 71
+  orig: 126, 113
+  offset: 22, 22
+  index: -1

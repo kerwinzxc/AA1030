@@ -1,0 +1,307 @@
+
+effect_ui_shouyeliubian.png
+size: 239,280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liubian0002
+  rotate: false
+  xy: 41, 240
+  size: 38, 38
+  orig: 55, 52
+  offset: 8, 7
+  index: -1
+liubian0003
+  rotate: false
+  xy: 2, 200
+  size: 38, 38
+  orig: 55, 52
+  offset: 8, 7
+  index: -1
+liubian0004
+  rotate: false
+  xy: 81, 240
+  size: 38, 38
+  orig: 55, 52
+  offset: 8, 7
+  index: -1
+liubian0005
+  rotate: false
+  xy: 2, 160
+  size: 38, 38
+  orig: 55, 52
+  offset: 8, 7
+  index: -1
+liubian0006
+  rotate: false
+  xy: 42, 200
+  size: 38, 38
+  orig: 55, 52
+  offset: 8, 7
+  index: -1
+liubian0007
+  rotate: false
+  xy: 121, 241
+  size: 38, 37
+  orig: 55, 52
+  offset: 8, 7
+  index: -1
+liubian0008
+  rotate: false
+  xy: 2, 122
+  size: 38, 36
+  orig: 55, 52
+  offset: 8, 8
+  index: -1
+liubian0009
+  rotate: false
+  xy: 42, 162
+  size: 38, 36
+  orig: 55, 52
+  offset: 8, 8
+  index: -1
+liubian0010
+  rotate: true
+  xy: 82, 200
+  size: 38, 37
+  orig: 55, 52
+  offset: 8, 7
+  index: -1
+liubian0011
+  rotate: false
+  xy: 121, 201
+  size: 38, 38
+  orig: 55, 52
+  offset: 8, 7
+  index: -1
+liubian0012
+  rotate: false
+  xy: 161, 240
+  size: 37, 38
+  orig: 55, 52
+  offset: 8, 7
+  index: -1
+liubian0013
+  rotate: false
+  xy: 2, 82
+  size: 38, 38
+  orig: 55, 52
+  offset: 8, 7
+  index: -1
+liubian0014
+  rotate: false
+  xy: 42, 122
+  size: 38, 38
+  orig: 55, 52
+  offset: 8, 7
+  index: -1
+liubian0015
+  rotate: false
+  xy: 200, 240
+  size: 37, 38
+  orig: 55, 52
+  offset: 8, 7
+  index: -1
+liubian0016
+  rotate: false
+  xy: 82, 160
+  size: 37, 38
+  orig: 55, 52
+  offset: 8, 7
+  index: -1
+liubian0017
+  rotate: false
+  xy: 121, 161
+  size: 37, 38
+  orig: 55, 52
+  offset: 8, 7
+  index: -1
+liubian0018
+  rotate: true
+  xy: 161, 201
+  size: 37, 38
+  orig: 55, 52
+  offset: 8, 7
+  index: -1
+liubian0019
+  rotate: false
+  xy: 201, 200
+  size: 36, 38
+  orig: 55, 52
+  offset: 8, 7
+  index: -1
+liubian0020
+  rotate: false
+  xy: 2, 42
+  size: 36, 38
+  orig: 55, 52
+  offset: 8, 7
+  index: -1
+liubian0021
+  rotate: false
+  xy: 42, 82
+  size: 37, 38
+  orig: 55, 52
+  offset: 8, 7
+  index: -1
+liubian0022
+  rotate: false
+  xy: 160, 161
+  size: 37, 38
+  orig: 55, 52
+  offset: 8, 7
+  index: -1
+liubian0023
+  rotate: true
+  xy: 199, 161
+  size: 37, 38
+  orig: 55, 52
+  offset: 8, 7
+  index: -1
+liubian0024
+  rotate: false
+  xy: 40, 42
+  size: 37, 38
+  orig: 55, 52
+  offset: 8, 7
+  index: -1
+liubian0025
+  rotate: false
+  xy: 2, 2
+  size: 38, 38
+  orig: 55, 52
+  offset: 8, 7
+  index: -1
+liubian0026
+  rotate: false
+  xy: 82, 120
+  size: 37, 38
+  orig: 55, 52
+  offset: 8, 7
+  index: -1
+liubian0027
+  rotate: false
+  xy: 121, 121
+  size: 37, 38
+  orig: 55, 52
+  offset: 8, 7
+  index: -1
+liubian0028
+  rotate: false
+  xy: 160, 45
+  size: 37, 37
+  orig: 55, 52
+  offset: 8, 7
+  index: -1
+liubian0029
+  rotate: false
+  xy: 199, 43
+  size: 37, 36
+  orig: 55, 52
+  offset: 8, 7
+  index: -1
+liubian0030
+  rotate: false
+  xy: 160, 123
+  size: 38, 36
+  orig: 55, 52
+  offset: 8, 7
+  index: -1
+liubian0031
+  rotate: false
+  xy: 157, 3
+  size: 37, 37
+  orig: 55, 52
+  offset: 8, 7
+  index: -1
+liubian0032
+  rotate: false
+  xy: 196, 4
+  size: 37, 37
+  orig: 55, 52
+  offset: 8, 7
+  index: -1
+liubian0033
+  rotate: false
+  xy: 200, 121
+  size: 37, 38
+  orig: 55, 52
+  offset: 8, 7
+  index: -1
+liubian0034
+  rotate: false
+  xy: 42, 2
+  size: 37, 38
+  orig: 55, 52
+  offset: 8, 7
+  index: -1
+liubian0035
+  rotate: true
+  xy: 81, 81
+  size: 37, 38
+  orig: 55, 52
+  offset: 8, 7
+  index: -1
+liubian0036
+  rotate: false
+  xy: 121, 81
+  size: 37, 38
+  orig: 55, 52
+  offset: 8, 7
+  index: -1
+liubian0037
+  rotate: true
+  xy: 160, 84
+  size: 37, 38
+  orig: 55, 52
+  offset: 8, 7
+  index: -1
+liubian0038
+  rotate: false
+  xy: 200, 81
+  size: 37, 38
+  orig: 55, 52
+  offset: 8, 7
+  index: -1
+liubian0039
+  rotate: true
+  xy: 79, 42
+  size: 37, 38
+  orig: 55, 52
+  offset: 8, 7
+  index: -1
+liubian0040
+  rotate: true
+  xy: 119, 42
+  size: 37, 38
+  orig: 55, 52
+  offset: 8, 7
+  index: -1
+liubian0041
+  rotate: false
+  xy: 81, 2
+  size: 35, 38
+  orig: 55, 52
+  offset: 9, 7
+  index: -1
+liubian0042
+  rotate: false
+  xy: 118, 2
+  size: 37, 38
+  orig: 55, 52
+  offset: 8, 7
+  index: -1
+liubian0043
+  rotate: false
+  xy: 2, 240
+  size: 37, 38
+  orig: 55, 52
+  offset: 8, 7
+  index: -1
+liubian0001
+  rotate: false
+  xy: 2, 240
+  size: 37, 38
+  orig: 55, 52
+  offset: 8, 7
+  index: -1

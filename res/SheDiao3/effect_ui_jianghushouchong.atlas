@@ -1,0 +1,216 @@
+
+effect_ui_jianghushouchong.png
+size: 1161,174
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bian_0001
+  rotate: false
+  xy: 2, 58
+  size: 115, 56
+  orig: 120, 72
+  offset: 3, 8
+  index: -1
+bian_0003
+  rotate: false
+  xy: 121, 116
+  size: 115, 56
+  orig: 120, 72
+  offset: 3, 8
+  index: -1
+bian_0005
+  rotate: false
+  xy: 2, 116
+  size: 117, 56
+  orig: 120, 72
+  offset: 2, 8
+  index: -1
+bian_0007
+  rotate: false
+  xy: 2, 2
+  size: 115, 54
+  orig: 120, 72
+  offset: 3, 9
+  index: -1
+bian_0009
+  rotate: false
+  xy: 119, 58
+  size: 115, 56
+  orig: 120, 72
+  offset: 3, 8
+  index: -1
+bian_0011
+  rotate: false
+  xy: 933, 62
+  size: 111, 54
+  orig: 120, 72
+  offset: 5, 9
+  index: -1
+bian_0013
+  rotate: false
+  xy: 1046, 8
+  size: 105, 54
+  orig: 120, 72
+  offset: 8, 9
+  index: -1
+bian_0015
+  rotate: false
+  xy: 1046, 64
+  size: 111, 52
+  orig: 120, 72
+  offset: 5, 10
+  index: -1
+bian_0017
+  rotate: false
+  xy: 238, 116
+  size: 115, 56
+  orig: 120, 72
+  offset: 3, 8
+  index: -1
+bian_0019
+  rotate: false
+  xy: 236, 58
+  size: 115, 56
+  orig: 120, 72
+  offset: 3, 8
+  index: -1
+bian_0021
+  rotate: false
+  xy: 355, 116
+  size: 115, 56
+  orig: 120, 72
+  offset: 3, 8
+  index: -1
+bian_0023
+  rotate: false
+  xy: 589, 116
+  size: 113, 56
+  orig: 120, 72
+  offset: 4, 8
+  index: -1
+bian_0025
+  rotate: false
+  xy: 353, 58
+  size: 115, 56
+  orig: 120, 72
+  offset: 3, 8
+  index: -1
+bian_0027
+  rotate: false
+  xy: 472, 116
+  size: 115, 56
+  orig: 120, 72
+  offset: 3, 8
+  index: -1
+bian_0029
+  rotate: false
+  xy: 119, 2
+  size: 115, 54
+  orig: 120, 72
+  offset: 3, 9
+  index: -1
+bian_0031
+  rotate: false
+  xy: 470, 62
+  size: 115, 52
+  orig: 120, 72
+  offset: 3, 10
+  index: -1
+bian_0033
+  rotate: false
+  xy: 236, 2
+  size: 113, 54
+  orig: 120, 72
+  offset: 4, 9
+  index: -1
+bian_0035
+  rotate: false
+  xy: 470, 7
+  size: 111, 53
+  orig: 120, 72
+  offset: 5, 9
+  index: -1
+bian_0037
+  rotate: false
+  xy: 696, 4
+  size: 109, 54
+  orig: 120, 72
+  offset: 6, 9
+  index: -1
+bian_0039
+  rotate: false
+  xy: 817, 10
+  size: 109, 54
+  orig: 120, 72
+  offset: 6, 9
+  index: -1
+bian_0041
+  rotate: false
+  xy: 351, 2
+  size: 112, 54
+  orig: 120, 72
+  offset: 5, 9
+  index: -1
+bian_0043
+  rotate: false
+  xy: 704, 118
+  size: 113, 54
+  orig: 120, 72
+  offset: 4, 9
+  index: -1
+bian_0045
+  rotate: false
+  xy: 587, 62
+  size: 113, 52
+  orig: 120, 72
+  offset: 4, 10
+  index: -1
+bian_0047
+  rotate: false
+  xy: 819, 122
+  size: 112, 50
+  orig: 120, 72
+  offset: 5, 11
+  index: -1
+bian_0049
+  rotate: false
+  xy: 933, 118
+  size: 112, 54
+  orig: 120, 72
+  offset: 5, 9
+  index: -1
+bian_0051
+  rotate: false
+  xy: 583, 4
+  size: 111, 56
+  orig: 120, 72
+  offset: 5, 8
+  index: -1
+bian_0053
+  rotate: false
+  xy: 928, 4
+  size: 109, 56
+  orig: 120, 72
+  offset: 6, 8
+  index: -1
+bian_0055
+  rotate: false
+  xy: 704, 60
+  size: 111, 56
+  orig: 120, 72
+  offset: 5, 8
+  index: -1
+bian_0057
+  rotate: false
+  xy: 1047, 118
+  size: 112, 54
+  orig: 120, 72
+  offset: 5, 9
+  index: -1
+bian_0059
+  rotate: false
+  xy: 819, 66
+  size: 112, 54
+  orig: 120, 72
+  offset: 5, 9
+  index: -1

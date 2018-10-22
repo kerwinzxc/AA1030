@@ -1,0 +1,27 @@
+
+effect_zhangmenling_duanqingdao.png
+size: 982,261
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lantiao
+  rotate: false
+  xy: 2, 99
+  size: 410, 160
+  orig: 448, 184
+  offset: 18, 13
+  index: -1
+tu
+  rotate: false
+  xy: 414, 2
+  size: 282, 257
+  orig: 282, 257
+  offset: 0, 0
+  index: -1
+zz
+  rotate: false
+  xy: 698, 2
+  size: 282, 257
+  orig: 282, 257
+  offset: 0, 0
+  index: -1

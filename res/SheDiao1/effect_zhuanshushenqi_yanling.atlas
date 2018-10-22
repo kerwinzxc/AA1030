@@ -1,0 +1,27 @@
+
+effect_zhuanshushenqi_yanling.png
+size: 435,570
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lantiao
+  rotate: true
+  xy: 2, 158
+  size: 410, 160
+  orig: 448, 184
+  offset: 18, 13
+  index: -1
+tu
+  rotate: false
+  xy: 164, 286
+  size: 269, 282
+  orig: 269, 282
+  offset: 0, 0
+  index: -1
+zz
+  rotate: false
+  xy: 164, 2
+  size: 269, 282
+  orig: 269, 282
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+effect_ui_tequanka.png
+size: 68,46
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s
+  rotate: false
+  xy: 2, 2
+  size: 35, 42
+  orig: 37, 45
+  offset: 0, 3
+  index: -1
+x
+  rotate: false
+  xy: 39, 2
+  size: 27, 42
+  orig: 31, 46
+  offset: 0, 3
+  index: -1

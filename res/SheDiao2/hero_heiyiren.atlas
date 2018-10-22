@@ -1,0 +1,209 @@
+
+hero_heiyiren.png
+size: 840,253
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eyes_close
+  rotate: true
+  xy: 781, 10
+  size: 42, 24
+  orig: 42, 24
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 674, 150
+  size: 66, 101
+  orig: 66, 101
+  offset: 0, 0
+  index: -1
+L_The big arm
+  rotate: false
+  xy: 690, 50
+  size: 50, 98
+  orig: 50, 98
+  offset: 0, 0
+  index: -1
+L_The calf
+  rotate: false
+  xy: 510, 16
+  size: 76, 109
+  orig: 76, 109
+  offset: 0, 0
+  index: -1
+L_The thigh
+  rotate: true
+  xy: 258, 40
+  size: 59, 111
+  orig: 65, 111
+  offset: 0, 0
+  index: -1
+L_finger_1
+  rotate: true
+  xy: 807, 3
+  size: 12, 27
+  orig: 12, 27
+  offset: 0, 0
+  index: -1
+L_finger_2
+  rotate: false
+  xy: 813, 70
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+L_finger_3
+  rotate: false
+  xy: 813, 100
+  size: 7, 33
+  orig: 7, 33
+  offset: 0, 0
+  index: -1
+L_finger_4
+  rotate: true
+  xy: 477, 8
+  size: 8, 26
+  orig: 8, 26
+  offset: 0, 0
+  index: -1
+L_finger_5
+  rotate: true
+  xy: 813, 59
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1
+L_foot
+  rotate: true
+  xy: 742, 135
+  size: 66, 80
+  orig: 66, 80
+  offset: 0, 0
+  index: -1
+L_forearm
+  rotate: false
+  xy: 742, 54
+  size: 69, 79
+  orig: 69, 79
+  offset: 0, 0
+  index: -1
+L_palm
+  rotate: false
+  xy: 807, 17
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+R_The big arm
+  rotate: true
+  xy: 690, 2
+  size: 46, 89
+  orig: 46, 89
+  offset: 0, 0
+  index: -1
+R_The calf
+  rotate: false
+  xy: 489, 127
+  size: 96, 124
+  orig: 96, 124
+  offset: 0, 0
+  index: -1
+R_The thigh
+  rotate: false
+  xy: 587, 143
+  size: 85, 108
+  orig: 85, 108
+  offset: 0, 0
+  index: -1
+R_finger_1
+  rotate: false
+  xy: 588, 9
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+R_finger_2
+  rotate: true
+  xy: 489, 116
+  size: 9, 19
+  orig: 9, 19
+  offset: 0, 0
+  index: -1
+R_finger_3
+  rotate: false
+  xy: 608, 13
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+R_finger_4
+  rotate: true
+  xy: 822, 118
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+R_finger_5
+  rotate: false
+  xy: 822, 104
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+R_foot
+  rotate: true
+  xy: 371, 15
+  size: 46, 104
+  orig: 46, 104
+  offset: 0, 0
+  index: -1
+R_forearm
+  rotate: true
+  xy: 742, 203
+  size: 48, 92
+  orig: 48, 92
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: true
+  xy: 588, 37
+  size: 104, 100
+  orig: 104, 100
+  offset: 0, 0
+  index: -1
+R_palm
+  rotate: false
+  xy: 477, 18
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+Upper body
+  rotate: false
+  xy: 258, 101
+  size: 119, 150
+  orig: 119, 151
+  offset: 0, 0
+  index: -1
+skirt1
+  rotate: true
+  xy: 379, 110
+  size: 141, 108
+  orig: 141, 108
+  offset: 0, 0
+  index: -1
+sword
+  rotate: true
+  xy: 2, 4
+  size: 247, 254
+  orig: 247, 254
+  offset: 0, 0
+  index: -1
+touying
+  rotate: false
+  xy: 379, 63
+  size: 129, 45
+  orig: 140, 64
+  offset: 7, 6
+  index: -1

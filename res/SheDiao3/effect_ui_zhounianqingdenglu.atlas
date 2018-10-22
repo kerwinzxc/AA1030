@@ -1,0 +1,118 @@
+
+effect_ui_zhounianqingdenglu.png
+size: 893,303
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang_00000
+  rotate: false
+  xy: 881, 158
+  size: 10, 143
+  orig: 10, 154
+  offset: 0, 11
+  index: -1
+projectile04_anim_00001
+  rotate: false
+  xy: 2, 177
+  size: 290, 60
+  orig: 307, 77
+  offset: 0, 11
+  index: -1
+projectile04_anim_00002
+  rotate: false
+  xy: 294, 176
+  size: 290, 61
+  orig: 307, 77
+  offset: 0, 10
+  index: -1
+projectile04_anim_00003
+  rotate: false
+  xy: 586, 121
+  size: 290, 62
+  orig: 307, 77
+  offset: 0, 9
+  index: -1
+projectile04_anim_00004
+  rotate: false
+  xy: 2, 113
+  size: 290, 62
+  orig: 307, 77
+  offset: 0, 9
+  index: -1
+projectile04_anim_00005
+  rotate: false
+  xy: 2, 239
+  size: 291, 62
+  orig: 307, 77
+  offset: 0, 8
+  index: -1
+projectile04_anim_00006
+  rotate: false
+  xy: 295, 239
+  size: 291, 62
+  orig: 307, 77
+  offset: 0, 7
+  index: -1
+projectile04_anim_00007
+  rotate: false
+  xy: 588, 241
+  size: 291, 60
+  orig: 307, 77
+  offset: 0, 7
+  index: -1
+projectile04_anim_00008
+  rotate: false
+  xy: 294, 116
+  size: 290, 58
+  orig: 307, 77
+  offset: 0, 8
+  index: -1
+projectile04_anim_00009
+  rotate: false
+  xy: 586, 63
+  size: 290, 56
+  orig: 307, 77
+  offset: 0, 9
+  index: -1
+projectile04_anim_00010
+  rotate: false
+  xy: 588, 185
+  size: 291, 54
+  orig: 307, 77
+  offset: 0, 10
+  index: -1
+projectile04_anim_00011
+  rotate: false
+  xy: 294, 61
+  size: 290, 53
+  orig: 307, 77
+  offset: 0, 12
+  index: -1
+projectile04_anim_00012
+  rotate: false
+  xy: 2, 58
+  size: 290, 53
+  orig: 307, 77
+  offset: 0, 13
+  index: -1
+projectile04_anim_00013
+  rotate: false
+  xy: 2, 2
+  size: 289, 54
+  orig: 307, 77
+  offset: 0, 13
+  index: -1
+projectile04_anim_00014
+  rotate: false
+  xy: 586, 6
+  size: 290, 55
+  orig: 307, 77
+  offset: 0, 13
+  index: -1
+projectile04_anim_00015
+  rotate: false
+  xy: 294, 4
+  size: 290, 55
+  orig: 307, 77
+  offset: 0, 13
+  index: -1

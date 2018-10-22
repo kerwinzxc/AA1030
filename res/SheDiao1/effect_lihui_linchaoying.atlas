@@ -1,0 +1,48 @@
+
+effect_lihui_linchaoying.png
+size: 742,514
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ditu
+  rotate: false
+  xy: 2, 59
+  size: 618, 453
+  orig: 665, 682
+  offset: 46, 139
+  index: -1
+gy
+  rotate: false
+  xy: 2, 2
+  size: 616, 55
+  orig: 900, 55
+  offset: 142, 0
+  index: -1
+higuang
+  rotate: false
+  xy: 663, 435
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+hua
+  rotate: false
+  xy: 663, 331
+  size: 52, 51
+  orig: 60, 60
+  offset: 5, 5
+  index: -1
+hua2
+  rotate: false
+  xy: 663, 384
+  size: 54, 49
+  orig: 60, 60
+  offset: 2, 7
+  index: -1
+xian
+  rotate: true
+  xy: 622, 26
+  size: 486, 39
+  orig: 540, 93
+  offset: 26, 23
+  index: -1

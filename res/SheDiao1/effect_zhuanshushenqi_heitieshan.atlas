@@ -1,0 +1,20 @@
+
+effect_zhuanshushenqi_heitieshan.png
+size: 561,286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gy
+  rotate: false
+  xy: 2, 2
+  size: 293, 282
+  orig: 304, 284
+  offset: 8, 0
+  index: -1
+tu
+  rotate: true
+  xy: 297, 8
+  size: 276, 262
+  orig: 276, 262
+  offset: 0, 0
+  index: -1

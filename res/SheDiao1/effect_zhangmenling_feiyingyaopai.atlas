@@ -1,0 +1,27 @@
+
+effect_zhangmenling_feiyingyaopai.png
+size: 858,171
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lutiao
+  rotate: false
+  xy: 2, 9
+  size: 410, 160
+  orig: 448, 184
+  offset: 18, 13
+  index: -1
+飞鹰腰牌-绿
+  rotate: true
+  xy: 414, 2
+  size: 167, 220
+  orig: 299, 307
+  offset: 59, 54
+  index: -1
+飞鹰腰牌-绿_zz
+  rotate: true
+  xy: 636, 2
+  size: 167, 220
+  orig: 299, 307
+  offset: 59, 54
+  index: -1

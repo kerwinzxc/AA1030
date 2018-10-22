@@ -1,0 +1,251 @@
+
+effect_ui_shenbingqjinjie.png
+size: 1476,1045
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: false
+  xy: 2, 659
+  size: 576, 384
+  orig: 576, 384
+  offset: 0, 0
+  index: -1
+qu_0001
+  rotate: false
+  xy: 702, 742
+  size: 39, 60
+  orig: 192, 252
+  offset: 141, 70
+  index: -1
+qu_0003
+  rotate: true
+  xy: 2, 3
+  size: 107, 166
+  orig: 192, 252
+  offset: 73, 0
+  index: -1
+qu_0005
+  rotate: true
+  xy: 1228, 573
+  size: 128, 203
+  orig: 192, 252
+  offset: 50, 0
+  index: -1
+qu_0007
+  rotate: true
+  xy: 617, 443
+  size: 165, 230
+  orig: 192, 252
+  offset: 10, 0
+  index: -1
+qu_0009
+  rotate: true
+  xy: 1239, 878
+  size: 165, 235
+  orig: 192, 252
+  offset: 7, 1
+  index: -1
+qu_0011
+  rotate: false
+  xy: 580, 804
+  size: 180, 239
+  orig: 192, 252
+  offset: 8, 4
+  index: -1
+qu_0013
+  rotate: true
+  xy: 433, 242
+  size: 178, 233
+  orig: 192, 252
+  offset: 12, 9
+  index: -1
+qu_0015
+  rotate: true
+  xy: 1001, 665
+  size: 177, 225
+  orig: 192, 252
+  offset: 13, 23
+  index: -1
+qu_0017
+  rotate: false
+  xy: 1111, 60
+  size: 160, 148
+  orig: 192, 252
+  offset: 29, 29
+  index: -1
+qu_0019
+  rotate: false
+  xy: 1273, 64
+  size: 158, 144
+  orig: 192, 252
+  offset: 30, 34
+  index: -1
+qu_0021
+  rotate: true
+  xy: 849, 443
+  size: 165, 137
+  orig: 192, 252
+  offset: 18, 41
+  index: -1
+qu_0023
+  rotate: false
+  xy: 580, 709
+  size: 120, 93
+  orig: 192, 252
+  offset: 14, 58
+  index: -1
+qu_0025
+  rotate: false
+  xy: 617, 616
+  size: 103, 91
+  orig: 192, 252
+  offset: 14, 67
+  index: -1
+qu_0027
+  rotate: true
+  xy: 1111, 4
+  size: 54, 68
+  orig: 192, 252
+  offset: 15, 87
+  index: -1
+qu_0029
+  rotate: false
+  xy: 1433, 656
+  size: 24, 45
+  orig: 192, 252
+  offset: 19, 109
+  index: -1
+www_0001
+  rotate: false
+  xy: 427, 14
+  size: 233, 226
+  orig: 240, 240
+  offset: 7, 14
+  index: -1
+www_0003
+  rotate: false
+  xy: 191, 42
+  size: 234, 225
+  orig: 240, 240
+  offset: 6, 14
+  index: -1
+www_0005
+  rotate: true
+  xy: 995, 440
+  size: 223, 224
+  orig: 240, 240
+  offset: 16, 14
+  index: -1
+www_0007
+  rotate: true
+  xy: 662, 6
+  size: 216, 226
+  orig: 240, 240
+  offset: 19, 14
+  index: -1
+www_0009
+  rotate: true
+  xy: 899, 220
+  size: 218, 223
+  orig: 240, 240
+  offset: 16, 16
+  index: -1
+www_0011
+  rotate: true
+  xy: 890, 2
+  size: 216, 219
+  orig: 240, 240
+  offset: 19, 19
+  index: -1
+www_0013
+  rotate: false
+  xy: 668, 224
+  size: 229, 217
+  orig: 240, 240
+  offset: 10, 22
+  index: -1
+www_0015
+  rotate: false
+  xy: 762, 610
+  size: 231, 216
+  orig: 240, 240
+  offset: 7, 24
+  index: -1
+www_0017
+  rotate: false
+  xy: 1001, 844
+  size: 236, 199
+  orig: 240, 240
+  offset: 4, 19
+  index: -1
+www_0019
+  rotate: false
+  xy: 196, 445
+  size: 238, 212
+  orig: 240, 240
+  offset: 1, 9
+  index: -1
+www_0021
+  rotate: false
+  xy: 762, 828
+  size: 237, 215
+  orig: 240, 240
+  offset: 1, 8
+  index: -1
+www_0023
+  rotate: true
+  xy: 2, 112
+  size: 236, 187
+  orig: 240, 240
+  offset: 2, 9
+  index: -1
+www_0025
+  rotate: true
+  xy: 436, 422
+  size: 235, 179
+  orig: 240, 240
+  offset: 3, 12
+  index: -1
+www_0027
+  rotate: false
+  xy: 1239, 703
+  size: 232, 173
+  orig: 240, 240
+  offset: 1, 17
+  index: -1
+www_0029
+  rotate: false
+  xy: 196, 269
+  size: 235, 174
+  orig: 240, 240
+  offset: 1, 18
+  index: -1
+www_0031
+  rotate: true
+  xy: 1124, 226
+  size: 212, 132
+  orig: 240, 240
+  offset: 7, 18
+  index: -1
+xian-alpha
+  rotate: true
+  xy: 1258, 210
+  size: 174, 176
+  orig: 240, 240
+  offset: 40, 25
+  index: -1
+xian_add
+  rotate: true
+  xy: 1258, 386
+  size: 185, 184
+  orig: 240, 240
+  offset: 25, 23
+  index: -1
+zhu
+  rotate: false
+  xy: 2, 350
+  size: 192, 307
+  orig: 192, 307
+  offset: 0, 0
+  index: -1

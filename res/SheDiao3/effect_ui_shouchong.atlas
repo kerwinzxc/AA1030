@@ -1,0 +1,216 @@
+
+effect_ui_shouchong.png
+size: 1327,170
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+add_0001
+  rotate: false
+  xy: 537, 2
+  size: 82, 80
+  orig: 102, 102
+  offset: 7, 11
+  index: -1
+add_0003
+  rotate: false
+  xy: 1070, 89
+  size: 85, 79
+  orig: 102, 102
+  offset: 6, 12
+  index: -1
+add_0005
+  rotate: false
+  xy: 2, 87
+  size: 88, 81
+  orig: 102, 102
+  offset: 6, 11
+  index: -1
+add_0007
+  rotate: false
+  xy: 272, 84
+  size: 87, 84
+  orig: 102, 102
+  offset: 6, 12
+  index: -1
+add_0009
+  rotate: false
+  xy: 92, 84
+  size: 88, 84
+  orig: 102, 102
+  offset: 5, 13
+  index: -1
+add_0011
+  rotate: false
+  xy: 806, 85
+  size: 86, 83
+  orig: 102, 102
+  offset: 6, 15
+  index: -1
+add_0013
+  rotate: false
+  xy: 715, 2
+  size: 84, 81
+  orig: 102, 102
+  offset: 7, 17
+  index: -1
+add_0015
+  rotate: false
+  xy: 179, 2
+  size: 83, 80
+  orig: 102, 102
+  offset: 7, 18
+  index: -1
+add_0017
+  rotate: false
+  xy: 92, 2
+  size: 85, 80
+  orig: 102, 102
+  offset: 6, 18
+  index: -1
+add_0019
+  rotate: false
+  xy: 361, 85
+  size: 87, 83
+  orig: 102, 102
+  offset: 5, 16
+  index: -1
+add_0021
+  rotate: false
+  xy: 450, 85
+  size: 87, 83
+  orig: 102, 102
+  offset: 5, 15
+  index: -1
+add_0023
+  rotate: false
+  xy: 894, 86
+  size: 86, 82
+  orig: 102, 102
+  offset: 5, 15
+  index: -1
+add_0025
+  rotate: false
+  xy: 361, 2
+  size: 86, 81
+  orig: 102, 102
+  offset: 5, 15
+  index: -1
+add_0027
+  rotate: false
+  xy: 801, 2
+  size: 84, 81
+  orig: 102, 102
+  offset: 5, 13
+  index: -1
+add_0029
+  rotate: true
+  xy: 1155, 2
+  size: 83, 77
+  orig: 102, 102
+  offset: 5, 13
+  index: -1
+add_0031
+  rotate: false
+  xy: 1243, 88
+  size: 82, 80
+  orig: 102, 102
+  offset: 7, 11
+  index: -1
+add_0033
+  rotate: false
+  xy: 982, 4
+  size: 85, 79
+  orig: 102, 102
+  offset: 6, 12
+  index: -1
+add_0035
+  rotate: false
+  xy: 2, 4
+  size: 88, 81
+  orig: 102, 102
+  offset: 6, 11
+  index: -1
+add_0037
+  rotate: false
+  xy: 539, 84
+  size: 87, 84
+  orig: 102, 102
+  offset: 6, 12
+  index: -1
+add_0039
+  rotate: false
+  xy: 182, 84
+  size: 88, 84
+  orig: 102, 102
+  offset: 5, 13
+  index: -1
+add_0041
+  rotate: false
+  xy: 982, 85
+  size: 86, 83
+  orig: 102, 102
+  offset: 6, 15
+  index: -1
+add_0043
+  rotate: false
+  xy: 1069, 2
+  size: 84, 81
+  orig: 102, 102
+  offset: 7, 17
+  index: -1
+add_0045
+  rotate: false
+  xy: 264, 2
+  size: 83, 80
+  orig: 102, 102
+  offset: 7, 18
+  index: -1
+add_0047
+  rotate: false
+  xy: 628, 2
+  size: 85, 81
+  orig: 102, 102
+  offset: 6, 18
+  index: -1
+add_0049
+  rotate: false
+  xy: 628, 85
+  size: 87, 83
+  orig: 102, 102
+  offset: 5, 16
+  index: -1
+add_0051
+  rotate: false
+  xy: 717, 85
+  size: 87, 83
+  orig: 102, 102
+  offset: 5, 15
+  index: -1
+add_0053
+  rotate: false
+  xy: 894, 2
+  size: 86, 82
+  orig: 102, 102
+  offset: 5, 15
+  index: -1
+add_0055
+  rotate: false
+  xy: 449, 2
+  size: 86, 81
+  orig: 102, 102
+  offset: 5, 15
+  index: -1
+add_0057
+  rotate: false
+  xy: 1157, 87
+  size: 84, 81
+  orig: 102, 102
+  offset: 5, 13
+  index: -1
+add_0059
+  rotate: true
+  xy: 1234, 2
+  size: 83, 77
+  orig: 102, 102
+  offset: 5, 13
+  index: -1

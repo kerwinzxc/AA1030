@@ -1,0 +1,852 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		FA2AC561215DC9F60026B419 /* NSData+AES.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC4EB215DC9F40026B419 /* NSData+AES.h */; };
+		FA2AC562215DC9F60026B419 /* PostinGTMBase64.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC4ED215DC9F40026B419 /* PostinGTMBase64.h */; };
+		FA2AC563215DC9F60026B419 /* PostinGTMDefines.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC4EE215DC9F40026B419 /* PostinGTMDefines.h */; };
+		FA2AC564215DC9F60026B419 /* PostinGTMBase64.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC4EF215DC9F40026B419 /* PostinGTMBase64.m */; };
+		FA2AC565215DC9F60026B419 /* PostinSecurityUtil.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC4F0215DC9F40026B419 /* PostinSecurityUtil.h */; };
+		FA2AC566215DC9F60026B419 /* NSData+AES.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC4F1215DC9F40026B419 /* NSData+AES.m */; };
+		FA2AC567215DC9F60026B419 /* PostinSecurityUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC4F2215DC9F40026B419 /* PostinSecurityUtil.m */; };
+		FA2AC568215DC9F60026B419 /* PostinSdk.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC4F3215DC9F40026B419 /* PostinSdk.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA2AC569215DC9F60026B419 /* PostinPopwidowViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC4F6215DC9F40026B419 /* PostinPopwidowViewController.h */; };
+		FA2AC56A215DC9F60026B419 /* PostinNavViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC4F7215DC9F40026B419 /* PostinNavViewController.m */; };
+		FA2AC56B215DC9F60026B419 /* PostinBindPhoneViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC4F8215DC9F40026B419 /* PostinBindPhoneViewController.h */; };
+		FA2AC56C215DC9F60026B419 /* PostinWindowTouch.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC4F9215DC9F40026B419 /* PostinWindowTouch.m */; };
+		FA2AC56D215DC9F60026B419 /* PostinFloatWindow.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC4FA215DC9F40026B419 /* PostinFloatWindow.m */; };
+		FA2AC56E215DC9F60026B419 /* PostinServiceViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC4FB215DC9F40026B419 /* PostinServiceViewController.h */; };
+		FA2AC56F215DC9F60026B419 /* PostinSettingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC4FC215DC9F40026B419 /* PostinSettingViewController.m */; };
+		FA2AC570215DC9F60026B419 /* PostinBindIdentifyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC4FD215DC9F40026B419 /* PostinBindIdentifyViewController.m */; };
+		FA2AC571215DC9F60026B419 /* PostinAccountViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC4FE215DC9F40026B419 /* PostinAccountViewController.h */; };
+		FA2AC572215DC9F60026B419 /* PostinBindEmailViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC4FF215DC9F40026B419 /* PostinBindEmailViewController.h */; };
+		FA2AC573215DC9F60026B419 /* PostinFloatViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC500215DC9F40026B419 /* PostinFloatViewController.h */; };
+		FA2AC574215DC9F60026B419 /* PostinChangePasswordViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC501215DC9F40026B419 /* PostinChangePasswordViewController.h */; };
+		FA2AC575215DC9F60026B419 /* PostinFloatWindow.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC502215DC9F40026B419 /* PostinFloatWindow.h */; };
+		FA2AC576215DC9F60026B419 /* PostinWindowTouch.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC503215DC9F40026B419 /* PostinWindowTouch.h */; };
+		FA2AC577215DC9F60026B419 /* PostinBindPhoneViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC504215DC9F40026B419 /* PostinBindPhoneViewController.m */; };
+		FA2AC578215DC9F60026B419 /* PostinNavViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC505215DC9F40026B419 /* PostinNavViewController.h */; };
+		FA2AC579215DC9F60026B419 /* PostinPopwidowViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC506215DC9F40026B419 /* PostinPopwidowViewController.m */; };
+		FA2AC57A215DC9F60026B419 /* PostinChangePasswordViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC507215DC9F40026B419 /* PostinChangePasswordViewController.m */; };
+		FA2AC57B215DC9F60026B419 /* PostinSwitchDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC508215DC9F40026B419 /* PostinSwitchDelegate.h */; };
+		FA2AC57C215DC9F60026B419 /* PostinBindEmailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC509215DC9F40026B419 /* PostinBindEmailViewController.m */; };
+		FA2AC57D215DC9F60026B419 /* PostinFloatViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC50A215DC9F40026B419 /* PostinFloatViewController.m */; };
+		FA2AC57E215DC9F60026B419 /* PostinAccountViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC50B215DC9F40026B419 /* PostinAccountViewController.m */; };
+		FA2AC57F215DC9F60026B419 /* PostinBindIdentifyViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC50C215DC9F40026B419 /* PostinBindIdentifyViewController.h */; };
+		FA2AC580215DC9F60026B419 /* PostinSettingViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC50D215DC9F40026B419 /* PostinSettingViewController.h */; };
+		FA2AC581215DC9F60026B419 /* PostinServiceViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC50E215DC9F40026B419 /* PostinServiceViewController.m */; };
+		FA2AC582215DC9F60026B419 /* UIImage+PostinSdk.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC510215DC9F40026B419 /* UIImage+PostinSdk.m */; };
+		FA2AC583215DC9F60026B419 /* NSString+PostinSdk.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC511215DC9F40026B419 /* NSString+PostinSdk.h */; };
+		FA2AC584215DC9F60026B419 /* UIControl+ZHW.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC512215DC9F40026B419 /* UIControl+ZHW.h */; };
+		FA2AC585215DC9F60026B419 /* PostinUserInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC513215DC9F40026B419 /* PostinUserInfo.m */; };
+		FA2AC586215DC9F60026B419 /* UIColor+PostinSdk.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC514215DC9F40026B419 /* UIColor+PostinSdk.h */; };
+		FA2AC587215DC9F60026B419 /* PostinKxdKeyChainTool.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC515215DC9F40026B419 /* PostinKxdKeyChainTool.m */; };
+		FA2AC588215DC9F60026B419 /* PostinSdkMd5.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC516215DC9F40026B419 /* PostinSdkMd5.m */; };
+		FA2AC589215DC9F60026B419 /* PostinButton.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC517215DC9F40026B419 /* PostinButton.m */; };
+		FA2AC58A215DC9F60026B419 /* UIImage+PostinSdk.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC518215DC9F40026B419 /* UIImage+PostinSdk.h */; };
+		FA2AC58B215DC9F60026B419 /* UIControl+ZHW.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC519215DC9F40026B419 /* UIControl+ZHW.m */; };
+		FA2AC58C215DC9F60026B419 /* NSString+PostinSdk.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC51A215DC9F40026B419 /* NSString+PostinSdk.m */; };
+		FA2AC58D215DC9F60026B419 /* PostinKeyChainTool.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC51B215DC9F40026B419 /* PostinKeyChainTool.h */; };
+		FA2AC58E215DC9F60026B419 /* PostinUserInfo.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC51C215DC9F40026B419 /* PostinUserInfo.h */; };
+		FA2AC58F215DC9F60026B419 /* PostinButton.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC51D215DC9F40026B419 /* PostinButton.h */; };
+		FA2AC590215DC9F60026B419 /* PostinSdkMd5.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC51E215DC9F40026B419 /* PostinSdkMd5.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA2AC591215DC9F60026B419 /* UIColor+PostinSdk.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC51F215DC9F40026B419 /* UIColor+PostinSdk.m */; };
+		FA2AC592215DC9F60026B419 /* PostinSdkImp.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC520215DC9F40026B419 /* PostinSdkImp.h */; };
+		FA2AC593215DC9F60026B419 /* PostinOpenUDID.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC521215DC9F40026B419 /* PostinOpenUDID.m */; };
+		FA2AC594215DC9F60026B419 /* PostinSdkImp.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC522215DC9F40026B419 /* PostinSdkImp.m */; };
+		FA2AC595215DC9F60026B419 /* PostinDefaultLogin.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC524215DC9F40026B419 /* PostinDefaultLogin.m */; };
+		FA2AC596215DC9F60026B419 /* PostinPopWindow.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC525215DC9F40026B419 /* PostinPopWindow.h */; };
+		FA2AC597215DC9F60026B419 /* PostinYMPhoneRegisterView.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC526215DC9F40026B419 /* PostinYMPhoneRegisterView.m */; };
+		FA2AC598215DC9F60026B419 /* PostinShiMingRenZhengView.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC527215DC9F40026B419 /* PostinShiMingRenZhengView.m */; };
+		FA2AC599215DC9F60026B419 /* PostinBaseView.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC528215DC9F40026B419 /* PostinBaseView.m */; };
+		FA2AC59A215DC9F60026B419 /* PostinYMPhoneLogin.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC529215DC9F40026B419 /* PostinYMPhoneLogin.h */; };
+		FA2AC59B215DC9F60026B419 /* PostinYMBindPhoneView.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC52A215DC9F40026B419 /* PostinYMBindPhoneView.h */; };
+		FA2AC59C215DC9F60026B419 /* PostinCheckUpdate.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC52B215DC9F40026B419 /* PostinCheckUpdate.h */; };
+		FA2AC59D215DC9F60026B419 /* PostinYMLoginView.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC52C215DC9F40026B419 /* PostinYMLoginView.h */; };
+		FA2AC59E215DC9F60026B419 /* PostinQuickLogin.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC52D215DC9F50026B419 /* PostinQuickLogin.m */; };
+		FA2AC59F215DC9F60026B419 /* PostinRegisterView.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC52E215DC9F50026B419 /* PostinRegisterView.m */; };
+		FA2AC5A0215DC9F60026B419 /* PostinForgetEmailView.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC52F215DC9F50026B419 /* PostinForgetEmailView.m */; };
+		FA2AC5A1215DC9F60026B419 /* PostinAgreeView.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC530215DC9F50026B419 /* PostinAgreeView.h */; };
+		FA2AC5A2215DC9F60026B419 /* PostinBind.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC531215DC9F50026B419 /* PostinBind.m */; };
+		FA2AC5A3215DC9F60026B419 /* PostinUserCenterView.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC532215DC9F50026B419 /* PostinUserCenterView.m */; };
+		FA2AC5A4215DC9F60026B419 /* PostinYMPhoneRegister.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC533215DC9F50026B419 /* PostinYMPhoneRegister.m */; };
+		FA2AC5A5215DC9F60026B419 /* PostinForgetView.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC534215DC9F50026B419 /* PostinForgetView.h */; };
+		FA2AC5A6215DC9F60026B419 /* SJ_ValidateIdentity.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC535215DC9F50026B419 /* SJ_ValidateIdentity.h */; };
+		FA2AC5A7215DC9F60026B419 /* PostinShiMingRenZhengView.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC536215DC9F50026B419 /* PostinShiMingRenZhengView.h */; };
+		FA2AC5A8215DC9F60026B419 /* PostinYMPhoneRegisterView.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC537215DC9F50026B419 /* PostinYMPhoneRegisterView.h */; };
+		FA2AC5A9215DC9F60026B419 /* PostinDefaultLogin.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC538215DC9F50026B419 /* PostinDefaultLogin.h */; };
+		FA2AC5AA215DC9F60026B419 /* PostinPopWindow.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC539215DC9F50026B419 /* PostinPopWindow.m */; };
+		FA2AC5AB215DC9F60026B419 /* PostinQuickLogin.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC53A215DC9F50026B419 /* PostinQuickLogin.h */; };
+		FA2AC5AC215DC9F60026B419 /* PostinYMLoginView.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC53B215DC9F50026B419 /* PostinYMLoginView.m */; };
+		FA2AC5AD215DC9F60026B419 /* PostinCheckUpdate.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC53C215DC9F50026B419 /* PostinCheckUpdate.m */; };
+		FA2AC5AE215DC9F60026B419 /* PostinYMBindPhoneView.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC53D215DC9F50026B419 /* PostinYMBindPhoneView.m */; };
+		FA2AC5AF215DC9F60026B419 /* PostinYMPhoneLogin.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC53E215DC9F50026B419 /* PostinYMPhoneLogin.m */; };
+		FA2AC5B0215DC9F60026B419 /* PostinBaseView.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC53F215DC9F50026B419 /* PostinBaseView.h */; };
+		FA2AC5B1215DC9F60026B419 /* PostinUserCenterView.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC540215DC9F50026B419 /* PostinUserCenterView.h */; };
+		FA2AC5B2215DC9F60026B419 /* PostinBind.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC541215DC9F50026B419 /* PostinBind.h */; };
+		FA2AC5B3215DC9F60026B419 /* PostinAgreeView.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC542215DC9F50026B419 /* PostinAgreeView.m */; };
+		FA2AC5B4215DC9F60026B419 /* PostinForgetEmailView.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC543215DC9F50026B419 /* PostinForgetEmailView.h */; };
+		FA2AC5B5215DC9F60026B419 /* PostinRegisterView.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC544215DC9F50026B419 /* PostinRegisterView.h */; };
+		FA2AC5B6215DC9F60026B419 /* SJ_ValidateIdentity.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC545215DC9F50026B419 /* SJ_ValidateIdentity.m */; };
+		FA2AC5B7215DC9F60026B419 /* PostinForgetView.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC546215DC9F50026B419 /* PostinForgetView.m */; };
+		FA2AC5B8215DC9F60026B419 /* PostinYMPhoneRegister.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC547215DC9F50026B419 /* PostinYMPhoneRegister.h */; };
+		FA2AC5B9215DC9F60026B419 /* PostinOpenUDID.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC548215DC9F50026B419 /* PostinOpenUDID.h */; };
+		FA2AC5BA215DC9F60026B419 /* PostinSdkPy.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC54A215DC9F50026B419 /* PostinSdkPy.h */; };
+		FA2AC5BB215DC9F60026B419 /* PostinSdkPy.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC54B215DC9F50026B419 /* PostinSdkPy.m */; };
+		FA2AC5BC215DC9F60026B419 /* PostinWebInterface.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC54D215DC9F50026B419 /* PostinWebInterface.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA2AC5BD215DC9F60026B419 /* PostinWebApi.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC54E215DC9F50026B419 /* PostinWebApi.m */; };
+		FA2AC5BE215DC9F60026B419 /* PostinWebInterface.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC54F215DC9F50026B419 /* PostinWebInterface.m */; };
+		FA2AC5BF215DC9F60026B419 /* PostinWebApi.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC550215DC9F50026B419 /* PostinWebApi.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA2AC5C0215DC9F60026B419 /* PostinProgressHUD.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC552215DC9F50026B419 /* PostinProgressHUD.h */; };
+		FA2AC5C1215DC9F60026B419 /* PostinProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC553215DC9F50026B419 /* PostinProgressHUD.m */; };
+		FA2AC5C2215DC9F60026B419 /* PostinSdkCommonDefine.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC554215DC9F50026B419 /* PostinSdkCommonDefine.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA2AC5C3215DC9F60026B419 /* PostinReachability.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC556215DC9F50026B419 /* PostinReachability.h */; };
+		FA2AC5C4215DC9F60026B419 /* PostinReachability.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC557215DC9F50026B419 /* PostinReachability.m */; };
+		FA2AC5C5215DC9F60026B419 /* PostinFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC558215DC9F50026B419 /* PostinFramework.h */; };
+		FA2AC5C7215DC9F60026B419 /* PostinDataBase.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC55B215DC9F50026B419 /* PostinDataBase.m */; };
+		FA2AC5C8215DC9F60026B419 /* PostinDataBase.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC55C215DC9F50026B419 /* PostinDataBase.h */; };
+		FA2AC5C9215DC9F60026B419 /* PostinSdk.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC55D215DC9F50026B419 /* PostinSdk.m */; };
+		FA2AC5CA215DC9F60026B419 /* Postin-Prefix.pch in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC55E215DC9F50026B419 /* Postin-Prefix.pch */; };
+		FA2AC5CC215DC9F60026B419 /* PostinFramework.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC560215DC9F60026B419 /* PostinFramework.m */; };
+		FA2AC5E0215DCA5C0026B419 /* BPostin.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC5DA215DCA5C0026B419 /* BPostin.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA2AC5E1215DCA5C0026B419 /* APostin.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC5DB215DCA5C0026B419 /* APostin.m */; };
+		FA2AC5E2215DCA5C0026B419 /* CPostin.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC5DC215DCA5C0026B419 /* CPostin.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA2AC5E3215DCA5C0026B419 /* APostin.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2AC5DD215DCA5C0026B419 /* APostin.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA2AC5E4215DCA5C0026B419 /* CPostin.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC5DE215DCA5C0026B419 /* CPostin.m */; };
+		FA2AC5E5215DCA5C0026B419 /* BPostin.m in Sources */ = {isa = PBXBuildFile; fileRef = FA2AC5DF215DCA5C0026B419 /* BPostin.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		910F326818C6AF4700C0DD7A /* Postin.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework.static; includeInIndex = 0; path = Postin.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		FA2AC4EB215DC9F40026B419 /* NSData+AES.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSData+AES.h"; sourceTree = "<group>"; };
+		FA2AC4ED215DC9F40026B419 /* PostinGTMBase64.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostinGTMBase64.h; sourceTree = "<group>"; };
+		FA2AC4EE215DC9F40026B419 /* PostinGTMDefines.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostinGTMDefines.h; sourceTree = "<group>"; };
+		FA2AC4EF215DC9F40026B419 /* PostinGTMBase64.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostinGTMBase64.m; sourceTree = "<group>"; };
+		FA2AC4F0215DC9F40026B419 /* PostinSecurityUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostinSecurityUtil.h; sourceTree = "<group>"; };
+		FA2AC4F1215DC9F40026B419 /* NSData+AES.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSData+AES.m"; sourceTree = "<group>"; };
+		FA2AC4F2215DC9F40026B419 /* PostinSecurityUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostinSecurityUtil.m; sourceTree = "<group>"; };
+		FA2AC4F3215DC9F40026B419 /* PostinSdk.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PostinSdk.h; path = PostinFramework/PostinSdk.h; sourceTree = "<group>"; };
+		FA2AC4F6215DC9F40026B419 /* PostinPopwidowViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostinPopwidowViewController.h; sourceTree = "<group>"; };
+		FA2AC4F7215DC9F40026B419 /* PostinNavViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostinNavViewController.m; sourceTree = "<group>"; };
+		FA2AC4F8215DC9F40026B419 /* PostinBindPhoneViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostinBindPhoneViewController.h; sourceTree = "<group>"; };
+		FA2AC4F9215DC9F40026B419 /* PostinWindowTouch.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostinWindowTouch.m; sourceTree = "<group>"; };
+		FA2AC4FA215DC9F40026B419 /* PostinFloatWindow.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostinFloatWindow.m; sourceTree = "<group>"; };
+		FA2AC4FB215DC9F40026B419 /* PostinServiceViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostinServiceViewController.h; sourceTree = "<group>"; };
+		FA2AC4FC215DC9F40026B419 /* PostinSettingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostinSettingViewController.m; sourceTree = "<group>"; };
+		FA2AC4FD215DC9F40026B419 /* PostinBindIdentifyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostinBindIdentifyViewController.m; sourceTree = "<group>"; };
+		FA2AC4FE215DC9F40026B419 /* PostinAccountViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostinAccountViewController.h; sourceTree = "<group>"; };
+		FA2AC4FF215DC9F40026B419 /* PostinBindEmailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostinBindEmailViewController.h; sourceTree = "<group>"; };
+		FA2AC500215DC9F40026B419 /* PostinFloatViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostinFloatViewController.h; sourceTree = "<group>"; };
+		FA2AC501215DC9F40026B419 /* PostinChangePasswordViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostinChangePasswordViewController.h; sourceTree = "<group>"; };
+		FA2AC502215DC9F40026B419 /* PostinFloatWindow.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostinFloatWindow.h; sourceTree = "<group>"; };
+		FA2AC503215DC9F40026B419 /* PostinWindowTouch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostinWindowTouch.h; sourceTree = "<group>"; };
+		FA2AC504215DC9F40026B419 /* PostinBindPhoneViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostinBindPhoneViewController.m; sourceTree = "<group>"; };
+		FA2AC505215DC9F40026B419 /* PostinNavViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostinNavViewController.h; sourceTree = "<group>"; };
+		FA2AC506215DC9F40026B419 /* PostinPopwidowViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostinPopwidowViewController.m; sourceTree = "<group>"; };
+		FA2AC507215DC9F40026B419 /* PostinChangePasswordViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostinChangePasswordViewController.m; sourceTree = "<group>"; };
+		FA2AC508215DC9F40026B419 /* PostinSwitchDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostinSwitchDelegate.h; sourceTree = "<group>"; };
+		FA2AC509215DC9F40026B419 /* PostinBindEmailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostinBindEmailViewController.m; sourceTree = "<group>"; };
+		FA2AC50A215DC9F40026B419 /* PostinFloatViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostinFloatViewController.m; sourceTree = "<group>"; };
+		FA2AC50B215DC9F40026B419 /* PostinAccountViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostinAccountViewController.m; sourceTree = "<group>"; };
+		FA2AC50C215DC9F40026B419 /* PostinBindIdentifyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostinBindIdentifyViewController.h; sourceTree = "<group>"; };
+		FA2AC50D215DC9F40026B419 /* PostinSettingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostinSettingViewController.h; sourceTree = "<group>"; };
+		FA2AC50E215DC9F40026B419 /* PostinServiceViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostinServiceViewController.m; sourceTree = "<group>"; };
+		FA2AC510215DC9F40026B419 /* UIImage+PostinSdk.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+PostinSdk.m"; sourceTree = "<group>"; };
+		FA2AC511215DC9F40026B419 /* NSString+PostinSdk.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+PostinSdk.h"; sourceTree = "<group>"; };
+		FA2AC512215DC9F40026B419 /* UIControl+ZHW.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIControl+ZHW.h"; sourceTree = "<group>"; };
+		FA2AC513215DC9F40026B419 /* PostinUserInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostinUserInfo.m; sourceTree = "<group>"; };
+		FA2AC514215DC9F40026B419 /* UIColor+PostinSdk.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+PostinSdk.h"; sourceTree = "<group>"; };
+		FA2AC515215DC9F40026B419 /* PostinKxdKeyChainTool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostinKxdKeyChainTool.m; sourceTree = "<group>"; };
+		FA2AC516215DC9F40026B419 /* PostinSdkMd5.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostinSdkMd5.m; sourceTree = "<group>"; };
+		FA2AC517215DC9F40026B419 /* PostinButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostinButton.m; sourceTree = "<group>"; };
+		FA2AC518215DC9F40026B419 /* UIImage+PostinSdk.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+PostinSdk.h"; sourceTree = "<group>"; };
+		FA2AC519215DC9F40026B419 /* UIControl+ZHW.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIControl+ZHW.m"; sourceTree = "<group>"; };
+		FA2AC51A215DC9F40026B419 /* NSString+PostinSdk.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+PostinSdk.m"; sourceTree = "<group>"; };
+		FA2AC51B215DC9F40026B419 /* PostinKeyChainTool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostinKeyChainTool.h; sourceTree = "<group>"; };
+		FA2AC51C215DC9F40026B419 /* PostinUserInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostinUserInfo.h; sourceTree = "<group>"; };
+		FA2AC51D215DC9F40026B419 /* PostinButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostinButton.h; sourceTree = "<group>"; };
+		FA2AC51E215DC9F40026B419 /* PostinSdkMd5.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostinSdkMd5.h; sourceTree = "<group>"; };
+		FA2AC51F215DC9F40026B419 /* UIColor+PostinSdk.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+PostinSdk.m"; sourceTree = "<group>"; };
+		FA2AC520215DC9F40026B419 /* PostinSdkImp.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostinSdkImp.h; sourceTree = "<group>"; };
+		FA2AC521215DC9F40026B419 /* PostinOpenUDID.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostinOpenUDID.m; sourceTree = "<group>"; };
+		FA2AC522215DC9F40026B419 /* PostinSdkImp.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostinSdkImp.m; sourceTree = "<group>"; };
+		FA2AC524215DC9F40026B419 /* PostinDefaultLogin.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostinDefaultLogin.m; sourceTree = "<group>"; };
+		FA2AC525215DC9F40026B419 /* PostinPopWindow.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostinPopWindow.h; sourceTree = "<group>"; };
+		FA2AC526215DC9F40026B419 /* PostinYMPhoneRegisterView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostinYMPhoneRegisterView.m; sourceTree = "<group>"; };
+		FA2AC527215DC9F40026B419 /* PostinShiMingRenZhengView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostinShiMingRenZhengView.m; sourceTree = "<group>"; };
+		FA2AC528215DC9F40026B419 /* PostinBaseView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostinBaseView.m; sourceTree = "<group>"; };
+		FA2AC529215DC9F40026B419 /* PostinYMPhoneLogin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostinYMPhoneLogin.h; sourceTree = "<group>"; };
+		FA2AC52A215DC9F40026B419 /* PostinYMBindPhoneView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostinYMBindPhoneView.h; sourceTree = "<group>"; };
+		FA2AC52B215DC9F40026B419 /* PostinCheckUpdate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostinCheckUpdate.h; sourceTree = "<group>"; };
+		FA2AC52C215DC9F40026B419 /* PostinYMLoginView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostinYMLoginView.h; sourceTree = "<group>"; };
+		FA2AC52D215DC9F50026B419 /* PostinQuickLogin.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostinQuickLogin.m; sourceTree = "<group>"; };
+		FA2AC52E215DC9F50026B419 /* PostinRegisterView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostinRegisterView.m; sourceTree = "<group>"; };
+		FA2AC52F215DC9F50026B419 /* PostinForgetEmailView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostinForgetEmailView.m; sourceTree = "<group>"; };
+		FA2AC530215DC9F50026B419 /* PostinAgreeView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostinAgreeView.h; sourceTree = "<group>"; };
+		FA2AC531215DC9F50026B419 /* PostinBind.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostinBind.m; sourceTree = "<group>"; };
+		FA2AC532215DC9F50026B419 /* PostinUserCenterView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostinUserCenterView.m; sourceTree = "<group>"; };
+		FA2AC533215DC9F50026B419 /* PostinYMPhoneRegister.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostinYMPhoneRegister.m; sourceTree = "<group>"; };
+		FA2AC534215DC9F50026B419 /* PostinForgetView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostinForgetView.h; sourceTree = "<group>"; };
+		FA2AC535215DC9F50026B419 /* SJ_ValidateIdentity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJ_ValidateIdentity.h; sourceTree = "<group>"; };
+		FA2AC536215DC9F50026B419 /* PostinShiMingRenZhengView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostinShiMingRenZhengView.h; sourceTree = "<group>"; };
+		FA2AC537215DC9F50026B419 /* PostinYMPhoneRegisterView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostinYMPhoneRegisterView.h; sourceTree = "<group>"; };
+		FA2AC538215DC9F50026B419 /* PostinDefaultLogin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostinDefaultLogin.h; sourceTree = "<group>"; };
+		FA2AC539215DC9F50026B419 /* PostinPopWindow.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostinPopWindow.m; sourceTree = "<group>"; };
+		FA2AC53A215DC9F50026B419 /* PostinQuickLogin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostinQuickLogin.h; sourceTree = "<group>"; };
+		FA2AC53B215DC9F50026B419 /* PostinYMLoginView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostinYMLoginView.m; sourceTree = "<group>"; };
+		FA2AC53C215DC9F50026B419 /* PostinCheckUpdate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostinCheckUpdate.m; sourceTree = "<group>"; };
+		FA2AC53D215DC9F50026B419 /* PostinYMBindPhoneView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostinYMBindPhoneView.m; sourceTree = "<group>"; };
+		FA2AC53E215DC9F50026B419 /* PostinYMPhoneLogin.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostinYMPhoneLogin.m; sourceTree = "<group>"; };
+		FA2AC53F215DC9F50026B419 /* PostinBaseView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostinBaseView.h; sourceTree = "<group>"; };
+		FA2AC540215DC9F50026B419 /* PostinUserCenterView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostinUserCenterView.h; sourceTree = "<group>"; };
+		FA2AC541215DC9F50026B419 /* PostinBind.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostinBind.h; sourceTree = "<group>"; };
+		FA2AC542215DC9F50026B419 /* PostinAgreeView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostinAgreeView.m; sourceTree = "<group>"; };
+		FA2AC543215DC9F50026B419 /* PostinForgetEmailView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostinForgetEmailView.h; sourceTree = "<group>"; };
+		FA2AC544215DC9F50026B419 /* PostinRegisterView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostinRegisterView.h; sourceTree = "<group>"; };
+		FA2AC545215DC9F50026B419 /* SJ_ValidateIdentity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJ_ValidateIdentity.m; sourceTree = "<group>"; };
+		FA2AC546215DC9F50026B419 /* PostinForgetView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostinForgetView.m; sourceTree = "<group>"; };
+		FA2AC547215DC9F50026B419 /* PostinYMPhoneRegister.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostinYMPhoneRegister.h; sourceTree = "<group>"; };
+		FA2AC548215DC9F50026B419 /* PostinOpenUDID.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostinOpenUDID.h; sourceTree = "<group>"; };
+		FA2AC54A215DC9F50026B419 /* PostinSdkPy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostinSdkPy.h; sourceTree = "<group>"; };
+		FA2AC54B215DC9F50026B419 /* PostinSdkPy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostinSdkPy.m; sourceTree = "<group>"; };
+		FA2AC54D215DC9F50026B419 /* PostinWebInterface.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostinWebInterface.h; sourceTree = "<group>"; };
+		FA2AC54E215DC9F50026B419 /* PostinWebApi.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostinWebApi.m; sourceTree = "<group>"; };
+		FA2AC54F215DC9F50026B419 /* PostinWebInterface.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostinWebInterface.m; sourceTree = "<group>"; };
+		FA2AC550215DC9F50026B419 /* PostinWebApi.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostinWebApi.h; sourceTree = "<group>"; };
+		FA2AC552215DC9F50026B419 /* PostinProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostinProgressHUD.h; sourceTree = "<group>"; };
+		FA2AC553215DC9F50026B419 /* PostinProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostinProgressHUD.m; sourceTree = "<group>"; };
+		FA2AC554215DC9F50026B419 /* PostinSdkCommonDefine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PostinSdkCommonDefine.h; path = PostinFramework/PostinSdkCommonDefine.h; sourceTree = "<group>"; };
+		FA2AC556215DC9F50026B419 /* PostinReachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostinReachability.h; sourceTree = "<group>"; };
+		FA2AC557215DC9F50026B419 /* PostinReachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostinReachability.m; sourceTree = "<group>"; };
+		FA2AC558215DC9F50026B419 /* PostinFramework.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PostinFramework.h; path = PostinFramework/PostinFramework.h; sourceTree = "<group>"; };
+		FA2AC559215DC9F50026B419 /* InfoPlist.strings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = InfoPlist.strings; path = PostinFramework/InfoPlist.strings; sourceTree = "<group>"; };
+		FA2AC55B215DC9F50026B419 /* PostinDataBase.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostinDataBase.m; sourceTree = "<group>"; };
+		FA2AC55C215DC9F50026B419 /* PostinDataBase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostinDataBase.h; sourceTree = "<group>"; };
+		FA2AC55D215DC9F50026B419 /* PostinSdk.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PostinSdk.m; path = PostinFramework/PostinSdk.m; sourceTree = "<group>"; };
+		FA2AC55E215DC9F50026B419 /* Postin-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "Postin-Prefix.pch"; path = "PostinFramework/Postin-Prefix.pch"; sourceTree = "<group>"; };
+		FA2AC55F215DC9F50026B419 /* Postin-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "Postin-Info.plist"; path = "PostinFramework/Postin-Info.plist"; sourceTree = "<group>"; };
+		FA2AC560215DC9F60026B419 /* PostinFramework.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PostinFramework.m; path = PostinFramework/PostinFramework.m; sourceTree = "<group>"; };
+		FA2AC5DA215DCA5C0026B419 /* BPostin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BPostin.h; sourceTree = "<group>"; };
+		FA2AC5DB215DCA5C0026B419 /* APostin.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = APostin.m; sourceTree = "<group>"; };
+		FA2AC5DC215DCA5C0026B419 /* CPostin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CPostin.h; sourceTree = "<group>"; };
+		FA2AC5DD215DCA5C0026B419 /* APostin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = APostin.h; sourceTree = "<group>"; };
+		FA2AC5DE215DCA5C0026B419 /* CPostin.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CPostin.m; sourceTree = "<group>"; };
+		FA2AC5DF215DCA5C0026B419 /* BPostin.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BPostin.m; sourceTree = "<group>"; };
+		FAF304D9215C79BC007BDD42 /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		FAF304DB215C79C7007BDD42 /* CoreMotion.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMotion.framework; path = System/Library/Frameworks/CoreMotion.framework; sourceTree = SDKROOT; };
+		FAF304DD215C7A12007BDD42 /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		910F326318C6AF4700C0DD7A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		910F325D18C6AF4700C0DD7A = {
+			isa = PBXGroup;
+			children = (
+				FA2AC5CD215DCA130026B419 /* Code */,
+				FA2AC4F4215DC9F40026B419 /* imp */,
+				FA2AC559215DC9F50026B419 /* InfoPlist.strings */,
+				FA2AC551215DC9F50026B419 /* MBProcessHUD */,
+				FA2AC4EA215DC9F40026B419 /* Security */,
+				FA2AC55A215DC9F50026B419 /* Postin_DB */,
+				FA2AC54C215DC9F50026B419 /* Postin_WebApi */,
+				FA2AC55F215DC9F50026B419 /* Postin-Info.plist */,
+				FA2AC55E215DC9F50026B419 /* Postin-Prefix.pch */,
+				FA2AC558215DC9F50026B419 /* PostinFramework.h */,
+				FA2AC560215DC9F60026B419 /* PostinFramework.m */,
+				FA2AC555215DC9F50026B419 /* PostinHttpRequest */,
+				FA2AC4F3215DC9F40026B419 /* PostinSdk.h */,
+				FA2AC55D215DC9F50026B419 /* PostinSdk.m */,
+				FA2AC549215DC9F50026B419 /* PostinSdkapplepy */,
+				FA2AC554215DC9F50026B419 /* PostinSdkCommonDefine.h */,
+				910F326A18C6AF4700C0DD7A /* Frameworks */,
+				910F326918C6AF4700C0DD7A /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		910F326918C6AF4700C0DD7A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				910F326818C6AF4700C0DD7A /* Postin.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		910F326A18C6AF4700C0DD7A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				FAF304DD215C7A12007BDD42 /* WebKit.framework */,
+				FAF304DB215C79C7007BDD42 /* CoreMotion.framework */,
+				FAF304D9215C79BC007BDD42 /* JavaScriptCore.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		FA2AC4EA215DC9F40026B419 /* Security */ = {
+			isa = PBXGroup;
+			children = (
+				FA2AC4EB215DC9F40026B419 /* NSData+AES.h */,
+				FA2AC4EC215DC9F40026B419 /* GTMBase64 */,
+				FA2AC4F0215DC9F40026B419 /* PostinSecurityUtil.h */,
+				FA2AC4F1215DC9F40026B419 /* NSData+AES.m */,
+				FA2AC4F2215DC9F40026B419 /* PostinSecurityUtil.m */,
+			);
+			name = Security;
+			path = PostinFramework/Security;
+			sourceTree = "<group>";
+		};
+		FA2AC4EC215DC9F40026B419 /* GTMBase64 */ = {
+			isa = PBXGroup;
+			children = (
+				FA2AC4ED215DC9F40026B419 /* PostinGTMBase64.h */,
+				FA2AC4EE215DC9F40026B419 /* PostinGTMDefines.h */,
+				FA2AC4EF215DC9F40026B419 /* PostinGTMBase64.m */,
+			);
+			path = GTMBase64;
+			sourceTree = "<group>";
+		};
+		FA2AC4F4215DC9F40026B419 /* imp */ = {
+			isa = PBXGroup;
+			children = (
+				FA2AC4F5215DC9F40026B419 /* popWindow */,
+				FA2AC50F215DC9F40026B419 /* util */,
+				FA2AC520215DC9F40026B419 /* PostinSdkImp.h */,
+				FA2AC521215DC9F40026B419 /* PostinOpenUDID.m */,
+				FA2AC522215DC9F40026B419 /* PostinSdkImp.m */,
+				FA2AC523215DC9F40026B419 /* view */,
+				FA2AC548215DC9F50026B419 /* PostinOpenUDID.h */,
+			);
+			name = imp;
+			path = PostinFramework/imp;
+			sourceTree = "<group>";
+		};
+		FA2AC4F5215DC9F40026B419 /* popWindow */ = {
+			isa = PBXGroup;
+			children = (
+				FA2AC4F6215DC9F40026B419 /* PostinPopwidowViewController.h */,
+				FA2AC4F7215DC9F40026B419 /* PostinNavViewController.m */,
+				FA2AC4F8215DC9F40026B419 /* PostinBindPhoneViewController.h */,
+				FA2AC4F9215DC9F40026B419 /* PostinWindowTouch.m */,
+				FA2AC4FA215DC9F40026B419 /* PostinFloatWindow.m */,
+				FA2AC4FB215DC9F40026B419 /* PostinServiceViewController.h */,
+				FA2AC4FC215DC9F40026B419 /* PostinSettingViewController.m */,
+				FA2AC4FD215DC9F40026B419 /* PostinBindIdentifyViewController.m */,
+				FA2AC4FE215DC9F40026B419 /* PostinAccountViewController.h */,
+				FA2AC4FF215DC9F40026B419 /* PostinBindEmailViewController.h */,
+				FA2AC500215DC9F40026B419 /* PostinFloatViewController.h */,
+				FA2AC501215DC9F40026B419 /* PostinChangePasswordViewController.h */,
+				FA2AC502215DC9F40026B419 /* PostinFloatWindow.h */,
+				FA2AC503215DC9F40026B419 /* PostinWindowTouch.h */,
+				FA2AC504215DC9F40026B419 /* PostinBindPhoneViewController.m */,
+				FA2AC505215DC9F40026B419 /* PostinNavViewController.h */,
+				FA2AC506215DC9F40026B419 /* PostinPopwidowViewController.m */,
+				FA2AC507215DC9F40026B419 /* PostinChangePasswordViewController.m */,
+				FA2AC508215DC9F40026B419 /* PostinSwitchDelegate.h */,
+				FA2AC509215DC9F40026B419 /* PostinBindEmailViewController.m */,
+				FA2AC50A215DC9F40026B419 /* PostinFloatViewController.m */,
+				FA2AC50B215DC9F40026B419 /* PostinAccountViewController.m */,
+				FA2AC50C215DC9F40026B419 /* PostinBindIdentifyViewController.h */,
+				FA2AC50D215DC9F40026B419 /* PostinSettingViewController.h */,
+				FA2AC50E215DC9F40026B419 /* PostinServiceViewController.m */,
+			);
+			path = popWindow;
+			sourceTree = "<group>";
+		};
+		FA2AC50F215DC9F40026B419 /* util */ = {
+			isa = PBXGroup;
+			children = (
+				FA2AC510215DC9F40026B419 /* UIImage+PostinSdk.m */,
+				FA2AC511215DC9F40026B419 /* NSString+PostinSdk.h */,
+				FA2AC512215DC9F40026B419 /* UIControl+ZHW.h */,
+				FA2AC513215DC9F40026B419 /* PostinUserInfo.m */,
+				FA2AC514215DC9F40026B419 /* UIColor+PostinSdk.h */,
+				FA2AC515215DC9F40026B419 /* PostinKxdKeyChainTool.m */,
+				FA2AC516215DC9F40026B419 /* PostinSdkMd5.m */,
+				FA2AC517215DC9F40026B419 /* PostinButton.m */,
+				FA2AC518215DC9F40026B419 /* UIImage+PostinSdk.h */,
+				FA2AC519215DC9F40026B419 /* UIControl+ZHW.m */,
+				FA2AC51A215DC9F40026B419 /* NSString+PostinSdk.m */,
+				FA2AC51B215DC9F40026B419 /* PostinKeyChainTool.h */,
+				FA2AC51C215DC9F40026B419 /* PostinUserInfo.h */,
+				FA2AC51D215DC9F40026B419 /* PostinButton.h */,
+				FA2AC51E215DC9F40026B419 /* PostinSdkMd5.h */,
+				FA2AC51F215DC9F40026B419 /* UIColor+PostinSdk.m */,
+			);
+			path = util;
+			sourceTree = "<group>";
+		};
+		FA2AC523215DC9F40026B419 /* view */ = {
+			isa = PBXGroup;
+			children = (
+				FA2AC524215DC9F40026B419 /* PostinDefaultLogin.m */,
+				FA2AC525215DC9F40026B419 /* PostinPopWindow.h */,
+				FA2AC526215DC9F40026B419 /* PostinYMPhoneRegisterView.m */,
+				FA2AC527215DC9F40026B419 /* PostinShiMingRenZhengView.m */,
+				FA2AC528215DC9F40026B419 /* PostinBaseView.m */,
+				FA2AC529215DC9F40026B419 /* PostinYMPhoneLogin.h */,
+				FA2AC52A215DC9F40026B419 /* PostinYMBindPhoneView.h */,
+				FA2AC52B215DC9F40026B419 /* PostinCheckUpdate.h */,
+				FA2AC52C215DC9F40026B419 /* PostinYMLoginView.h */,
+				FA2AC52D215DC9F50026B419 /* PostinQuickLogin.m */,
+				FA2AC52E215DC9F50026B419 /* PostinRegisterView.m */,
+				FA2AC52F215DC9F50026B419 /* PostinForgetEmailView.m */,
+				FA2AC530215DC9F50026B419 /* PostinAgreeView.h */,
+				FA2AC531215DC9F50026B419 /* PostinBind.m */,
+				FA2AC532215DC9F50026B419 /* PostinUserCenterView.m */,
+				FA2AC533215DC9F50026B419 /* PostinYMPhoneRegister.m */,
+				FA2AC534215DC9F50026B419 /* PostinForgetView.h */,
+				FA2AC535215DC9F50026B419 /* SJ_ValidateIdentity.h */,
+				FA2AC536215DC9F50026B419 /* PostinShiMingRenZhengView.h */,
+				FA2AC537215DC9F50026B419 /* PostinYMPhoneRegisterView.h */,
+				FA2AC538215DC9F50026B419 /* PostinDefaultLogin.h */,
+				FA2AC539215DC9F50026B419 /* PostinPopWindow.m */,
+				FA2AC53A215DC9F50026B419 /* PostinQuickLogin.h */,
+				FA2AC53B215DC9F50026B419 /* PostinYMLoginView.m */,
+				FA2AC53C215DC9F50026B419 /* PostinCheckUpdate.m */,
+				FA2AC53D215DC9F50026B419 /* PostinYMBindPhoneView.m */,
+				FA2AC53E215DC9F50026B419 /* PostinYMPhoneLogin.m */,
+				FA2AC53F215DC9F50026B419 /* PostinBaseView.h */,
+				FA2AC540215DC9F50026B419 /* PostinUserCenterView.h */,
+				FA2AC541215DC9F50026B419 /* PostinBind.h */,
+				FA2AC542215DC9F50026B419 /* PostinAgreeView.m */,
+				FA2AC543215DC9F50026B419 /* PostinForgetEmailView.h */,
+				FA2AC544215DC9F50026B419 /* PostinRegisterView.h */,
+				FA2AC545215DC9F50026B419 /* SJ_ValidateIdentity.m */,
+				FA2AC546215DC9F50026B419 /* PostinForgetView.m */,
+				FA2AC547215DC9F50026B419 /* PostinYMPhoneRegister.h */,
+			);
+			path = view;
+			sourceTree = "<group>";
+		};
+		FA2AC549215DC9F50026B419 /* PostinSdkapplepy */ = {
+			isa = PBXGroup;
+			children = (
+				FA2AC54A215DC9F50026B419 /* PostinSdkPy.h */,
+				FA2AC54B215DC9F50026B419 /* PostinSdkPy.m */,
+			);
+			name = PostinSdkapplepy;
+			path = PostinFramework/PostinSdkapplepy;
+			sourceTree = "<group>";
+		};
+		FA2AC54C215DC9F50026B419 /* Postin_WebApi */ = {
+			isa = PBXGroup;
+			children = (
+				FA2AC54D215DC9F50026B419 /* PostinWebInterface.h */,
+				FA2AC54E215DC9F50026B419 /* PostinWebApi.m */,
+				FA2AC54F215DC9F50026B419 /* PostinWebInterface.m */,
+				FA2AC550215DC9F50026B419 /* PostinWebApi.h */,
+			);
+			name = Postin_WebApi;
+			path = PostinFramework/Postin_WebApi;
+			sourceTree = "<group>";
+		};
+		FA2AC551215DC9F50026B419 /* MBProcessHUD */ = {
+			isa = PBXGroup;
+			children = (
+				FA2AC552215DC9F50026B419 /* PostinProgressHUD.h */,
+				FA2AC553215DC9F50026B419 /* PostinProgressHUD.m */,
+			);
+			name = MBProcessHUD;
+			path = PostinFramework/MBProcessHUD;
+			sourceTree = "<group>";
+		};
+		FA2AC555215DC9F50026B419 /* PostinHttpRequest */ = {
+			isa = PBXGroup;
+			children = (
+				FA2AC556215DC9F50026B419 /* PostinReachability.h */,
+				FA2AC557215DC9F50026B419 /* PostinReachability.m */,
+			);
+			name = PostinHttpRequest;
+			path = PostinFramework/PostinHttpRequest;
+			sourceTree = "<group>";
+		};
+		FA2AC55A215DC9F50026B419 /* Postin_DB */ = {
+			isa = PBXGroup;
+			children = (
+				FA2AC55B215DC9F50026B419 /* PostinDataBase.m */,
+				FA2AC55C215DC9F50026B419 /* PostinDataBase.h */,
+			);
+			name = Postin_DB;
+			path = PostinFramework/Postin_DB;
+			sourceTree = "<group>";
+		};
+		FA2AC5CD215DCA130026B419 /* Code */ = {
+			isa = PBXGroup;
+			children = (
+				FA2AC5DD215DCA5C0026B419 /* APostin.h */,
+				FA2AC5DB215DCA5C0026B419 /* APostin.m */,
+				FA2AC5DA215DCA5C0026B419 /* BPostin.h */,
+				FA2AC5DF215DCA5C0026B419 /* BPostin.m */,
+				FA2AC5DC215DCA5C0026B419 /* CPostin.h */,
+				FA2AC5DE215DCA5C0026B419 /* CPostin.m */,
+			);
+			path = Code;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		910F326418C6AF4700C0DD7A /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FA2AC5BC215DC9F60026B419 /* PostinWebInterface.h in Headers */,
+				FA2AC5BF215DC9F60026B419 /* PostinWebApi.h in Headers */,
+				FA2AC5C2215DC9F60026B419 /* PostinSdkCommonDefine.h in Headers */,
+				FA2AC590215DC9F60026B419 /* PostinSdkMd5.h in Headers */,
+				FA2AC568215DC9F60026B419 /* PostinSdk.h in Headers */,
+				FA2AC5E3215DCA5C0026B419 /* APostin.h in Headers */,
+				FA2AC5E0215DCA5C0026B419 /* BPostin.h in Headers */,
+				FA2AC5E2215DCA5C0026B419 /* CPostin.h in Headers */,
+				FA2AC5C0215DC9F60026B419 /* PostinProgressHUD.h in Headers */,
+				FA2AC59B215DC9F60026B419 /* PostinYMBindPhoneView.h in Headers */,
+				FA2AC58E215DC9F60026B419 /* PostinUserInfo.h in Headers */,
+				FA2AC58F215DC9F60026B419 /* PostinButton.h in Headers */,
+				FA2AC5B1215DC9F60026B419 /* PostinUserCenterView.h in Headers */,
+				FA2AC57B215DC9F60026B419 /* PostinSwitchDelegate.h in Headers */,
+				FA2AC5B9215DC9F60026B419 /* PostinOpenUDID.h in Headers */,
+				FA2AC571215DC9F60026B419 /* PostinAccountViewController.h in Headers */,
+				FA2AC58D215DC9F60026B419 /* PostinKeyChainTool.h in Headers */,
+				FA2AC561215DC9F60026B419 /* NSData+AES.h in Headers */,
+				FA2AC5A5215DC9F60026B419 /* PostinForgetView.h in Headers */,
+				FA2AC586215DC9F60026B419 /* UIColor+PostinSdk.h in Headers */,
+				FA2AC5A6215DC9F60026B419 /* SJ_ValidateIdentity.h in Headers */,
+				FA2AC5C3215DC9F60026B419 /* PostinReachability.h in Headers */,
+				FA2AC572215DC9F60026B419 /* PostinBindEmailViewController.h in Headers */,
+				FA2AC584215DC9F60026B419 /* UIControl+ZHW.h in Headers */,
+				FA2AC59D215DC9F60026B419 /* PostinYMLoginView.h in Headers */,
+				FA2AC56E215DC9F60026B419 /* PostinServiceViewController.h in Headers */,
+				FA2AC5C8215DC9F60026B419 /* PostinDataBase.h in Headers */,
+				FA2AC5A8215DC9F60026B419 /* PostinYMPhoneRegisterView.h in Headers */,
+				FA2AC563215DC9F60026B419 /* PostinGTMDefines.h in Headers */,
+				FA2AC5B2215DC9F60026B419 /* PostinBind.h in Headers */,
+				FA2AC580215DC9F60026B419 /* PostinSettingViewController.h in Headers */,
+				FA2AC5A1215DC9F60026B419 /* PostinAgreeView.h in Headers */,
+				FA2AC5B0215DC9F60026B419 /* PostinBaseView.h in Headers */,
+				FA2AC5BA215DC9F60026B419 /* PostinSdkPy.h in Headers */,
+				FA2AC596215DC9F60026B419 /* PostinPopWindow.h in Headers */,
+				FA2AC59A215DC9F60026B419 /* PostinYMPhoneLogin.h in Headers */,
+				FA2AC575215DC9F60026B419 /* PostinFloatWindow.h in Headers */,
+				FA2AC569215DC9F60026B419 /* PostinPopwidowViewController.h in Headers */,
+				FA2AC5A9215DC9F60026B419 /* PostinDefaultLogin.h in Headers */,
+				FA2AC592215DC9F60026B419 /* PostinSdkImp.h in Headers */,
+				FA2AC5AB215DC9F60026B419 /* PostinQuickLogin.h in Headers */,
+				FA2AC5B5215DC9F60026B419 /* PostinRegisterView.h in Headers */,
+				FA2AC5C5215DC9F60026B419 /* PostinFramework.h in Headers */,
+				FA2AC58A215DC9F60026B419 /* UIImage+PostinSdk.h in Headers */,
+				FA2AC56B215DC9F60026B419 /* PostinBindPhoneViewController.h in Headers */,
+				FA2AC562215DC9F60026B419 /* PostinGTMBase64.h in Headers */,
+				FA2AC57F215DC9F60026B419 /* PostinBindIdentifyViewController.h in Headers */,
+				FA2AC5CA215DC9F60026B419 /* Postin-Prefix.pch in Headers */,
+				FA2AC574215DC9F60026B419 /* PostinChangePasswordViewController.h in Headers */,
+				FA2AC59C215DC9F60026B419 /* PostinCheckUpdate.h in Headers */,
+				FA2AC578215DC9F60026B419 /* PostinNavViewController.h in Headers */,
+				FA2AC576215DC9F60026B419 /* PostinWindowTouch.h in Headers */,
+				FA2AC5A7215DC9F60026B419 /* PostinShiMingRenZhengView.h in Headers */,
+				FA2AC583215DC9F60026B419 /* NSString+PostinSdk.h in Headers */,
+				FA2AC565215DC9F60026B419 /* PostinSecurityUtil.h in Headers */,
+				FA2AC5B4215DC9F60026B419 /* PostinForgetEmailView.h in Headers */,
+				FA2AC5B8215DC9F60026B419 /* PostinYMPhoneRegister.h in Headers */,
+				FA2AC573215DC9F60026B419 /* PostinFloatViewController.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		910F326718C6AF4700C0DD7A /* Postin */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 910F329218C6AF4800C0DD7A /* Build configuration list for PBXNativeTarget "Postin" */;
+			buildPhases = (
+				910F326218C6AF4700C0DD7A /* Sources */,
+				910F326318C6AF4700C0DD7A /* Frameworks */,
+				910F326518C6AF4700C0DD7A /* Resources */,
+				910F326418C6AF4700C0DD7A /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Postin;
+			productName = GGodFramework;
+			productReference = 910F326818C6AF4700C0DD7A /* Postin.framework */;
+			productType = "com.apple.product-type.framework.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		910F325E18C6AF4700C0DD7A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastTestingUpgradeCheck = 0710;
+				LastUpgradeCheck = 0460;
+				ORGANIZATIONNAME = "God Created";
+			};
+			buildConfigurationList = 910F326118C6AF4700C0DD7A /* Build configuration list for PBXProject "Postin" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 910F325D18C6AF4700C0DD7A;
+			productRefGroup = 910F326918C6AF4700C0DD7A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				910F326718C6AF4700C0DD7A /* Postin */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		910F326518C6AF4700C0DD7A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		910F326218C6AF4700C0DD7A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FA2AC59F215DC9F60026B419 /* PostinRegisterView.m in Sources */,
+				FA2AC567215DC9F60026B419 /* PostinSecurityUtil.m in Sources */,
+				FA2AC5BB215DC9F60026B419 /* PostinSdkPy.m in Sources */,
+				FA2AC585215DC9F60026B419 /* PostinUserInfo.m in Sources */,
+				FA2AC5A0215DC9F60026B419 /* PostinForgetEmailView.m in Sources */,
+				FA2AC593215DC9F60026B419 /* PostinOpenUDID.m in Sources */,
+				FA2AC57C215DC9F60026B419 /* PostinBindEmailViewController.m in Sources */,
+				FA2AC5C4215DC9F60026B419 /* PostinReachability.m in Sources */,
+				FA2AC5BD215DC9F60026B419 /* PostinWebApi.m in Sources */,
+				FA2AC5AD215DC9F60026B419 /* PostinCheckUpdate.m in Sources */,
+				FA2AC599215DC9F60026B419 /* PostinBaseView.m in Sources */,
+				FA2AC595215DC9F60026B419 /* PostinDefaultLogin.m in Sources */,
+				FA2AC57A215DC9F60026B419 /* PostinChangePasswordViewController.m in Sources */,
+				FA2AC594215DC9F60026B419 /* PostinSdkImp.m in Sources */,
+				FA2AC5AC215DC9F60026B419 /* PostinYMLoginView.m in Sources */,
+				FA2AC582215DC9F60026B419 /* UIImage+PostinSdk.m in Sources */,
+				FA2AC566215DC9F60026B419 /* NSData+AES.m in Sources */,
+				FA2AC59E215DC9F60026B419 /* PostinQuickLogin.m in Sources */,
+				FA2AC5B3215DC9F60026B419 /* PostinAgreeView.m in Sources */,
+				FA2AC588215DC9F60026B419 /* PostinSdkMd5.m in Sources */,
+				FA2AC5C1215DC9F60026B419 /* PostinProgressHUD.m in Sources */,
+				FA2AC579215DC9F60026B419 /* PostinPopwidowViewController.m in Sources */,
+				FA2AC5C7215DC9F60026B419 /* PostinDataBase.m in Sources */,
+				FA2AC5A2215DC9F60026B419 /* PostinBind.m in Sources */,
+				FA2AC5E1215DCA5C0026B419 /* APostin.m in Sources */,
+				FA2AC597215DC9F60026B419 /* PostinYMPhoneRegisterView.m in Sources */,
+				FA2AC56F215DC9F60026B419 /* PostinSettingViewController.m in Sources */,
+				FA2AC5A4215DC9F60026B419 /* PostinYMPhoneRegister.m in Sources */,
+				FA2AC564215DC9F60026B419 /* PostinGTMBase64.m in Sources */,
+				FA2AC577215DC9F60026B419 /* PostinBindPhoneViewController.m in Sources */,
+				FA2AC570215DC9F60026B419 /* PostinBindIdentifyViewController.m in Sources */,
+				FA2AC5E5215DCA5C0026B419 /* BPostin.m in Sources */,
+				FA2AC598215DC9F60026B419 /* PostinShiMingRenZhengView.m in Sources */,
+				FA2AC5C9215DC9F60026B419 /* PostinSdk.m in Sources */,
+				FA2AC5B6215DC9F60026B419 /* SJ_ValidateIdentity.m in Sources */,
+				FA2AC591215DC9F60026B419 /* UIColor+PostinSdk.m in Sources */,
+				FA2AC5A3215DC9F60026B419 /* PostinUserCenterView.m in Sources */,
+				FA2AC57E215DC9F60026B419 /* PostinAccountViewController.m in Sources */,
+				FA2AC57D215DC9F60026B419 /* PostinFloatViewController.m in Sources */,
+				FA2AC5CC215DC9F60026B419 /* PostinFramework.m in Sources */,
+				FA2AC5B7215DC9F60026B419 /* PostinForgetView.m in Sources */,
+				FA2AC58B215DC9F60026B419 /* UIControl+ZHW.m in Sources */,
+				FA2AC56C215DC9F60026B419 /* PostinWindowTouch.m in Sources */,
+				FA2AC5AF215DC9F60026B419 /* PostinYMPhoneLogin.m in Sources */,
+				FA2AC5E4215DCA5C0026B419 /* CPostin.m in Sources */,
+				FA2AC5AE215DC9F60026B419 /* PostinYMBindPhoneView.m in Sources */,
+				FA2AC587215DC9F60026B419 /* PostinKxdKeyChainTool.m in Sources */,
+				FA2AC589215DC9F60026B419 /* PostinButton.m in Sources */,
+				FA2AC56A215DC9F60026B419 /* PostinNavViewController.m in Sources */,
+				FA2AC581215DC9F60026B419 /* PostinServiceViewController.m in Sources */,
+				FA2AC56D215DC9F60026B419 /* PostinFloatWindow.m in Sources */,
+				FA2AC5AA215DC9F60026B419 /* PostinPopWindow.m in Sources */,
+				FA2AC58C215DC9F60026B419 /* NSString+PostinSdk.m in Sources */,
+				FA2AC5BE215DC9F60026B419 /* PostinWebInterface.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		910F329018C6AF4800C0DD7A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				ONLY_ACTIVE_ARCH = YES;
+				OTHER_CFLAGS = "";
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		910F329118C6AF4800C0DD7A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				ONLY_ACTIVE_ARCH = YES;
+				OTHER_CFLAGS = "";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		910F329318C6AF4800C0DD7A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD)";
+				CLANG_ENABLE_OBJC_ARC = NO;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)";
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				ENABLE_BITCODE = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+					"$(PROJECT_DIR)",
+				);
+				FRAMEWORK_VERSION = A;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "PostinFramework/Postin-Prefix.pch";
+				GCC_VERSION = com.apple.compilers.llvm.kenshin.5_0;
+				HEADER_SEARCH_PATHS = "";
+				INFOPLIST_FILE = "PostinFramework/Postin-Info.plist";
+				INSTALL_PATH = ./libs;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/libs",
+					"$(PROJECT_DIR)/ry",
+					"$(PROJECT_DIR)/Postin_RY",
+				);
+				ONLY_ACTIVE_ARCH = NO;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=75";
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SYMROOT = build;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALID_ARCHS = "armv7 armv7s arm64 i386";
+				WRAPPER_EXTENSION = framework;
+			};
+			name = Debug;
+		};
+		910F329418C6AF4800C0DD7A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD)";
+				CLANG_ENABLE_OBJC_ARC = NO;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)";
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				ENABLE_BITCODE = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+					"$(PROJECT_DIR)",
+				);
+				FRAMEWORK_VERSION = A;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "PostinFramework/Postin-Prefix.pch";
+				GCC_VERSION = com.apple.compilers.llvm.kenshin.5_0;
+				HEADER_SEARCH_PATHS = "";
+				INFOPLIST_FILE = "PostinFramework/Postin-Info.plist";
+				INSTALL_PATH = ./libs;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/libs",
+					"$(PROJECT_DIR)/ry",
+					"$(PROJECT_DIR)/Postin_RY",
+				);
+				ONLY_ACTIVE_ARCH = NO;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=75";
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SYMROOT = build;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALID_ARCHS = "armv7 armv7s arm64 i386";
+				WRAPPER_EXTENSION = framework;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		910F326118C6AF4700C0DD7A /* Build configuration list for PBXProject "Postin" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				910F329018C6AF4800C0DD7A /* Debug */,
+				910F329118C6AF4800C0DD7A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		910F329218C6AF4800C0DD7A /* Build configuration list for PBXNativeTarget "Postin" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				910F329318C6AF4800C0DD7A /* Debug */,
+				910F329418C6AF4800C0DD7A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 910F325E18C6AF4700C0DD7A /* Project object */;
+}
