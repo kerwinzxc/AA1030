@@ -1,0 +1,6 @@
+framework module BTGOSDK {
+  umbrella header "BTGOSDK.h"
+
+  export *
+  module * { export * }
+}

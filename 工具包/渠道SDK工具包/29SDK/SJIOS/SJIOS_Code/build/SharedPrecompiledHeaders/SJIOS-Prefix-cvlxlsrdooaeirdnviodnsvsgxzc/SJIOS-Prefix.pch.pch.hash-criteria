@@ -1,0 +1,26 @@
+-x
+objective-c
+-arch
+armv7
+-std=gnu99
+-fobjc-weak
+-gmodules
+-fpascal-strings
+-O0
+-DDEBUG=1
+-DOBJC_OLD_DISPATCH_PROTOTYPES=1
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.4.sdk
+-miphoneos-version-min=8.0
+-g
+-iquote
+-iquote
+-I/Users/mac/Desktop/渠道SDK工具包/29SDK/SJIOS/SJIOS_Code/build/Debug-iphoneos/include
+-F/Users/mac/Desktop/渠道SDK工具包/29SDK/SJIOS/SJIOS_Code/build/Debug-iphoneos
+-F/Applications/Xcode.app/Contents/Developer/Library/Frameworks
+-F/Users/mac/Desktop/渠道SDK工具包/29SDK/SJIOS/SJIOS_Code
+-fno-objc-arc
+arm-apple-darwin17.6.0
+"4.2.1 Compatible Apple LLVM 9.1.0 (clang-902.0.39.2)"
+SDK_PRODUCT_BUILD_VERSION=15F79
+15F79

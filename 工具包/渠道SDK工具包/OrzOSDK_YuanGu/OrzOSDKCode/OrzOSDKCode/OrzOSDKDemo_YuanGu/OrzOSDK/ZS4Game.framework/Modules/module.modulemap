@@ -1,0 +1,6 @@
+framework module ZS4Game {
+  umbrella header "ZS4Game.h"
+
+  export *
+  module * { export * }
+}

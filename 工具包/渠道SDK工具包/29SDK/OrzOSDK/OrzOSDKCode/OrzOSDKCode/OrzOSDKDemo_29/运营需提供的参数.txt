@@ -1,0 +1,3 @@
+juhe_package_id : 
+channel_name : 29
+channel_29_gameid : 应用IDchannel_29_gamekey : 应用KEYchannel_29_igvaAPP : 秘钥key

@@ -1,0 +1,338 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		FAD1FF3D216C9578007BEF3A /* BSJIOS.m in Sources */ = {isa = PBXBuildFile; fileRef = FAD1FF2D216C9578007BEF3A /* BSJIOS.m */; };
+		FAD1FF3E216C9578007BEF3A /* OrzOSDKReachability.m in Sources */ = {isa = PBXBuildFile; fileRef = FAD1FF2E216C9578007BEF3A /* OrzOSDKReachability.m */; };
+		FAD1FF3F216C9578007BEF3A /* startOrzOSDKIapProcess.m in Sources */ = {isa = PBXBuildFile; fileRef = FAD1FF2F216C9578007BEF3A /* startOrzOSDKIapProcess.m */; };
+		FAD1FF40216C9578007BEF3A /* OrzOSDKUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = FAD1FF31216C9578007BEF3A /* OrzOSDKUtils.m */; };
+		FAD1FF41216C9578007BEF3A /* OrzOSDKNoticeView.m in Sources */ = {isa = PBXBuildFile; fileRef = FAD1FF32216C9578007BEF3A /* OrzOSDKNoticeView.m */; };
+		FAD1FF42216C9578007BEF3A /* OrzOSDK.m in Sources */ = {isa = PBXBuildFile; fileRef = FAD1FF37216C9578007BEF3A /* OrzOSDK.m */; };
+		FAD1FF43216C9578007BEF3A /* CSJIOS.m in Sources */ = {isa = PBXBuildFile; fileRef = FAD1FF38216C9578007BEF3A /* CSJIOS.m */; };
+		FAD1FF44216C9578007BEF3A /* OrzOSDKProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = FAD1FF39216C9578007BEF3A /* OrzOSDKProgressHUD.m */; };
+		FAD1FF45216C9578007BEF3A /* ASJIOS.m in Sources */ = {isa = PBXBuildFile; fileRef = FAD1FF3A216C9578007BEF3A /* ASJIOS.m */; };
+		FAD1FF46216C9578007BEF3A /* OrzOSDKBranch.mm in Sources */ = {isa = PBXBuildFile; fileRef = FAD1FF3C216C9578007BEF3A /* OrzOSDKBranch.mm */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		852CB0F51FE0E58A00F25062 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "include/$(PRODUCT_NAME)";
+			dstSubfolderSpec = 16;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		852CB0F71FE0E58A00F25062 /* libOrzOSDK.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libOrzOSDK.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		FAD1FF28216C9578007BEF3A /* OrzOSDKUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OrzOSDKUtils.h; sourceTree = "<group>"; };
+		FAD1FF29216C9578007BEF3A /* OrzOSDKNoticeView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OrzOSDKNoticeView.h; sourceTree = "<group>"; };
+		FAD1FF2A216C9578007BEF3A /* CSJIOS.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CSJIOS.h; sourceTree = "<group>"; };
+		FAD1FF2B216C9578007BEF3A /* OrzOSDKProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OrzOSDKProgressHUD.h; sourceTree = "<group>"; };
+		FAD1FF2C216C9578007BEF3A /* OrzOSDK.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OrzOSDK.h; sourceTree = "<group>"; };
+		FAD1FF2D216C9578007BEF3A /* BSJIOS.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BSJIOS.m; sourceTree = "<group>"; };
+		FAD1FF2E216C9578007BEF3A /* OrzOSDKReachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OrzOSDKReachability.m; sourceTree = "<group>"; };
+		FAD1FF2F216C9578007BEF3A /* startOrzOSDKIapProcess.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = startOrzOSDKIapProcess.m; sourceTree = "<group>"; };
+		FAD1FF30216C9578007BEF3A /* ASJIOS.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASJIOS.h; sourceTree = "<group>"; };
+		FAD1FF31216C9578007BEF3A /* OrzOSDKUtils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OrzOSDKUtils.m; sourceTree = "<group>"; };
+		FAD1FF32216C9578007BEF3A /* OrzOSDKNoticeView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OrzOSDKNoticeView.m; sourceTree = "<group>"; };
+		FAD1FF33216C9578007BEF3A /* OrzOSDKBranch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OrzOSDKBranch.h; sourceTree = "<group>"; };
+		FAD1FF34216C9578007BEF3A /* OrzOSDKBranchDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OrzOSDKBranchDelegate.h; sourceTree = "<group>"; };
+		FAD1FF35216C9578007BEF3A /* OrzOSDKReachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OrzOSDKReachability.h; sourceTree = "<group>"; };
+		FAD1FF36216C9578007BEF3A /* BSJIOS.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BSJIOS.h; sourceTree = "<group>"; };
+		FAD1FF37216C9578007BEF3A /* OrzOSDK.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OrzOSDK.m; sourceTree = "<group>"; };
+		FAD1FF38216C9578007BEF3A /* CSJIOS.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CSJIOS.m; sourceTree = "<group>"; };
+		FAD1FF39216C9578007BEF3A /* OrzOSDKProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OrzOSDKProgressHUD.m; sourceTree = "<group>"; };
+		FAD1FF3A216C9578007BEF3A /* ASJIOS.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ASJIOS.m; sourceTree = "<group>"; };
+		FAD1FF3B216C9578007BEF3A /* startOrzOSDKIapProcess.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = startOrzOSDKIapProcess.h; sourceTree = "<group>"; };
+		FAD1FF3C216C9578007BEF3A /* OrzOSDKBranch.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = OrzOSDKBranch.mm; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		852CB0F41FE0E58A00F25062 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		852CB0EE1FE0E58A00F25062 = {
+			isa = PBXGroup;
+			children = (
+				FAD1FF27216C9578007BEF3A /* OrzOSDK */,
+				852CB0F81FE0E58A00F25062 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		852CB0F81FE0E58A00F25062 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				852CB0F71FE0E58A00F25062 /* libOrzOSDK.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FAD1FF27216C9578007BEF3A /* OrzOSDK */ = {
+			isa = PBXGroup;
+			children = (
+				FAD1FF28216C9578007BEF3A /* OrzOSDKUtils.h */,
+				FAD1FF29216C9578007BEF3A /* OrzOSDKNoticeView.h */,
+				FAD1FF2A216C9578007BEF3A /* CSJIOS.h */,
+				FAD1FF2B216C9578007BEF3A /* OrzOSDKProgressHUD.h */,
+				FAD1FF2C216C9578007BEF3A /* OrzOSDK.h */,
+				FAD1FF2D216C9578007BEF3A /* BSJIOS.m */,
+				FAD1FF2E216C9578007BEF3A /* OrzOSDKReachability.m */,
+				FAD1FF2F216C9578007BEF3A /* startOrzOSDKIapProcess.m */,
+				FAD1FF30216C9578007BEF3A /* ASJIOS.h */,
+				FAD1FF31216C9578007BEF3A /* OrzOSDKUtils.m */,
+				FAD1FF32216C9578007BEF3A /* OrzOSDKNoticeView.m */,
+				FAD1FF33216C9578007BEF3A /* OrzOSDKBranch.h */,
+				FAD1FF34216C9578007BEF3A /* OrzOSDKBranchDelegate.h */,
+				FAD1FF35216C9578007BEF3A /* OrzOSDKReachability.h */,
+				FAD1FF36216C9578007BEF3A /* BSJIOS.h */,
+				FAD1FF37216C9578007BEF3A /* OrzOSDK.m */,
+				FAD1FF38216C9578007BEF3A /* CSJIOS.m */,
+				FAD1FF39216C9578007BEF3A /* OrzOSDKProgressHUD.m */,
+				FAD1FF3A216C9578007BEF3A /* ASJIOS.m */,
+				FAD1FF3B216C9578007BEF3A /* startOrzOSDKIapProcess.h */,
+				FAD1FF3C216C9578007BEF3A /* OrzOSDKBranch.mm */,
+			);
+			path = OrzOSDK;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		852CB0F61FE0E58A00F25062 /* AppleSdk */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 852CB1001FE0E58A00F25062 /* Build configuration list for PBXNativeTarget "AppleSdk" */;
+			buildPhases = (
+				852CB0F31FE0E58A00F25062 /* Sources */,
+				852CB0F41FE0E58A00F25062 /* Frameworks */,
+				852CB0F51FE0E58A00F25062 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = AppleSdk;
+			productName = AppleSdk;
+			productReference = 852CB0F71FE0E58A00F25062 /* libOrzOSDK.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		852CB0EF1FE0E58A00F25062 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0910;
+				ORGANIZATIONNAME = xd;
+				TargetAttributes = {
+					852CB0F61FE0E58A00F25062 = {
+						CreatedOnToolsVersion = 9.1;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 852CB0F21FE0E58A00F25062 /* Build configuration list for PBXProject "OrzOSDK" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 852CB0EE1FE0E58A00F25062;
+			productRefGroup = 852CB0F81FE0E58A00F25062 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				852CB0F61FE0E58A00F25062 /* AppleSdk */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		852CB0F31FE0E58A00F25062 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FAD1FF46216C9578007BEF3A /* OrzOSDKBranch.mm in Sources */,
+				FAD1FF43216C9578007BEF3A /* CSJIOS.m in Sources */,
+				FAD1FF44216C9578007BEF3A /* OrzOSDKProgressHUD.m in Sources */,
+				FAD1FF41216C9578007BEF3A /* OrzOSDKNoticeView.m in Sources */,
+				FAD1FF3F216C9578007BEF3A /* startOrzOSDKIapProcess.m in Sources */,
+				FAD1FF45216C9578007BEF3A /* ASJIOS.m in Sources */,
+				FAD1FF42216C9578007BEF3A /* OrzOSDK.m in Sources */,
+				FAD1FF3D216C9578007BEF3A /* BSJIOS.m in Sources */,
+				FAD1FF40216C9578007BEF3A /* OrzOSDKUtils.m in Sources */,
+				FAD1FF3E216C9578007BEF3A /* OrzOSDKReachability.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		852CB0FE1FE0E58A00F25062 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		852CB0FF1FE0E58A00F25062 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		852CB1011FE0E58A00F25062 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				ONLY_ACTIVE_ARCH = NO;
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = OrzOSDK;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		852CB1021FE0E58A00F25062 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = OrzOSDK;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		852CB0F21FE0E58A00F25062 /* Build configuration list for PBXProject "OrzOSDK" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				852CB0FE1FE0E58A00F25062 /* Debug */,
+				852CB0FF1FE0E58A00F25062 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		852CB1001FE0E58A00F25062 /* Build configuration list for PBXNativeTarget "AppleSdk" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				852CB1011FE0E58A00F25062 /* Debug */,
+				852CB1021FE0E58A00F25062 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 852CB0EF1FE0E58A00F25062 /* Project object */;
+}

@@ -1,0 +1,26 @@
+-x
+objective-c
+-arch
+arm64
+-std=gnu99
+-fobjc-weak
+-gmodules
+-fpascal-strings
+-O0
+-DDEBUG=1
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk
+-miphoneos-version-min=8.0
+-g
+-index-store-path
+/Users/kanxd/Library/Developer/Xcode/DerivedData/SJIOS-gmjqkvarolhbzgbhmijjzjdotyvf/Index/DataStore
+-iquote
+-iquote
+-I/Users/kanxd/Documents/IOS/39sdk/39SDK_2.1.5/SJIOS_Code/build/Debug-iphoneos/include
+-F/Users/kanxd/Documents/IOS/39sdk/39SDK_2.1.5/SJIOS_Code/build/Debug-iphoneos
+-F/Applications/Xcode.app/Contents/Developer/Library/Frameworks
+-F/Users/kanxd/Documents/IOS/39sdk/39SDK_2.1.5/SJIOS_Code
+aarch64-apple-darwin17.5.0
+"4.2.1 Compatible Apple LLVM 9.0.0 (clang-900.0.39.2)"
+SDK_PRODUCT_BUILD_VERSION=15C107
+15C107

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UnnHeToo_REYUN_APPKEY</key>
+	<string>0</string>
+	<key>UnnHeToo_AD_GID</key>
+	<string>0</string>
+	<key>UnnHeToo_AD_ADID</key>
+	<string>0</string>
+	<key>UnnHeToo_APPSECRET</key>
+	<string>47192f4d47954bd1480179764de5b97a</string>
+	<key>UnnHeToo_CHANNEL</key>
+	<string>default</string>
+	<key>UnnHeToo_APPKEY</key>
+	<string>nijian_ios01</string>
+	<key>UnnHeToo_APPID</key>
+	<string>nijian_ios01</string>
+</dict>
+</plist>

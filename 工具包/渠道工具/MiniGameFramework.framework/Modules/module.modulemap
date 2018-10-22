@@ -1,0 +1,6 @@
+framework module MiniGameFramework {
+  umbrella header "MiniGameFramework.h"
+
+  export *
+  module * { export * }
+}

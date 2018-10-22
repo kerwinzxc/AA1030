@@ -1,0 +1,2 @@
+apple_package_id : 
+channel_name : okwanchannel_okwan_gid : channel_okwan_apikey :channel_okwan_secretkey :channel_okwan_gamename : 

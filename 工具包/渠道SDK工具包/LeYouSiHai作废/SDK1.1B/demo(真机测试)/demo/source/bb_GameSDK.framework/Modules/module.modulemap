@@ -1,0 +1,6 @@
+framework module bb_GameSDK {
+  umbrella header "bb_GameSDK.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+Info.plist中XRetoolLegendParams
+
+        channel_name :okwan
+
+=================================
+
+	channel_okwan_gid: 218        //okwan提供
+	channel_okwan_apikey: 309dc60f4e12c7d99fc4424a529d08db    //okwan提供
+	channel_okwan_gamename:我是大英雄   //okwan提供
+        channel_okwan_secretkey: 25c4f7ff46101bae864d1159d820835c  //okwan提供
+
+        =================================
+
+	XRetoolLegend_GamePackageId : 1202  //39提供
+	
+
+========================================
+
+服务端对接参数
+
+
+

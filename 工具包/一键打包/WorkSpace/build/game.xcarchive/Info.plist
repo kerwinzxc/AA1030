@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ApplicationProperties</key>
+	<dict>
+		<key>ApplicationPath</key>
+		<string>Applications/WorkSpace.app</string>
+		<key>CFBundleIdentifier</key>
+		<string>com.WorkSpace</string>
+		<key>CFBundleShortVersionString</key>
+		<string>1.0</string>
+		<key>CFBundleVersion</key>
+		<string>1</string>
+		<key>SigningIdentity</key>
+		<string>iPhone Distribution: Guo Xiurong (P873Z5H7VQ)</string>
+	</dict>
+	<key>ArchiveVersion</key>
+	<integer>2</integer>
+	<key>CreationDate</key>
+	<date>2018-06-26T02:03:29Z</date>
+	<key>Name</key>
+	<string>WorkSpace</string>
+	<key>SchemeName</key>
+	<string>WorkSpace</string>
+</dict>
+</plist>

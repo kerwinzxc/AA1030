@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "819baf26-43ea-7d48-b6fc-e13bdd88ac35++8347",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "819baf26-43ea-7d48-b6fc-e13bdd88ac35++8347" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "819baf26-43ea-7d48-b6fc-e13bdd88ac35++8347" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "51A222DB-FB98-414F-AE0B-81B8E899934E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "819baf26-43ea-7d48-b6fc-e13bdd88ac35++8347" : "GP\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "jh_demo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "jh_demo\/jh_demo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/tdsvn.master.gao7.com:8080\/tandy\/yd_ios",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "819baf26-43ea-7d48-b6fc-e13bdd88ac35++8347"
+    }
+  ]
+}

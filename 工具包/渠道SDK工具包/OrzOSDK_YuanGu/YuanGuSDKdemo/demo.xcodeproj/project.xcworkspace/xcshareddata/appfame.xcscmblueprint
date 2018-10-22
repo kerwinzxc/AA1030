@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "819baf26-43ea-7d48-b6fc-e13bdd88ac35++8347",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "819baf26-43ea-7d48-b6fc-e13bdd88ac35++8347" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "819baf26-43ea-7d48-b6fc-e13bdd88ac35++8347" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2A69B74F-C096-4960-8DC4-166B03560A63",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "819baf26-43ea-7d48-b6fc-e13bdd88ac35++8347" : "GP\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "appfame",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "jh_demo\/appfame.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/tdsvn.master.gao7.com:8080\/tandy\/yd_ios",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "819baf26-43ea-7d48-b6fc-e13bdd88ac35++8347"
+    }
+  ]
+}

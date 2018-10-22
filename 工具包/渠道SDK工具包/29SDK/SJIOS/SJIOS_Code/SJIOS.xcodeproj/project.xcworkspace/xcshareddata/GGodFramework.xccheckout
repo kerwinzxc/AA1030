@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2FF011B4-D4D7-4E1C-8F58-39044F94DAEC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GGodFramework</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F410E3FE-E872-4B4B-9C29-01EA2DC6A66F</key>
+		<string>https://svn_nei.yeahgame.com.cn/svn/sdk</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>IOSV0.4/GGodFramework/GGodFramework.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F410E3FE-E872-4B4B-9C29-01EA2DC6A66F</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>F410E3FE-E872-4B4B-9C29-01EA2DC6A66F</key>
+		<string>https://svn_nei.yeahgame.com.cn/svn/sdk</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://svn_nei.yeahgame.com.cn/svn/sdk/IOS/GGodFramework/GGodFramework.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F410E3FE-E872-4B4B-9C29-01EA2DC6A66F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F410E3FE-E872-4B4B-9C29-01EA2DC6A66F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>sdk</string>
+		</dict>
+	</array>
+</dict>
+</plist>
